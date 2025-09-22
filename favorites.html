@@ -1,0 +1,95 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Favourites</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <style>
+        body { font-family: Arial, sans-serif; background-color: #f4f4f4; color: #333; padding: 20px; margin: 0; }
+        h1 { color: #FF4500; text-align: center; border-bottom: 2px solid #FF4500; }
+        .tabs { display: flex; justify-content: center; margin: 20px auto; max-width: 800px; }
+        .tab-button { padding: 10px 20px; border: none; background-color: #ddd; cursor: pointer; margin: 0 5px; border-radius: 5px 5px 0 0; font-weight: bold; }
+        .tab-button.active { background-color: #fff; border-bottom: 3px solid #FF4500; }
+        ul { list-style-type: none; padding: 0; max-width: 800px; margin: 0 auto; }
+        li { background-color: #ffffff; margin: 10px 0; padding: 15px; border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); font-size: 1.1em; display: flex; flex-direction: column; }
+        .item-header { display: flex; justify-content: space-between; align-items: center; }
+        .item-header span { font-size: 0.8em; color: #6c757d; }
+        .fav-link { color: #1E90FF; text-decoration: none; font-weight: bold; }
+        .fav-link:hover { text-decoration: underline; }
+        .back-button { display: block; margin: 20px auto; padding: 10px 20px; text-align: center; color: white; background-color: #1E90FF; border: none; border-radius: 5px; cursor: pointer; width: 200px; text-decoration: none; }
+    </style>
+</head>
+<body>
+    <h1>❤️ My Favourites</h1>
+    <div class="tabs">
+        <button class="tab-button active" data-type="video">Video Favourites</button>
+        <button class="tab-button" data-type="pdf">PDF Favourites</button>
+    </div>
+    <ul id="favList">
+        <p id="empty-message" style="text-align: center;">Video favourites loading...</p>
+    </ul>
+    <a href="index.html" class="back-button">← Back to Courses</a>
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const favList = document.getElementById('favList');
+            const tabs = document.querySelectorAll('.tab-button');
+
+            function renderFavorites(type) {
+                favList.innerHTML = '';
+                const favorites = JSON.parse(localStorage.getItem('favorites')) || {};
+                const keys = Object.keys(favorites).sort(); 
+                
+                const filteredItems = keys
+                    .map(key => favorites[key])
+                    .filter(item => item && item.type === type); // Added null check
+
+                if (filteredItems.length === 0) {
+                    favList.innerHTML = `<p id="empty-message" style="text-align: center;">No ${type} favourites added yet.</p>`;
+                    return;
+                }
+
+                filteredItems.sort((a, b) => new Date(b.dateAdded) - new Date(a.dateAdded));
+
+                filteredItems.forEach(favItem => {
+                    const li = document.createElement('li');
+                    // Clean the path to get the course display name
+                    const courseDisplayName = favItem.path.split('.')[0].replace(/_/g, ' ').replace(/-/g, ' ').replace('(', '').replace(')', '').trim();
+                    const formattedDate = new Date(favItem.dateAdded).toLocaleDateString('en-IN');
+                    
+                    let linkHtml = '';
+                    if (favItem.type === 'video') {
+                        linkHtml = `<a class="fav-link" href="player.html?url=${encodeURIComponent(favItem.url)}&name=${encodeURIComponent(favItem.name)}&path=${encodeURIComponent(favItem.path)}&num=${favItem.num}"><i class="fas fa-video"></i> ${favItem.name}</a>`;
+                    } else { // pdf
+                        linkHtml = `<a class="fav-link" href="${favItem.url}" download="${courseDisplayName}_${favItem.name}.pdf"><i class="fas fa-file-pdf"></i> ${favItem.name}</a>`;
+                    }
+                    
+                    li.innerHTML = `
+                        <div class="item-header">
+                            ${linkHtml}
+                            <span title="Date Added">Added: ${formattedDate}</span>
+                        </div>
+                        <div style="font-size: 0.9em; color: #666; margin-top: 5px;">
+                            Batch: ${courseDisplayName}
+                        </div>
+                    `;
+                    favList.appendChild(li);
+                });
+            }
+
+            tabs.forEach(tab => {
+                tab.addEventListener('click', () => {
+                    tabs.forEach(t => t.classList.remove('active'));
+                    tab.classList.add('active');
+                    const type = tab.getAttribute('data-type');
+                    renderFavorites(type);
+                });
+            });
+
+            // Initial load for Video Tab
+            renderFavorites('video');
+        });
+    </script>
+</body>
+</html>
