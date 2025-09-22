@@ -1,0 +1,133 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>User Profile & Stats</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <style>
+        body { font-family: Arial, sans-serif; background-color: #f4f4f4; color: #333; padding: 20px; margin: 0; }
+        .container { max-width: 600px; margin: 0 auto; background-color: #fff; padding: 30px; border-radius: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); }
+        h1 { color: #1E90FF; text-align: center; margin-bottom: 20px; }
+        .stat-box { background-color: #e9f5ff; padding: 15px; margin-bottom: 15px; border-radius: 8px; border-left: 5px solid #1E90FF; }
+        .stat-box h2 { margin: 0 0 5px 0; font-size: 1.5em; color: #007bff; }
+        .stat-box p { margin: 0; font-size: 1.1em; font-weight: bold; }
+        .back-button { display: block; margin-top: 30px; padding: 10px 20px; text-align: center; color: white; background-color: #6c757d; border: none; border-radius: 5px; text-decoration: none; }
+        /* Login/Profile Specific */
+        #loginForm, #profileView { text-align: center; }
+        #usernameInput { padding: 10px; margin: 10px 0; border: 1px solid #ccc; border-radius: 5px; width: 80%; max-width: 300px; }
+        #loginBtn { background-color: #28a745; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1><i class="fas fa-user-circle"></i> User Profile</h1>
+        
+        <div id="loginForm">
+            <h2>Welcome! Please Enter Your Name</h2>
+            <input type="text" id="usernameInput" placeholder="Enter your name" required>
+            <button id="loginBtn">Start Studying</button>
+            <p style="margin-top:15px; font-size:0.9em;">(This is for personalized stats tracking)</p>
+        </div>
+        
+        <div id="profileView" style="display: none;">
+            <h2 id="welcomeName">Welcome, User!</h2>
+            <div class="stat-box">
+                <h2>Total Days Tracked</h2>
+                <p id="totalDays">0</p>
+            </div>
+            <div class="stat-box">
+                <h2>Cumulative Study Time</h2>
+                <p id="totalTime">0 hrs</p>
+            </div>
+            <div class="stat-box">
+                <h2>Average Daily Study</h2>
+                <p id="avgTime">0 min</p>
+            </div>
+            <a href="index.html" class="back-button">← Back to Courses</a>
+        </div>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const usernameInput = document.getElementById('usernameInput');
+            const loginBtn = document.getElementById('loginBtn');
+            const loginForm = document.getElementById('loginForm');
+            const profileView = document.getElementById('profileView');
+            const welcomeName = document.getElementById('welcomeName');
+            
+            const totalDaysDisplay = document.getElementById('totalDays');
+            const totalTimeDisplay = document.getElementById('totalTime');
+            const avgTimeDisplay = document.getElementById('avgTime');
+
+            const userName = localStorage.getItem('userName');
+            
+            if (userName) {
+                showProfile();
+            } else {
+                loginForm.style.display = 'block';
+                profileView.style.display = 'none';
+            }
+
+            loginBtn.onclick = function() {
+                const name = usernameInput.value.trim();
+                if (name) {
+                    localStorage.setItem('userName', name);
+                    const todayDate = new Date().toISOString().slice(0, 10);
+                    if (!localStorage.getItem('firstVisit')) {
+                        localStorage.setItem('firstVisit', todayDate);
+                    }
+                    window.location.href = 'index.html'; // Redirect to index after login
+                } else {
+                    alert('Please enter your name to continue.');
+                }
+            };
+
+            function formatTime(totalSeconds) {
+                const totalHours = Math.floor(totalSeconds / 3600);
+                if (totalHours >= 24) {
+                    const days = Math.floor(totalHours / 24);
+                    const remainingHours = Math.floor((totalSeconds % 86400) / 3600);
+                    const minutes = Math.floor((totalSeconds % 3600) / 60);
+                    // Show in D H M format if more than 24 hours
+                    return `${days}D ${remainingHours}h ${minutes}m`;
+                } else {
+                    const minutes = Math.floor((totalSeconds % 3600) / 60);
+                    return `${totalHours}h ${minutes}m`;
+                }
+            }
+            
+            function showProfile() {
+                loginForm.style.display = 'none';
+                profileView.style.display = 'block';
+                welcomeName.textContent = 'Welcome, ' + localStorage.getItem('userName') + '!';
+
+                const todayData = JSON.parse(localStorage.getItem('todayData')) || {};
+                const firstVisitDate = localStorage.getItem('firstVisit');
+                const totalStudyTime = Object.values(todayData).reduce((sum, time) => sum + time, 0);
+
+                if (firstVisitDate) {
+                    const start = new Date(firstVisitDate);
+                    const now = new Date();
+                    const diffTime = Math.abs(now - start);
+                    const diffDays = Math.ceil(diffTime / (1000 * 60 * 60 * 24)) || 1; 
+                    
+                    totalDaysDisplay.textContent = diffDays;
+                    totalTimeDisplay.textContent = formatTime(totalStudyTime);
+                    
+                    const avgSeconds = totalStudyTime / diffDays;
+                    const avgHours = Math.floor(avgSeconds / 3600);
+                    const avgMinutes = Math.floor((avgSeconds % 3600) / 60);
+                    avgTimeDisplay.textContent = `${avgHours}h ${avgMinutes}m`;
+
+                } else {
+                    totalDaysDisplay.textContent = '0';
+                    totalTimeDisplay.textContent = '0 hrs';
+                    avgTimeDisplay.textContent = '0 min';
+                }
+            }
+        });
+    </script>
+</body>
+</html>
