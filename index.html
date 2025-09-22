@@ -1,0 +1,390 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Study Dashboard</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <style>
+        /* --- Base Styles --- */
+        :root {
+            --bg-color: #f4f4f4;
+            --card-bg: #ffffff;
+            --text-color: #333;
+            --primary-color: #1E90FF;
+            --secondary-color: #FFA500;
+            --shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+        }
+
+        /* --- Dark Mode Styles --- */
+        body.dark-mode {
+            --bg-color: #121212;
+            --card-bg: #1f1f1f;
+            --text-color: #e0e0e0;
+            --shadow: 0 4px 15px rgba(255, 255, 255, 0.08);
+        }
+
+        /* --- Global Reset and Layout --- */
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            padding: 0;
+            margin: 0;
+            transition: background-color 0.3s, color 0.3s;
+            position: relative;
+        }
+
+        .header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 20px;
+            max-width: 1000px;
+            margin: 0 auto;
+        }
+
+        /* --- Logo and Title --- */
+        .logo-title {
+            font-size: 1.8em;
+            font-weight: 800;
+            color: var(--primary-color);
+        }
+
+        /* --- Top Controls (Settings, Theme) --- */
+        .controls-top {
+            display: flex;
+            gap: 15px;
+            align-items: center;
+        }
+        .controls-top i, .controls-top button {
+            font-size: 1.5em;
+            color: var(--text-color);
+            cursor: pointer;
+            background: none;
+            border: none;
+            padding: 5px;
+            transition: color 0.2s;
+        }
+        .controls-top i:hover, .controls-top button:hover {
+            color: var(--secondary-color);
+        }
+
+        /* --- Status Bar (Simplified) --- */
+        .user-status {
+            text-align: center;
+            padding: 15px 0;
+            background-color: var(--card-bg);
+            box-shadow: var(--shadow);
+            margin-bottom: 20px;
+        }
+        #welcomeMessage {
+            font-size: 1.8em;
+            font-weight: 600;
+            margin: 0;
+            color: var(--secondary-color);
+        }
+        
+        /* Removed blinking class as there is no user name */
+
+        .today-stat {
+            font-size: 1.1em;
+            margin-top: 5px;
+            color: var(--text-color);
+        }
+        .today-stat strong {
+            color: var(--primary-color);
+            font-size: 1.2em;
+        }
+
+        /* --- Course List --- */
+        .course-list {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 20px;
+            max-width: 1000px;
+            margin: 20px auto;
+            padding: 0 20px;
+        }
+
+        .course-card {
+            background-color: var(--card-bg);
+            border-radius: 12px;
+            box-shadow: var(--shadow);
+            padding: 25px;
+            text-align: center;
+            transition: transform 0.3s, box-shadow 0.3s;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            min-height: 120px;
+        }
+        .course-card:hover {
+            transform: translateY(-8px);
+            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+        }
+        body.dark-mode .course-card:hover {
+             box-shadow: 0 8px 20px rgba(255, 255, 255, 0.15);
+        }
+
+        .course-card a {
+            text-decoration: none;
+            color: var(--primary-color);
+            font-size: 1.2em;
+            font-weight: bold;
+            display: block;
+        }
+        
+        .course-card a:hover {
+            text-decoration: underline;
+        }
+        
+        .resume-button {
+            margin-top: 15px;
+            padding: 8px 15px;
+            background-color: var(--secondary-color);
+            color: white !important;
+            border-radius: 6px;
+            text-transform: uppercase;
+            font-size: 0.9em;
+            font-weight: 700;
+            transition: background-color 0.2s;
+            width: fit-content;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        .resume-button:hover {
+            background-color: #cc8400;
+            text-decoration: none !important;
+        }
+
+        /* --- Modal (Settings) Styles --- */
+        .modal { 
+            display: none; position: fixed; z-index: 1000; left: 0; top: 0; width: 100%; height: 100%; 
+            background-color: rgba(0,0,0,0.6); justify-content: center; align-items: center; 
+        }
+        .modal-content { 
+            background-color: var(--card-bg); padding: 25px; border-radius: 8px; width: 90%; 
+            max-width: 400px; box-shadow: var(--shadow); text-align: center; position: relative;
+        }
+        .modal-buttons button { 
+            padding: 10px 20px; margin: 10px; border: none; border-radius: 5px; cursor: pointer; 
+            font-size: 1em; color: white; font-weight: bold; transition: opacity 0.2s;
+        }
+        #copyDataBtn { background-color: #28a745; }
+        #pasteDataBtn { background-color: var(--primary-color); }
+        .close-btn { 
+            position: absolute; top: 10px; right: 10px; font-size: 2em; color: #aaa; cursor: pointer; 
+            background: none; border: none;
+        }
+        #dataInput { 
+            width: 90%; height: 80px; margin: 10px 0; padding: 10px; border-radius: 5px; 
+            border: 1px solid #ccc; resize: none; background-color: var(--bg-color); color: var(--text-color);
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="logo-title">MyStudy Dashboard</div>
+        <div class="controls-top">
+            <button id="themeToggle" title="Toggle Dark Mode">
+                <i class="fas fa-sun" id="themeIcon"></i>
+            </button>
+            <i class="fas fa-cog settings-icon" id="settingsBtn" title="Settings / Transfer Data"></i>
+        </div>
+    </div>
+
+    <div class="user-status">
+        <p id="welcomeMessage">Welcome to your Batches! 👋</p>
+        <p class="today-stat">Today's Study Time: <strong id="todayTime">0 min</strong></p>
+    </div>
+
+    <div class="course-list">
+        <div class="course-card">
+            <a href="favorites.html"><i class="fas fa-heart"></i> My Favourites</a>
+        </div>
+        
+        <div class="course-card">
+            <a href="Reas Spl-20 _Live_VOD_.html">Reasoning Special-20 (Live VOD)</a>
+        </div>
+        <div class="course-card">
+            <a href="Maths Spl_ _Recorded Batch_RAKESH_YADAV.html">Maths Special (Recorded Batch Rakesh Yadav)</a>
+        </div>
+        <div class="course-card">
+            <a href="GS Spl-17 _Live_VOD_.html">GS Special-17 (Live VOD)</a>
+        </div>
+        <div class="course-card">
+            <a href="English Spl-10 (JAIDEEP).html">English Special-10 (Jaideep)</a>
+        </div>
+        <div class="course-card">
+            <a href="GS Spl-16 _ABHISHEK.html">GS Special-16 (Abhishek)</a>
+        </div>
+        <div class="course-card">
+            <a href="CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html">CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA</a>
+        </div>
+        </div>
+
+    <div id="settingsModal" class="modal">
+        <div class="modal-content">
+            <button class="close-btn" id="closeSettings">&times;</button>
+            <h2>Data Transfer</h2>
+            <p>Copy or Paste your progress data to move between devices.</p>
+            <textarea id="dataInput" placeholder="Paste your data here..."></textarea>
+            <div class="modal-buttons">
+                <button id="copyDataBtn"><i class="fas fa-copy"></i> Copy Data</button>
+                <button id="pasteDataBtn"><i class="fas fa-paste"></i> Paste Data</button>
+            </div>
+            <p id="modalMessage" style="margin-top: 10px;"></p>
+        </div>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const todayTimeDisplay = document.getElementById('todayTime');
+            const settingsModal = document.getElementById('settingsModal');
+            
+            // --- 0. Theme Toggle Logic ---
+            const themeToggle = document.getElementById('themeToggle');
+            const themeIcon = document.getElementById('themeIcon');
+            
+            function setDarkMode(isDark) {
+                if (isDark) {
+                    document.body.classList.add('dark-mode');
+                    themeIcon.className = 'fas fa-moon';
+                    localStorage.setItem('darkMode', 'enabled');
+                } else {
+                    document.body.classList.remove('dark-mode');
+                    themeIcon.className = 'fas fa-sun';
+                    localStorage.setItem('darkMode', 'disabled');
+                }
+            }
+
+            // Initial load of theme
+            if (localStorage.getItem('darkMode') === 'enabled') {
+                setDarkMode(true);
+            } else {
+                setDarkMode(false);
+            }
+
+            themeToggle.onclick = () => {
+                const isDark = !document.body.classList.contains('dark-mode');
+                setDarkMode(isDark);
+            };
+
+            // --- 1. Today Time Tracking & Update ---
+            let sessionStartTime = new Date();
+            
+            function updateTodayTime() {
+                const todayData = JSON.parse(localStorage.getItem('todayData')) || {};
+                const todayDate = new Date().toISOString().slice(0, 10);
+                let todayTime = todayData[todayDate] || 0;
+                
+                const currentTime = new Date();
+                const timeSinceLastUpdate = (currentTime - sessionStartTime) / 1000;
+                
+                // Add a small increment (max 5 minutes)
+                if (timeSinceLastUpdate < 300) { 
+                    todayTime += timeSinceLastUpdate;
+                }
+                sessionStartTime = currentTime;
+
+                todayData[todayDate] = todayTime;
+                localStorage.setItem('todayData', JSON.stringify(todayData));
+
+                const hours = Math.floor(todayTime / 3600);
+                const minutes = Math.floor((todayTime % 3600) / 60);
+                
+                let timeText = minutes < 1 ? '0 min' : `${minutes}m`;
+                if (hours > 0) {
+                    timeText = `${hours}h ${minutes}m`;
+                }
+
+                todayTimeDisplay.textContent = timeText;
+            }
+
+            setInterval(updateTodayTime, 30000); 
+            updateTodayTime();
+
+            // --- 2. Resume Button Logic ---
+            const lastVisitedUrls = JSON.parse(localStorage.getItem('lastVisitedUrls')) || {};
+            document.querySelectorAll('.course-card').forEach(card => {
+                const link = card.querySelector('a:not(.resume-button)');
+                const coursePath = link.getAttribute('href');
+                
+                if (link && coursePath !== 'favorites.html') {
+                    const courseId = coursePath.replace('.html', '');
+                    const lastUrl = lastVisitedUrls[courseId];
+                    if (lastUrl) {
+                        const resumeBtn = document.createElement('a');
+                        resumeBtn.href = lastUrl;
+                        resumeBtn.textContent = '▶️ Resume';
+                        resumeBtn.className = 'resume-button';
+                        card.appendChild(resumeBtn);
+                    }
+                }
+            });
+
+            // --- 3. Settings Modal Logic (Copy/Paste) ---
+            const settingsBtn = document.getElementById('settingsBtn');
+            const closeSettingsBtn = document.getElementById('closeSettings');
+            const copyDataBtn = document.getElementById('copyDataBtn');
+            const pasteDataBtn = document.getElementById('pasteDataBtn');
+            const dataInput = document.getElementById('dataInput');
+            const modalMessage = document.getElementById('modalMessage');
+
+            settingsBtn.onclick = function() {
+                settingsModal.style.display = 'flex';
+                dataInput.style.display = 'none';
+                modalMessage.textContent = '';
+            }
+            closeSettingsBtn.onclick = function() { settingsModal.style.display = 'none'; }
+            window.onclick = function(event) { if (event.target == settingsModal) { settingsModal.style.display = 'none'; } }
+
+            copyDataBtn.onclick = function() {
+                const data = {};
+                // Note: 'userName', 'firstVisit' are excluded since we removed profile logic
+                const keysToCopy = ['videoProgress', 'favorites', 'completedVideos', 'todayData', 'lastVisitedUrls', 'playbackSpeed', 'darkMode'];
+                keysToCopy.forEach(key => {
+                    const value = localStorage.getItem(key);
+                    if (value) { data[key] = value; }
+                });
+                
+                const dataString = btoa(JSON.stringify(data));
+                dataInput.value = dataString;
+                dataInput.style.display = 'block';
+                dataInput.select();
+                document.execCommand('copy');
+                modalMessage.textContent = 'Data copied to clipboard! ✅';
+            }
+
+            pasteDataBtn.onclick = function() {
+                dataInput.style.display = 'block';
+                modalMessage.textContent = 'Paste your data below and click Paste Data again.';
+                dataInput.focus();
+
+                pasteDataBtn.onclick = function() {
+                    try {
+                        const dataString = dataInput.value.trim();
+                        if (dataString) {
+                            const data = JSON.parse(atob(dataString));
+                            const keysToClear = ['videoProgress', 'favorites', 'completedVideos', 'todayData', 'lastVisitedUrls', 'playbackSpeed', 'darkMode'];
+                            keysToClear.forEach(key => localStorage.removeItem(key));
+
+                            for (const key in data) {
+                                if (data.hasOwnProperty(key)) {
+                                    localStorage.setItem(key, data[key]);
+                                }
+                            }
+                            modalMessage.textContent = 'Data pasted successfully! ✅ Refresh the page.';
+                            setTimeout(() => { window.location.reload(); }, 1500);
+                        } else { modalMessage.textContent = 'Please paste the data first.'; }
+                    } catch (e) {
+                        modalMessage.textContent = 'Invalid data format. Please try again.';
+                    }
+                    pasteDataBtn.onclick = arguments.callee; 
+                }
+            }
+        });
+    </script>
+</body>
+</html>
