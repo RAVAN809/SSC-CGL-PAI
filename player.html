@@ -12,13 +12,11 @@
         .container { max-width: 900px; margin: 20px auto; padding: 20px; background-color: #fff; border-radius: 10px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1); }
         h1 { font-size: 1.5em; color: #1E90FF; border-bottom: 2px solid #1E90FF; padding-bottom: 10px; margin-bottom: 15px; }
         .video-js { width: 100%; height: auto; }
-        .controls { display: flex; justify-content: space-between; align-items: center; margin-top: 15px; }
-        .controls label, .controls button { padding: 8px 15px; border-radius: 5px; cursor: pointer; font-weight: bold; font-size: 0.9em; transition: background-color 0.2s; }
-        .controls button { background-color: #dc3545; color: white; border: none; }
-        .controls button:hover { background-color: #c82333; }
-        .back-button { background-color: #6c757d; color: white; text-decoration: none; padding: 8px 15px; border-radius: 5px; }
-        .favorite-btn { background-color: #ffc107; color: #333; border: none; margin-left: 10px; }
-        .favorite-btn:hover { background-color: #e0a800; }
+        .controls { display: flex; justify-content: space-between; align-items: center; margin-top: 15px; flex-wrap: wrap; }
+        .controls button, .controls a { padding: 8px 15px; border-radius: 5px; cursor: pointer; font-weight: bold; font-size: 0.9em; transition: background-color 0.2s; margin: 5px; text-decoration: none; }
+        .back-button { background-color: #6c757d; color: white; border: none; }
+        #markCompleteBtn { background-color: #28a745; color: white; border: none; }
+        .favorite-btn { background-color: #ffc107; color: #333; border: none; }
         .speed-control { display: flex; align-items: center; }
         #speedSelect { padding: 7px; border-radius: 5px; border: 1px solid #ccc; margin-left: 5px; }
         .status { margin-top: 15px; font-weight: bold; color: #28a745; text-align: center;}
@@ -37,7 +35,7 @@
         
         <div class="controls">
             <a href="#" id="backBtn" class="back-button"><i class="fas fa-arrow-left"></i> Back to Course</a>
-            <div style="display: flex; align-items: center;">
+            <div style="display: flex; align-items: center; flex-wrap: wrap;">
                 <div class="speed-control">
                     <label for="speedSelect">Speed:</label>
                     <select id="speedSelect">
@@ -63,14 +61,14 @@
             const videoName = params.get('name');
             const coursePath = params.get('path');
             const videoNum = params.get('num');
-            const uniqueId = coursePath + '_V_' + videoNum; // Consistent unique ID for video
+            // CRITICAL: Unique ID
+            const uniqueId = coursePath + '_V_' + videoNum; 
 
             if (!videoUrl || !videoName || !coursePath) {
                 document.getElementById('displayName').textContent = 'Error: Video details missing.';
                 return;
             }
 
-            // Update UI elements
             document.getElementById('videoTitle').textContent = videoName;
             document.getElementById('displayName').textContent = videoName;
             document.getElementById('backBtn').href = coursePath;
@@ -78,6 +76,11 @@
             // --- 1. HLS Player Setup ---
             const videoElement = document.getElementById('my-video');
             videoElement.src = videoUrl;
+            // Check if videojs is available before initializing
+            if (typeof videojs === 'undefined') {
+                document.getElementById('videoStatus').textContent = 'ERROR: Video player library (Video.js) failed to load. Check internet connection or download files locally.';
+                return;
+            }
             const player = videojs('my-video');
             
             // --- 2. Playback Speed Control ---
@@ -107,16 +110,14 @@
                     document.getElementById('videoStatus').textContent = 'Ready to Play!';
                 }
 
-                // Start saving progress every 5 seconds
                 progressInterval = setInterval(() => {
                     if (!player.paused() && !player.ended()) {
                         videoProgress[uniqueId] = player.currentTime();
                         localStorage.setItem('videoProgress', JSON.stringify(videoProgress));
                     }
-                }, 5000);
+                }, 5000); // Save every 5 seconds
             });
 
-            // Clear interval on destroy/page unload
             window.addEventListener('beforeunload', () => {
                 clearInterval(progressInterval);
                 if (player) {
@@ -124,7 +125,7 @@
                 }
             });
             
-            // --- 4. Mark Complete & History ---
+            // --- 4. Mark Complete & Resume Button Update ---
             const completedVideos = JSON.parse(localStorage.getItem('completedVideos')) || {};
             const markCompleteBtn = document.getElementById('markCompleteBtn');
 
@@ -132,7 +133,6 @@
                 if (completedVideos[uniqueId]) {
                     markCompleteBtn.innerHTML = '<i class="fas fa-undo"></i> Mark as Incomplete';
                     markCompleteBtn.style.backgroundColor = '#17a2b8';
-                    document.getElementById('videoStatus').textContent = '✅ Video is marked COMPLETED.';
                 } else {
                     markCompleteBtn.innerHTML = '<i class="fas fa-check"></i> Mark as Complete';
                     markCompleteBtn.style.backgroundColor = '#28a745';
@@ -155,9 +155,9 @@
                 completedVideos[uniqueId] = true;
                 localStorage.setItem('completedVideos', JSON.stringify(completedVideos));
                 updateCompletionStatus();
+                document.getElementById('videoStatus').textContent = 'Video has ended. ✅ Completed.';
             });
 
-            // Initial status update
             updateCompletionStatus();
 
             // --- 5. Favorite Button Logic ---
@@ -180,6 +180,7 @@
                 if (favorites[uniqueId]) {
                     delete favorites[uniqueId];
                 } else {
+                    // Save video details in a structured format
                     favorites[uniqueId] = { 
                         url: videoUrl, 
                         name: videoName, 
@@ -195,15 +196,15 @@
 
             updateFavoriteButton();
 
-            // --- 6. Study Time Tracking ---
+            // --- 6. Study Time Tracking (Crucial for Profile Stats) ---
             let lastActivityTime = new Date();
-            let timeTrackingInterval = setInterval(trackStudyTime, 60000); // Check every minute
+            let timeTrackingInterval = setInterval(trackStudyTime, 60000); // Check every 60 seconds
 
             function trackStudyTime() {
                 const now = new Date();
                 const diffSeconds = (now - lastActivityTime) / 1000;
                 
-                // Only track if video is playing/not paused and screen is focused (browser tab active)
+                // Track study time if video is actively playing
                 if (player && !player.paused() && document.visibilityState === 'visible' && diffSeconds < 70) {
                     const todayData = JSON.parse(localStorage.getItem('todayData')) || {};
                     const todayDate = now.toISOString().slice(0, 10);
@@ -215,14 +216,15 @@
                 lastActivityTime = now;
             }
             
-            // Resume tracking if user focuses back on the window
             window.addEventListener('focus', () => {
                 lastActivityTime = new Date();
-                timeTrackingInterval = setInterval(trackStudyTime, 60000);
+                if (!timeTrackingInterval) {
+                    timeTrackingInterval = setInterval(trackStudyTime, 60000);
+                }
             });
-            // Pause tracking if user switches tab/app
             window.addEventListener('blur', () => {
                 clearInterval(timeTrackingInterval);
+                timeTrackingInterval = null;
             });
         });
     </script>
