@@ -1,0 +1,1260 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .txt</title>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&amp;display=swap" rel="stylesheet"/>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet"/>
+<style>
+                  :root {
+                      --saffron: #FFA500;
+                      --dodger-blue: #1E90FF;
+                      --dark-blue: #007BFF;
+                      --orange-red: #FF4500;
+                      --lime-green: #32CD32;
+                      --white: #ffffff;
+                      --light-gray: #f8f9fa;
+                      --medium-gray: #e9ecef;
+                      --dark-gray: #343a40;
+                      --shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+                      --gradient-blue: linear-gradient(135deg, #1E90FF 0%, #00BFFF 100%);
+                      --gradient-orange: linear-gradient(135deg, #FFA500 0%, #FF6347 100%);
+                      --gradient-green: linear-gradient(135deg, #32CD32 0%, #00FA9A 100%);
+                  }
+                  
+                  body {
+                      font-family: 'Poppins', sans-serif;
+                      background-color: var(--light-gray);
+                      color: var(--dark-gray);
+                      padding: 0;
+                      margin: 0;
+                      min-height: 100vh;
+                      overflow-x: hidden;
+                  }
+                  
+                  .container {
+                      max-width: 900px;
+                      margin: 0 auto;
+                      padding: 30px 20px;
+                      position: relative;
+                  }
+                  
+                  /* Animated background elements */
+                  .bg-circle {
+                      position: fixed;
+                      border-radius: 50%;
+                      filter: blur(60px);
+                      opacity: 0.15;
+                      z-index: -1;
+                      animation: float 15s infinite ease-in-out;
+                  }
+                  
+                  .circle-1 {
+                      width: 300px;
+                      height: 300px;
+                      background: var(--dodger-blue);
+                      top: -100px;
+                      left: -100px;
+                      animation-delay: 0s;
+                  }
+                  
+                  .circle-2 {
+                      width: 400px;
+                      height: 400px;
+                      background: var(--saffron);
+                      bottom: -150px;
+                      right: -100px;
+                      animation-delay: 2s;
+                  }
+                  
+                  .circle-3 {
+                      width: 200px;
+                      height: 200px;
+                      background: var(--lime-green);
+                      top: 50%;
+                      left: 30%;
+                      animation-delay: 4s;
+                  }
+                  
+                  header {
+                      text-align: center;
+                      margin-bottom: 40px;
+                      animation: fadeIn 1s ease-in-out;
+                      position: relative;
+                  }
+                  
+                  h1 {
+                      color: var(--saffron);
+                      font-size: 2.5rem;
+                      margin-bottom: 10px;
+                      position: relative;
+                      display: inline-block;
+                      background: var(--gradient-orange);
+                      -webkit-background-clip: text;
+                      background-clip: text;
+                      color: transparent;
+                      text-shadow: 0 2px 10px rgba(255, 165, 0, 0.2);
+                  }
+                  
+                  h1::after {
+                      content: '';
+                      position: absolute;
+                      bottom: -10px;
+                      left: 50%;
+                      transform: translateX(-50%);
+                      width: 80px;
+                      height: 4px;
+                      background: var(--gradient-orange);
+                      border-radius: 2px;
+                      animation: widthPulse 2s infinite;
+                  }
+                  
+                  .author {
+                      font-size: 1.1rem;
+                      color: var(--dark-gray);
+                      margin-bottom: 30px;
+                  }
+                  
+                  .author a {
+                      color: var(--saffron);
+                      text-decoration: none;
+                      font-weight: 500;
+                      transition: all 0.3s ease;
+                      position: relative;
+                      background: var(--gradient-orange);
+                      -webkit-background-clip: text;
+                      background-clip: text;
+                      color: transparent;
+                  }
+                  
+                  .author a::after {
+                      content: '';
+                      position: absolute;
+                      bottom: -2px;
+                      left: 0;
+                      width: 0;
+                      height: 2px;
+                      background: var(--gradient-orange);
+                      transition: width 0.3s ease;
+                  }
+                  
+                  .author a:hover::after {
+                      width: 100%;
+                  }
+                  
+                  .stats {
+                      display: flex;
+                      justify-content: center;
+                      gap: 30px;
+                      margin-bottom: 40px;
+                      animation: slideUp 0.8s ease-in-out;
+                      perspective: 1000px;
+                  }
+                  
+                  .stat-box {
+                      background: var(--white);
+                      padding: 20px 30px;
+                      border-radius: 15px;
+                      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+                      text-align: center;
+                      min-width: 120px;
+                      transition: all 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+                      transform-style: preserve-3d;
+                      position: relative;
+                      overflow: hidden;
+                  }
+                  
+                  .stat-box::before {
+                      content: '';
+                      position: absolute;
+                      top: 0;
+                      left: 0;
+                      width: 100%;
+                      height: 5px;
+                      background: var(--gradient-blue);
+                      transition: all 0.3s ease;
+                  }
+                  
+                  .stat-box:hover {
+                      transform: translateY(-10px) rotateX(10deg);
+                      box-shadow: 0 15px 35px rgba(0, 0, 0, 0.15);
+                  }
+                  
+                  .stat-box:hover::before {
+                      height: 10px;
+                  }
+                  
+                  .stat-number {
+                      font-size: 2.2rem;
+                      font-weight: 700;
+                      background: var(--gradient-blue);
+                      -webkit-background-clip: text;
+                      background-clip: text;
+                      color: transparent;
+                      margin-bottom: 5px;
+                      text-shadow: 0 2px 10px rgba(30, 144, 255, 0.2);
+                  }
+                  
+                  .stat-label {
+                      font-size: 1rem;
+                      color: var(--dark-gray);
+                      opacity: 0.8;
+                  }
+                  
+                  .section-button {
+                      display: block;
+                      width: 100%;
+                      padding: 18px;
+                      margin: 15px 0;
+                      font-size: 1.2rem;
+                      font-weight: 500;
+                      text-align: center;
+                      color: var(--white);
+                      background: var(--gradient-blue);
+                      border: none;
+                      border-radius: 12px;
+                      cursor: pointer;
+                      transition: all 0.4s cubic-bezier(0.25, 0.8, 0.25, 1);
+                      box-shadow: 0 4px 15px rgba(30, 144, 255, 0.3);
+                      position: relative;
+                      overflow: hidden;
+                      z-index: 1;
+                  }
+                  
+                  .section-button::before {
+                      content: '';
+                      position: absolute;
+                      top: 0;
+                      left: 0;
+                      width: 100%;
+                      height: 100%;
+                      background: linear-gradient(135deg, #007BFF 0%, #1E90FF 100%);
+                      opacity: 0;
+                      transition: opacity 0.3s ease;
+                      z-index: -1;
+                  }
+                  
+                  .section-button:hover::before {
+                      opacity: 1;
+                  }
+                  
+                  .section-button:hover {
+                      transform: translateY(-3px) scale(1.02);
+                      box-shadow: 0 10px 25px rgba(30, 144, 255, 0.4);
+                  }
+                  
+                  .section-button:active {
+                      transform: translateY(1px);
+                      box-shadow: 0 2px 10px rgba(30, 144, 255, 0.3);
+                  }
+                  
+                  .section-button i {
+                      margin-right: 10px;
+                      transition: transform 0.3s ease;
+                  }
+                  
+                  .section-button:hover i {
+                      transform: scale(1.2);
+                  }
+                  
+                  .section {
+                      display: none;
+                      animation: fadeIn 0.5s ease-in-out;
+                      margin-top: 20px;
+                      transform-origin: top center;
+                  }
+                  
+                  ul {
+                      list-style-type: none;
+                      padding: 0;
+                  }
+                  
+                  li {
+                      background-color: var(--white);
+                      margin: 15px 0;
+                      padding: 20px;
+                      border-radius: 12px;
+                      box-shadow: var(--shadow);
+                      font-size: 1.1rem;
+                      transition: all 0.4s cubic-bezier(0.25, 0.8, 0.25, 1);
+                      position: relative;
+                      overflow: hidden;
+                      border-left: 5px solid var(--dodger-blue);
+                  }
+                  
+                  li::before {
+                      content: '';
+                      position: absolute;
+                      top: 0;
+                      left: 0;
+                      width: 100%;
+                      height: 100%;
+                      background: linear-gradient(90deg, rgba(30, 144, 255, 0.1) 0%, rgba(30, 144, 255, 0) 100%);
+                      transform: translateX(-100%);
+                      transition: transform 0.4s ease;
+                  }
+                  
+                  li:hover {
+                      transform: translateY(-5px) scale(1.01);
+                      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
+                  }
+                  
+                  li:hover::before {
+                      transform: translateX(0);
+                  }
+                  
+                  .number {
+                      font-weight: bold;
+                      background: var(--gradient-orange);
+                      -webkit-background-clip: text;
+                      background-clip: text;
+                      color: transparent;
+                      margin-right: 10px;
+                  }
+                  
+                  .pdf-link {
+                      color: var(--dodger-blue);
+                      text-decoration: none;
+                      font-weight: 500;
+                      transition: all 0.3s ease;
+                      position: relative;
+                  }
+                  
+                  .pdf-link::after {
+                      content: '';
+                      position: absolute;
+                      bottom: -2px;
+                      left: 0;
+                      width: 0;
+                      height: 2px;
+                      background: var(--gradient-blue);
+                      transition: width 0.3s ease;
+                  }
+                  
+                  .pdf-link:hover {
+                      color: var(--dark-blue);
+                  }
+                  
+                  .pdf-link:hover::after {
+                      width: 100%;
+                  }
+                  
+                  .video-link {
+                      color: var(--lime-green);
+                      text-decoration: none;
+                      font-weight: 500;
+                      transition: all 0.3s ease;
+                      position: relative;
+                  }
+                  
+                  .video-link::after {
+                      content: '';
+                      position: absolute;
+                      bottom: -2px;
+                      left: 0;
+                      width: 0;
+                      height: 2px;
+                      background: var(--gradient-green);
+                      transition: width 0.3s ease;
+                  }
+                  
+                  .video-link:hover {
+                      color: #228B22;
+                  }
+                  
+                  .video-link:hover::after {
+                      width: 100%;
+                  }
+                  
+                  .other-link {
+                      color: var(--dark-gray);
+                      text-decoration: none;
+                      font-weight: 500;
+                      transition: all 0.3s ease;
+                  }
+                  
+                  .other-link:hover {
+                      color: #000;
+                      text-decoration: underline;
+                  }
+                  
+                  .empty-message {
+                      text-align: center;
+                      padding: 40px;
+                      color: var(--dark-gray);
+                      opacity: 0.7;
+                      font-size: 1.1rem;
+                      animation: pulse 2s infinite;
+                  }
+                  
+                  /* Animations */
+                  @keyframes fadeIn {
+                      from { opacity: 0; }
+                      to { opacity: 1; }
+                  }
+                  
+                  @keyframes slideUp {
+                      from { 
+                          opacity: 0;
+                          transform: translateY(20px);
+                      }
+                      to { 
+                          opacity: 1;
+                          transform: translateY(0);
+                      }
+                  }
+                  
+                  @keyframes ripple {
+                      0% {
+                          transform: scale(0, 0);
+                          opacity: 1;
+                      }
+                      20% {
+                          transform: scale(25, 25);
+                          opacity: 1;
+                      }
+                      100% {
+                          opacity: 0;
+                          transform: scale(40, 40);
+                      }
+                  }
+                  
+                  @keyframes floating {
+                      0% { transform: translateY(0px); }
+                      50% { transform: translateY(-10px); }
+                      100% { transform: translateY(0px); }
+                  }
+                  
+                  @keyframes widthPulse {
+                      0% { width: 80px; }
+                      50% { width: 100px; }
+                      100% { width: 80px; }
+                  }
+                  
+                  @keyframes float {
+                      0% { transform: translate(0, 0) rotate(0deg); }
+                      33% { transform: translate(20px, 20px) rotate(5deg); }
+                      66% { transform: translate(-20px, 10px) rotate(-5deg); }
+                      100% { transform: translate(0, 0) rotate(0deg); }
+                  }
+                  
+                  @keyframes pulse {
+                      0% { opacity: 0.7; transform: scale(1); }
+                      50% { opacity: 0.9; transform: scale(1.02); }
+                      100% { opacity: 0.7; transform: scale(1); }
+                  }
+                  
+                  /* Confetti effect */
+                  .confetti {
+                      position: fixed;
+                      width: 10px;
+                      height: 10px;
+                      background-color: var(--saffron);
+                      opacity: 0;
+                      z-index: 1000;
+                      animation: confettiFall 5s linear forwards;
+                  }
+                  
+                  @keyframes confettiFall {
+                      0% {
+                          transform: translateY(-100vh) rotate(0deg);
+                          opacity: 1;
+                      }
+                      100% {
+                          transform: translateY(100vh) rotate(360deg);
+                          opacity: 0;
+                      }
+                  }
+                  
+                  /* Responsive adjustments */
+                  @media (max-width: 768px) {
+                      .stats {
+                          flex-direction: column;
+                          align-items: center;
+                          gap: 15px;
+                      }
+                      
+                      .stat-box {
+                          width: 80%;
+                      }
+                      
+                      h1 {
+                          font-size: 2rem;
+                      }
+                  }
+              </style>
+</head>
+<body>
+<!-- Background elements -->
+<div class="bg-circle circle-1"></div>
+<div class="bg-circle circle-2"></div>
+<div class="bg-circle circle-3"></div>
+<div class="container">
+<header>
+<h1>CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .txt</h1>
+<p class="author">By: <a href="https://www.instagram.com/pulystar09/" target="_blank">🄸ɴᴅɪᴀɴ ✗ 🅆ᴀʀʀɪᴏʀ</a></p>
+<div class="stats">
+<div class="stat-box floating">
+<div class="stat-number" id="video-count">70</div>
+<div class="stat-label">Videos</div>
+</div>
+<div class="stat-box floating" style="animation-delay: 0.2s">
+<div class="stat-number" id="pdf-count">27</div>
+<div class="stat-label">PDFs</div>
+</div>
+<div class="stat-box floating" style="animation-delay: 0.4s">
+<div class="stat-number">0</div>
+<div class="stat-label">Images</div>
+</div>
+</div>
+</header>
+<!-- Buttons to toggle sections -->
+<button class="section-button" onclick="toggleSection('videos')">
+<i class="fas fa-play-circle"></i> Videos
+                  </button>
+<div class="section" id="videos">
+<ul>
+<li>
+<span class="number">1.</span>
+<strong>General</strong>
+<ul style="margin-top: 10px;">
+<li style="margin: 8px 0; padding: 10px; border-left: 3px solid var(--lime-green);">
+<a class="video-link" href="player.html?url=player.html?url=https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1686248-1738593445/hls-38f64a/720p/master-3.14076432195165.m3u8&amp;name=[STRATEGY &amp; GUIDANCE] Strategy &amp; Guidance - VIDEO&amp;path=CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html&amp;num=1&amp;name=[STRATEGY &amp; GUIDANCE] Strategy &amp; Guidance - VIDEO&amp;path=CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html&amp;num=0" target="_blank">
+<i class="fas fa-play-circle"></i> [STRATEGY &amp; GUIDANCE] Strategy &amp; Guidance - VIDEO
+                                          </a>
+<span class="status-icon" style="margin-left: 10px; font-weight: bold;"></span><span class="fav-icon video-fav-icon" onclick="toggleFavorite(this, 'player.html?url=https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1686248-1738593445/hls-38f64a/720p/master-3.14076432195165.m3u8&amp;name=[STRATEGY &amp; GUIDANCE] Strategy &amp; Guidance - VIDEO&amp;path=CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html&amp;num=1', '[STRATEGY &amp; GUIDANCE] Strategy &amp; Guidance - VIDEO', 'CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html', '0', 'video')" style="margin-left: 5px; cursor:pointer;"></span></li>
+<li style="margin: 8px 0; padding: 10px; border-left: 3px solid var(--lime-green);">
+<a class="video-link" href="player.html?url=https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1627017-1737116186/hls-98ddd6/720p/master-4348446.276790754.m3u8&amp;name=[TRIGONOMETRY] Trigonometry 01 - VIDEO&amp;path=CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html&amp;num=0" target="_blank">
+<i class="fas fa-play-circle"></i> [TRIGONOMETRY] Trigonometry 01 - VIDEO
+                                          </a>
+<span class="status-icon" style="margin-left: 10px; font-weight: bold;"></span><span class="fav-icon video-fav-icon" onclick="toggleFavorite(this, 'https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1627017-1737116186/hls-98ddd6/720p/master-4348446.276790754.m3u8', '[TRIGONOMETRY] Trigonometry 01 - VIDEO', 'CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html', '0', 'video')" style="margin-left: 5px; cursor:pointer;"></span></li>
+<li style="margin: 8px 0; padding: 10px; border-left: 3px solid var(--lime-green);">
+<a class="video-link" href="player.html?url=https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1638207-1737379351/hls-4725eb/720p/master-4623863.311218724.m3u8&amp;name=[TRIGONOMETRY] Trigonometry 02 - VIDEO&amp;path=CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html&amp;num=0" target="_blank">
+<i class="fas fa-play-circle"></i> [TRIGONOMETRY] Trigonometry 02 - VIDEO
+                                          </a>
+<span class="status-icon" style="margin-left: 10px; font-weight: bold;"></span><span class="fav-icon video-fav-icon" onclick="toggleFavorite(this, 'https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1638207-1737379351/hls-4725eb/720p/master-4623863.311218724.m3u8', '[TRIGONOMETRY] Trigonometry 02 - VIDEO', 'CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html', '0', 'video')" style="margin-left: 5px; cursor:pointer;"></span></li>
+<li style="margin: 8px 0; padding: 10px; border-left: 3px solid var(--lime-green);">
+<a class="video-link" href="player.html?url=https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1643471-1737461248/hls-250022/720p/master-8597184.456081606.m3u8&amp;name=[TRIGONOMETRY] Trigonometry 03 - VIDEO&amp;path=CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html&amp;num=0" target="_blank">
+<i class="fas fa-play-circle"></i> [TRIGONOMETRY] Trigonometry 03 - VIDEO
+                                          </a>
+<span class="status-icon" style="margin-left: 10px; font-weight: bold;"></span><span class="fav-icon video-fav-icon" onclick="toggleFavorite(this, 'https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1643471-1737461248/hls-250022/720p/master-8597184.456081606.m3u8', '[TRIGONOMETRY] Trigonometry 03 - VIDEO', 'CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html', '0', 'video')" style="margin-left: 5px; cursor:pointer;"></span></li>
+<li style="margin: 8px 0; padding: 10px; border-left: 3px solid var(--lime-green);">
+<a class="video-link" href="player.html?url=https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1651581-1737634781/hls-1de1c8/720p/master-4296374.059151271.m3u8&amp;name=[TRIGONOMETRY] Trigonometry 04 - VIDEO&amp;path=CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html&amp;num=0" target="_blank">
+<i class="fas fa-play-circle"></i> [TRIGONOMETRY] Trigonometry 04 - VIDEO
+                                          </a>
+<span class="status-icon" style="margin-left: 10px; font-weight: bold;"></span><span class="fav-icon video-fav-icon" onclick="toggleFavorite(this, 'https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1651581-1737634781/hls-1de1c8/720p/master-4296374.059151271.m3u8', '[TRIGONOMETRY] Trigonometry 04 - VIDEO', 'CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html', '0', 'video')" style="margin-left: 5px; cursor:pointer;"></span></li>
+<li style="margin: 8px 0; padding: 10px; border-left: 3px solid var(--lime-green);">
+<a class="video-link" href="player.html?url=https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1655810-1737725313/hls-6d42a1/720p/master-5697790.765109559.m3u8&amp;name=[TRIGONOMETRY] Trigonometry 05 - VIDEO&amp;path=CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html&amp;num=0" target="_blank">
+<i class="fas fa-play-circle"></i> [TRIGONOMETRY] Trigonometry 05 - VIDEO
+                                          </a>
+<span class="status-icon" style="margin-left: 10px; font-weight: bold;"></span><span class="fav-icon video-fav-icon" onclick="toggleFavorite(this, 'https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1655810-1737725313/hls-6d42a1/720p/master-5697790.765109559.m3u8', '[TRIGONOMETRY] Trigonometry 05 - VIDEO', 'CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html', '0', 'video')" style="margin-left: 5px; cursor:pointer;"></span></li>
+<li style="margin: 8px 0; padding: 10px; border-left: 3px solid var(--lime-green);">
+<a class="video-link" href="player.html?url=https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1663890-1737982530/hls-1681b1/720p/master-9959490.180917725.m3u8&amp;name=[TRIGONOMETRY] Trigonometry 06 - VIDEO&amp;path=CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html&amp;num=0" target="_blank">
+<i class="fas fa-play-circle"></i> [TRIGONOMETRY] Trigonometry 06 - VIDEO
+                                          </a>
+<span class="status-icon" style="margin-left: 10px; font-weight: bold;"></span><span class="fav-icon video-fav-icon" onclick="toggleFavorite(this, 'https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1663890-1737982530/hls-1681b1/720p/master-9959490.180917725.m3u8', '[TRIGONOMETRY] Trigonometry 06 - VIDEO', 'CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html', '0', 'video')" style="margin-left: 5px; cursor:pointer;"></span></li>
+<li style="margin: 8px 0; padding: 10px; border-left: 3px solid var(--lime-green);">
+<a class="video-link" href="player.html?url=https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1678676-1738325613/hls-0bbe0b/720p/master-5212629.300697227.m3u8&amp;name=[TRIGONOMETRY] Trigonometry 07 - VIDEO&amp;path=CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html&amp;num=0" target="_blank">
+<i class="fas fa-play-circle"></i> [TRIGONOMETRY] Trigonometry 07 - VIDEO
+                                          </a>
+<span class="status-icon" style="margin-left: 10px; font-weight: bold;"></span><span class="fav-icon video-fav-icon" onclick="toggleFavorite(this, 'https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1678676-1738325613/hls-0bbe0b/720p/master-5212629.300697227.m3u8', '[TRIGONOMETRY] Trigonometry 07 - VIDEO', 'CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html', '0', 'video')" style="margin-left: 5px; cursor:pointer;"></span></li>
+<li style="margin: 8px 0; padding: 10px; border-left: 3px solid var(--lime-green);">
+<a class="video-link" href="player.html?url=https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1689997-1738677146/hls-2d863b/720p/master-6999600.0001555765.m3u8&amp;name=[TRIGONOMETRY] Trigonometry 08 - VIDEO&amp;path=CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html&amp;num=0" target="_blank">
+<i class="fas fa-play-circle"></i> [TRIGONOMETRY] Trigonometry 08 - VIDEO
+                                          </a>
+<span class="status-icon" style="margin-left: 10px; font-weight: bold;"></span><span class="fav-icon video-fav-icon" onclick="toggleFavorite(this, 'https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1689997-1738677146/hls-2d863b/720p/master-6999600.0001555765.m3u8', '[TRIGONOMETRY] Trigonometry 08 - VIDEO', 'CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html', '0', 'video')" style="margin-left: 5px; cursor:pointer;"></span></li>
+<li style="margin: 8px 0; padding: 10px; border-left: 3px solid var(--lime-green);">
+<a class="video-link" href="player.html?url=https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1697181-1738844178/hls-aa625e/720p/master-9641129.268788986.m3u8&amp;name=[TRIGONOMETRY] Trigonometry 09 - VIDEO&amp;path=CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html&amp;num=0" target="_blank">
+<i class="fas fa-play-circle"></i> [TRIGONOMETRY] Trigonometry 09 - VIDEO
+                                          </a>
+<span class="status-icon" style="margin-left: 10px; font-weight: bold;"></span><span class="fav-icon video-fav-icon" onclick="toggleFavorite(this, 'https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1697181-1738844178/hls-aa625e/720p/master-9641129.268788986.m3u8', '[TRIGONOMETRY] Trigonometry 09 - VIDEO', 'CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html', '0', 'video')" style="margin-left: 5px; cursor:pointer;"></span></li>
+<li style="margin: 8px 0; padding: 10px; border-left: 3px solid var(--lime-green);">
+<a class="video-link" href="player.html?url=https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1701681-1738944082/hls-b9504a/720p/master-3902710.3173731235.m3u8&amp;name=[TRIGONOMETRY] Trigonometry 10 - VIDEO&amp;path=CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html&amp;num=0" target="_blank">
+<i class="fas fa-play-circle"></i> [TRIGONOMETRY] Trigonometry 10 - VIDEO
+                                          </a>
+<span class="status-icon" style="margin-left: 10px; font-weight: bold;"></span><span class="fav-icon video-fav-icon" onclick="toggleFavorite(this, 'https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1701681-1738944082/hls-b9504a/720p/master-3902710.3173731235.m3u8', '[TRIGONOMETRY] Trigonometry 10 - VIDEO', 'CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html', '0', 'video')" style="margin-left: 5px; cursor:pointer;"></span></li>
+<li style="margin: 8px 0; padding: 10px; border-left: 3px solid var(--lime-green);">
+<a class="video-link" href="player.html?url=https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1711281-1739189966/hls-34efd9/720p/master-4958462.032536568.m3u8&amp;name=[TRIGONOMETRY] Trigonometry 11 - VIDEO&amp;path=CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html&amp;num=0" target="_blank">
+<i class="fas fa-play-circle"></i> [TRIGONOMETRY] Trigonometry 11 - VIDEO
+                                          </a>
+<span class="status-icon" style="margin-left: 10px; font-weight: bold;"></span><span class="fav-icon video-fav-icon" onclick="toggleFavorite(this, 'https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1711281-1739189966/hls-34efd9/720p/master-4958462.032536568.m3u8', '[TRIGONOMETRY] Trigonometry 11 - VIDEO', 'CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html', '0', 'video')" style="margin-left: 5px; cursor:pointer;"></span></li>
+<li style="margin: 8px 0; padding: 10px; border-left: 3px solid var(--lime-green);">
+<a class="video-link" href="player.html?url=https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1723351-1739449177/hls-a0e49d/720p/master-2682839.285041476.m3u8&amp;name=[TRIGONOMETRY] Trigonometry 12 - VIDEO&amp;path=CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html&amp;num=0" target="_blank">
+<i class="fas fa-play-circle"></i> [TRIGONOMETRY] Trigonometry 12 - VIDEO
+                                          </a>
+<span class="status-icon" style="margin-left: 10px; font-weight: bold;"></span><span class="fav-icon video-fav-icon" onclick="toggleFavorite(this, 'https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1723351-1739449177/hls-a0e49d/720p/master-2682839.285041476.m3u8', '[TRIGONOMETRY] Trigonometry 12 - VIDEO', 'CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html', '0', 'video')" style="margin-left: 5px; cursor:pointer;"></span></li>
+<li style="margin: 8px 0; padding: 10px; border-left: 3px solid var(--lime-green);">
+<a class="video-link" href="player.html?url=https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1730254-1739622327/hls-c98a8f/720p/master-7569267.054739375.m3u8&amp;name=[TRIGONOMETRY] Trigonometry 13 - VIDEO&amp;path=CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html&amp;num=0" target="_blank">
+<i class="fas fa-play-circle"></i> [TRIGONOMETRY] Trigonometry 13 - VIDEO
+                                          </a>
+<span class="status-icon" style="margin-left: 10px; font-weight: bold;"></span><span class="fav-icon video-fav-icon" onclick="toggleFavorite(this, 'https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1730254-1739622327/hls-c98a8f/720p/master-7569267.054739375.m3u8', '[TRIGONOMETRY] Trigonometry 13 - VIDEO', 'CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html', '0', 'video')" style="margin-left: 5px; cursor:pointer;"></span></li>
+<li style="margin: 8px 0; padding: 10px; border-left: 3px solid var(--lime-green);">
+<a class="video-link" href="player.html?url=https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1735785-1739800887/hls-c67256/720p/master-1421893.511250185.m3u8&amp;name=[TRIGONOMETRY] Trigonometry 14 - VIDEO&amp;path=CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html&amp;num=0" target="_blank">
+<i class="fas fa-play-circle"></i> [TRIGONOMETRY] Trigonometry 14 - VIDEO
+                                          </a>
+<span class="status-icon" style="margin-left: 10px; font-weight: bold;"></span><span class="fav-icon video-fav-icon" onclick="toggleFavorite(this, 'https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1735785-1739800887/hls-c67256/720p/master-1421893.511250185.m3u8', '[TRIGONOMETRY] Trigonometry 14 - VIDEO', 'CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html', '0', 'video')" style="margin-left: 5px; cursor:pointer;"></span></li>
+<li style="margin: 8px 0; padding: 10px; border-left: 3px solid var(--lime-green);">
+<a class="video-link" href="player.html?url=https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1740005-1739891067/hls-c88f38/720p/master-2609298.43295542.m3u8&amp;name=[TRIGONOMETRY] Trigonometry 15 - VIDEO&amp;path=CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html&amp;num=0" target="_blank">
+<i class="fas fa-play-circle"></i> [TRIGONOMETRY] Trigonometry 15 - VIDEO
+                                          </a>
+<span class="status-icon" style="margin-left: 10px; font-weight: bold;"></span><span class="fav-icon video-fav-icon" onclick="toggleFavorite(this, 'https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1740005-1739891067/hls-c88f38/720p/master-2609298.43295542.m3u8', '[TRIGONOMETRY] Trigonometry 15 - VIDEO', 'CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html', '0', 'video')" style="margin-left: 5px; cursor:pointer;"></span></li>
+<li style="margin: 8px 0; padding: 10px; border-left: 3px solid var(--lime-green);">
+<a class="video-link" href="player.html?url=https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1743126-1739969361/hls-202d78/720p/master-5217823.727154219.m3u8&amp;name=[TRIGONOMETRY] Trigonometry 16 - VIDEO&amp;path=CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html&amp;num=0" target="_blank">
+<i class="fas fa-play-circle"></i> [TRIGONOMETRY] Trigonometry 16 - VIDEO
+                                          </a>
+<span class="status-icon" style="margin-left: 10px; font-weight: bold;"></span><span class="fav-icon video-fav-icon" onclick="toggleFavorite(this, 'https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1743126-1739969361/hls-202d78/720p/master-5217823.727154219.m3u8', '[TRIGONOMETRY] Trigonometry 16 - VIDEO', 'CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html', '0', 'video')" style="margin-left: 5px; cursor:pointer;"></span></li>
+<li style="margin: 8px 0; padding: 10px; border-left: 3px solid var(--lime-green);">
+<a class="video-link" href="player.html?url=https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1749876-1740140543/hls-79c4e3/720p/master-7178882.215361562.m3u8&amp;name=[TRIGONOMETRY] Trigonometry 17 - VIDEO&amp;path=CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html&amp;num=0" target="_blank">
+<i class="fas fa-play-circle"></i> [TRIGONOMETRY] Trigonometry 17 - VIDEO
+                                          </a>
+<span class="status-icon" style="margin-left: 10px; font-weight: bold;"></span><span class="fav-icon video-fav-icon" onclick="toggleFavorite(this, 'https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1749876-1740140543/hls-79c4e3/720p/master-7178882.215361562.m3u8', '[TRIGONOMETRY] Trigonometry 17 - VIDEO', 'CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html', '0', 'video')" style="margin-left: 5px; cursor:pointer;"></span></li>
+<li style="margin: 8px 0; padding: 10px; border-left: 3px solid var(--lime-green);">
+<a class="video-link" href="player.html?url=https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1758346-1740403702/hls-f7e61d/720p/master-314782.9517793999.m3u8&amp;name=[TRIGONOMETRY] Trigonometry 18 - VIDEO&amp;path=CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html&amp;num=0" target="_blank">
+<i class="fas fa-play-circle"></i> [TRIGONOMETRY] Trigonometry 18 - VIDEO
+                                          </a>
+<span class="status-icon" style="margin-left: 10px; font-weight: bold;"></span><span class="fav-icon video-fav-icon" onclick="toggleFavorite(this, 'https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1758346-1740403702/hls-f7e61d/720p/master-314782.9517793999.m3u8', '[TRIGONOMETRY] Trigonometry 18 - VIDEO', 'CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html', '0', 'video')" style="margin-left: 5px; cursor:pointer;"></span></li>
+<li style="margin: 8px 0; padding: 10px; border-left: 3px solid var(--lime-green);">
+<a class="video-link" href="player.html?url=https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1762266-1740495322/hls-4059b6/720p/master-3235119.115094132.m3u8&amp;name=[TRIGONOMETRY] Trigonometry 19 - VIDEO&amp;path=CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html&amp;num=0" target="_blank">
+<i class="fas fa-play-circle"></i> [TRIGONOMETRY] Trigonometry 19 - VIDEO
+                                          </a>
+<span class="status-icon" style="margin-left: 10px; font-weight: bold;"></span><span class="fav-icon video-fav-icon" onclick="toggleFavorite(this, 'https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1762266-1740495322/hls-4059b6/720p/master-3235119.115094132.m3u8', '[TRIGONOMETRY] Trigonometry 19 - VIDEO', 'CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html', '0', 'video')" style="margin-left: 5px; cursor:pointer;"></span></li>
+<li style="margin: 8px 0; padding: 10px; border-left: 3px solid var(--lime-green);">
+<a class="video-link" href="player.html?url=https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1768695-1740658766/hls-f8266a/720p/master-7672053.573780799.m3u8&amp;name=[TRIGONOMETRY] Trigonometry 20 - VIDEO&amp;path=CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html&amp;num=0" target="_blank">
+<i class="fas fa-play-circle"></i> [TRIGONOMETRY] Trigonometry 20 - VIDEO
+                                          </a>
+<span class="status-icon" style="margin-left: 10px; font-weight: bold;"></span><span class="fav-icon video-fav-icon" onclick="toggleFavorite(this, 'https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1768695-1740658766/hls-f8266a/720p/master-7672053.573780799.m3u8', '[TRIGONOMETRY] Trigonometry 20 - VIDEO', 'CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html', '0', 'video')" style="margin-left: 5px; cursor:pointer;"></span></li>
+<li style="margin: 8px 0; padding: 10px; border-left: 3px solid var(--lime-green);">
+<a class="video-link" href="player.html?url=https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1772566-1740751102/hls-eb5d06/720p/master-2154605.5896594264.m3u8&amp;name=[TRIGONOMETRY] Trigonometry Class 21 - VIDEO&amp;path=CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html&amp;num=0" target="_blank">
+<i class="fas fa-play-circle"></i> [TRIGONOMETRY] Trigonometry Class 21 - VIDEO
+                                          </a>
+<span class="status-icon" style="margin-left: 10px; font-weight: bold;"></span><span class="fav-icon video-fav-icon" onclick="toggleFavorite(this, 'https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1772566-1740751102/hls-eb5d06/720p/master-2154605.5896594264.m3u8', '[TRIGONOMETRY] Trigonometry Class 21 - VIDEO', 'CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html', '0', 'video')" style="margin-left: 5px; cursor:pointer;"></span></li>
+<li style="margin: 8px 0; padding: 10px; border-left: 3px solid var(--lime-green);">
+<a class="video-link" href="player.html?url=https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1779440-1741004541/hls-4503f4/720p/master-5083032.591792209.m3u8&amp;name=[TRIGONOMETRY] Trigonometry Class 22 - VIDEO&amp;path=CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html&amp;num=0" target="_blank">
+<i class="fas fa-play-circle"></i> [TRIGONOMETRY] Trigonometry Class 22 - VIDEO
+                                          </a>
+<span class="status-icon" style="margin-left: 10px; font-weight: bold;"></span><span class="fav-icon video-fav-icon" onclick="toggleFavorite(this, 'https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1779440-1741004541/hls-4503f4/720p/master-5083032.591792209.m3u8', '[TRIGONOMETRY] Trigonometry Class 22 - VIDEO', 'CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html', '0', 'video')" style="margin-left: 5px; cursor:pointer;"></span></li>
+<li style="margin: 8px 0; padding: 10px; border-left: 3px solid var(--lime-green);">
+<a class="video-link" href="player.html?url=https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1781001-1741063945/hls-4f8c28/720p/master-8003258.432288138.m3u8&amp;name=[TRIGONOMETRY] Trigonometry 23 - VIDEO&amp;path=CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html&amp;num=0" target="_blank">
+<i class="fas fa-play-circle"></i> [TRIGONOMETRY] Trigonometry 23 - VIDEO
+                                          </a>
+<span class="status-icon" style="margin-left: 10px; font-weight: bold;"></span><span class="fav-icon video-fav-icon" onclick="toggleFavorite(this, 'https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1781001-1741063945/hls-4f8c28/720p/master-8003258.432288138.m3u8', '[TRIGONOMETRY] Trigonometry 23 - VIDEO', 'CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html', '0', 'video')" style="margin-left: 5px; cursor:pointer;"></span></li>
+<li style="margin: 8px 0; padding: 10px; border-left: 3px solid var(--lime-green);">
+<a class="video-link" href="player.html?url=https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1785044-1741150707/hls-e54e38/720p/master-8557063.310848018.m3u8&amp;name=[TRIGONOMETRY] Trigonometry 24 - VIDEO&amp;path=CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html&amp;num=0" target="_blank">
+<i class="fas fa-play-circle"></i> [TRIGONOMETRY] Trigonometry 24 - VIDEO
+                                          </a>
+<span class="status-icon" style="margin-left: 10px; font-weight: bold;"></span><span class="fav-icon video-fav-icon" onclick="toggleFavorite(this, 'https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1785044-1741150707/hls-e54e38/720p/master-8557063.310848018.m3u8', '[TRIGONOMETRY] Trigonometry 24 - VIDEO', 'CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html', '0', 'video')" style="margin-left: 5px; cursor:pointer;"></span></li>
+<li style="margin: 8px 0; padding: 10px; border-left: 3px solid var(--lime-green);">
+<a class="video-link" href="player.html?url=https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1793258-1741322786/hls-72b537/720p/master-3249490.255405283.m3u8&amp;name=[HEIGHT &amp; DISTANCE] Height &amp; Distance 01 - VIDEO&amp;path=CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html&amp;num=0" target="_blank">
+<i class="fas fa-play-circle"></i> [HEIGHT &amp; DISTANCE] Height &amp; Distance 01 - VIDEO
+                                          </a>
+<span class="status-icon" style="margin-left: 10px; font-weight: bold;"></span><span class="fav-icon video-fav-icon" onclick="toggleFavorite(this, 'https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1793258-1741322786/hls-72b537/720p/master-3249490.255405283.m3u8', '[HEIGHT &amp; DISTANCE] Height &amp; Distance 01 - VIDEO', 'CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html', '0', 'video')" style="margin-left: 5px; cursor:pointer;"></span></li>
+</ul>
+<span class="status-icon" style="margin-left: 10px; font-weight: bold;"></span><span class="fav-icon video-fav-icon" onclick="toggleFavorite(this, 'https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1686248-1738593445/hls-38f64a/720p/master-3.14076432195165.m3u8', '[STRATEGY &amp; GUIDANCE] Strategy &amp; Guidance - VIDEO', 'CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html', '1', 'video')" style="margin-left: 5px; cursor:pointer;"></span></li>
+<li>
+<span class="number">2.</span>
+<strong>प्रतिशत</strong>
+<ul style="margin-top: 10px;">
+<li style="margin: 8px 0; padding: 10px; border-left: 3px solid var(--lime-green);">
+<a class="video-link" href="player.html?url=player.html?url=https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1515800-1734590143/hls-59cd6f/720p/master-9732842.83712273.m3u8&amp;name=] Percentage 01 (Demo) - VIDEO&amp;path=CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html&amp;num=2&amp;name=] Percentage 01 (Demo) - VIDEO&amp;path=CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html&amp;num=0" target="_blank">
+<i class="fas fa-play-circle"></i> ] Percentage 01 (Demo) - VIDEO
+                                          </a>
+<span class="status-icon" style="margin-left: 10px; font-weight: bold;"></span><span class="fav-icon video-fav-icon" onclick="toggleFavorite(this, 'player.html?url=https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1515800-1734590143/hls-59cd6f/720p/master-9732842.83712273.m3u8&amp;name=] Percentage 01 (Demo) - VIDEO&amp;path=CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html&amp;num=2', '] Percentage 01 (Demo) - VIDEO', 'CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html', '0', 'video')" style="margin-left: 5px; cursor:pointer;"></span></li>
+<li style="margin: 8px 0; padding: 10px; border-left: 3px solid var(--lime-green);">
+<a class="video-link" href="player.html?url=https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1518757-1734619304/hls-60fc8b/720p/master-6262531.309191426.m3u8&amp;name=] Percentage 02 - VIDEO&amp;path=CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html&amp;num=0" target="_blank">
+<i class="fas fa-play-circle"></i> ] Percentage 02 - VIDEO
+                                          </a>
+<span class="status-icon" style="margin-left: 10px; font-weight: bold;"></span><span class="fav-icon video-fav-icon" onclick="toggleFavorite(this, 'https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1518757-1734619304/hls-60fc8b/720p/master-6262531.309191426.m3u8', '] Percentage 02 - VIDEO', 'CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html', '0', 'video')" style="margin-left: 5px; cursor:pointer;"></span></li>
+<li style="margin: 8px 0; padding: 10px; border-left: 3px solid var(--lime-green);">
+<a class="video-link" href="player.html?url=https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1523905-1734756114/hls-8275e4/720p/master-880669.3190201598.m3u8&amp;name=] Percentage 03 - VIDEO&amp;path=CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html&amp;num=0" target="_blank">
+<i class="fas fa-play-circle"></i> ] Percentage 03 - VIDEO
+                                          </a>
+<span class="status-icon" style="margin-left: 10px; font-weight: bold;"></span><span class="fav-icon video-fav-icon" onclick="toggleFavorite(this, 'https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1523905-1734756114/hls-8275e4/720p/master-880669.3190201598.m3u8', '] Percentage 03 - VIDEO', 'CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html', '0', 'video')" style="margin-left: 5px; cursor:pointer;"></span></li>
+<li style="margin: 8px 0; padding: 10px; border-left: 3px solid var(--lime-green);">
+<a class="video-link" href="player.html?url=https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1531898-1735015680/hls-5d7673/720p/master-5501810.008524361.m3u8&amp;name=] Percentage 04 - VIDEO&amp;path=CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html&amp;num=0" target="_blank">
+<i class="fas fa-play-circle"></i> ] Percentage 04 - VIDEO
+                                          </a>
+<span class="status-icon" style="margin-left: 10px; font-weight: bold;"></span><span class="fav-icon video-fav-icon" onclick="toggleFavorite(this, 'https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1531898-1735015680/hls-5d7673/720p/master-5501810.008524361.m3u8', '] Percentage 04 - VIDEO', 'CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html', '0', 'video')" style="margin-left: 5px; cursor:pointer;"></span></li>
+<li style="margin: 8px 0; padding: 10px; border-left: 3px solid var(--lime-green);">
+<a class="video-link" href="player.html?url=https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1536483-1735049505/hls-a86fdb/720p/master-1098862.5238091098.m3u8&amp;name=] Percentage 05 - VIDEO&amp;path=CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html&amp;num=0" target="_blank">
+<i class="fas fa-play-circle"></i> ] Percentage 05 - VIDEO
+                                          </a>
+<span class="status-icon" style="margin-left: 10px; font-weight: bold;"></span><span class="fav-icon video-fav-icon" onclick="toggleFavorite(this, 'https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1536483-1735049505/hls-a86fdb/720p/master-1098862.5238091098.m3u8', '] Percentage 05 - VIDEO', 'CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html', '0', 'video')" style="margin-left: 5px; cursor:pointer;"></span></li>
+<li style="margin: 8px 0; padding: 10px; border-left: 3px solid var(--lime-green);">
+<a class="video-link" href="player.html?url=https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1544827-1735223400/hls-c90337/720p/master-3554187.0948879505.m3u8&amp;name=] Percentage 06 - VIDEO&amp;path=CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html&amp;num=0" target="_blank">
+<i class="fas fa-play-circle"></i> ] Percentage 06 - VIDEO
+                                          </a>
+<span class="status-icon" style="margin-left: 10px; font-weight: bold;"></span><span class="fav-icon video-fav-icon" onclick="toggleFavorite(this, 'https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1544827-1735223400/hls-c90337/720p/master-3554187.0948879505.m3u8', '] Percentage 06 - VIDEO', 'CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html', '0', 'video')" style="margin-left: 5px; cursor:pointer;"></span></li>
+<li style="margin: 8px 0; padding: 10px; border-left: 3px solid var(--lime-green);">
+<a class="video-link" href="player.html?url=https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1582981-1736172814/hls-888ffb/720p/master-8812727.471863521.m3u8&amp;name=] Percentage 07 - VIDEO&amp;path=CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html&amp;num=0" target="_blank">
+<i class="fas fa-play-circle"></i> ] Percentage 07 - VIDEO
+                                          </a>
+<span class="status-icon" style="margin-left: 10px; font-weight: bold;"></span><span class="fav-icon video-fav-icon" onclick="toggleFavorite(this, 'https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1582981-1736172814/hls-888ffb/720p/master-8812727.471863521.m3u8', '] Percentage 07 - VIDEO', 'CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html', '0', 'video')" style="margin-left: 5px; cursor:pointer;"></span></li>
+<li style="margin: 8px 0; padding: 10px; border-left: 3px solid var(--lime-green);">
+<a class="video-link" href="player.html?url=https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1595370-1736432547/hls-9fcf36/720p/master-4990961.197553241.m3u8&amp;name=] Percentage 08 - VIDEO&amp;path=CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html&amp;num=0" target="_blank">
+<i class="fas fa-play-circle"></i> ] Percentage 08 - VIDEO
+                                          </a>
+<span class="status-icon" style="margin-left: 10px; font-weight: bold;"></span><span class="fav-icon video-fav-icon" onclick="toggleFavorite(this, 'https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1595370-1736432547/hls-9fcf36/720p/master-4990961.197553241.m3u8', '] Percentage 08 - VIDEO', 'CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html', '0', 'video')" style="margin-left: 5px; cursor:pointer;"></span></li>
+<li style="margin: 8px 0; padding: 10px; border-left: 3px solid var(--lime-green);">
+<a class="video-link" href="player.html?url=https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1600254-1736518402/hls-989125/720p/master-7115525.85865499.m3u8&amp;name=] Percentage 09 - VIDEO&amp;path=CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html&amp;num=0" target="_blank">
+<i class="fas fa-play-circle"></i> ] Percentage 09 - VIDEO
+                                          </a>
+<span class="status-icon" style="margin-left: 10px; font-weight: bold;"></span><span class="fav-icon video-fav-icon" onclick="toggleFavorite(this, 'https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1600254-1736518402/hls-989125/720p/master-7115525.85865499.m3u8', '] Percentage 09 - VIDEO', 'CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html', '0', 'video')" style="margin-left: 5px; cursor:pointer;"></span></li>
+<li style="margin: 8px 0; padding: 10px; border-left: 3px solid var(--lime-green);">
+<a class="video-link" href="player.html?url=https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1611706-1736777962/hls-510ac8/720p/master-9450059.325960133.m3u8&amp;name=] Percentage 10 - VIDEO&amp;path=CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html&amp;num=0" target="_blank">
+<i class="fas fa-play-circle"></i> ] Percentage 10 - VIDEO
+                                          </a>
+<span class="status-icon" style="margin-left: 10px; font-weight: bold;"></span><span class="fav-icon video-fav-icon" onclick="toggleFavorite(this, 'https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1611706-1736777962/hls-510ac8/720p/master-9450059.325960133.m3u8', '] Percentage 10 - VIDEO', 'CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html', '0', 'video')" style="margin-left: 5px; cursor:pointer;"></span></li>
+<li style="margin: 8px 0; padding: 10px; border-left: 3px solid var(--lime-green);">
+<a class="video-link" href="player.html?url=https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1614974-1736864717/hls-41e9ec/720p/master-9149390.336050423.m3u8&amp;name=] Percentage 11 - VIDEO&amp;path=CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html&amp;num=0" target="_blank">
+<i class="fas fa-play-circle"></i> ] Percentage 11 - VIDEO
+                                          </a>
+<span class="status-icon" style="margin-left: 10px; font-weight: bold;"></span><span class="fav-icon video-fav-icon" onclick="toggleFavorite(this, 'https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1614974-1736864717/hls-41e9ec/720p/master-9149390.336050423.m3u8', '] Percentage 11 - VIDEO', 'CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html', '0', 'video')" style="margin-left: 5px; cursor:pointer;"></span></li>
+<li style="margin: 8px 0; padding: 10px; border-left: 3px solid var(--lime-green);">
+<a class="video-link" href="player.html?url=https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1618412-1736950764/hls-c39b7e/720p/master-7544805.6229808815.m3u8&amp;name=] Percentage 12 - VIDEO&amp;path=CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html&amp;num=0" target="_blank">
+<i class="fas fa-play-circle"></i> ] Percentage 12 - VIDEO
+                                          </a>
+<span class="status-icon" style="margin-left: 10px; font-weight: bold;"></span><span class="fav-icon video-fav-icon" onclick="toggleFavorite(this, 'https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1618412-1736950764/hls-c39b7e/720p/master-7544805.6229808815.m3u8', '] Percentage 12 - VIDEO', 'CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html', '0', 'video')" style="margin-left: 5px; cursor:pointer;"></span></li>
+<li style="margin: 8px 0; padding: 10px; border-left: 3px solid var(--lime-green);">
+<a class="video-link" href="player.html?url=https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1623337-1737037344/hls-64858c/720p/master-1170094.817872036.m3u8&amp;name=] Percentage 13 - VIDEO&amp;path=CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html&amp;num=0" target="_blank">
+<i class="fas fa-play-circle"></i> ] Percentage 13 - VIDEO
+                                          </a>
+<span class="status-icon" style="margin-left: 10px; font-weight: bold;"></span><span class="fav-icon video-fav-icon" onclick="toggleFavorite(this, 'https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1623337-1737037344/hls-64858c/720p/master-1170094.817872036.m3u8', '] Percentage 13 - VIDEO', 'CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html', '0', 'video')" style="margin-left: 5px; cursor:pointer;"></span></li>
+<li style="margin: 8px 0; padding: 10px; border-left: 3px solid var(--lime-green);">
+<a class="video-link" href="player.html?url=https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1627787-1737123210/hls-4ac486/720p/master-8121245.604476248.m3u8&amp;name=] Percentage 14 - VIDEO&amp;path=CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html&amp;num=0" target="_blank">
+<i class="fas fa-play-circle"></i> ] Percentage 14 - VIDEO
+                                          </a>
+<span class="status-icon" style="margin-left: 10px; font-weight: bold;"></span><span class="fav-icon video-fav-icon" onclick="toggleFavorite(this, 'https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1627787-1737123210/hls-4ac486/720p/master-8121245.604476248.m3u8', '] Percentage 14 - VIDEO', 'CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html', '0', 'video')" style="margin-left: 5px; cursor:pointer;"></span></li>
+<li style="margin: 8px 0; padding: 10px; border-left: 3px solid var(--lime-green);">
+<a class="video-link" href="player.html?url=https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1639529-1737385584/hls-30813b/720p/master-9523289.520747328.m3u8&amp;name=] Percentage 15 - VIDEO&amp;path=CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html&amp;num=0" target="_blank">
+<i class="fas fa-play-circle"></i> ] Percentage 15 - VIDEO
+                                          </a>
+<span class="status-icon" style="margin-left: 10px; font-weight: bold;"></span><span class="fav-icon video-fav-icon" onclick="toggleFavorite(this, 'https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1639529-1737385584/hls-30813b/720p/master-9523289.520747328.m3u8', '] Percentage 15 - VIDEO', 'CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html', '0', 'video')" style="margin-left: 5px; cursor:pointer;"></span></li>
+<li style="margin: 8px 0; padding: 10px; border-left: 3px solid var(--lime-green);">
+<a class="video-link" href="player.html?url=https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1648104-1737555566/hls-50a467/720p/master-9460294.52164699.m3u8&amp;name=] Percentage 16 - VIDEO&amp;path=CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html&amp;num=0" target="_blank">
+<i class="fas fa-play-circle"></i> ] Percentage 16 - VIDEO
+                                          </a>
+<span class="status-icon" style="margin-left: 10px; font-weight: bold;"></span><span class="fav-icon video-fav-icon" onclick="toggleFavorite(this, 'https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1648104-1737555566/hls-50a467/720p/master-9460294.52164699.m3u8', '] Percentage 16 - VIDEO', 'CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html', '0', 'video')" style="margin-left: 5px; cursor:pointer;"></span></li>
+<li style="margin: 8px 0; padding: 10px; border-left: 3px solid var(--lime-green);">
+<a class="video-link" href="player.html?url=https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1652169-1737641431/hls-9c752c/720p/master-6892596.624799636.m3u8&amp;name=] Percentage 17 - VIDEO&amp;path=CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html&amp;num=0" target="_blank">
+<i class="fas fa-play-circle"></i> ] Percentage 17 - VIDEO
+                                          </a>
+<span class="status-icon" style="margin-left: 10px; font-weight: bold;"></span><span class="fav-icon video-fav-icon" onclick="toggleFavorite(this, 'https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1652169-1737641431/hls-9c752c/720p/master-6892596.624799636.m3u8', '] Percentage 17 - VIDEO', 'CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html', '0', 'video')" style="margin-left: 5px; cursor:pointer;"></span></li>
+<li style="margin: 8px 0; padding: 10px; border-left: 3px solid var(--lime-green);">
+<a class="video-link" href="player.html?url=https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1656222-1737730174/hls-269267/720p/master-5913692.006870924.m3u8&amp;name=] Percentage 18 - VIDEO&amp;path=CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html&amp;num=0" target="_blank">
+<i class="fas fa-play-circle"></i> ] Percentage 18 - VIDEO
+                                          </a>
+<span class="status-icon" style="margin-left: 10px; font-weight: bold;"></span><span class="fav-icon video-fav-icon" onclick="toggleFavorite(this, 'https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1656222-1737730174/hls-269267/720p/master-5913692.006870924.m3u8', '] Percentage 18 - VIDEO', 'CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html', '0', 'video')" style="margin-left: 5px; cursor:pointer;"></span></li>
+<li style="margin: 8px 0; padding: 10px; border-left: 3px solid var(--lime-green);">
+<a class="video-link" href="player.html?url=https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1664368-1737988822/hls-50ed1a/720p/master-9447704.826260338.m3u8&amp;name=] Percentage 19 - VIDEO&amp;path=CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html&amp;num=0" target="_blank">
+<i class="fas fa-play-circle"></i> ] Percentage 19 - VIDEO
+                                          </a>
+<span class="status-icon" style="margin-left: 10px; font-weight: bold;"></span><span class="fav-icon video-fav-icon" onclick="toggleFavorite(this, 'https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1664368-1737988822/hls-50ed1a/720p/master-9447704.826260338.m3u8', '] Percentage 19 - VIDEO', 'CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html', '0', 'video')" style="margin-left: 5px; cursor:pointer;"></span></li>
+</ul>
+<span class="status-icon" style="margin-left: 10px; font-weight: bold;"></span><span class="fav-icon video-fav-icon" onclick="toggleFavorite(this, 'https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1515800-1734590143/hls-59cd6f/720p/master-9732842.83712273.m3u8', '] Percentage 01 (Demo) - VIDEO', 'CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html', '2', 'video')" style="margin-left: 5px; cursor:pointer;"></span></li>
+<li>
+<span class="number">3.</span>
+<strong>साधारण ब्याज</strong>
+<ul style="margin-top: 10px;">
+<li style="margin: 8px 0; padding: 10px; border-left: 3px solid var(--lime-green);">
+<a class="video-link" href="player.html?url=player.html?url=https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1676049-1738254319/hls-2b8bc0/720p/master-7231171.640743484.m3u8&amp;name=] Simple Interest 01 - VIDEO&amp;path=CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html&amp;num=3&amp;name=] Simple Interest 01 - VIDEO&amp;path=CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html&amp;num=0" target="_blank">
+<i class="fas fa-play-circle"></i> ] Simple Interest 01 - VIDEO
+                                          </a>
+<span class="status-icon" style="margin-left: 10px; font-weight: bold;"></span><span class="fav-icon video-fav-icon" onclick="toggleFavorite(this, 'player.html?url=https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1676049-1738254319/hls-2b8bc0/720p/master-7231171.640743484.m3u8&amp;name=] Simple Interest 01 - VIDEO&amp;path=CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html&amp;num=3', '] Simple Interest 01 - VIDEO', 'CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html', '0', 'video')" style="margin-left: 5px; cursor:pointer;"></span></li>
+<li style="margin: 8px 0; padding: 10px; border-left: 3px solid var(--lime-green);">
+<a class="video-link" href="player.html?url=https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1679204-1738333379/hls-366ff9/720p/master-5386611.521721205.m3u8&amp;name=] Simple Interest 02 - VIDEO&amp;path=CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html&amp;num=0" target="_blank">
+<i class="fas fa-play-circle"></i> ] Simple Interest 02 - VIDEO
+                                          </a>
+<span class="status-icon" style="margin-left: 10px; font-weight: bold;"></span><span class="fav-icon video-fav-icon" onclick="toggleFavorite(this, 'https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1679204-1738333379/hls-366ff9/720p/master-5386611.521721205.m3u8', '] Simple Interest 02 - VIDEO', 'CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html', '0', 'video')" style="margin-left: 5px; cursor:pointer;"></span></li>
+<li style="margin: 8px 0; padding: 10px; border-left: 3px solid var(--lime-green);">
+<a class="video-link" href="player.html?url=https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1686425-1738597217/hls-ddd3d6/720p/master-9674932.066183554.m3u8&amp;name=] Simple Interest 03 - VIDEO&amp;path=CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html&amp;num=0" target="_blank">
+<i class="fas fa-play-circle"></i> ] Simple Interest 03 - VIDEO
+                                          </a>
+<span class="status-icon" style="margin-left: 10px; font-weight: bold;"></span><span class="fav-icon video-fav-icon" onclick="toggleFavorite(this, 'https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1686425-1738597217/hls-ddd3d6/720p/master-9674932.066183554.m3u8', '] Simple Interest 03 - VIDEO', 'CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html', '0', 'video')" style="margin-left: 5px; cursor:pointer;"></span></li>
+<li style="margin: 8px 0; padding: 10px; border-left: 3px solid var(--lime-green);">
+<a class="video-link" href="player.html?url=https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1690317-1738683628/hls-d4ddc3/720p/master-3376032.139712717.m3u8&amp;name=] Simple Interest 04 - VIDEO&amp;path=CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html&amp;num=0" target="_blank">
+<i class="fas fa-play-circle"></i> ] Simple Interest 04 - VIDEO
+                                          </a>
+<span class="status-icon" style="margin-left: 10px; font-weight: bold;"></span><span class="fav-icon video-fav-icon" onclick="toggleFavorite(this, 'https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1690317-1738683628/hls-d4ddc3/720p/master-3376032.139712717.m3u8', '] Simple Interest 04 - VIDEO', 'CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html', '0', 'video')" style="margin-left: 5px; cursor:pointer;"></span></li>
+<li style="margin: 8px 0; padding: 10px; border-left: 3px solid var(--lime-green);">
+<a class="video-link" href="player.html?url=https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1697936-1738854258/hls-418f0c/720p/master-3710584.010606968.m3u8&amp;name=] Simple Interest 05 - VIDEO&amp;path=CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html&amp;num=0" target="_blank">
+<i class="fas fa-play-circle"></i> ] Simple Interest 05 - VIDEO
+                                          </a>
+<span class="status-icon" style="margin-left: 10px; font-weight: bold;"></span><span class="fav-icon video-fav-icon" onclick="toggleFavorite(this, 'https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1697936-1738854258/hls-418f0c/720p/master-3710584.010606968.m3u8', '] Simple Interest 05 - VIDEO', 'CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html', '0', 'video')" style="margin-left: 5px; cursor:pointer;"></span></li>
+<li style="margin: 8px 0; padding: 10px; border-left: 3px solid var(--lime-green);">
+<a class="video-link" href="player.html?url=https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1701334-1738937779/hls-833bb9/720p/master-3936398.462851549.m3u8&amp;name=] Simple Interest 06 - VIDEO&amp;path=CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html&amp;num=0" target="_blank">
+<i class="fas fa-play-circle"></i> ] Simple Interest 06 - VIDEO
+                                          </a>
+<span class="status-icon" style="margin-left: 10px; font-weight: bold;"></span><span class="fav-icon video-fav-icon" onclick="toggleFavorite(this, 'https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1701334-1738937779/hls-833bb9/720p/master-3936398.462851549.m3u8', '] Simple Interest 06 - VIDEO', 'CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html', '0', 'video')" style="margin-left: 5px; cursor:pointer;"></span></li>
+<li style="margin: 8px 0; padding: 10px; border-left: 3px solid var(--lime-green);">
+<a class="video-link" href="player.html?url=https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1711788-1739197523/hls-0bf079/720p/master-7271669.861281253.m3u8&amp;name=] Simple Interest 07 - VIDEO&amp;path=CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html&amp;num=0" target="_blank">
+<i class="fas fa-play-circle"></i> ] Simple Interest 07 - VIDEO
+                                          </a>
+<span class="status-icon" style="margin-left: 10px; font-weight: bold;"></span><span class="fav-icon video-fav-icon" onclick="toggleFavorite(this, 'https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1711788-1739197523/hls-0bf079/720p/master-7271669.861281253.m3u8', '] Simple Interest 07 - VIDEO', 'CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html', '0', 'video')" style="margin-left: 5px; cursor:pointer;"></span></li>
+<li style="margin: 8px 0; padding: 10px; border-left: 3px solid var(--lime-green);">
+<a class="video-link" href="player.html?url=https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1715441-1739284640/hls-20d7d9/720p/master-3895543.1803859207.m3u8&amp;name=] Simple Interest 08 - VIDEO&amp;path=CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html&amp;num=0" target="_blank">
+<i class="fas fa-play-circle"></i> ] Simple Interest 08 - VIDEO
+                                          </a>
+<span class="status-icon" style="margin-left: 10px; font-weight: bold;"></span><span class="fav-icon video-fav-icon" onclick="toggleFavorite(this, 'https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1715441-1739284640/hls-20d7d9/720p/master-3895543.1803859207.m3u8', '] Simple Interest 08 - VIDEO', 'CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html', '0', 'video')" style="margin-left: 5px; cursor:pointer;"></span></li>
+<li style="margin: 8px 0; padding: 10px; border-left: 3px solid var(--lime-green);">
+<a class="video-link" href="player.html?url=https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1723867-1739456542/hls-ecf6bc/720p/master-5029848.171937931.m3u8&amp;name=] Simple Interest 09 - VIDEO&amp;path=CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html&amp;num=0" target="_blank">
+<i class="fas fa-play-circle"></i> ] Simple Interest 09 - VIDEO
+                                          </a>
+<span class="status-icon" style="margin-left: 10px; font-weight: bold;"></span><span class="fav-icon video-fav-icon" onclick="toggleFavorite(this, 'https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1723867-1739456542/hls-ecf6bc/720p/master-5029848.171937931.m3u8', '] Simple Interest 09 - VIDEO', 'CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html', '0', 'video')" style="margin-left: 5px; cursor:pointer;"></span></li>
+<li style="margin: 8px 0; padding: 10px; border-left: 3px solid var(--lime-green);">
+<a class="video-link" href="player.html?url=https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1730785-1739633483/hls-7dc386/720p/master-3869559.3489847393.m3u8&amp;name=] Simple Interest 10 - VIDEO&amp;path=CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html&amp;num=0" target="_blank">
+<i class="fas fa-play-circle"></i> ] Simple Interest 10 - VIDEO
+                                          </a>
+<span class="status-icon" style="margin-left: 10px; font-weight: bold;"></span><span class="fav-icon video-fav-icon" onclick="toggleFavorite(this, 'https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1730785-1739633483/hls-7dc386/720p/master-3869559.3489847393.m3u8', '] Simple Interest 10 - VIDEO', 'CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html', '0', 'video')" style="margin-left: 5px; cursor:pointer;"></span></li>
+<li style="margin: 8px 0; padding: 10px; border-left: 3px solid var(--lime-green);">
+<a class="video-link" href="player.html?url=https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1735808-1739801423/hls-e0b528/720p/master-2947797.6976172114.m3u8&amp;name=] Simple Interest 11 - VIDEO&amp;path=CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html&amp;num=0" target="_blank">
+<i class="fas fa-play-circle"></i> ] Simple Interest 11 - VIDEO
+                                          </a>
+<span class="status-icon" style="margin-left: 10px; font-weight: bold;"></span><span class="fav-icon video-fav-icon" onclick="toggleFavorite(this, 'https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1735808-1739801423/hls-e0b528/720p/master-2947797.6976172114.m3u8', '] Simple Interest 11 - VIDEO', 'CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html', '0', 'video')" style="margin-left: 5px; cursor:pointer;"></span></li>
+<li style="margin: 8px 0; padding: 10px; border-left: 3px solid var(--lime-green);">
+<a class="video-link" href="player.html?url=https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1739820-1739889443/hls-3e70f3/720p/master-526983.688695506.m3u8&amp;name=] Simple Interest 12 - VIDEO&amp;path=CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html&amp;num=0" target="_blank">
+<i class="fas fa-play-circle"></i> ] Simple Interest 12 - VIDEO
+                                          </a>
+<span class="status-icon" style="margin-left: 10px; font-weight: bold;"></span><span class="fav-icon video-fav-icon" onclick="toggleFavorite(this, 'https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1739820-1739889443/hls-3e70f3/720p/master-526983.688695506.m3u8', '] Simple Interest 12 - VIDEO', 'CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html', '0', 'video')" style="margin-left: 5px; cursor:pointer;"></span></li>
+<li style="margin: 8px 0; padding: 10px; border-left: 3px solid var(--lime-green);">
+<a class="video-link" href="player.html?url=https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1743666-1739978541/hls-fd4d3a/720p/master-8249085.854521506.m3u8&amp;name=] Simple Interest 13 - VIDEO&amp;path=CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html&amp;num=0" target="_blank">
+<i class="fas fa-play-circle"></i> ] Simple Interest 13 - VIDEO
+                                          </a>
+<span class="status-icon" style="margin-left: 10px; font-weight: bold;"></span><span class="fav-icon video-fav-icon" onclick="toggleFavorite(this, 'https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1743666-1739978541/hls-fd4d3a/720p/master-8249085.854521506.m3u8', '] Simple Interest 13 - VIDEO', 'CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html', '0', 'video')" style="margin-left: 5px; cursor:pointer;"></span></li>
+<li style="margin: 8px 0; padding: 10px; border-left: 3px solid var(--lime-green);">
+<a class="video-link" href="player.html?url=https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1747119-1740060982/hls-4735a2/720p/master-3046391.1210733443.m3u8&amp;name=] Simple Interest 14 - VIDEO&amp;path=CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html&amp;num=0" target="_blank">
+<i class="fas fa-play-circle"></i> ] Simple Interest 14 - VIDEO
+                                          </a>
+<span class="status-icon" style="margin-left: 10px; font-weight: bold;"></span><span class="fav-icon video-fav-icon" onclick="toggleFavorite(this, 'https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1747119-1740060982/hls-4735a2/720p/master-3046391.1210733443.m3u8', '] Simple Interest 14 - VIDEO', 'CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html', '0', 'video')" style="margin-left: 5px; cursor:pointer;"></span></li>
+<li style="margin: 8px 0; padding: 10px; border-left: 3px solid var(--lime-green);">
+<a class="video-link" href="player.html?url=https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1750363-1740147744/hls-d22f87/720p/master-5882157.161493089.m3u8&amp;name=] S. I. (Installment) Class 01 - VIDEO&amp;path=CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html&amp;num=0" target="_blank">
+<i class="fas fa-play-circle"></i> ] S. I. (Installment) Class 01 - VIDEO
+                                          </a>
+<span class="status-icon" style="margin-left: 10px; font-weight: bold;"></span><span class="fav-icon video-fav-icon" onclick="toggleFavorite(this, 'https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1750363-1740147744/hls-d22f87/720p/master-5882157.161493089.m3u8', '] S. I. (Installment) Class 01 - VIDEO', 'CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html', '0', 'video')" style="margin-left: 5px; cursor:pointer;"></span></li>
+<li style="margin: 8px 0; padding: 10px; border-left: 3px solid var(--lime-green);">
+<a class="video-link" href="player.html?url=https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1758577-1740407130/hls-c53f45/720p/master-3226122.5220339387.m3u8&amp;name=] S. I. (Installment) 02 - VIDEO&amp;path=CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html&amp;num=0" target="_blank">
+<i class="fas fa-play-circle"></i> ] S. I. (Installment) 02 - VIDEO
+                                          </a>
+<span class="status-icon" style="margin-left: 10px; font-weight: bold;"></span><span class="fav-icon video-fav-icon" onclick="toggleFavorite(this, 'https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1758577-1740407130/hls-c53f45/720p/master-3226122.5220339387.m3u8', '] S. I. (Installment) 02 - VIDEO', 'CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html', '0', 'video')" style="margin-left: 5px; cursor:pointer;"></span></li>
+<li style="margin: 8px 0; padding: 10px; border-left: 3px solid var(--lime-green);">
+<a class="video-link" href="player.html?url=https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1766727-1740632668/hls-3da94c/720p/master-5043137.506204216.m3u8&amp;name=] S. I. (Installment) 03 - VIDEO&amp;path=CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html&amp;num=0" target="_blank">
+<i class="fas fa-play-circle"></i> ] S. I. (Installment) 03 - VIDEO
+                                          </a>
+<span class="status-icon" style="margin-left: 10px; font-weight: bold;"></span><span class="fav-icon video-fav-icon" onclick="toggleFavorite(this, 'https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1766727-1740632668/hls-3da94c/720p/master-5043137.506204216.m3u8', '] S. I. (Installment) 03 - VIDEO', 'CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html', '0', 'video')" style="margin-left: 5px; cursor:pointer;"></span></li>
+<li style="margin: 8px 0; padding: 10px; border-left: 3px solid var(--lime-green);">
+<a class="video-link" href="player.html?url=https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1769369-1740667043/hls-8f313a/720p/master-2308837.252919025.m3u8&amp;name=] S. I. (Installment) 04 - VIDEO&amp;path=CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html&amp;num=0" target="_blank">
+<i class="fas fa-play-circle"></i> ] S. I. (Installment) 04 - VIDEO
+                                          </a>
+<span class="status-icon" style="margin-left: 10px; font-weight: bold;"></span><span class="fav-icon video-fav-icon" onclick="toggleFavorite(this, 'https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1769369-1740667043/hls-8f313a/720p/master-2308837.252919025.m3u8', '] S. I. (Installment) 04 - VIDEO', 'CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html', '0', 'video')" style="margin-left: 5px; cursor:pointer;"></span></li>
+</ul>
+<span class="status-icon" style="margin-left: 10px; font-weight: bold;"></span><span class="fav-icon video-fav-icon" onclick="toggleFavorite(this, 'https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1676049-1738254319/hls-2b8bc0/720p/master-7231171.640743484.m3u8', '] Simple Interest 01 - VIDEO', 'CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html', '3', 'video')" style="margin-left: 5px; cursor:pointer;"></span></li>
+<li>
+<span class="number">4.</span>
+<strong>चक्रवृद्धि ब्याज</strong>
+<ul style="margin-top: 10px;">
+<li style="margin: 8px 0; padding: 10px; border-left: 3px solid var(--lime-green);">
+<a class="video-link" href="player.html?url=player.html?url=https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1772604-1740752182/hls-cef3bf/720p/master-6253445.042950326.m3u8&amp;name=] Compound Interest 01 - VIDEO&amp;path=CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html&amp;num=4&amp;name=] Compound Interest 01 - VIDEO&amp;path=CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html&amp;num=0" target="_blank">
+<i class="fas fa-play-circle"></i> ] Compound Interest 01 - VIDEO
+                                          </a>
+<span class="status-icon" style="margin-left: 10px; font-weight: bold;"></span><span class="fav-icon video-fav-icon" onclick="toggleFavorite(this, 'player.html?url=https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1772604-1740752182/hls-cef3bf/720p/master-6253445.042950326.m3u8&amp;name=] Compound Interest 01 - VIDEO&amp;path=CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html&amp;num=4', '] Compound Interest 01 - VIDEO', 'CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html', '0', 'video')" style="margin-left: 5px; cursor:pointer;"></span></li>
+<li style="margin: 8px 0; padding: 10px; border-left: 3px solid var(--lime-green);">
+<a class="video-link" href="player.html?url=https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1782561-1741082494/hls-bd4733/720p/master-2493612.5544294165.m3u8&amp;name=] Compound Interest 02 - VIDEO&amp;path=CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html&amp;num=0" target="_blank">
+<i class="fas fa-play-circle"></i> ] Compound Interest 02 - VIDEO
+                                          </a>
+<span class="status-icon" style="margin-left: 10px; font-weight: bold;"></span><span class="fav-icon video-fav-icon" onclick="toggleFavorite(this, 'https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1782561-1741082494/hls-bd4733/720p/master-2493612.5544294165.m3u8', '] Compound Interest 02 - VIDEO', 'CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html', '0', 'video')" style="margin-left: 5px; cursor:pointer;"></span></li>
+<li style="margin: 8px 0; padding: 10px; border-left: 3px solid var(--lime-green);">
+<a class="video-link" href="player.html?url=https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1783708-1741096164/hls-1dba57/720p/master-3991969.262428374.m3u8&amp;name=] Compound Interest 03 - VIDEO&amp;path=CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html&amp;num=0" target="_blank">
+<i class="fas fa-play-circle"></i> ] Compound Interest 03 - VIDEO
+                                          </a>
+<span class="status-icon" style="margin-left: 10px; font-weight: bold;"></span><span class="fav-icon video-fav-icon" onclick="toggleFavorite(this, 'https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1783708-1741096164/hls-1dba57/720p/master-3991969.262428374.m3u8', '] Compound Interest 03 - VIDEO', 'CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html', '0', 'video')" style="margin-left: 5px; cursor:pointer;"></span></li>
+<li style="margin: 8px 0; padding: 10px; border-left: 3px solid var(--lime-green);">
+<a class="video-link" href="player.html?url=https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1787876-1741184188/hls-06fd95/720p/master-942281.5553952745.m3u8&amp;name=] Compound interest 04 - VIDEO&amp;path=CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html&amp;num=0" target="_blank">
+<i class="fas fa-play-circle"></i> ] Compound interest 04 - VIDEO
+                                          </a>
+<span class="status-icon" style="margin-left: 10px; font-weight: bold;"></span><span class="fav-icon video-fav-icon" onclick="toggleFavorite(this, 'https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1787876-1741184188/hls-06fd95/720p/master-942281.5553952745.m3u8', '] Compound interest 04 - VIDEO', 'CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html', '0', 'video')" style="margin-left: 5px; cursor:pointer;"></span></li>
+<li style="margin: 8px 0; padding: 10px; border-left: 3px solid var(--lime-green);">
+<a class="video-link" href="player.html?url=https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1792006-1741270588/hls-03490e/720p/master-9340120.886653176.m3u8&amp;name=] Compound Interest 05 - VIDEO&amp;path=CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html&amp;num=0" target="_blank">
+<i class="fas fa-play-circle"></i> ] Compound Interest 05 - VIDEO
+                                          </a>
+<span class="status-icon" style="margin-left: 10px; font-weight: bold;"></span><span class="fav-icon video-fav-icon" onclick="toggleFavorite(this, 'https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1792006-1741270588/hls-03490e/720p/master-9340120.886653176.m3u8', '] Compound Interest 05 - VIDEO', 'CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html', '0', 'video')" style="margin-left: 5px; cursor:pointer;"></span></li>
+</ul>
+<span class="status-icon" style="margin-left: 10px; font-weight: bold;"></span><span class="fav-icon video-fav-icon" onclick="toggleFavorite(this, 'https://non-drm-indian-warriror.vercel.app/?url=https://transcoded-videos-v2.classx.co.in/videos/rgvikramjeet-data/1772604-1740752182/hls-cef3bf/720p/master-6253445.042950326.m3u8', '] Compound Interest 01 - VIDEO', 'CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html', '4', 'video')" style="margin-left: 5px; cursor:pointer;"></span></li>
+<li>
+<span class="number">5.</span>
+<strong>Trigonometry</strong>
+<ul style="margin-top: 10px;">
+<li style="margin: 8px 0; padding: 10px; border-left: 3px solid var(--lime-green);">
+<a class="video-link" href="player.html?url=player.html?url=https://non-drm-indian-warriror.vercel.app/?url=https://appx-recordings-mcdn.akamai.net.in/drm/d027dfc0-e90e-4541-9b9d-0eb49c26228e/720p/drm-hls/master_tunak_tunak_tun.m3u8&amp;name=] Maxima &amp; Minima Class 01 - VIDEO&amp;path=CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html&amp;num=5&amp;name=] Maxima &amp; Minima Class 01 - VIDEO&amp;path=CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html&amp;num=0" target="_blank">
+<i class="fas fa-play-circle"></i> ] Maxima &amp; Minima Class 01 - VIDEO
+                                          </a>
+<span class="status-icon" style="margin-left: 10px; font-weight: bold;"></span><span class="fav-icon video-fav-icon" onclick="toggleFavorite(this, 'player.html?url=https://non-drm-indian-warriror.vercel.app/?url=https://appx-recordings-mcdn.akamai.net.in/drm/d027dfc0-e90e-4541-9b9d-0eb49c26228e/720p/drm-hls/master_tunak_tunak_tun.m3u8&amp;name=] Maxima &amp; Minima Class 01 - VIDEO&amp;path=CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html&amp;num=5', '] Maxima &amp; Minima Class 01 - VIDEO', 'CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html', '0', 'video')" style="margin-left: 5px; cursor:pointer;"></span></li>
+<li style="margin: 8px 0; padding: 10px; border-left: 3px solid var(--lime-green);">
+<a class="video-link" href="player.html?url=https://non-drm-indian-warriror.vercel.app/?url=https://appx-recordings-mcdn.akamai.net.in/drm/128c350b-5d91-4f1c-833f-3fee2b4204e5/720p/drm-hls/master_tunak_tunak_tun.m3u8&amp;name=] Maxima &amp; Minima Class 02 - VIDEO&amp;path=CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html&amp;num=0" target="_blank">
+<i class="fas fa-play-circle"></i> ] Maxima &amp; Minima Class 02 - VIDEO
+                                          </a>
+<span class="status-icon" style="margin-left: 10px; font-weight: bold;"></span><span class="fav-icon video-fav-icon" onclick="toggleFavorite(this, 'https://non-drm-indian-warriror.vercel.app/?url=https://appx-recordings-mcdn.akamai.net.in/drm/128c350b-5d91-4f1c-833f-3fee2b4204e5/720p/drm-hls/master_tunak_tunak_tun.m3u8', '] Maxima &amp; Minima Class 02 - VIDEO', 'CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html', '0', 'video')" style="margin-left: 5px; cursor:pointer;"></span></li>
+</ul>
+<span class="status-icon" style="margin-left: 10px; font-weight: bold;"></span><span class="fav-icon video-fav-icon" onclick="toggleFavorite(this, 'https://non-drm-indian-warriror.vercel.app/?url=https://appx-recordings-mcdn.akamai.net.in/drm/d027dfc0-e90e-4541-9b9d-0eb49c26228e/720p/drm-hls/master_tunak_tunak_tun.m3u8', '] Maxima &amp; Minima Class 01 - VIDEO', 'CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html', '5', 'video')" style="margin-left: 5px; cursor:pointer;"></span></li>
+</ul>
+</div>
+<button class="section-button" onclick="toggleSection('pdfs')">
+<i class="fas fa-file-pdf"></i> PDFs
+                  </button>
+<div class="section" id="pdfs">
+<ul>
+<li>
+<span class="number">1.</span>
+<a class="pdf-link" download="CHAMPIONS 20_[PERCENTAGE (प्रतिशत )] Percentage (ClassRoom Sheet) - PDF.pdf" href="https://appx-content-v2.classx.co.in/paid_course4/2024-12-30-0.40100596731909355.pdf" target="_blank">
+<i class="fas fa-file-pdf"></i> [PERCENTAGE (प्रतिशत )] Percentage (ClassRoom Sheet) - PDF
+                              </a>
+<span class="fav-icon pdf-fav-icon" onclick="toggleFavorite(this, 'https://appx-content-v2.classx.co.in/paid_course4/2024-12-30-0.40100596731909355.pdf', '[PERCENTAGE (प्रतिशत )] Percentage (ClassRoom Sheet) - PDF', 'CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html', '[PERCENTAGE_(प्रतिशत_)]_Percentage_(ClassRoom_Sheet)_-_PDF', 'pdf')" style="margin-left: 5px; cursor:pointer;"></span></li>
+<li>
+<span class="number">2.</span>
+<a class="pdf-link" download="CHAMPIONS 20_[PERCENTAGE (प्रतिशत )] Percentage (Class Notes) - PDF.pdf" href="https://appx-content-v2.classx.co.in/paid_course4/2025-01-29-0.3441279928911405.pdf" target="_blank">
+<i class="fas fa-file-pdf"></i> [PERCENTAGE (प्रतिशत )] Percentage (Class Notes) - PDF
+                              </a>
+<span class="fav-icon pdf-fav-icon" onclick="toggleFavorite(this, 'https://appx-content-v2.classx.co.in/paid_course4/2025-01-29-0.3441279928911405.pdf', '[PERCENTAGE (प्रतिशत )] Percentage (Class Notes) - PDF', 'CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html', '[PERCENTAGE_(प्रतिशत_)]_Percentage_(Class_Notes)_-_PDF', 'pdf')" style="margin-left: 5px; cursor:pointer;"></span></li>
+<li>
+<span class="number">3.</span>
+<a class="pdf-link" download="CHAMPIONS 20_[PERCENTAGE (प्रतिशत )] Percentage (Practice Sheet With Solution) - PDF.pdf" href="https://appx-content-v2.classx.co.in/paid_course4/2025-01-16-0.6835287871334286.pdf" target="_blank">
+<i class="fas fa-file-pdf"></i> [PERCENTAGE (प्रतिशत )] Percentage (Practice Sheet With Solution) - PDF
+                              </a>
+<span class="fav-icon pdf-fav-icon" onclick="toggleFavorite(this, 'https://appx-content-v2.classx.co.in/paid_course4/2025-01-16-0.6835287871334286.pdf', '[PERCENTAGE (प्रतिशत )] Percentage (Practice Sheet With Solution) - PDF', 'CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html', '[PERCENTAGE_(प्रतिशत_)]_Percentage_(Practice_Sheet_With_Solution)_-_PDF', 'pdf')" style="margin-left: 5px; cursor:pointer;"></span></li>
+<li>
+<span class="number">4.</span>
+<a class="pdf-link" download="CHAMPIONS 20_[SIMPLE INTEREST (साधारण ब्याज)] Simple Interest (ClassRoom Sheet) - PDF.pdf" href="https://appx-content-v2.classx.co.in/paid_course4/2025-02-04-0.600103656406243.pdf" target="_blank">
+<i class="fas fa-file-pdf"></i> [SIMPLE INTEREST (साधारण ब्याज)] Simple Interest (ClassRoom Sheet) - PDF
+                              </a>
+<span class="fav-icon pdf-fav-icon" onclick="toggleFavorite(this, 'https://appx-content-v2.classx.co.in/paid_course4/2025-02-04-0.600103656406243.pdf', '[SIMPLE INTEREST (साधारण ब्याज)] Simple Interest (ClassRoom Sheet) - PDF', 'CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html', '[SIMPLE_INTEREST_(साधारण_ब्याज)]_Simple_Interest_(ClassRoom_Sheet)_-_PDF', 'pdf')" style="margin-left: 5px; cursor:pointer;"></span></li>
+<li>
+<span class="number">5.</span>
+<a class="pdf-link" download="CHAMPIONS 20_[SIMPLE INTEREST (साधारण ब्याज)] Simple Interest (Class Notes) - PDF.pdf" href="https://appx-content-v2.classx.co.in/paid_course4/2025-02-20-0.18947940349737125.pdf" target="_blank">
+<i class="fas fa-file-pdf"></i> [SIMPLE INTEREST (साधारण ब्याज)] Simple Interest (Class Notes) - PDF
+                              </a>
+<span class="fav-icon pdf-fav-icon" onclick="toggleFavorite(this, 'https://appx-content-v2.classx.co.in/paid_course4/2025-02-20-0.18947940349737125.pdf', '[SIMPLE INTEREST (साधारण ब्याज)] Simple Interest (Class Notes) - PDF', 'CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html', '[SIMPLE_INTEREST_(साधारण_ब्याज)]_Simple_Interest_(Class_Notes)_-_PDF', 'pdf')" style="margin-left: 5px; cursor:pointer;"></span></li>
+<li>
+<span class="number">6.</span>
+<a class="pdf-link" download="CHAMPIONS 20_[SIMPLE INTEREST (साधारण ब्याज)] Simple Interest (Practice Sheet With Solution) - PDF.pdf" href="https://appx-content-v2.classx.co.in/paid_course4/2025-02-25-0.2552316610541796.pdf" target="_blank">
+<i class="fas fa-file-pdf"></i> [SIMPLE INTEREST (साधारण ब्याज)] Simple Interest (Practice Sheet With Solution) - PDF
+                              </a>
+<span class="fav-icon pdf-fav-icon" onclick="toggleFavorite(this, 'https://appx-content-v2.classx.co.in/paid_course4/2025-02-25-0.2552316610541796.pdf', '[SIMPLE INTEREST (साधारण ब्याज)] Simple Interest (Practice Sheet With Solution) - PDF', 'CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html', '[SIMPLE_INTEREST_(साधारण_ब्याज)]_Simple_Interest_(Practice_Sheet_With_Solution)_-_PDF', 'pdf')" style="margin-left: 5px; cursor:pointer;"></span></li>
+<li>
+<span class="number">7.</span>
+<a class="pdf-link" download="CHAMPIONS 20_[SIMPLE INTEREST (साधारण ब्याज)] S. I. Installment (ClassRoom Sheet) - PDF.pdf" href="https://appx-content-v2.classx.co.in/paid_course4/2025-02-21-0.9017997070886481.pdf" target="_blank">
+<i class="fas fa-file-pdf"></i> [SIMPLE INTEREST (साधारण ब्याज)] S. I. Installment (ClassRoom Sheet) - PDF
+                              </a>
+<span class="fav-icon pdf-fav-icon" onclick="toggleFavorite(this, 'https://appx-content-v2.classx.co.in/paid_course4/2025-02-21-0.9017997070886481.pdf', '[SIMPLE INTEREST (साधारण ब्याज)] S. I. Installment (ClassRoom Sheet) - PDF', 'CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html', '[SIMPLE_INTEREST_(साधारण_ब्याज)]_S_I_Installment_(ClassRoom_Sheet)_-_PDF', 'pdf')" style="margin-left: 5px; cursor:pointer;"></span></li>
+<li>
+<span class="number">8.</span>
+<a class="pdf-link" download="CHAMPIONS 20_[SIMPLE INTEREST (साधारण ब्याज)] S. I. (Installment) Class Notes - PDF.pdf" href="https://appx-content-v2.classx.co.in/paid_course4/2025-02-27-0.7646405444857804.pdf" target="_blank">
+<i class="fas fa-file-pdf"></i> [SIMPLE INTEREST (साधारण ब्याज)] S. I. (Installment) Class Notes - PDF
+                              </a>
+<span class="fav-icon pdf-fav-icon" onclick="toggleFavorite(this, 'https://appx-content-v2.classx.co.in/paid_course4/2025-02-27-0.7646405444857804.pdf', '[SIMPLE INTEREST (साधारण ब्याज)] S. I. (Installment) Class Notes - PDF', 'CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html', '[SIMPLE_INTEREST_(साधारण_ब्याज)]_S_I_(Installment)_Class_Notes_-_PDF', 'pdf')" style="margin-left: 5px; cursor:pointer;"></span></li>
+<li>
+<span class="number">9.</span>
+<a class="pdf-link" download="CHAMPIONS 20_[SIMPLE INTEREST (साधारण ब्याज)] S.I. Installment (Practice Sheet With Solution) - PDF.pdf" href="https://appx-content-v2.classx.co.in/paid_course4/2025-03-01-0.21465245266967048.pdf" target="_blank">
+<i class="fas fa-file-pdf"></i> [SIMPLE INTEREST (साधारण ब्याज)] S.I. Installment (Practice Sheet With Solution) - PDF
+                              </a>
+<span class="fav-icon pdf-fav-icon" onclick="toggleFavorite(this, 'https://appx-content-v2.classx.co.in/paid_course4/2025-03-01-0.21465245266967048.pdf', '[SIMPLE INTEREST (साधारण ब्याज)] S.I. Installment (Practice Sheet With Solution) - PDF', 'CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html', '[SIMPLE_INTEREST_(साधारण_ब्याज)]_SI_Installment_(Practice_Sheet_With_Solution)_-_PDF', 'pdf')" style="margin-left: 5px; cursor:pointer;"></span></li>
+<li>
+<span class="number">10.</span>
+<a class="pdf-link" download="CHAMPIONS 20_[SIMPLE INTEREST (साधारण ब्याज)] SSC MATHS 2ND  SIMPLE INTEREST English (TYPEWISE) - PDF.pdf" href="https://appx-content-v2.classx.co.in/paid_course4/2025-02-28-0.8946961060906402.pdf" target="_blank">
+<i class="fas fa-file-pdf"></i> [SIMPLE INTEREST (साधारण ब्याज)] SSC MATHS 2ND  SIMPLE INTEREST English (TYPEWISE) - PDF
+                              </a>
+<span class="fav-icon pdf-fav-icon" onclick="toggleFavorite(this, 'https://appx-content-v2.classx.co.in/paid_course4/2025-02-28-0.8946961060906402.pdf', '[SIMPLE INTEREST (साधारण ब्याज)] SSC MATHS 2ND  SIMPLE INTEREST English (TYPEWISE) - PDF', 'CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html', '[SIMPLE_INTEREST_(साधारण_ब्याज)]_SSC_MATHS_2ND__SIMPLE_INTEREST_English_(TYPEWISE)_-_PDF', 'pdf')" style="margin-left: 5px; cursor:pointer;"></span></li>
+<li>
+<span class="number">11.</span>
+<a class="pdf-link" download="CHAMPIONS 20_[SIMPLE INTEREST (साधारण ब्याज)] SSC MATHS 2ND SIMPLE INTEREST Hindi (TYPEWISE) - PDF.pdf" href="https://appx-content-v2.classx.co.in/paid_course4/2025-02-28-0.7667011933935071.pdf" target="_blank">
+<i class="fas fa-file-pdf"></i> [SIMPLE INTEREST (साधारण ब्याज)] SSC MATHS 2ND SIMPLE INTEREST Hindi (TYPEWISE) - PDF
+                              </a>
+<span class="fav-icon pdf-fav-icon" onclick="toggleFavorite(this, 'https://appx-content-v2.classx.co.in/paid_course4/2025-02-28-0.7667011933935071.pdf', '[SIMPLE INTEREST (साधारण ब्याज)] SSC MATHS 2ND SIMPLE INTEREST Hindi (TYPEWISE) - PDF', 'CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html', '[SIMPLE_INTEREST_(साधारण_ब्याज)]_SSC_MATHS_2ND_SIMPLE_INTEREST_Hindi_(TYPEWISE)_-_PDF', 'pdf')" style="margin-left: 5px; cursor:pointer;"></span></li>
+<li>
+<span class="number">12.</span>
+<a class="pdf-link" download="CHAMPIONS 20_[COMPOUND INTEREST (चक्रवृद्धि ब्याज)] Compound Interest (ClassRoom Sheet) - PDF.pdf" href="https://appx-content-v2.classx.co.in/paid_course4/2025-02-28-0.353576284795063.pdf" target="_blank">
+<i class="fas fa-file-pdf"></i> [COMPOUND INTEREST (चक्रवृद्धि ब्याज)] Compound Interest (ClassRoom Sheet) - PDF
+                              </a>
+<span class="fav-icon pdf-fav-icon" onclick="toggleFavorite(this, 'https://appx-content-v2.classx.co.in/paid_course4/2025-02-28-0.353576284795063.pdf', '[COMPOUND INTEREST (चक्रवृद्धि ब्याज)] Compound Interest (ClassRoom Sheet) - PDF', 'CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html', '[COMPOUND_INTEREST_(चक्रवृद्धि_ब्याज)]_Compound_Interest_(ClassRoom_Sheet)_-_PDF', 'pdf')" style="margin-left: 5px; cursor:pointer;"></span></li>
+<li>
+<span class="number">13.</span>
+<a class="pdf-link" download="CHAMPIONS 20_[TRIGONOMETRY] Trigonometry  (ClassRoom Sheet-01) - PDF.pdf" href="https://appx-content-v2.classx.co.in/paid_course4/2025-01-17-0.08641366904652203.pdf" target="_blank">
+<i class="fas fa-file-pdf"></i> [TRIGONOMETRY] Trigonometry  (ClassRoom Sheet-01) - PDF
+                              </a>
+<span class="fav-icon pdf-fav-icon" onclick="toggleFavorite(this, 'https://appx-content-v2.classx.co.in/paid_course4/2025-01-17-0.08641366904652203.pdf', '[TRIGONOMETRY] Trigonometry  (ClassRoom Sheet-01) - PDF', 'CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html', '[TRIGONOMETRY]_Trigonometry__(ClassRoom_Sheet-01)_-_PDF', 'pdf')" style="margin-left: 5px; cursor:pointer;"></span></li>
+<li>
+<span class="number">14.</span>
+<a class="pdf-link" download="CHAMPIONS 20_[TRIGONOMETRY] Trigonometry Sheet-01 (Class Notes) - PDF.pdf" href="https://appx-content-v2.classx.co.in/paid_course4/2025-02-03-0.14245377241328394.pdf" target="_blank">
+<i class="fas fa-file-pdf"></i> [TRIGONOMETRY] Trigonometry Sheet-01 (Class Notes) - PDF
+                              </a>
+<span class="fav-icon pdf-fav-icon" onclick="toggleFavorite(this, 'https://appx-content-v2.classx.co.in/paid_course4/2025-02-03-0.14245377241328394.pdf', '[TRIGONOMETRY] Trigonometry Sheet-01 (Class Notes) - PDF', 'CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html', '[TRIGONOMETRY]_Trigonometry_Sheet-01_(Class_Notes)_-_PDF', 'pdf')" style="margin-left: 5px; cursor:pointer;"></span></li>
+<li>
+<span class="number">15.</span>
+<a class="pdf-link" download="CHAMPIONS 20_[TRIGONOMETRY] Trigonometry  (ClassRoom Sheet-02) - PDF.pdf" href="https://appx-content-v2.classx.co.in/paid_course4/2025-01-31-0.9026442778077752.pdf" target="_blank">
+<i class="fas fa-file-pdf"></i> [TRIGONOMETRY] Trigonometry  (ClassRoom Sheet-02) - PDF
+                              </a>
+<span class="fav-icon pdf-fav-icon" onclick="toggleFavorite(this, 'https://appx-content-v2.classx.co.in/paid_course4/2025-01-31-0.9026442778077752.pdf', '[TRIGONOMETRY] Trigonometry  (ClassRoom Sheet-02) - PDF', 'CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html', '[TRIGONOMETRY]_Trigonometry__(ClassRoom_Sheet-02)_-_PDF', 'pdf')" style="margin-left: 5px; cursor:pointer;"></span></li>
+<li>
+<span class="number">16.</span>
+<a class="pdf-link" download="CHAMPIONS 20_[TRIGONOMETRY] Trigonometry Sheet-02 (Class Notes) - PDF.pdf" href="https://appx-content-v2.classx.co.in/paid_course4/2025-02-07-0.06574500870155142.pdf" target="_blank">
+<i class="fas fa-file-pdf"></i> [TRIGONOMETRY] Trigonometry Sheet-02 (Class Notes) - PDF
+                              </a>
+<span class="fav-icon pdf-fav-icon" onclick="toggleFavorite(this, 'https://appx-content-v2.classx.co.in/paid_course4/2025-02-07-0.06574500870155142.pdf', '[TRIGONOMETRY] Trigonometry Sheet-02 (Class Notes) - PDF', 'CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html', '[TRIGONOMETRY]_Trigonometry_Sheet-02_(Class_Notes)_-_PDF', 'pdf')" style="margin-left: 5px; cursor:pointer;"></span></li>
+<li>
+<span class="number">17.</span>
+<a class="pdf-link" download="CHAMPIONS 20_[TRIGONOMETRY] Trigonometry (ClassRoom Sheet-03) - PDF.pdf" href="https://appx-content-v2.classx.co.in/subject/2025-02-19-0.08684709986356332.pdf" target="_blank">
+<i class="fas fa-file-pdf"></i> [TRIGONOMETRY] Trigonometry (ClassRoom Sheet-03) - PDF
+                              </a>
+<span class="fav-icon pdf-fav-icon" onclick="toggleFavorite(this, 'https://appx-content-v2.classx.co.in/subject/2025-02-19-0.08684709986356332.pdf', '[TRIGONOMETRY] Trigonometry (ClassRoom Sheet-03) - PDF', 'CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html', '[TRIGONOMETRY]_Trigonometry_(ClassRoom_Sheet-03)_-_PDF', 'pdf')" style="margin-left: 5px; cursor:pointer;"></span></li>
+<li>
+<span class="number">18.</span>
+<a class="pdf-link" download="CHAMPIONS 20_[TRIGONOMETRY] Trigonometry Sheet-03 (Class Notes) - PDF.pdf" href="https://appx-content-v2.classx.co.in/paid_course4/2025-02-21-0.22073481371578074.pdf" target="_blank">
+<i class="fas fa-file-pdf"></i> [TRIGONOMETRY] Trigonometry Sheet-03 (Class Notes) - PDF
+                              </a>
+<span class="fav-icon pdf-fav-icon" onclick="toggleFavorite(this, 'https://appx-content-v2.classx.co.in/paid_course4/2025-02-21-0.22073481371578074.pdf', '[TRIGONOMETRY] Trigonometry Sheet-03 (Class Notes) - PDF', 'CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html', '[TRIGONOMETRY]_Trigonometry_Sheet-03_(Class_Notes)_-_PDF', 'pdf')" style="margin-left: 5px; cursor:pointer;"></span></li>
+<li>
+<span class="number">19.</span>
+<a class="pdf-link" download="CHAMPIONS 20_[TRIGONOMETRY] Trigonometry  (ClassRoom Sheet-04) - PDF.pdf" href="https://appx-content-v2.classx.co.in/paid_course4/2025-02-21-0.1907575735079814.pdf" target="_blank">
+<i class="fas fa-file-pdf"></i> [TRIGONOMETRY] Trigonometry  (ClassRoom Sheet-04) - PDF
+                              </a>
+<span class="fav-icon pdf-fav-icon" onclick="toggleFavorite(this, 'https://appx-content-v2.classx.co.in/paid_course4/2025-02-21-0.1907575735079814.pdf', '[TRIGONOMETRY] Trigonometry  (ClassRoom Sheet-04) - PDF', 'CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html', '[TRIGONOMETRY]_Trigonometry__(ClassRoom_Sheet-04)_-_PDF', 'pdf')" style="margin-left: 5px; cursor:pointer;"></span></li>
+<li>
+<span class="number">20.</span>
+<a class="pdf-link" download="CHAMPIONS 20_[TRIGONOMETRY] Trigonometry Sheet-04 (Class Notes) - PDF.pdf" href="https://appx-content-v2.classx.co.in/paid_course4/2025-02-27-0.8356002908711662.pdf" target="_blank">
+<i class="fas fa-file-pdf"></i> [TRIGONOMETRY] Trigonometry Sheet-04 (Class Notes) - PDF
+                              </a>
+<span class="fav-icon pdf-fav-icon" onclick="toggleFavorite(this, 'https://appx-content-v2.classx.co.in/paid_course4/2025-02-27-0.8356002908711662.pdf', '[TRIGONOMETRY] Trigonometry Sheet-04 (Class Notes) - PDF', 'CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html', '[TRIGONOMETRY]_Trigonometry_Sheet-04_(Class_Notes)_-_PDF', 'pdf')" style="margin-left: 5px; cursor:pointer;"></span></li>
+<li>
+<span class="number">21.</span>
+<a class="pdf-link" download="CHAMPIONS 20_[TRIGONOMETRY] Trigonometry  (ClassRoom Sheet-05) - PDF.pdf" href="https://appx-content-v2.classx.co.in/paid_course4/2025-02-28-0.29816631876976385.pdf" target="_blank">
+<i class="fas fa-file-pdf"></i> [TRIGONOMETRY] Trigonometry  (ClassRoom Sheet-05) - PDF
+                              </a>
+<span class="fav-icon pdf-fav-icon" onclick="toggleFavorite(this, 'https://appx-content-v2.classx.co.in/paid_course4/2025-02-28-0.29816631876976385.pdf', '[TRIGONOMETRY] Trigonometry  (ClassRoom Sheet-05) - PDF', 'CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html', '[TRIGONOMETRY]_Trigonometry__(ClassRoom_Sheet-05)_-_PDF', 'pdf')" style="margin-left: 5px; cursor:pointer;"></span></li>
+<li>
+<span class="number">22.</span>
+<a class="pdf-link" download="CHAMPIONS 20_[TRIGONOMETRY] Trigonometry Sheet-05 (Class Notes) - PDF.pdf" href="https://appx-content-v2.classx.co.in/paid_course4/2025-03-05-0.24612228113718615.pdf" target="_blank">
+<i class="fas fa-file-pdf"></i> [TRIGONOMETRY] Trigonometry Sheet-05 (Class Notes) - PDF
+                              </a>
+<span class="fav-icon pdf-fav-icon" onclick="toggleFavorite(this, 'https://appx-content-v2.classx.co.in/paid_course4/2025-03-05-0.24612228113718615.pdf', '[TRIGONOMETRY] Trigonometry Sheet-05 (Class Notes) - PDF', 'CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html', '[TRIGONOMETRY]_Trigonometry_Sheet-05_(Class_Notes)_-_PDF', 'pdf')" style="margin-left: 5px; cursor:pointer;"></span></li>
+<li>
+<span class="number">23.</span>
+<a class="pdf-link" download="CHAMPIONS 20_[TRIGONOMETRY] Trigonometry (Practice sheet With Solution) - PDF.pdf" href="https://appx-content-v2.classx.co.in/paid_course4/2025-03-05-0.9259079709267375.pdf" target="_blank">
+<i class="fas fa-file-pdf"></i> [TRIGONOMETRY] Trigonometry (Practice sheet With Solution) - PDF
+                              </a>
+<span class="fav-icon pdf-fav-icon" onclick="toggleFavorite(this, 'https://appx-content-v2.classx.co.in/paid_course4/2025-03-05-0.9259079709267375.pdf', '[TRIGONOMETRY] Trigonometry (Practice sheet With Solution) - PDF', 'CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html', '[TRIGONOMETRY]_Trigonometry_(Practice_sheet_With_Solution)_-_PDF', 'pdf')" style="margin-left: 5px; cursor:pointer;"></span></li>
+<li>
+<span class="number">24.</span>
+<a class="pdf-link" download="CHAMPIONS 20_[TRIGONOMETRY] SSC MATHS 2ND  TRIGONOMETRY English (TYPEWISE) - PDF.pdf" href="https://appx-content-v2.classx.co.in/paid_course4/2025-02-28-0.6458511886009504.pdf" target="_blank">
+<i class="fas fa-file-pdf"></i> [TRIGONOMETRY] SSC MATHS 2ND  TRIGONOMETRY English (TYPEWISE) - PDF
+                              </a>
+<span class="fav-icon pdf-fav-icon" onclick="toggleFavorite(this, 'https://appx-content-v2.classx.co.in/paid_course4/2025-02-28-0.6458511886009504.pdf', '[TRIGONOMETRY] SSC MATHS 2ND  TRIGONOMETRY English (TYPEWISE) - PDF', 'CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html', '[TRIGONOMETRY]_SSC_MATHS_2ND__TRIGONOMETRY_English_(TYPEWISE)_-_PDF', 'pdf')" style="margin-left: 5px; cursor:pointer;"></span></li>
+<li>
+<span class="number">25.</span>
+<a class="pdf-link" download="CHAMPIONS 20_[TRIGONOMETRY] SSC MATHS 2ND TRIGONOMETRY Hindi (TYPEWISE) - PDF.pdf" href="https://appx-content-v2.classx.co.in/paid_course4/2025-02-28-0.7686581788031472.pdf" target="_blank">
+<i class="fas fa-file-pdf"></i> [TRIGONOMETRY] SSC MATHS 2ND TRIGONOMETRY Hindi (TYPEWISE) - PDF
+                              </a>
+<span class="fav-icon pdf-fav-icon" onclick="toggleFavorite(this, 'https://appx-content-v2.classx.co.in/paid_course4/2025-02-28-0.7686581788031472.pdf', '[TRIGONOMETRY] SSC MATHS 2ND TRIGONOMETRY Hindi (TYPEWISE) - PDF', 'CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html', '[TRIGONOMETRY]_SSC_MATHS_2ND_TRIGONOMETRY_Hindi_(TYPEWISE)_-_PDF', 'pdf')" style="margin-left: 5px; cursor:pointer;"></span></li>
+<li>
+<span class="number">26.</span>
+<a class="pdf-link" download="CHAMPIONS 20_[Maxima &amp; Minima (Trigonometry)] Maxima &amp; Minima (ClassRoom Sheet) - PDF.pdf" href="https://appx-wsb-gcp-mcdn.akamai.net.in/paid_course2/2023-04-23-0.047445509509133954.pdf" target="_blank">
+<i class="fas fa-file-pdf"></i> [Maxima &amp; Minima (Trigonometry)] Maxima &amp; Minima (ClassRoom Sheet) - PDF
+                              </a>
+<span class="fav-icon pdf-fav-icon" onclick="toggleFavorite(this, 'https://appx-wsb-gcp-mcdn.akamai.net.in/paid_course2/2023-04-23-0.047445509509133954.pdf', '[Maxima &amp; Minima (Trigonometry)] Maxima &amp; Minima (ClassRoom Sheet) - PDF', 'CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html', '[Maxima_&amp;_Minima_(Trigonometry)]_Maxima_&amp;_Minima_(ClassRoom_Sheet)_-_PDF', 'pdf')" style="margin-left: 5px; cursor:pointer;"></span></li>
+<li>
+<span class="number">27.</span>
+<a class="pdf-link" download="CHAMPIONS 20_[Maxima &amp; Minima (Trigonometry)] Maxima &amp; Minima (Class Notes) - PDF.pdf" href="https://appx-wsb-gcp-mcdn.akamai.net.in/paid_course2/2023-04-23-0.6823353411475304.pdf" target="_blank">
+<i class="fas fa-file-pdf"></i> [Maxima &amp; Minima (Trigonometry)] Maxima &amp; Minima (Class Notes) - PDF
+                              </a>
+<span class="fav-icon pdf-fav-icon" onclick="toggleFavorite(this, 'https://appx-wsb-gcp-mcdn.akamai.net.in/paid_course2/2023-04-23-0.6823353411475304.pdf', '[Maxima &amp; Minima (Trigonometry)] Maxima &amp; Minima (Class Notes) - PDF', 'CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html', '[Maxima_&amp;_Minima_(Trigonometry)]_Maxima_&amp;_Minima_(Class_Notes)_-_PDF', 'pdf')" style="margin-left: 5px; cursor:pointer;"></span></li>
+</ul>
+</div>
+<button class="section-button" onclick="toggleSection('images')">
+<i class="fas fa-image"></i> Images
+                  </button>
+<div class="section" id="images">
+<ul>
+<div class="empty-message">
+<i class="fas fa-image" style="font-size: 2rem; margin-bottom: 15px; opacity: 0.5;"></i>
+<p>No image links available at the moment</p>
+</div>
+</ul>
+</div>
+</div>
+<script>
+                  function toggleSection(sectionId) {
+                      // Toggle the selected section
+                      const section = document.getElementById(sectionId);
+                      const allSections = document.querySelectorAll('.section');
+                      
+                      // Close all sections first
+                      allSections.forEach(sec => {
+                          if (sec.id !== sectionId) {
+                              sec.style.display = 'none';
+                          }
+                      });
+                      
+                      // Toggle the selected section
+                      if (section.style.display === 'none' || section.style.display === '') {
+                          section.style.display = 'block';
+                          createConfetti();
+                      } else {
+                          section.style.display = 'none';
+                      }
+                  }
+                  
+                  // Animation for stat counters
+                  function animateValue(id, start, end, duration) {
+                      const obj = document.getElementById(id);
+                      let startTimestamp = null;
+                      const step = (timestamp) => {
+                          if (!startTimestamp) startTimestamp = timestamp;
+                          const progress = Math.min((timestamp - startTimestamp) / duration, 1);
+                          obj.innerHTML = Math.floor(progress * (end - start) + start);
+                          if (progress < 1) {
+                              window.requestAnimationFrame(step);
+                          }
+                      };
+                      window.requestAnimationFrame(step);
+                  }
+                  
+                  // Create confetti effect
+                  function createConfetti() {
+                      const colors = ['#FFA500', '#1E90FF', '#32CD32', '#FF4500', '#FFD700'];
+                      for (let i = 0; i < 50; i++) {
+                          const confetti = document.createElement('div');
+                          confetti.className = 'confetti';
+                          confetti.style.left = Math.random() * 100 + 'vw';
+                          confetti.style.backgroundColor = colors[Math.floor(Math.random() * colors.length)];
+                          confetti.style.width = Math.random() * 10 + 5 + 'px';
+                          confetti.style.height = Math.random() * 10 + 5 + 'px';
+                          confetti.style.animationDuration = Math.random() * 3 + 2 + 's';
+                          confetti.style.animationDelay = Math.random() * 2 + 's';
+                          document.body.appendChild(confetti);
+                          
+                          // Remove confetti after animation
+                          setTimeout(() => {
+                              confetti.remove();
+                          }, 5000);
+                      }
+                  }
+                  
+                  // Add hover effect to stat boxes
+                  document.querySelectorAll('.stat-box').forEach(box => {
+                      box.addEventListener('mouseenter', () => {
+                          box.style.transform = 'translateY(-15px) rotateX(20deg)';
+                      });
+                      
+                      box.addEventListener('mouseleave', () => {
+                          box.style.transform = 'translateY(0) rotateX(0)';
+                      });
+                  });
+                  
+                  // Animate counters when page loads
+                  window.onload = function() {
+                      animateValue("video-count", 0, {total_videos}, 1500);
+                      animateValue("pdf-count", 0, {total_pdfs}, 1500);
+                      
+                      // Add subtle animation to container
+                      document.querySelector('.container').style.animation = 'fadeIn 1s ease-in-out';
+                      
+                      // Add floating animation to header
+                      setTimeout(() => {
+                          document.querySelector('header').classList.add('floating');
+                      }, 1000);
+                  };
+              </script>
+
+<script>
+            const coursePath = 'CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA .html';
+            
+            document.addEventListener('DOMContentLoaded', updateAllStatuses);
+
+            // Save last visited URL before leaving
+            document.querySelectorAll('.video-link').forEach(link => {
+                link.addEventListener('click', (event) => {
+                    const lastVisitedUrls = JSON.parse(localStorage.getItem('lastVisitedUrls')) || {};
+                    lastVisitedUrls[coursePath.replace('.html', '')] = event.currentTarget.href;
+                    localStorage.setItem('lastVisitedUrls', JSON.stringify(lastVisitedUrls));
+                });
+            });
+            
+            function getUniqueId(path, type, id) {
+                // Creates a unique ID: filename_type(V/P)_identifier
+                return path + '_' + type[0].toUpperCase() + '_' + id;
+            }
+
+            function updateAllStatuses() {
+                const completedVideos = JSON.parse(localStorage.getItem('completedVideos')) || {};
+                const favorites = JSON.parse(localStorage.getItem('favorites')) || {};
+                
+                // Update Video Statuses and Fav Icons
+                document.querySelectorAll('.video-link').forEach(link => {
+                    const match = link.getAttribute('href').match(/num=(\d+)/);
+                    const videoNum = match ? match[1] : '0';
+                    const uniqueId = getUniqueId(coursePath, 'video', videoNum); 
+                    
+                    const statusIcon = link.nextElementSibling;
+                    const favIcon = statusIcon.nextElementSibling; 
+
+                    if (completedVideos[uniqueId]) {
+                        statusIcon.innerHTML = '✅ Completed';
+                        statusIcon.style.color = '#32CD32';
+                    } else {
+                        statusIcon.innerHTML = '🟡 Incomplete';
+                        statusIcon.style.color = '#FFA500';
+                    }
+                    
+                    if (favorites[uniqueId]) { 
+                        favIcon.innerHTML = '❤️';
+                        favIcon.style.color = 'red';
+                    } else {
+                        favIcon.innerHTML = '♡';
+                        favIcon.style.color = '#ccc';
+                    }
+                });
+
+                // Update PDF Fav Icons
+                document.querySelectorAll('.pdf-link').forEach(link => {
+                    const pdfName = link.textContent.trim().replace(/ /g, '_').replace(/\./g, '');
+                    // The fav icon is the next sibling of the link tag in the modified structure
+                    const favIcon = link.nextElementSibling; 
+                    
+                    const uniqueId = getUniqueId(coursePath, 'pdf', pdfName); 
+
+                    if (favorites[uniqueId]) { 
+                        favIcon.innerHTML = '❤️';
+                        favIcon.style.color = 'red';
+                    } else {
+                        favIcon.innerHTML = '♡';
+                        favIcon.style.color = '#ccc';
+                    }
+                });
+            }
+
+            function toggleFavorite(iconElement, url, name, path, id, type) {
+                let favorites = JSON.parse(localStorage.getItem('favorites')) || {};
+                const uniqueId = getUniqueId(path, type, id);
+                
+                if (favorites[uniqueId]) {
+                    delete favorites[uniqueId];
+                    iconElement.innerHTML = '♡';
+                    iconElement.style.color = '#ccc';
+                } else {
+                    favorites[uniqueId] = { 
+                        url: url, 
+                        name: name, 
+                        path: path, 
+                        num: id, // Renamed to id to handle both video number and pdf name
+                        type: type, // 'video' or 'pdf'
+                        dateAdded: new Date().toISOString().slice(0, 10) // Date added
+                    }; 
+                    iconElement.innerHTML = '❤️';
+                    iconElement.style.color = 'red';
+                }
+                localStorage.setItem('favorites', JSON.stringify(favorites));
+            }
+            
+            // Re-check status if user returns to the tab
+            window.addEventListener('focus', updateAllStatuses);
+
+        </script>
+</body>
+</html>
