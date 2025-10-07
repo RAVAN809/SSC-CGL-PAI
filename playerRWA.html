@@ -1,8 +1,10 @@
-<!DOCTYPE html><html><head>
+<!DOCTYPE html>
+<html>
+<head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-  <title>Mr. Kagra x Rwa (Appx) Video Player</title>
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <title>Jaswant🤗 - Enhanced Video Player</title>
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <style>
     :root {
       --primary: #ff2d55;
@@ -85,7 +87,7 @@
       cursor: pointer;
       position: relative;
       border-radius: 3px;
-      overflow: hidden;
+      overflow: visible;
     }
     
     #progress-bar {
@@ -104,6 +106,31 @@
       background: var(--buffer-color);
       width: 0%;
       z-index: 1;
+    }
+
+    #progress-handle {
+      position: absolute;
+      top: 50%;
+      transform: translate(-50%, -50%);
+      width: 16px;
+      height: 16px;
+      border-radius: 50%;
+      background: white;
+      border: 2px solid transparent;
+      background-image:         
+        linear-gradient(135deg, #ffffff, #f0f0f0),
+        linear-gradient(90deg, #ff4757, #ffa502, #2ed573, #3742fa, #8e44ad);
+      background-origin: border-box;
+      background-clip: content-box, border-box;
+      box-shadow: 0 0 8px rgba(255, 45, 85, 0.6);
+      z-index: 10;
+      pointer-events: none;
+      transition: transform 0.15s ease, box-shadow 0.15s ease;
+    }
+
+    .progress-container:hover #progress-handle {
+      transform: translate(-50%, -50%) scale(1.3);
+      box-shadow: 0 0 14px rgba(255, 45, 85, 0.8);
     }
     
     .main-controls {
@@ -127,21 +154,57 @@
       color: white;
       font-size: 1.1rem;
       cursor: pointer;
-      width: 40px;
-      height: 40px;
+      width: 42px;
+      height: 42px;
       display: flex;
       align-items: center;
       justify-content: center;
       border-radius: 50%;
-      transition: all 0.2s;
+      transition: background 0.25s, transform 0.25s;
+      position: relative;
+      overflow: hidden;
     }
-    
+
     .control-btn:hover {
       background: rgba(255, 255, 255, 0.2);
       transform: scale(1.1);
     }
+
+    .control-btn::after {
+      content: '';
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      width: 0;
+      height: 0;
+      background: rgba(255, 255, 255, 0.4);
+      border-radius: 50%;
+      transform: translate(-50%, -50%);
+      opacity: 0;
+      pointer-events: none;
+    }
+
+    .control-btn:active::after {
+      width: 180%;
+      height: 180%;
+      opacity: 0.3;
+      transition: width 0.35s ease-out, height 0.35s ease-out, opacity 0.5s ease-out;
+    }
+
+    .control-btn:focus,
+    .control-btn:active {
+      outline: none !important;
+      box-shadow: none !important;
+    }
+
+    .control-btn {
+      -webkit-tap-highlight-color: transparent;
+    }
     
-    /* Skip Buttons */
+    .material-icons {
+      font-size: 20px;
+    }
+    
     .skip-btn {
       position: relative;
     }
@@ -163,7 +226,6 @@
       font-weight: bold;
     }
     
-    /* Lock Button */
     #lock-btn {
       position: absolute;
       right: 20px;
@@ -199,23 +261,87 @@
       gap: 8px;
       width: 120px;
     }
-    
+
     #volume-slider {
       width: 80px;
       height: 4px;
       -webkit-appearance: none;
-      background: linear-gradient(to right, var(--volume-color), var(--volume-color)) no-repeat;
-      background-size: var(--volume-fill, 100%) 100%;
+      background: rgba(255, 255, 255, 0.2);
       border-radius: 2px;
+      position: relative;
     }
-    
+
+    #volume-slider::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 100%;
+      background: var(--volume-color);
+      width: var(--volume-fill, 100%);
+      border-radius: 2px;
+      z-index: 1;
+    }
+
     #volume-slider::-webkit-slider-thumb {
       -webkit-appearance: none;
       width: 14px;
       height: 14px;
       border-radius: 50%;
       background: white;
+      border: 2px solid #8B5CF6;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.3);
       cursor: pointer;
+      position: relative;
+      z-index: 2;
+      transition: all 0.2s ease;
+    }
+
+    #volume-slider::-webkit-slider-thumb:hover {
+      transform: scale(1.1);
+      border-color: #7C3AED;
+    }
+
+    #volume-slider::-moz-range-thumb {
+      width: 14px;
+      height: 14px;
+      border-radius: 50%;
+      background: white;
+      border: 2px solid #8B5CF6;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.3);
+      cursor: pointer;
+      transition: all 0.2s ease;
+    }
+
+    #volume-slider::-moz-range-thumb:hover {
+      transform: scale(1.1);
+      border-color: #7C3AED;
+    }
+
+    #volume-slider::-webkit-slider-track {
+      background: transparent;
+    }
+
+    #volume-slider::-moz-range-track {
+      background: rgba(255, 255, 255, 0.2);
+      height: 4px;
+      border-radius: 2px;
+      border: none;
+    }
+
+    #volume-slider::-moz-range-progress {
+      background: var(--volume-color);
+      height: 4px;
+      border-radius: 2px;
+    }
+
+    #volume-slider::-moz-range-thumb {
+      width: 14px;
+      height: 14px;
+      border-radius: 50%;
+      background: white;
+      cursor: pointer;
+      border: none;
     }
     
     /* Settings Menu */
@@ -234,6 +360,8 @@
       opacity: 0;
       pointer-events: none;
       transition: all 0.3s;
+      max-height: 300px;
+      overflow-y: auto;
     }
     
     .settings-menu.active .settings-dropdown {
@@ -245,15 +373,50 @@
       padding: 8px 15px;
       cursor: pointer;
       color: white;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
     }
     
     .settings-item:hover {
       color: var(--primary);
+      background: rgba(255, 255, 255, 0.1);
     }
     
     .settings-item.selected {
       color: var(--primary);
       font-weight: bold;
+    }
+    
+    .settings-item.selected::after {
+      content: "✓";
+      font-weight: bold;
+    }
+    
+    /* Quality and Download Menu */
+    .quality-menu, .download-menu, .share-menu {
+      position: relative;
+    }
+    
+    .quality-dropdown, .download-dropdown, .share-dropdown {
+      position: absolute;
+      bottom: 50px;
+      right: 0;
+      background: rgba(30, 30, 30, 0.95);
+      border-radius: 8px;
+      padding: 8px 0;
+      width: 180px;
+      opacity: 0;
+      pointer-events: none;
+      transition: all 0.3s;
+      z-index: 20;
+    }
+    
+    .quality-menu.active .quality-dropdown,
+    .download-menu.active .download-dropdown,
+    .share-menu.active .share-dropdown {
+      opacity: 1;
+      pointer-events: all;
     }
     
     /* Fullscreen Styles */
@@ -280,44 +443,217 @@
       height: 100% !important;
       background: black;
     }
+    
+    /* Quality indicator */
+    .quality-indicator {
+      position: absolute;
+      top: 15px;
+      left: 15px;
+      background: rgba(0, 0, 0, 0.7);
+      padding: 4px 8px;
+      border-radius: 4px;
+      font-size: 0.8rem;
+      z-index: 5;
+      transition: opacity 0.3s;
+    }
+    
+    .controls.hidden ~ .quality-indicator {
+      opacity: 0;
+    }
+    
+    /* Download Dialog - IDM Style */
+    .download-dialog {
+      position: fixed;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      background: rgba(20, 20, 20, 0.95);
+      border-radius: 12px;
+      padding: 20px;
+      width: 90%;
+      max-width: 400px;
+      z-index: 1000;
+      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+      border: 1px solid rgba(255, 255, 255, 0.1);
+      display: none;
+    }
+    
+    .download-dialog.active {
+      display: block;
+    }
+    
+    .download-dialog h3 {
+      margin: 0 0 15px 0;
+      color: var(--primary);
+      font-size: 1.2rem;
+    }
+    
+    .download-option {
+      display: flex;
+      align-items: center;
+      padding: 12px;
+      margin: 8px 0;
+      background: rgba(255, 255, 255, 0.05);
+      border-radius: 8px;
+      cursor: pointer;
+      transition: background 0.3s;
+    }
+    
+    .download-option:hover {
+      background: rgba(255, 255, 255, 0.1);
+    }
+    
+    .download-option .material-icons {
+      margin-right: 12px;
+      color: var(--primary);
+    }
+    
+    .download-info {
+      flex: 1;
+    }
+    
+    .download-title {
+      font-weight: bold;
+      margin-bottom: 4px;
+    }
+    
+    .download-size {
+      font-size: 0.8rem;
+      color: #aaa;
+    }
+    
+    .download-progress {
+      width: 100%;
+      height: 4px;
+      background: rgba(255, 255, 255, 0.1);
+      border-radius: 2px;
+      margin-top: 8px;
+      overflow: hidden;
+      display: none;
+    }
+    
+    .download-progress-bar {
+      height: 100%;
+      background: var(--primary);
+      width: 0%;
+      transition: width 0.3s;
+    }
+    
+    .dialog-actions {
+      display: flex;
+      justify-content: flex-end;
+      gap: 10px;
+      margin-top: 20px;
+    }
+    
+    .dialog-btn {
+      padding: 8px 16px;
+      border: none;
+      border-radius: 6px;
+      cursor: pointer;
+      font-weight: 500;
+      transition: all 0.3s;
+    }
+    
+    .dialog-btn.cancel {
+      background: rgba(255, 255, 255, 0.1);
+      color: white;
+    }
+    
+    .dialog-btn.download {
+      background: var(--primary);
+      color: white;
+    }
+    
+    .dialog-btn:hover {
+      transform: translateY(-1px);
+    }
+    
+    /* Screenshot Preview */
+    .screenshot-preview {
+      position: fixed;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      background: rgba(0, 0, 0, 0.9);
+      border-radius: 12px;
+      padding: 20px;
+      z-index: 1001;
+      display: none;
+      max-width: 90%;
+      max-height: 90%;
+    }
+    
+    .screenshot-preview.active {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+    
+    .screenshot-img {
+      max-width: 100%;
+      max-height: 70vh;
+      border-radius: 8px;
+    }
+    
+    .screenshot-actions {
+      display: flex;
+      gap: 10px;
+      margin-top: 15px;
+    }
+    
+    /* Overlay */
+    .overlay {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: rgba(0, 0, 0, 0.7);
+      z-index: 999;
+      display: none;
+    }
+    
+    .overlay.active {
+      display: block;
+    }
   </style>
-<style type="text/css">* {user-select: auto !important; -webkit-user-select: auto !important;}</style><input type="hidden" id="inject_idm_text_selection"><style></style></head>
+</head>
 <body>
   <div id="player-container">
-    <video id="video" playsinline=""></video>
-    <div id="loading">
-      <i class="fas fa-spinner spinner"></i>
-      <span>Loading Stream...</span>
-    </div>
+    <video id="video" playsinline src="blob:https://rwa-video-player.onrender.com/67d3186e-2013-46c7-9744-4be6f6c44058"></video>
+    <div id="loading"><span class="material-icons">error</span> Network Error - Try reloading</div>
+    
+    <!-- Quality Indicator -->
+    <div class="quality-indicator" id="quality-indicator">Auto</div>
     
     <!-- Lock Button -->
     <button class="control-btn" id="lock-btn" title="Lock Controls">
-      <i class="fas fa-lock"></i>
+      <span class="material-icons">lock</span>
     </button>
     
-    <div class="controls">
+    <div class="controls hidden">
       <div class="progress-container">
         <div id="buffer-bar"></div>
         <div id="progress-bar"></div>
+        <div id="progress-handle"></div>
       </div>
       
       <div class="main-controls">
         <div class="left-controls">
-          <button class="control-btn" id="play-btn">
-            <i class="fas fa-play"></i>
-          </button>
+          <button class="control-btn" id="play-btn"><span class="material-icons">pause</span></button>
           
           <button class="control-btn skip-btn" id="rewind-btn">
-            <i class="fas fa-backward"></i>
+            <span class="material-icons">replay_10</span>
           </button>
           
           <button class="control-btn skip-btn" id="forward-btn">
-            <i class="fas fa-forward"></i>
+            <span class="material-icons">forward_10</span>
           </button>
           
           <div class="volume-container">
             <button class="control-btn" id="volume-btn">
-              <i class="fas fa-volume-up"></i>
+              <span class="material-icons">volume_up</span>
             </button>
             <input type="range" id="volume-slider" min="0" max="1" step="0.01" value="1">
           </div>
@@ -326,9 +662,50 @@
         </div>
         
         <div class="right-controls">
+          <!-- Screenshot Button -->
+          <button class="control-btn" id="screenshot-btn" title="Take Screenshot">
+            <span class="material-icons">photo_camera</span>
+          </button>
+          
+          <!-- Share Button -->
+          <div class="share-menu" id="share-menu">
+            <button class="control-btn" id="share-btn" title="Share Video">
+              <span class="material-icons">share</span>
+            </button>
+            <div class="share-dropdown" id="share-dropdown">
+              <div class="settings-item" id="share-link">Copy Video Link</div>
+              <div class="settings-item" id="share-embed">Copy Embed Code</div>
+              <div class="settings-item" id="share-social">Share on Social Media</div>
+            </div>
+          </div>
+          
+          <!-- Download Button -->
+          <div class="download-menu" id="download-menu">
+            <button class="control-btn" id="download-btn" title="Download Options">
+              <span class="material-icons">download</span>
+            </button>
+            <div class="download-dropdown" id="download-dropdown">
+              <div class="settings-item" id="download-video">Download Video</div>
+              <div class="settings-item" id="download-audio">Extract Audio</div>
+              <div class="settings-item" id="show-download-dialog">Advanced Download</div>
+            </div>
+          </div>
+          
+          <!-- Quality Button -->
+          <div class="quality-menu" id="quality-menu">
+            <button class="control-btn" id="quality-btn" title="Quality Options">
+              <span class="material-icons">high_quality</span>
+            </button>
+            <div class="quality-dropdown" id="quality-dropdown">
+              <div class="settings-item selected" data-quality="auto">Auto</div>
+              <!-- Quality options will be populated dynamically -->
+            </div>
+          </div>
+          
+          <!-- Settings Button -->
           <div class="settings-menu" id="settings-menu">
             <button class="control-btn" id="settings-btn">
-              <i class="fas fa-cog"></i>
+              <span class="material-icons">settings</span>
             </button>
             <div class="settings-dropdown" id="settings-dropdown">
               <div class="settings-item" data-speed="0.25">0.25x</div>
@@ -344,11 +721,906 @@
           </div>
           
           <button class="control-btn" id="fullscreen-btn">
-            <i class="fas fa-expand"></i>
+            <span class="material-icons">fullscreen</span>
           </button>
         </div>
       </div>
     </div>
   </div>
 
-  <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script></body></html>
+  <!-- Download Dialog -->
+  <div class="overlay" id="overlay"></div>
+  
+  <div class="download-dialog" id="download-dialog">
+    <h3>Download Video</h3>
+    <div class="download-option" id="download-option-1">
+      <span class="material-icons">video_file</span>
+      <div class="download-info">
+        <div class="download-title">High Quality (1080p)</div>
+        <div class="download-size">~150 MB</div>
+      </div>
+    </div>
+    <div class="download-option" id="download-option-2">
+      <span class="material-icons">video_file</span>
+      <div class="download-info">
+        <div class="download-title">Medium Quality (720p)</div>
+        <div class="download-size">~80 MB</div>
+      </div>
+    </div>
+    <div class="download-option" id="download-option-3">
+      <span class="material-icons">video_file</span>
+      <div class="download-info">
+        <div class="download-title">Low Quality (480p)</div>
+        <div class="download-size">~40 MB</div>
+      </div>
+    </div>
+    <div class="download-option" id="download-audio-option">
+      <span class="material-icons">audio_file</span>
+      <div class="download-info">
+        <div class="download-title">Audio Only (MP3)</div>
+        <div class="download-size">~15 MB</div>
+      </div>
+    </div>
+    
+    <div class="download-progress" id="download-progress">
+      <div class="download-progress-bar" id="download-progress-bar"></div>
+    </div>
+    
+    <div class="dialog-actions">
+      <button class="dialog-btn cancel" id="cancel-download">Cancel</button>
+      <button class="dialog-btn download" id="start-download">Download</button>
+    </div>
+  </div>
+
+  <!-- Screenshot Preview -->
+  <div class="screenshot-preview" id="screenshot-preview">
+    <img class="screenshot-img" id="screenshot-img" src="" alt="Screenshot">
+    <div class="screenshot-actions">
+      <button class="dialog-btn cancel" id="screenshot-cancel">Close</button>
+      <button class="dialog-btn download" id="screenshot-download">Download</button>
+      <button class="dialog-btn download" id="screenshot-share">Share</button>
+    </div>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+  
+  <script>
+    document.addEventListener('DOMContentLoaded', () => {
+      const video = document.getElementById('video');
+      const loading = document.getElementById('loading');
+      const playBtn = document.getElementById('play-btn');
+      const rewindBtn = document.getElementById('rewind-btn');
+      const forwardBtn = document.getElementById('forward-btn');
+      const volumeBtn = document.getElementById('volume-btn');
+      const volumeSlider = document.getElementById('volume-slider');
+      const lockBtn = document.getElementById('lock-btn');
+      const fullscreenBtn = document.getElementById('fullscreen-btn');
+      const settingsBtn = document.getElementById('settings-btn');
+      const settingsMenu = document.getElementById('settings-menu');
+      const settingsDropdown = document.getElementById('settings-dropdown');
+      const progressContainer = document.querySelector('.progress-container');
+      const progressBar = document.getElementById('progress-bar');
+      const bufferBar = document.getElementById('buffer-bar');
+      const timeDisplay = document.getElementById('time-display');
+      const playerContainer = document.getElementById('player-container');
+      const controls = document.querySelector('.controls');
+      
+      // New elements for quality, download, screenshot and share
+      const qualityBtn = document.getElementById('quality-btn');
+      const qualityMenu = document.getElementById('quality-menu');
+      const qualityDropdown = document.getElementById('quality-dropdown');
+      const qualityIndicator = document.getElementById('quality-indicator');
+      const downloadBtn = document.getElementById('download-btn');
+      const downloadMenu = document.getElementById('download-menu');
+      const downloadDropdown = document.getElementById('download-dropdown');
+      const downloadVideoBtn = document.getElementById('download-video');
+      const downloadAudioBtn = document.getElementById('download-audio');
+      const showDownloadDialogBtn = document.getElementById('show-download-dialog');
+      const screenshotBtn = document.getElementById('screenshot-btn');
+      const shareBtn = document.getElementById('share-btn');
+      const shareMenu = document.getElementById('share-menu');
+      const shareDropdown = document.getElementById('share-dropdown');
+      const shareLinkBtn = document.getElementById('share-link');
+      const shareEmbedBtn = document.getElementById('share-embed');
+      const shareSocialBtn = document.getElementById('share-social');
+      
+      // Dialog elements
+      const overlay = document.getElementById('overlay');
+      const downloadDialog = document.getElementById('download-dialog');
+      const downloadOptions = document.querySelectorAll('.download-option');
+      const downloadProgress = document.getElementById('download-progress');
+      const downloadProgressBar = document.getElementById('download-progress-bar');
+      const cancelDownloadBtn = document.getElementById('cancel-download');
+      const startDownloadBtn = document.getElementById('start-download');
+      
+      // Screenshot elements
+      const screenshotPreview = document.getElementById('screenshot-preview');
+      const screenshotImg = document.getElementById('screenshot-img');
+      const screenshotCancelBtn = document.getElementById('screenshot-cancel');
+      const screenshotDownloadBtn = document.getElementById('screenshot-download');
+      const screenshotShareBtn = document.getElementById('screenshot-share');
+      
+      let hls;
+      let hideControlsTimeout;
+      let hideLockButtonTimeout;
+      let isSettingsOpen = false;
+      let isQualityOpen = false;
+      let isDownloadOpen = false;
+      let isShareOpen = false;
+      let controlsLocked = false;
+      let isFullscreen = false;
+      let selectedDownloadOption = null;
+      const url = new URLSearchParams(window.location.search).get('url');
+      
+      // Initialize player
+      function initPlayer() {
+        if (!url) {
+          showError('Missing stream URL');
+          return;
+        }
+        
+        if (Hls.isSupported()) {
+          hls = new Hls({
+            maxBufferLength: 600,
+            maxMaxBufferLength: 1800,
+            maxBufferSize: 60 * 1000 * 1000,
+            maxBufferHole: 5.0
+          });
+          
+          hls.loadSource('/proxy?url=' + encodeURIComponent(url));
+          hls.attachMedia(video);
+          
+          hls.on(Hls.Events.MANIFEST_PARSED, () => {
+            loading.style.display = 'none';
+            video.play().catch(e => {
+              showError('Click to play', true);
+            });
+            initVolume();
+            showControls();
+            
+            // Initialize quality levels after manifest is parsed
+            initQualityLevels();
+          });
+          
+          hls.on(Hls.Events.ERROR, (event, data) => {
+            if (data.fatal) {
+              let errorMsg = 'Stream Error';
+              if (data.type === Hls.ErrorTypes.NETWORK_ERROR) {
+                errorMsg = 'Network Error - Try reloading';
+              } else if (data.type === Hls.ErrorTypes.MEDIA_ERROR) {
+                errorMsg = 'Media Error - Try another stream';
+              }
+              showError(errorMsg);
+            }
+          });
+          
+          hls.on(Hls.Events.FRAG_BUFFERED, () => {
+            updateBufferBar();
+          });
+          
+          // Listen for quality level changes
+          hls.on(Hls.Events.LEVEL_SWITCHED, (event, data) => {
+            updateQualityIndicator();
+          });
+        } else if (video.canPlayType('application/vnd.apple.mpegurl')) {
+          video.src = '/proxy?url=' + encodeURIComponent(url);
+          video.addEventListener('loadedmetadata', () => {
+            loading.style.display = 'none';
+            video.play().catch(e => {
+              showError('Click to play', true);
+            });
+            initVolume();
+            showControls();
+          });
+        } else {
+          showError('Your browser doesn\'t support HLS streaming');
+        }
+      }
+      
+      // Initialize quality levels
+      function initQualityLevels() {
+        if (!hls) return;
+        
+        const levels = hls.levels;
+        qualityDropdown.innerHTML = '<div class="settings-item selected" data-quality="auto">Auto</div>';
+        
+        levels.forEach((level, index) => {
+          const item = document.createElement('div');
+          item.className = 'settings-item';
+          item.dataset.quality = index;
+          
+          // Format quality label
+          let label = '';
+          if (level.height) {
+            label = `${level.height}p`;
+          } else if (level.width) {
+            label = `${Math.round(level.width * 9 / 16)}p`;
+          } else if (level.bitrate) {
+            label = `${Math.round(level.bitrate / 1000)}kbps`;
+          } else {
+            label = `Level ${index}`;
+          }
+          
+          item.textContent = label;
+          qualityDropdown.appendChild(item);
+        });
+        
+        // Add event listeners to quality items
+        qualityDropdown.querySelectorAll('.settings-item').forEach(item => {
+          item.addEventListener('click', () => {
+            const quality = item.dataset.quality;
+            
+            if (quality === 'auto') {
+              hls.currentLevel = -1; // Auto quality
+            } else {
+              hls.currentLevel = parseInt(quality);
+            }
+            
+            // Update UI
+            qualityDropdown.querySelectorAll('.settings-item').forEach(i => {
+              i.classList.remove('selected');
+            });
+            item.classList.add('selected');
+            
+            updateQualityIndicator();
+            closeQualityMenu();
+            showControls();
+          });
+        });
+      }
+      
+      // Update quality indicator
+      function updateQualityIndicator() {
+        if (!hls) return;
+        
+        const currentLevel = hls.currentLevel;
+        if (currentLevel === -1) {
+          qualityIndicator.textContent = 'Auto';
+        } else if (hls.levels[currentLevel]) {
+          const level = hls.levels[currentLevel];
+          if (level.height) {
+            qualityIndicator.textContent = `${level.height}p`;
+          } else if (level.bitrate) {
+            qualityIndicator.textContent = `${Math.round(level.bitrate / 1000)}kbps`;
+          } else {
+            qualityIndicator.textContent = `Level ${currentLevel}`;
+          }
+        }
+      }
+      
+      // Setup download features
+      function setupDownloadFeatures() {
+        // Simple download
+        downloadVideoBtn.addEventListener('click', () => {
+          if (url) {
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = 'video.mp4';
+            a.target = '_blank';
+            document.body.appendChild(a);
+            a.click();
+            document.body.removeChild(a);
+          } else {
+            alert('Download source not available');
+          }
+          closeDownloadMenu();
+        });
+        
+        // Audio download
+        downloadAudioBtn.addEventListener('click', () => {
+          alert('Audio extraction feature would require server-side processing');
+          closeDownloadMenu();
+        });
+        
+        // Show IDM-style download dialog
+        showDownloadDialogBtn.addEventListener('click', () => {
+          showDownloadDialog();
+          closeDownloadMenu();
+        });
+        
+        // Download option selection
+        downloadOptions.forEach(option => {
+          option.addEventListener('click', () => {
+            downloadOptions.forEach(opt => opt.style.background = 'rgba(255, 255, 255, 0.05)');
+            option.style.background = 'rgba(255, 45, 85, 0.2)';
+            selectedDownloadOption = option.id;
+          });
+        });
+        
+        // Start download
+        startDownloadBtn.addEventListener('click', () => {
+          if (!selectedDownloadOption) {
+            alert('Please select a download option');
+            return;
+          }
+          
+          downloadProgress.style.display = 'block';
+          simulateDownload();
+        });
+        
+        // Cancel download
+        cancelDownloadBtn.addEventListener('click', () => {
+          hideDownloadDialog();
+        });
+      }
+      
+      // Show download dialog
+      function showDownloadDialog() {
+        overlay.classList.add('active');
+        downloadDialog.classList.add('active');
+        downloadProgress.style.display = 'none';
+        downloadProgressBar.style.width = '0%';
+        selectedDownloadOption = null;
+        downloadOptions.forEach(opt => opt.style.background = 'rgba(255, 255, 255, 0.05)');
+      }
+      
+      // Hide download dialog
+      function hideDownloadDialog() {
+        overlay.classList.remove('active');
+        downloadDialog.classList.remove('active');
+      }
+      
+      // Simulate download progress
+      function simulateDownload() {
+        let progress = 0;
+        const interval = setInterval(() => {
+          progress += Math.random() * 5;
+          if (progress >= 100) {
+            progress = 100;
+            clearInterval(interval);
+            
+            // Download complete
+            setTimeout(() => {
+              alert('Download completed!');
+              hideDownloadDialog();
+            }, 500);
+          }
+          downloadProgressBar.style.width = progress + '%';
+        }, 200);
+      }
+      
+      // Setup screenshot features
+      function setupScreenshotFeatures() {
+        screenshotBtn.addEventListener('click', takeScreenshot);
+        
+        screenshotCancelBtn.addEventListener('click', () => {
+          screenshotPreview.classList.remove('active');
+          overlay.classList.remove('active');
+        });
+        
+        screenshotDownloadBtn.addEventListener('click', downloadScreenshot);
+        
+        screenshotShareBtn.addEventListener('click', shareScreenshot);
+      }
+      
+      // Take screenshot
+      function takeScreenshot() {
+        const canvas = document.createElement('canvas');
+        canvas.width = video.videoWidth;
+        canvas.height = video.videoHeight;
+        const ctx = canvas.getContext('2d');
+        ctx.drawImage(video, 0, 0, canvas.width, canvas.height);
+        
+        canvas.toBlob((blob) => {
+          const url = URL.createObjectURL(blob);
+          screenshotImg.src = url;
+          screenshotPreview.classList.add('active');
+          overlay.classList.add('active');
+          
+          // Store blob for download/share
+          screenshotImg.dataset.blobUrl = url;
+        });
+        
+        showControls();
+      }
+      
+      // Download screenshot
+      function downloadScreenshot() {
+        const url = screenshotImg.dataset.blobUrl;
+        const a = document.createElement('a');
+        a.href = url;
+        a.download = `screenshot-${new Date().getTime()}.png`;
+        document.body.appendChild(a);
+        a.click();
+        document.body.removeChild(a);
+      }
+      
+      // Share screenshot
+      function shareScreenshot() {
+        const url = screenshotImg.dataset.blobUrl;
+        
+        if (navigator.share) {
+          // Convert blob to file for sharing
+          fetch(url)
+            .then(res => res.blob())
+            .then(blob => {
+              const file = new File([blob], `screenshot-${new Date().getTime()}.png`, { type: 'image/png' });
+              navigator.share({
+                files: [file],
+                title: 'Video Screenshot',
+                text: 'Check out this screenshot from the video!'
+              });
+            });
+        } else {
+          // Fallback: copy to clipboard or show URL
+          alert('Sharing not supported in this browser. Screenshot is ready for download.');
+        }
+      }
+      
+      // Setup share features
+      function setupShareFeatures() {
+        shareLinkBtn.addEventListener('click', () => {
+          navigator.clipboard.writeText(window.location.href)
+            .then(() => {
+              alert('Video link copied to clipboard!');
+            })
+            .catch(() => {
+              // Fallback
+              const tempInput = document.createElement('input');
+              tempInput.value = window.location.href;
+              document.body.appendChild(tempInput);
+              tempInput.select();
+              document.execCommand('copy');
+              document.body.removeChild(tempInput);
+              alert('Video link copied to clipboard!');
+            });
+          closeShareMenu();
+        });
+        
+        shareEmbedBtn.addEventListener('click', () => {
+          const embedCode = `<iframe src="${window.location.href}" width="560" height="315" frameborder="0" allowfullscreen></iframe>`;
+          navigator.clipboard.writeText(embedCode)
+            .then(() => {
+              alert('Embed code copied to clipboard!');
+            })
+            .catch(() => {
+              const tempInput = document.createElement('input');
+              tempInput.value = embedCode;
+              document.body.appendChild(tempInput);
+              tempInput.select();
+              document.execCommand('copy');
+              document.body.removeChild(tempInput);
+              alert('Embed code copied to clipboard!');
+            });
+          closeShareMenu();
+        });
+        
+        shareSocialBtn.addEventListener('click', () => {
+          const shareUrl = encodeURIComponent(window.location.href);
+          const shareText = encodeURIComponent('Check out this video!');
+          window.open(`https://twitter.com/intent/tweet?text=${shareText}&url=${shareUrl}`, '_blank');
+          closeShareMenu();
+        });
+      }
+      
+      // Menu management functions
+      function closeAllMenus() {
+        isSettingsOpen = false;
+        isQualityOpen = false;
+        isDownloadOpen = false;
+        isShareOpen = false;
+        settingsMenu.classList.remove('active');
+        qualityMenu.classList.remove('active');
+        downloadMenu.classList.remove('active');
+        shareMenu.classList.remove('active');
+      }
+      
+      function closeQualityMenu() {
+        isQualityOpen = false;
+        qualityMenu.classList.remove('active');
+      }
+      
+      function closeDownloadMenu() {
+        isDownloadOpen = false;
+        downloadMenu.classList.remove('active');
+      }
+      
+      function closeShareMenu() {
+        isShareOpen = false;
+        shareMenu.classList.remove('active');
+      }
+      
+      function showError(message, clickable = false) {
+        loading.innerHTML = `<span class="material-icons">error</span> ${message}`;
+        if (clickable) {
+          loading.style.cursor = 'pointer';
+          loading.onclick = () => {
+            video.play().catch(e => console.log(e));
+            loading.style.display = 'none';
+          };
+        }
+      }
+      
+      function initVolume() {
+        const savedVolume = localStorage.getItem('playerVolume');
+        const savedMuted = localStorage.getItem('playerMuted');
+  
+        if (savedVolume !== null) {
+          video.volume = parseFloat(savedVolume);
+          volumeSlider.value = video.volume;
+          updateVolumeSliderColor();
+        }
+  
+        if (savedMuted === 'true') {
+          video.muted = true;
+          volumeBtn.innerHTML = '<span class="material-icons">volume_off</span>';
+          volumeSlider.value = 0;
+          volumeSlider.style.setProperty('--volume-fill', '0%');
+        } else {
+          updateVolumeIcon();
+          updateVolumeSliderColor();
+        }
+      }
+            
+      function updateVolumeIcon() {
+        if (video.volume === 0) {
+          volumeBtn.innerHTML = '<span class="material-icons">volume_off</span>';
+        } else if (video.volume < 0.5) {
+          volumeBtn.innerHTML = '<span class="material-icons">volume_down</span>';
+        } else {
+          volumeBtn.innerHTML = '<span class="material-icons">volume_up</span>';
+        }
+      }
+      
+      function updateVolumeSliderColor() {
+        const percent = video.volume * 100;
+        volumeSlider.style.setProperty('--volume-fill', percent + '%');
+      }
+      
+      function showControls() {
+        if (!controlsLocked) {
+          controls.classList.remove('hidden');
+          qualityIndicator.style.opacity = '1';
+          resetHideControlsTimer();
+        }
+        showLockButton();
+      }
+      
+      function hideControls() {
+        if (!video.paused && !isSettingsOpen && !isQualityOpen && !isDownloadOpen && !isShareOpen && !controlsLocked) {
+          controls.classList.add('hidden');
+          qualityIndicator.style.opacity = '0';
+        }
+      }
+      
+      function showLockButton() {
+        clearTimeout(hideLockButtonTimeout);
+        lockBtn.classList.add('visible');
+        hideLockButtonTimeout = setTimeout(() => {
+          lockBtn.classList.remove('visible');
+        }, 3000);
+      }
+      
+      function resetHideControlsTimer() {
+        clearTimeout(hideControlsTimeout);
+        hideControlsTimeout = setTimeout(hideControls, 3000);
+      }
+      
+      playerContainer.addEventListener('mousemove', () => {
+        showControls();
+      });
+      
+      playerContainer.addEventListener('click', (e) => {
+        if (e.target === playerContainer || e.target === video) {
+          if (controls.classList.contains('hidden')) {
+            showControls();
+          } else {
+            hideControls();
+          }
+        }
+      });
+      
+      // Overlay click to close dialogs
+      overlay.addEventListener('click', () => {
+        hideDownloadDialog();
+        screenshotPreview.classList.remove('active');
+        overlay.classList.remove('active');
+      });
+      
+      // Lock Controls
+      lockBtn.addEventListener('click', (e) => {
+        e.stopPropagation();
+        controlsLocked = !controlsLocked;
+        
+        if (controlsLocked) {
+          lockBtn.innerHTML = '<span class="material-icons">lock_open</span>';
+          controls.classList.add('hidden');
+          qualityIndicator.style.opacity = '0';
+        } else {
+          lockBtn.innerHTML = '<span class="material-icons">lock</span>';
+          showControls();
+        }
+        showLockButton();
+      });
+      
+      // Playback controls
+      playBtn.addEventListener('click', () => {
+        if (video.paused) {
+          video.play().catch(e => showError('Click to play', true));
+        } else {
+          video.pause();
+        }
+        showControls();
+      });
+      
+      video.addEventListener('play', () => {
+        playBtn.innerHTML = '<span class="material-icons">pause</span>';
+      });
+      
+      video.addEventListener('pause', () => {
+        playBtn.innerHTML = '<span class="material-icons">play_arrow</span>';
+      });
+      
+      // Skip buttons
+      rewindBtn.addEventListener('click', () => {
+        video.currentTime = Math.max(0, video.currentTime - 10);
+        showControls();
+      });
+      
+      forwardBtn.addEventListener('click', () => {
+        video.currentTime = Math.min(video.duration, video.currentTime + 10);
+        showControls();
+      });
+      
+      // Progress bar with handle
+      const progressHandle = document.getElementById('progress-handle');
+      let isDragging = false;
+
+      function updateProgressUI(percent) {
+        progressBar.style.width = percent + '%';
+        if (progressHandle) {
+          progressHandle.style.left = percent + '%';
+        }
+      }
+
+      function seekToPosition(clientX) {
+        const rect = progressContainer.getBoundingClientRect();
+        const pos = Math.max(0, Math.min(1, (clientX - rect.left) / rect.width));
+        const percent = pos * 100;
+        updateProgressUI(percent);
+        if (!isNaN(video.duration)) {
+          video.currentTime = pos * video.duration;
+        }
+      }
+
+      video.addEventListener('timeupdate', () => {
+         if (!isDragging && !isNaN(video.duration)) {
+           const percent = (video.currentTime / video.duration) * 100;
+           updateProgressUI(percent);
+           timeDisplay.textContent =
+             formatTime(video.currentTime) + ' / ' + formatTime(video.duration);
+         }
+       });
+
+       progressContainer.addEventListener('mousedown', (e) => {
+         isDragging = true;
+         seekToPosition(e.clientX);
+       });
+
+       document.addEventListener('mousemove', (e) => {
+         if (isDragging) seekToPosition(e.clientX);
+       });
+
+       document.addEventListener('mouseup', () => {
+         isDragging = false;
+       });
+
+       progressContainer.addEventListener('touchstart', (e) => {
+         isDragging = true;
+         seekToPosition(e.touches[0].clientX);
+       });
+
+       document.addEventListener('touchmove', (e) => {
+         if (isDragging) seekToPosition(e.touches[0].clientX);
+       });
+
+       document.addEventListener('touchend', () => {
+         isDragging = false;
+       });
+      
+      function updateBufferBar() {
+        if (video.buffered.length > 0) {
+          const bufferedEnd = video.buffered.end(video.buffered.length - 1);
+          const duration = video.duration;
+          if (duration > 0) {
+            const bufferPercent = (bufferedEnd / duration) * 100;
+            bufferBar.style.width = bufferPercent + '%';
+          }
+        }
+      }
+      
+      // Volume control
+      volumeBtn.addEventListener('click', () => {
+        if (video.muted) {
+          video.muted = false;
+          volumeSlider.value = video.volume;
+          updateVolumeIcon();
+          updateVolumeSliderColor();
+        } else {
+          video.muted = true;
+          volumeSlider.value = 0;
+          volumeBtn.innerHTML = '<span class="material-icons">volume_off</span>';
+          volumeSlider.style.setProperty('--volume-fill', '0%');
+        }
+  
+        localStorage.setItem('playerMuted', video.muted);
+        showControls();
+      });
+      
+      volumeSlider.addEventListener('input', (e) => {
+        video.volume = e.target.value;
+        if (video.volume > 0) {
+          video.muted = false;
+          localStorage.setItem('playerMuted', false);
+        }
+        localStorage.setItem('playerVolume', video.volume);
+        updateVolumeIcon();
+        updateVolumeSliderColor();
+        showControls();
+      });
+      
+      // Settings menu
+      settingsBtn.addEventListener('click', (e) => {
+        e.stopPropagation();
+        closeAllMenus();
+        isSettingsOpen = !isSettingsOpen;
+        settingsMenu.classList.toggle('active', isSettingsOpen);
+        showControls();
+      });
+      
+      // Quality menu
+      qualityBtn.addEventListener('click', (e) => {
+        e.stopPropagation();
+        closeAllMenus();
+        isQualityOpen = !isQualityOpen;
+        qualityMenu.classList.toggle('active', isQualityOpen);
+        showControls();
+      });
+      
+      // Download menu
+      downloadBtn.addEventListener('click', (e) => {
+        e.stopPropagation();
+        closeAllMenus();
+        isDownloadOpen = !isDownloadOpen;
+        downloadMenu.classList.toggle('active', isDownloadOpen);
+        showControls();
+      });
+      
+      // Share menu
+      shareBtn.addEventListener('click', (e) => {
+        e.stopPropagation();
+        closeAllMenus();
+        isShareOpen = !isShareOpen;
+        shareMenu.classList.toggle('active', isShareOpen);
+        showControls();
+      });
+      
+      document.addEventListener('click', (e) => {
+        if (isSettingsOpen && !settingsDropdown.contains(e.target)) {
+          closeAllMenus();
+        }
+        if (isQualityOpen && !qualityDropdown.contains(e.target)) {
+          closeAllMenus();
+        }
+        if (isDownloadOpen && !downloadDropdown.contains(e.target)) {
+          closeAllMenus();
+        }
+        if (isShareOpen && !shareDropdown.contains(e.target)) {
+          closeAllMenus();
+        }
+      });
+      
+      settingsDropdown.querySelectorAll('.settings-item').forEach(item => {
+        item.addEventListener('click', () => {
+          const speed = parseFloat(item.dataset.speed);
+          video.playbackRate = speed;
+          settingsDropdown.querySelectorAll('.settings-item').forEach(i => {
+            i.classList.remove('selected');
+          });
+          item.classList.add('selected');
+          showControls();
+        });
+      });
+      
+      // Fullscreen
+      fullscreenBtn.addEventListener('click', () => {
+        if (!isFullscreen) {
+          if (playerContainer.requestFullscreen) {
+            playerContainer.requestFullscreen();
+          } else if (playerContainer.webkitRequestFullscreen) {
+            playerContainer.webkitRequestFullscreen();
+          } else if (playerContainer.msRequestFullscreen) {
+            playerContainer.msRequestFullscreen();
+          }
+        } else {
+          if (document.exitFullscreen) {
+            document.exitFullscreen();
+          } else if (document.webkitExitFullscreen) {
+            document.webkitExitFullscreen();
+          } else if (document.msExitFullscreen) {
+            document.msExitFullscreen();
+          }
+        }
+        showControls();
+      });
+      
+      document.addEventListener('fullscreenchange', () => {
+        isFullscreen = !!document.fullscreenElement;
+        fullscreenBtn.innerHTML = isFullscreen ? 
+          '<span class="material-icons">fullscreen_exit</span>' : 
+          '<span class="material-icons">fullscreen</span>';
+      });
+      
+      document.addEventListener('webkitfullscreenchange', () => {
+        isFullscreen = !!document.webkitFullscreenElement;
+        fullscreenBtn.innerHTML = isFullscreen ? 
+          '<span class="material-icons">fullscreen_exit</span>' : 
+          '<span class="material-icons">fullscreen</span>';
+      });
+      
+      document.addEventListener('msfullscreenchange', () => {
+        isFullscreen = !!document.msFullscreenElement;
+        fullscreenBtn.innerHTML = isFullscreen ? 
+          '<span class="material-icons">fullscreen_exit</span>' : 
+          '<span class="material-icons">fullscreen</span>';
+      });
+
+      video.addEventListener('dblclick', async () => {
+          const isFull = !!document.fullscreenElement;
+
+          try {
+              if (!isFull) {
+                  await playerContainer.requestFullscreen();
+            
+                  if (screen.orientation?.lock) {
+                      try {
+                          await screen.orientation.lock('portrait');
+                      } catch (orientationError) {
+                          console.warn('Portrait lock failed, falling back to zoom:', orientationError);
+                          video.style.transform = 'rotate(0deg) scale(1.25)';
+                          video.style.transformOrigin = 'center center';
+                          video.style.transition = 'transform 0.3s ease';
+                      }
+                  }
+              } else {
+                  if (screen.orientation?.type?.includes('portrait')) {
+                      try {
+                          await screen.orientation.lock('landscape');
+                      } catch (landscapeError) {
+                          console.warn('Landscape lock failed:', landscapeError);
+                      }
+                  } else {
+                      await document.exitFullscreen();
+                      video.style.transform = '';
+                      video.style.transition = '';
+                  }
+              }
+          } catch (fullscreenError) {
+              console.error('Fullscreen error:', fullscreenError);
+          }
+      });
+      
+      function formatTime(seconds) {
+          const hrs = Math.floor(seconds / 3600);
+          const mins = Math.floor((seconds % 3600) / 60);
+          const secs = Math.floor(seconds % 60);
+
+          if (hrs > 0) {
+              return hrs + ':' +
+                     (mins < 10 ? '0' : '') + mins + ':' +
+                     (secs < 10 ? '0' : '') + secs;
+          } else {
+              return mins + ':' + (secs < 10 ? '0' : '') + secs;
+          }
+      }
+      
+      // Initialize everything
+      initPlayer();
+      setupDownloadFeatures();
+      setupScreenshotFeatures();
+      setupShareFeatures();
+    });
+  </script>
+
+</body>
+</html>
