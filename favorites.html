@@ -1,1626 +1,3383 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-  <title>Jaswant🤗</title>
-  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-  <style>
-    :root {
-      --primary: #ff2d55;
-      --text: #ffffff;
-      --highlight: rgba(255,45,85,0.4);
-      --volume-color: #4CAF50;
-      --buffer-color: rgba(255, 255, 255, 0.3);
-      --gold: #FFD700;
-    }
-    
-    * { margin: 0; padding: 0; box-sizing: border-box; }
-    body { font-family: 'Segoe UI', sans-serif; background: #000; color: var(--text); }
-    
-    #player-container {
-      position: fixed;
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: 100%;
-      background: #000;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      overflow: hidden;
-    }
-    
-    #video {
-      width: 100%;
-      height: 100%;
-      object-fit: contain;
-    }
-    
-    #loading {
-      position: absolute;
-      top: 50%;
-      left: 50%;
-      transform: translate(-50%, -50%);
-      color: white;
-      font-size: 1.2rem;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      gap: 15px;
-      z-index: 10;
-    }
-    
-    .spinner {
-      animation: spin 1s linear infinite;
-      font-size: 2rem;
-    }
-    
-    @keyframes spin {
-      100% { transform: rotate(360deg); }
-    }
-    
-    .controls {
-      position: absolute;
-      bottom: 0;
-      left: 0;
-      right: 0;
-      padding: 15px;
-      background: linear-gradient(to top, rgba(0,0,0,0.7), transparent);
-      display: flex;
-      flex-direction: column;
-      gap: 12px;
-      z-index: 5;
-      transition: all 0.3s ease;
-      opacity: 1;
-    }
-    
-    .controls.hidden {
-      opacity: 0;
-      pointer-events: none;
-    }
-    
-    .progress-container {
-      width: 100%;
-      height: 5px;
-      background: rgba(255,255,255,0.1);
-      cursor: pointer;
-      position: relative;
-      border-radius: 3px;
-      overflow: visible;
-    }
-    
-    #progress-bar {
-      height: 100%;
-      background: var(--primary);
-      width: 0%;
-      position: relative;
-      z-index: 2;
-    }
-    
-    #buffer-bar {
-      position: absolute;
-      top: 0;
-      left: 0;
-      height: 100%;
-      background: var(--buffer-color);
-      width: 0%;
-      z-index: 1;
-    }
-
-    #progress-handle {
-      position: absolute;
-      top: 50%;
-      transform: translate(-50%, -50%);
-      width: 16px;
-      height: 16px;
-      border-radius: 50%;
-      background: white;
-      border: 2px solid transparent;
-      background-image:         
-        linear-gradient(135deg, #ffffff, #f0f0f0),
-        linear-gradient(90deg, #ff4757, #ffa502, #2ed573, #3742fa, #8e44ad);
-      background-origin: border-box;
-      background-clip: content-box, border-box;
-      box-shadow: 0 0 8px rgba(255, 45, 85, 0.6);
-      z-index: 10;
-      pointer-events: none;
-      transition: transform 0.15s ease, box-shadow 0.15s ease;
-    }
-
-    .progress-container:hover #progress-handle {
-      transform: translate(-50%, -50%) scale(1.3);
-      box-shadow: 0 0 14px rgba(255, 45, 85, 0.8);
-    }
-    
-    .main-controls {
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      width: 100%;
-      gap: 10px;
-    }
-    
-    .left-controls, .right-controls {
-      display: flex;
-      align-items: center;
-      gap: 10px;
-      flex-wrap: nowrap;
-    }
-    
-    .control-btn {
-      background: rgba(255, 255, 255, 0.1);
-      border: none;
-      color: white;
-      font-size: 1.1rem;
-      cursor: pointer;
-      width: 42px;
-      height: 42px;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      border-radius: 50%;
-      transition: background 0.25s, transform 0.25s;
-      position: relative;
-      overflow: hidden;
-    }
-
-    .control-btn:hover {
-      background: rgba(255, 255, 255, 0.2);
-      transform: scale(1.1);
-    }
-
-    .control-btn::after {
-      content: '';
-      position: absolute;
-      top: 50%;
-      left: 50%;
-      width: 0;
-      height: 0;
-      background: rgba(255, 255, 255, 0.4);
-      border-radius: 50%;
-      transform: translate(-50%, -50%);
-      opacity: 0;
-      pointer-events: none;
-    }
-
-    .control-btn:active::after {
-      width: 180%;
-      height: 180%;
-      opacity: 0.3;
-      transition: width 0.35s ease-out, height 0.35s ease-out, opacity 0.5s ease-out;
-    }
-
-    .control-btn:focus,
-    .control-btn:active {
-      outline: none !important;
-      box-shadow: none !important;
-    }
-
-    .control-btn {
-      -webkit-tap-highlight-color: transparent;
-    }
-    
-    .material-icons {
-      font-size: 20px;
-    }
-    
-    .skip-btn {
-      position: relative;
-    }
-    
-    .skip-btn::before {
-      content: '10';
-      position: absolute;
-      top: -8px;
-      right: -5px;
-      font-size: 10px;
-      color: white;
-      background: var(--primary);
-      border-radius: 50%;
-      width: 18px;
-      height: 18px;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      font-weight: bold;
-    }
-    
-    #lock-btn {
-      position: absolute;
-      right: 20px;
-      top: 50%;
-      transform: translateY(-50%);
-      background: rgba(255, 215, 0, 0.2);
-      color: var(--gold);
-      z-index: 10;
-      opacity: 0;
-      transition: opacity 0.3s;
-    }
-    
-    #lock-btn.visible {
-      opacity: 1;
-    }
-    
-    #lock-btn:hover {
-      background: rgba(255, 215, 0, 0.3);
-    }
-    
-    .time-display {
-      font-size: 0.9rem;
-      min-width: 110px;
-      text-align: center;
-      color: white;
-      padding: 8px 12px;
-    }
-    
-    /* Volume Control */
-    .volume-container {
-      display: flex;
-      align-items: center;
-      gap: 8px;
-      width: 120px;
-    }
-
-    #volume-slider {
-      width: 80px;
-      height: 4px;
-      -webkit-appearance: none;
-      background: rgba(255, 255, 255, 0.2);
-      border-radius: 2px;
-      position: relative;
-    }
-
-    #volume-slider::before {
-      content: '';
-      position: absolute;
-      top: 0;
-      left: 0;
-      height: 100%;
-      background: var(--volume-color);
-      width: var(--volume-fill, 100%);
-      border-radius: 2px;
-      z-index: 1;
-    }
-
-    #volume-slider::-webkit-slider-thumb {
-      -webkit-appearance: none;
-      width: 14px;
-      height: 14px;
-      border-radius: 50%;
-      background: white;
-      border: 2px solid #8B5CF6;
-      box-shadow: 0 1px 3px rgba(0,0,0,0.3);
-      cursor: pointer;
-      position: relative;
-      z-index: 2;
-      transition: all 0.2s ease;
-    }
-
-    #volume-slider::-webkit-slider-thumb:hover {
-      transform: scale(1.1);
-      border-color: #7C3AED;
-    }
-
-    #volume-slider::-moz-range-thumb {
-      width: 14px;
-      height: 14px;
-      border-radius: 50%;
-      background: white;
-      border: 2px solid #8B5CF6;
-      box-shadow: 0 1px 3px rgba(0,0,0,0.3);
-      cursor: pointer;
-      transition: all 0.2s ease;
-    }
-
-    #volume-slider::-moz-range-thumb:hover {
-      transform: scale(1.1);
-      border-color: #7C3AED;
-    }
-
-    #volume-slider::-webkit-slider-track {
-      background: transparent;
-    }
-
-    #volume-slider::-moz-range-track {
-      background: rgba(255, 255, 255, 0.2);
-      height: 4px;
-      border-radius: 2px;
-      border: none;
-    }
-
-    #volume-slider::-moz-range-progress {
-      background: var(--volume-color);
-      height: 4px;
-      border-radius: 2px;
-    }
-
-    #volume-slider::-moz-range-thumb {
-      width: 14px;
-      height: 14px;
-      border-radius: 50%;
-      background: white;
-      cursor: pointer;
-      border: none;
-    }
-    
-    /* Settings Menu */
-    .settings-menu {
-      position: relative;
-    }
-    
-    .settings-dropdown {
-      position: absolute;
-      bottom: 50px;
-      right: 0;
-      background: rgba(30, 30, 30, 0.95);
-      border-radius: 8px;
-      padding: 8px 0;
-      width: 160px;
-      opacity: 0;
-      pointer-events: none;
-      transition: all 0.3s;
-      max-height: 300px;
-      overflow-y: auto;
-    }
-    
-    .settings-menu.active .settings-dropdown {
-      opacity: 1;
-      pointer-events: all;
-    }
-    
-    .settings-item {
-      padding: 8px 15px;
-      cursor: pointer;
-      color: white;
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-    }
-    
-    .settings-item:hover {
-      color: var(--primary);
-      background: rgba(255, 255, 255, 0.1);
-    }
-    
-    .settings-item.selected {
-      color: var(--primary);
-      font-weight: bold;
-    }
-    
-    .settings-item.selected::after {
-      content: "✓";
-      font-weight: bold;
-    }
-    
-    /* Quality and Download Menu */
-    .quality-menu, .download-menu, .share-menu {
-      position: relative;
-    }
-    
-    .quality-dropdown, .download-dropdown, .share-dropdown {
-      position: absolute;
-      bottom: 50px;
-      right: 0;
-      background: rgba(30, 30, 30, 0.95);
-      border-radius: 8px;
-      padding: 8px 0;
-      width: 180px;
-      opacity: 0;
-      pointer-events: none;
-      transition: all 0.3s;
-      z-index: 20;
-    }
-    
-    .quality-menu.active .quality-dropdown,
-    .download-menu.active .download-dropdown,
-    .share-menu.active .share-dropdown {
-      opacity: 1;
-      pointer-events: all;
-    }
-    
-    /* Fullscreen Styles */
-    #player-container:fullscreen {
-      width: 100% !important;
-      height: 100% !important;
-      background: black;
-    }
-    
-    #player-container:-webkit-full-screen {
-      width: 100% !important;
-      height: 100% !important;
-      background: black;
-    }
-    
-    #player-container:-moz-full-screen {
-      width: 100% !important;
-      height: 100% !important;
-      background: black;
-    }
-    
-    #player-container:-ms-fullscreen {
-      width: 100% !important;
-      height: 100% !important;
-      background: black;
-    }
-    
-    /* Quality indicator */
-    .quality-indicator {
-      position: absolute;
-      top: 15px;
-      left: 15px;
-      background: rgba(0, 0, 0, 0.7);
-      padding: 4px 8px;
-      border-radius: 4px;
-      font-size: 0.8rem;
-      z-index: 5;
-      transition: opacity 0.3s;
-    }
-    
-    .controls.hidden ~ .quality-indicator {
-      opacity: 0;
-    }
-    
-    /* Download Dialog - IDM Style */
-    .download-dialog {
-      position: fixed;
-      top: 50%;
-      left: 50%;
-      transform: translate(-50%, -50%);
-      background: rgba(20, 20, 20, 0.95);
-      border-radius: 12px;
-      padding: 20px;
-      width: 90%;
-      max-width: 400px;
-      z-index: 1000;
-      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
-      border: 1px solid rgba(255, 255, 255, 0.1);
-      display: none;
-    }
-    
-    .download-dialog.active {
-      display: block;
-    }
-    
-    .download-dialog h3 {
-      margin: 0 0 15px 0;
-      color: var(--primary);
-      font-size: 1.2rem;
-    }
-    
-    .download-option {
-      display: flex;
-      align-items: center;
-      padding: 12px;
-      margin: 8px 0;
-      background: rgba(255, 255, 255, 0.05);
-      border-radius: 8px;
-      cursor: pointer;
-      transition: background 0.3s;
-    }
-    
-    .download-option:hover {
-      background: rgba(255, 255, 255, 0.1);
-    }
-    
-    .download-option .material-icons {
-      margin-right: 12px;
-      color: var(--primary);
-    }
-    
-    .download-info {
-      flex: 1;
-    }
-    
-    .download-title {
-      font-weight: bold;
-      margin-bottom: 4px;
-    }
-    
-    .download-size {
-      font-size: 0.8rem;
-      color: #aaa;
-    }
-    
-    .download-progress {
-      width: 100%;
-      height: 4px;
-      background: rgba(255, 255, 255, 0.1);
-      border-radius: 2px;
-      margin-top: 8px;
-      overflow: hidden;
-      display: none;
-    }
-    
-    .download-progress-bar {
-      height: 100%;
-      background: var(--primary);
-      width: 0%;
-      transition: width 0.3s;
-    }
-    
-    .dialog-actions {
-      display: flex;
-      justify-content: flex-end;
-      gap: 10px;
-      margin-top: 20px;
-    }
-    
-    .dialog-btn {
-      padding: 8px 16px;
-      border: none;
-      border-radius: 6px;
-      cursor: pointer;
-      font-weight: 500;
-      transition: all 0.3s;
-    }
-    
-    .dialog-btn.cancel {
-      background: rgba(255, 255, 255, 0.1);
-      color: white;
-    }
-    
-    .dialog-btn.download {
-      background: var(--primary);
-      color: white;
-    }
-    
-    .dialog-btn:hover {
-      transform: translateY(-1px);
-    }
-    
-    /* Screenshot Preview */
-    .screenshot-preview {
-      position: fixed;
-      top: 50%;
-      left: 50%;
-      transform: translate(-50%, -50%);
-      background: rgba(0, 0, 0, 0.9);
-      border-radius: 12px;
-      padding: 20px;
-      z-index: 1001;
-      display: none;
-      max-width: 90%;
-      max-height: 90%;
-    }
-    
-    .screenshot-preview.active {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-    }
-    
-    .screenshot-img {
-      max-width: 100%;
-      max-height: 70vh;
-      border-radius: 8px;
-    }
-    
-    .screenshot-actions {
-      display: flex;
-      gap: 10px;
-      margin-top: 15px;
-    }
-    
-    /* Overlay */
-    .overlay {
-      position: fixed;
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: 100%;
-      background: rgba(0, 0, 0, 0.7);
-      z-index: 999;
-      display: none;
-    }
-    
-    .overlay.active {
-      display: block;
-    }
-  </style>
-</head>
-<body>
-  <div id="player-container">
-    <video id="video" playsinline src="blob:https://rwa-video-player.onrender.com/67d3186e-2013-46c7-9744-4be6f6c44058"></video>
-    <div id="loading"><span class="material-icons">error</span> Network Error - Try reloading</div>
-    
-    <!-- Quality Indicator -->
-    <div class="quality-indicator" id="quality-indicator">Auto</div>
-    
-    <!-- Lock Button -->
-    <button class="control-btn" id="lock-btn" title="Lock Controls">
-      <span class="material-icons">lock</span>
-    </button>
-    
-    <div class="controls hidden">
-      <div class="progress-container">
-        <div id="buffer-bar"></div>
-        <div id="progress-bar"></div>
-        <div id="progress-handle"></div>
-      </div>
-      
-      <div class="main-controls">
-        <div class="left-controls">
-          <button class="control-btn" id="play-btn"><span class="material-icons">pause</span></button>
-          
-          <button class="control-btn skip-btn" id="rewind-btn">
-            <span class="material-icons">replay_10</span>
-          </button>
-          
-          <button class="control-btn skip-btn" id="forward-btn">
-            <span class="material-icons">forward_10</span>
-          </button>
-          
-          <div class="volume-container">
-            <button class="control-btn" id="volume-btn">
-              <span class="material-icons">volume_up</span>
-            </button>
-            <input type="range" id="volume-slider" min="0" max="1" step="0.01" value="1">
-          </div>
-          
-          <div class="time-display" id="time-display">0:00 / 0:00</div>
-        </div>
+<!DOCTYPE html><html lang="en"><head>
+<meta charset="utf-8">
+<meta content="width=device-width, initial-scale=1.0" name="viewport">
+<title>😍PULY-STAR😍</title>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.0/font/bootstrap-icons.css" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script><style type="text/css">* {user-select: auto !important; -webkit-user-select: auto !important;}</style><input type="hidden" id="inject_idm_text_selection">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.11.338/pdf.min.js"></script>
+<style>
+        body { 
+            background-color: #f8f9fa; 
+            padding: 20px;
+            transition: background-color 0.3s, color 0.3s;
+        }
+        .dark-mode {
+            background-color: #121212;
+            color: #f8f9fa;
+        }
+        .dark-mode .section {
+            background-color: #1e1e1e;
+            color: #f8f9fa;
+            box-shadow: 0 0 10px rgba(255,255,255,0.05);
+        }
+        .dark-mode .list-group-item {
+            background-color: #2d2d2d;
+            color: #f8f9fa;
+            border-color: #444;
+        }
+        .dark-mode .breadcrumb-item.active {
+            color: #0dcaf0 !important;
+        }
+        .dark-mode #linksContainer {
+            background-color: #2d2d2d;
+            border-color: #444;
+        }
+        .dark-mode .link-item {
+            border-bottom-color: #444;
+        }
+        .dark-mode .form-control, .dark-mode .form-control:focus {
+            background-color: #2d2d2d;
+            color: #f8f9fa;
+            border-color: #444;
+        }
+        .dark-mode .modal-content {
+            background-color: #1e1e1e;
+            color: #f8f9fa;
+        }
+        .dark-mode .modal-header, .dark-mode .modal-footer {
+            border-color: #444;
+        }
+        .dark-mode .alert-info {
+            background-color: #073642;
+            border-color: #2aa198;
+            color: #eee8d5;
+        }
         
-        <div class="right-controls">
-          <!-- Screenshot Button -->
-          <button class="control-btn" id="screenshot-btn" title="Take Screenshot">
-            <span class="material-icons">photo_camera</span>
+        .container { max-width: 1200px; margin: 0 auto; }
+        .section { 
+            margin-bottom: 20px; 
+            padding: 20px; 
+            border-radius: 8px; 
+            background: white; 
+            box-shadow: 0 0 10px rgba(0,0,0,0.05);
+            transition: background-color 0.3s, box-shadow 0.3s;
+        }
+        .hidden { display: none; }
+        #linksContainer { 
+            height: 300px; 
+            overflow-y: auto; 
+            border: 1px solid #ddd; 
+            padding: 10px; 
+            background: white;
+            border-radius: 5px;
+        }
+        .link-item { 
+            margin-bottom: 10px; 
+            padding: 8px; 
+            border-bottom: 1px solid #eee; 
+            word-break: break-word;
+        }
+        .link-title {
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+        .link-url {
+            color: #666;
+            font-size: 0.9em;
+        }
+        .dark-mode .link-url {
+            color: #aaa;
+        }
+        .copy-btn { position: absolute; right: 20px; top: 10px; }
+        .active-breadcrumb { font-weight: bold; color: #0d6efd !important; }
+        .loading-spinner {
+            border: 4px solid rgba(0, 0, 0, 0.1);
+            border-radius: 50%;
+            border-top: 4px solid #3498db;
+            width: 30px;
+            height: 30px;
+            animation: spin 1s linear infinite;
+            margin: 0 auto;
+        }
+        #videoPlayerModal { max-width: 800px; }
+        #videoPlayer { width: 100%; height: 450px; background: #000; }
+        #pdfViewerContainer { 
+            width: 100%; 
+            height: 500px; 
+            border: 1px solid #ddd; 
+            overflow: auto; 
+            background: #525659;
+        }
+        .pdf-page {
+            margin-bottom: 20px;
+            text-align: center;
+        }
+        .page-label {
+            margin-bottom: 10px;
+            font-weight: bold;
+        }
+        .btn-sm { padding: 0.25rem 0.5rem; font-size: 0.875rem; }
+        #linksTextarea { 
+            height: 300px; 
+            font-family: monospace; 
+            display: none; 
+            white-space: pre;
+            overflow-x: auto;
+        }
+        .footer {
+            text-align: center;
+            margin-top: 30px;
+            padding: 20px;
+            color: #666;
+        }
+        .dark-mode .footer {
+            color: #aaa;
+        }
+        .theme-toggle {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            width: 50px;
+            height: 50px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            z-index: 1000;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.2);
+            background: #f8f9fa;
+        }
+        .dark-mode .theme-toggle {
+            background: #2d2d2d;
+        }
+        .nav-buttons {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 20px;
+        }
+        .telegram-link {
+            color: #0088cc;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        .dark-mode .telegram-link {
+            color: #35ace0;
+        }
+        .pdf-toolbar {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 10px;
+            background: #f8f9fa;
+            padding: 8px;
+            border-radius: 4px;
+        }
+        .dark-mode .pdf-toolbar {
+            background: #2d2d2d;
+        }
+        .pdf-page-controls {
+            display: flex;
+            align-items: center;
+        }
+        .copy-notification {
+            position: fixed;
+            bottom: 20px;
+            left: 50%;
+            transform: translateX(-50%);
+            background-color: #333;
+            color: white;
+            padding: 10px 20px;
+            border-radius: 5px;
+            z-index: 1000;
+            opacity: 0;
+            transition: opacity 0.3s;
+        }
+        .copy-notification.show {
+            opacity: 1;
+        }
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+    
+/* AMOLED true dark and beautified theme */
+.dark-mode {
+    background-color: #000000;
+    color: #e0e0e0;
+}
+
+/* Glassy section styling with dark mode */
+.section {
+    border-radius: 12px;
+    transition: all 0.4s ease;
+}
+
+.dark-mode .section {
+    background: rgba(255, 255, 255, 0.05);
+    backdrop-filter: blur(10px);
+    box-shadow: 0 0 15px rgba(255, 255, 255, 0.05);
+    border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.dark-mode .form-control,
+.dark-mode .form-control:focus,
+.dark-mode .list-group-item {
+    background-color: #121212;
+    border: 1px solid #333;
+    color: #ffffff;
+}
+
+.dark-mode .link-item {
+    border-bottom: 1px solid #333;
+}
+
+.dark-mode .theme-toggle {
+    background-color: #111;
+    color: #0dcaf0;
+    border: 1px solid #0dcaf0;
+}
+
+.theme-toggle:hover {
+    transform: scale(1.05);
+    transition: transform 0.2s ease-in-out;
+}
+
+/* Primary color accent updated */
+.breadcrumb-item.active {
+    color: #0dcaf0 !important;
+    font-weight: bold;
+}
+
+.btn-primary,
+.btn-outline-primary {
+    background-color: #0dcaf0;
+    border-color: #0dcaf0;
+    color: #000;
+}
+
+.btn-primary:hover,
+.btn-outline-primary:hover {
+    background-color: #00bcd4;
+    border-color: #00bcd4;
+    color: #000;
+}
+
+.footer-text {
+  margin: 0 0 10px;
+  font-weight: bold;
+  font-size: 1.2rem;
+  font-family: 'Segoe UI', sans-serif;
+  color: #222;
+}
+.crafted-text {
+  color: #222;
+}
+.brand-text {
+  color: hotpink;
+}
+.dark-mode .footer-text,
+.dark-mode .crafted-text {
+  color: #fff;
+}
+
+
+.dark-mode .btn-outline-dark {
+  color: #f8f9fa;
+  border-color: #ccc;
+}
+.dark-mode .btn-outline-dark:hover {
+  background-color: #333;
+  border-color: #aaa;
+}
+
+</style>
+<style>
+.popup-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.85);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 2000;
+}
+
+.popup-box {
+  background: white;
+  padding: 25px 20px;
+  border-radius: 15px;
+  width: 90%;
+  max-width: 360px;
+  text-align: center;
+  box-shadow: 0 0 30px rgba(255, 105, 180, 0.6);
+  animation: fadeIn 0.4s ease-in-out;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.popup-box h2 {
+  color: #dc3545;
+  font-size: 1.4rem;
+  margin-bottom: 12px;
+}
+
+.popup-box p {
+  font-size: 0.95rem;
+  margin-bottom: 20px;
+  line-height: 1.4;
+}
+
+.popup-box .btn {
+  font-size: 1rem;
+  padding: 8px 16px;
+  border-radius: 8px;
+}
+
+.dark-mode .popup-box {
+  background: #1e1e1e;
+  color: #f8f9fa;
+}
+
+#robotChatButton {
+  position: fixed;
+  bottom: 100px;
+  right: 20px;
+  z-index: 1000;
+  background: transparent;
+  border-radius: 50%;
+  padding: 0;
+  box-shadow: 0 6px 12px rgba(255, 105, 180, 0.4);
+  transition: transform 0.3s ease;
+  cursor: pointer;
+}
+#robotChatButton:hover {
+  transform: scale(1.1);
+}
+
+</style>
+<script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+
+<style>
+  .movable {
+    position: fixed;
+    cursor: grab;
+    touch-action: none;
+    z-index: 9999;
+  }
+</style>
+
+<style>
+
+.floating-assistant {
+  position: fixed;
+  bottom: 80px;
+  right: 20px;
+  z-index: 9999;
+  animation: floatY 3s ease-in-out infinite;
+  text-align: center;
+  cursor: grab;
+}
+
+@keyframes floatY {
+  0% { transform: translateY(0px); }
+  50% { transform: translateY(-10px); }
+  100% { transform: translateY(0px); }
+}
+
+.telegram-link {
+  display: inline-block;
+  font-size: 0.9rem;
+  font-weight: bold;
+  color: #0088cc;
+  text-decoration: none;
+}
+
+.dark-mode .telegram-link {
+  color: #35ace0;
+}
+</style>        
+        
+<style></style></head>
+<body style="overflow: hidden; padding-right: 20px;" class="modal-open">
+        
+<!-- ✅ Full Login Script with Admin/users.txt Integration -->
+        
+<!-- Login Modal -->
+<div class="modal fade show" id="loginModal" tabindex="-1" data-bs-backdrop="static" data-bs-keyboard="false" aria-modal="true" role="dialog" style="display: block;">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Secure Login Required</h5>
+      </div>
+      <div class="modal-body">
+        <div class="alert alert-danger d-none" id="loginError"></div>
+        <div class="alert alert-info d-none" id="expiryError"></div>
+        <form id="loginForm">
+          <div class="mb-3">
+            <label for="loginUsername" class="form-label">User ID</label>
+            <input type="text" class="form-control" id="loginUsername" required="">
+          </div>
+          <div class="mb-3">
+            <label for="loginPassword" class="form-label">Password</label>
+            <input type="password" class="form-control" id="loginPassword" required="">
+          </div>
+          <button type="submit" class="w-100" style="
+              background: none;
+              color: hotpink;
+              border: 2px solid hotpink;
+              font-weight: bold;
+              text-decoration: none;
+              font-size: 1rem;
+              font-family: 'Segoe UI', sans-serif';
+              border-radius: 10px;
+              padding: 10px;
+              transition: all 0.3s ease;
+            " onmouseover="this.style.backgroundColor='hotpink'; this.style.color='white';" onmouseout="this.style.backgroundColor='transparent'; this.style.color='hotpink';">
+            <i class="bi bi-box-arrow-in-right" style="margin-right: 6px;"></i>Login
           </button>
+          <p class="mt-3 text-center">
+          <!-- Telegram Link -->
+          <a href="https://instagram.com/pulystar09" target="_blank" style="color: hotpink; text-decoration: underline; font-weight: bold; font-size: 1rem;">
+              <i class="bi bi-telegram" style="margin-right: 6px;"></i>
+              Free Id Password Is Here... Join Now
+            </a>
+          </p>
           
-          <!-- Share Button -->
-          <div class="share-menu" id="share-menu">
-            <button class="control-btn" id="share-btn" title="Share Video">
-              <span class="material-icons">share</span>
-            </button>
-            <div class="share-dropdown" id="share-dropdown">
-              <div class="settings-item" id="share-link">Copy Video Link</div>
-              <div class="settings-item" id="share-embed">Copy Embed Code</div>
-              <div class="settings-item" id="share-social">Share on Social Media</div>
-            </div>
-          </div>
-          
-          <!-- Download Button -->
-          <div class="download-menu" id="download-menu">
-            <button class="control-btn" id="download-btn" title="Download Options">
-              <span class="material-icons">download</span>
-            </button>
-            <div class="download-dropdown" id="download-dropdown">
-              <div class="settings-item" id="download-video">Download Video</div>
-              <div class="settings-item" id="download-audio">Extract Audio</div>
-              <div class="settings-item" id="show-download-dialog">Advanced Download</div>
-            </div>
-          </div>
-          
-          <!-- Quality Button -->
-          <div class="quality-menu" id="quality-menu">
-            <button class="control-btn" id="quality-btn" title="Quality Options">
-              <span class="material-icons">high_quality</span>
-            </button>
-            <div class="quality-dropdown" id="quality-dropdown">
-              <div class="settings-item selected" data-quality="auto">Auto</div>
-              <!-- Quality options will be populated dynamically -->
-            </div>
-          </div>
-          
-          <!-- Settings Button -->
-          <div class="settings-menu" id="settings-menu">
-            <button class="control-btn" id="settings-btn">
-              <span class="material-icons">settings</span>
-            </button>
-            <div class="settings-dropdown" id="settings-dropdown">
-              <div class="settings-item" data-speed="0.25">0.25x</div>
-              <div class="settings-item" data-speed="0.5">0.5x</div>
-              <div class="settings-item" data-speed="0.75">0.75x</div>
-              <div class="settings-item selected" data-speed="1">1x</div>
-              <div class="settings-item" data-speed="1.25">1.25x</div>
-              <div class="settings-item" data-speed="1.5">1.5x</div>
-              <div class="settings-item" data-speed="2">2x</div>
-              <div class="settings-item" data-speed="3">3x</div>
-              <div class="settings-item" data-speed="4">4x</div>
-            </div>
-          </div>
-          
-          <button class="control-btn" id="fullscreen-btn">
-            <span class="material-icons">fullscreen</span>
-          </button>
-        </div>
+          <p class="mt-3 text-center"> <!-- ye mt-3 1 line gap dega -->
+            <!-- How To Use Link -->
+            <a href="#" onclick="openHowToUseInsideLogin()" style="
+                 font-weight: 800;
+                 text-decoration: underline;
+                 font-size: 1.1rem;
+                 background: linear-gradient(90deg, #ff69b4, #0dcaf0, #00c853);
+                 -webkit-background-clip: text;
+                 -webkit-text-fill-color: transparent;
+               ">
+              <i class="bi bi-question-circle" style="margin-right: 6px; color:#ff69b4;"></i>
+              How To Use
+            </a>
+          </p>                 
+        </form>
       </div>
     </div>
   </div>
+</div>
 
-  <!-- Download Dialog -->
-  <div class="overlay" id="overlay"></div>
-  
-  <div class="download-dialog" id="download-dialog">
-    <h3>Download Video</h3>
-    <div class="download-option" id="download-option-1">
-      <span class="material-icons">video_file</span>
-      <div class="download-info">
-        <div class="download-title">High Quality (1080p)</div>
-        <div class="download-size">~150 MB</div>
-      </div>
+<!-- Notification Toast -->
+<div class="position-fixed bottom-0 end-0 p-3" style="z-index: 11">
+  <div id="loginToast" class="toast" role="alert" aria-live="assertive" aria-atomic="true">
+    <div class="toast-header bg-primary text-white">
+      <strong class="me-auto">Welcome</strong>
+      <button type="button" class="btn-close btn-close-white" data-bs-dismiss="toast" aria-label="Close"></button>
     </div>
-    <div class="download-option" id="download-option-2">
-      <span class="material-icons">video_file</span>
-      <div class="download-info">
-        <div class="download-title">Medium Quality (720p)</div>
-        <div class="download-size">~80 MB</div>
-      </div>
-    </div>
-    <div class="download-option" id="download-option-3">
-      <span class="material-icons">video_file</span>
-      <div class="download-info">
-        <div class="download-title">Low Quality (480p)</div>
-        <div class="download-size">~40 MB</div>
-      </div>
-    </div>
-    <div class="download-option" id="download-audio-option">
-      <span class="material-icons">audio_file</span>
-      <div class="download-info">
-        <div class="download-title">Audio Only (MP3)</div>
-        <div class="download-size">~15 MB</div>
-      </div>
-    </div>
-    
-    <div class="download-progress" id="download-progress">
-      <div class="download-progress-bar" id="download-progress-bar"></div>
-    </div>
-    
-    <div class="dialog-actions">
-      <button class="dialog-btn cancel" id="cancel-download">Cancel</button>
-      <button class="dialog-btn download" id="start-download">Download</button>
+    <div class="toast-body">
+      This Id Password is Provided By Web Owner. Its Totally Free...<br>
+      <a href="https://instagram.com/pulystar09" class="text-primary" target="_blank">Join For Free Access</a>
     </div>
   </div>
+</div>
 
-  <!-- Screenshot Preview -->
-  <div class="screenshot-preview" id="screenshot-preview">
-    <img class="screenshot-img" id="screenshot-img" src="" alt="Screenshot">
-    <div class="screenshot-actions">
-      <button class="dialog-btn cancel" id="screenshot-cancel">Close</button>
-      <button class="dialog-btn download" id="screenshot-download">Download</button>
-      <button class="dialog-btn download" id="screenshot-share">Share</button>
-    </div>
-  </div>
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  document.querySelectorAll('.section').forEach(section => {
+    section.classList.add('hidden');
+  });
 
-  <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
-  
-  <script>
-    document.addEventListener('DOMContentLoaded', () => {
-      const video = document.getElementById('video');
-      const loading = document.getElementById('loading');
-      const playBtn = document.getElementById('play-btn');
-      const rewindBtn = document.getElementById('rewind-btn');
-      const forwardBtn = document.getElementById('forward-btn');
-      const volumeBtn = document.getElementById('volume-btn');
-      const volumeSlider = document.getElementById('volume-slider');
-      const lockBtn = document.getElementById('lock-btn');
-      const fullscreenBtn = document.getElementById('fullscreen-btn');
-      const settingsBtn = document.getElementById('settings-btn');
-      const settingsMenu = document.getElementById('settings-menu');
-      const settingsDropdown = document.getElementById('settings-dropdown');
-      const progressContainer = document.querySelector('.progress-container');
-      const progressBar = document.getElementById('progress-bar');
-      const bufferBar = document.getElementById('buffer-bar');
-      const timeDisplay = document.getElementById('time-display');
-      const playerContainer = document.getElementById('player-container');
-      const controls = document.querySelector('.controls');
-      
-      // New elements for quality, download, screenshot and share
-      const qualityBtn = document.getElementById('quality-btn');
-      const qualityMenu = document.getElementById('quality-menu');
-      const qualityDropdown = document.getElementById('quality-dropdown');
-      const qualityIndicator = document.getElementById('quality-indicator');
-      const downloadBtn = document.getElementById('download-btn');
-      const downloadMenu = document.getElementById('download-menu');
-      const downloadDropdown = document.getElementById('download-dropdown');
-      const downloadVideoBtn = document.getElementById('download-video');
-      const downloadAudioBtn = document.getElementById('download-audio');
-      const showDownloadDialogBtn = document.getElementById('show-download-dialog');
-      const screenshotBtn = document.getElementById('screenshot-btn');
-      const shareBtn = document.getElementById('share-btn');
-      const shareMenu = document.getElementById('share-menu');
-      const shareDropdown = document.getElementById('share-dropdown');
-      const shareLinkBtn = document.getElementById('share-link');
-      const shareEmbedBtn = document.getElementById('share-embed');
-      const shareSocialBtn = document.getElementById('share-social');
-      
-      // Dialog elements
-      const overlay = document.getElementById('overlay');
-      const downloadDialog = document.getElementById('download-dialog');
-      const downloadOptions = document.querySelectorAll('.download-option');
-      const downloadProgress = document.getElementById('download-progress');
-      const downloadProgressBar = document.getElementById('download-progress-bar');
-      const cancelDownloadBtn = document.getElementById('cancel-download');
-      const startDownloadBtn = document.getElementById('start-download');
-      
-      // Screenshot elements
-      const screenshotPreview = document.getElementById('screenshot-preview');
-      const screenshotImg = document.getElementById('screenshot-img');
-      const screenshotCancelBtn = document.getElementById('screenshot-cancel');
-      const screenshotDownloadBtn = document.getElementById('screenshot-download');
-      const screenshotShareBtn = document.getElementById('screenshot-share');
-      
-      let hls;
-      let hideControlsTimeout;
-      let hideLockButtonTimeout;
-      let isSettingsOpen = false;
-      let isQualityOpen = false;
-      let isDownloadOpen = false;
-      let isShareOpen = false;
-      let controlsLocked = false;
-      let isFullscreen = false;
-      let selectedDownloadOption = null;
-      const url = new URLSearchParams(window.location.search).get('url');
-      
-      // Initialize player
-      function initPlayer() {
-        if (!url) {
-          showError('Missing stream URL');
-          return;
-        }
-        
-        if (Hls.isSupported()) {
-          hls = new Hls({
-            maxBufferLength: 600,
-            maxMaxBufferLength: 1800,
-            maxBufferSize: 60 * 1000 * 1000,
-            maxBufferHole: 5.0
-          });
-          
-          hls.loadSource('/proxy?url=' + encodeURIComponent(url));
-          hls.attachMedia(video);
-          
-          hls.on(Hls.Events.MANIFEST_PARSED, () => {
-            loading.style.display = 'none';
-            video.play().catch(e => {
-              showError('Click to play', true);
-            });
-            initVolume();
-            showControls();
-            
-            // Initialize quality levels after manifest is parsed
-            initQualityLevels();
-          });
-          
-          hls.on(Hls.Events.ERROR, (event, data) => {
-            if (data.fatal) {
-              let errorMsg = 'Stream Error';
-              if (data.type === Hls.ErrorTypes.NETWORK_ERROR) {
-                errorMsg = 'Network Error - Try reloading';
-              } else if (data.type === Hls.ErrorTypes.MEDIA_ERROR) {
-                errorMsg = 'Media Error - Try another stream';
-              }
-              showError(errorMsg);
-            }
-          });
-          
-          hls.on(Hls.Events.FRAG_BUFFERED, () => {
-            updateBufferBar();
-          });
-          
-          // Listen for quality level changes
-          hls.on(Hls.Events.LEVEL_SWITCHED, (event, data) => {
-            updateQualityIndicator();
-          });
-        } else if (video.canPlayType('application/vnd.apple.mpegurl')) {
-          video.src = '/proxy?url=' + encodeURIComponent(url);
-          video.addEventListener('loadedmetadata', () => {
-            loading.style.display = 'none';
-            video.play().catch(e => {
-              showError('Click to play', true);
-            });
-            initVolume();
-            showControls();
-          });
-        } else {
-          showError('Your browser doesn\'t support HLS streaming');
-        }
-      }
-      
-      // Initialize quality levels
-      function initQualityLevels() {
-        if (!hls) return;
-        
-        const levels = hls.levels;
-        qualityDropdown.innerHTML = '<div class="settings-item selected" data-quality="auto">Auto</div>';
-        
-        levels.forEach((level, index) => {
-          const item = document.createElement('div');
-          item.className = 'settings-item';
-          item.dataset.quality = index;
-          
-          // Format quality label
-          let label = '';
-          if (level.height) {
-            label = `${level.height}p`;
-          } else if (level.width) {
-            label = `${Math.round(level.width * 9 / 16)}p`;
-          } else if (level.bitrate) {
-            label = `${Math.round(level.bitrate / 1000)}kbps`;
-          } else {
-            label = `Level ${index}`;
-          }
-          
-          item.textContent = label;
-          qualityDropdown.appendChild(item);
-        });
-        
-        // Add event listeners to quality items
-        qualityDropdown.querySelectorAll('.settings-item').forEach(item => {
-          item.addEventListener('click', () => {
-            const quality = item.dataset.quality;
-            
-            if (quality === 'auto') {
-              hls.currentLevel = -1; // Auto quality
-            } else {
-              hls.currentLevel = parseInt(quality);
-            }
-            
-            // Update UI
-            qualityDropdown.querySelectorAll('.settings-item').forEach(i => {
-              i.classList.remove('selected');
-            });
-            item.classList.add('selected');
-            
-            updateQualityIndicator();
-            closeQualityMenu();
-            showControls();
-          });
-        });
-      }
-      
-      // Update quality indicator
-      function updateQualityIndicator() {
-        if (!hls) return;
-        
-        const currentLevel = hls.currentLevel;
-        if (currentLevel === -1) {
-          qualityIndicator.textContent = 'Auto';
-        } else if (hls.levels[currentLevel]) {
-          const level = hls.levels[currentLevel];
-          if (level.height) {
-            qualityIndicator.textContent = `${level.height}p`;
-          } else if (level.bitrate) {
-            qualityIndicator.textContent = `${Math.round(level.bitrate / 1000)}kbps`;
-          } else {
-            qualityIndicator.textContent = `Level ${currentLevel}`;
-          }
-        }
-      }
-      
-      // Setup download features
-      function setupDownloadFeatures() {
-        // Simple download
-        downloadVideoBtn.addEventListener('click', () => {
-          if (url) {
-            const a = document.createElement('a');
-            a.href = url;
-            a.download = 'video.mp4';
-            a.target = '_blank';
-            document.body.appendChild(a);
-            a.click();
-            document.body.removeChild(a);
-          } else {
-            alert('Download source not available');
-          }
-          closeDownloadMenu();
-        });
-        
-        // Audio download
-        downloadAudioBtn.addEventListener('click', () => {
-          alert('Audio extraction feature would require server-side processing');
-          closeDownloadMenu();
-        });
-        
-        // Show IDM-style download dialog
-        showDownloadDialogBtn.addEventListener('click', () => {
-          showDownloadDialog();
-          closeDownloadMenu();
-        });
-        
-        // Download option selection
-        downloadOptions.forEach(option => {
-          option.addEventListener('click', () => {
-            downloadOptions.forEach(opt => opt.style.background = 'rgba(255, 255, 255, 0.05)');
-            option.style.background = 'rgba(255, 45, 85, 0.2)';
-            selectedDownloadOption = option.id;
-          });
-        });
-        
-        // Start download
-        startDownloadBtn.addEventListener('click', () => {
-          if (!selectedDownloadOption) {
-            alert('Please select a download option');
+  const loginModal = new bootstrap.Modal(document.getElementById('loginModal'));
+  loginModal.show();
+
+  document.getElementById('loginForm').addEventListener('submit', function(e) {
+    e.preventDefault();
+
+    const username = document.getElementById('loginUsername').value.trim();
+    const password = document.getElementById('loginPassword').value.trim();
+    const errorElement = document.getElementById('loginError');
+    const expiryError = document.getElementById('expiryError');
+
+    errorElement.classList.add('d-none');
+    expiryError.classList.add('d-none');
+
+    checkCredentials(username, password)
+      .then(result => {
+        if (result.valid) {
+          const expiryDate = new Date(result.expiry);
+          const today = new Date();
+
+          if (expiryDate < today) {
+            expiryError.textContent = `Your account expired on ${result.expiry}. Please contact admin.`;
+            expiryError.classList.remove('d-none');
             return;
           }
-          
-          downloadProgress.style.display = 'block';
-          simulateDownload();
-        });
-        
-        // Cancel download
-        cancelDownloadBtn.addEventListener('click', () => {
-          hideDownloadDialog();
-        });
-      }
-      
-      // Show download dialog
-      function showDownloadDialog() {
-        overlay.classList.add('active');
-        downloadDialog.classList.add('active');
-        downloadProgress.style.display = 'none';
-        downloadProgressBar.style.width = '0%';
-        selectedDownloadOption = null;
-        downloadOptions.forEach(opt => opt.style.background = 'rgba(255, 255, 255, 0.05)');
-      }
-      
-      // Hide download dialog
-      function hideDownloadDialog() {
-        overlay.classList.remove('active');
-        downloadDialog.classList.remove('active');
-      }
-      
-      // Simulate download progress
-      function simulateDownload() {
-        let progress = 0;
-        const interval = setInterval(() => {
-          progress += Math.random() * 5;
-          if (progress >= 100) {
-            progress = 100;
-            clearInterval(interval);
-            
-            // Download complete
-            setTimeout(() => {
-              alert('Download completed!');
-              hideDownloadDialog();
-            }, 500);
-          }
-          downloadProgressBar.style.width = progress + '%';
-        }, 200);
-      }
-      
-      // Setup screenshot features
-      function setupScreenshotFeatures() {
-        screenshotBtn.addEventListener('click', takeScreenshot);
-        
-        screenshotCancelBtn.addEventListener('click', () => {
-          screenshotPreview.classList.remove('active');
-          overlay.classList.remove('active');
-        });
-        
-        screenshotDownloadBtn.addEventListener('click', downloadScreenshot);
-        
-        screenshotShareBtn.addEventListener('click', shareScreenshot);
-      }
-      
-      // Take screenshot
-      function takeScreenshot() {
-        const canvas = document.createElement('canvas');
-        canvas.width = video.videoWidth;
-        canvas.height = video.videoHeight;
-        const ctx = canvas.getContext('2d');
-        ctx.drawImage(video, 0, 0, canvas.width, canvas.height);
-        
-        canvas.toBlob((blob) => {
-          const url = URL.createObjectURL(blob);
-          screenshotImg.src = url;
-          screenshotPreview.classList.add('active');
-          overlay.classList.add('active');
-          
-          // Store blob for download/share
-          screenshotImg.dataset.blobUrl = url;
-        });
-        
-        showControls();
-      }
-      
-      // Download screenshot
-      function downloadScreenshot() {
-        const url = screenshotImg.dataset.blobUrl;
-        const a = document.createElement('a');
-        a.href = url;
-        a.download = `screenshot-${new Date().getTime()}.png`;
-        document.body.appendChild(a);
-        a.click();
-        document.body.removeChild(a);
-      }
-      
-      // Share screenshot
-      function shareScreenshot() {
-        const url = screenshotImg.dataset.blobUrl;
-        
-        if (navigator.share) {
-          // Convert blob to file for sharing
-          fetch(url)
-            .then(res => res.blob())
-            .then(blob => {
-              const file = new File([blob], `screenshot-${new Date().getTime()}.png`, { type: 'image/png' });
-              navigator.share({
-                files: [file],
-                title: 'Video Screenshot',
-                text: 'Check out this screenshot from the video!'
-              });
-            });
+
+          loginModal.hide();
+          showNotification();
+          showContent();
+          sessionStorage.setItem('isLoggedIn', 'true');
         } else {
-          // Fallback: copy to clipboard or show URL
-          alert('Sharing not supported in this browser. Screenshot is ready for download.');
+          errorElement.textContent = 'Invalid username or password';
+          errorElement.classList.remove('d-none');
         }
-      }
-      
-      // Setup share features
-      function setupShareFeatures() {
-        shareLinkBtn.addEventListener('click', () => {
-          navigator.clipboard.writeText(window.location.href)
-            .then(() => {
-              alert('Video link copied to clipboard!');
-            })
-            .catch(() => {
-              // Fallback
-              const tempInput = document.createElement('input');
-              tempInput.value = window.location.href;
-              document.body.appendChild(tempInput);
-              tempInput.select();
-              document.execCommand('copy');
-              document.body.removeChild(tempInput);
-              alert('Video link copied to clipboard!');
-            });
-          closeShareMenu();
-        });
-        
-        shareEmbedBtn.addEventListener('click', () => {
-          const embedCode = `<iframe src="${window.location.href}" width="560" height="315" frameborder="0" allowfullscreen></iframe>`;
-          navigator.clipboard.writeText(embedCode)
-            .then(() => {
-              alert('Embed code copied to clipboard!');
-            })
-            .catch(() => {
-              const tempInput = document.createElement('input');
-              tempInput.value = embedCode;
-              document.body.appendChild(tempInput);
-              tempInput.select();
-              document.execCommand('copy');
-              document.body.removeChild(tempInput);
-              alert('Embed code copied to clipboard!');
-            });
-          closeShareMenu();
-        });
-        
-        shareSocialBtn.addEventListener('click', () => {
-          const shareUrl = encodeURIComponent(window.location.href);
-          const shareText = encodeURIComponent('Check out this video!');
-          window.open(`https://twitter.com/intent/tweet?text=${shareText}&url=${shareUrl}`, '_blank');
-          closeShareMenu();
-        });
-      }
-      
-      // Menu management functions
-      function closeAllMenus() {
-        isSettingsOpen = false;
-        isQualityOpen = false;
-        isDownloadOpen = false;
-        isShareOpen = false;
-        settingsMenu.classList.remove('active');
-        qualityMenu.classList.remove('active');
-        downloadMenu.classList.remove('active');
-        shareMenu.classList.remove('active');
-      }
-      
-      function closeQualityMenu() {
-        isQualityOpen = false;
-        qualityMenu.classList.remove('active');
-      }
-      
-      function closeDownloadMenu() {
-        isDownloadOpen = false;
-        downloadMenu.classList.remove('active');
-      }
-      
-      function closeShareMenu() {
-        isShareOpen = false;
-        shareMenu.classList.remove('active');
-      }
-      
-      function showError(message, clickable = false) {
-        loading.innerHTML = `<span class="material-icons">error</span> ${message}`;
-        if (clickable) {
-          loading.style.cursor = 'pointer';
-          loading.onclick = () => {
-            video.play().catch(e => console.log(e));
-            loading.style.display = 'none';
-          };
-        }
-      }
-      
-      function initVolume() {
-        const savedVolume = localStorage.getItem('playerVolume');
-        const savedMuted = localStorage.getItem('playerMuted');
-  
-        if (savedVolume !== null) {
-          video.volume = parseFloat(savedVolume);
-          volumeSlider.value = video.volume;
-          updateVolumeSliderColor();
-        }
-  
-        if (savedMuted === 'true') {
-          video.muted = true;
-          volumeBtn.innerHTML = '<span class="material-icons">volume_off</span>';
-          volumeSlider.value = 0;
-          volumeSlider.style.setProperty('--volume-fill', '0%');
-        } else {
-          updateVolumeIcon();
-          updateVolumeSliderColor();
-        }
-      }
-            
-      function updateVolumeIcon() {
-        if (video.volume === 0) {
-          volumeBtn.innerHTML = '<span class="material-icons">volume_off</span>';
-        } else if (video.volume < 0.5) {
-          volumeBtn.innerHTML = '<span class="material-icons">volume_down</span>';
-        } else {
-          volumeBtn.innerHTML = '<span class="material-icons">volume_up</span>';
-        }
-      }
-      
-      function updateVolumeSliderColor() {
-        const percent = video.volume * 100;
-        volumeSlider.style.setProperty('--volume-fill', percent + '%');
-      }
-      
-      function showControls() {
-        if (!controlsLocked) {
-          controls.classList.remove('hidden');
-          qualityIndicator.style.opacity = '1';
-          resetHideControlsTimer();
-        }
-        showLockButton();
-      }
-      
-      function hideControls() {
-        if (!video.paused && !isSettingsOpen && !isQualityOpen && !isDownloadOpen && !isShareOpen && !controlsLocked) {
-          controls.classList.add('hidden');
-          qualityIndicator.style.opacity = '0';
-        }
-      }
-      
-      function showLockButton() {
-        clearTimeout(hideLockButtonTimeout);
-        lockBtn.classList.add('visible');
-        hideLockButtonTimeout = setTimeout(() => {
-          lockBtn.classList.remove('visible');
-        }, 3000);
-      }
-      
-      function resetHideControlsTimer() {
-        clearTimeout(hideControlsTimeout);
-        hideControlsTimeout = setTimeout(hideControls, 3000);
-      }
-      
-      playerContainer.addEventListener('mousemove', () => {
-        showControls();
+      })
+      .catch(error => {
+        errorElement.textContent = 'Error checking credentials. Please try again.';
+        errorElement.classList.remove('d-none');
+        console.error(error);
       });
-      
-      playerContainer.addEventListener('click', (e) => {
-        if (e.target === playerContainer || e.target === video) {
-          if (controls.classList.contains('hidden')) {
-            showControls();
-          } else {
-            hideControls();
-          }
-        }
-      });
-      
-      // Overlay click to close dialogs
-      overlay.addEventListener('click', () => {
-        hideDownloadDialog();
-        screenshotPreview.classList.remove('active');
-        overlay.classList.remove('active');
-      });
-      
-      // Lock Controls
-      lockBtn.addEventListener('click', (e) => {
-        e.stopPropagation();
-        controlsLocked = !controlsLocked;
-        
-        if (controlsLocked) {
-          lockBtn.innerHTML = '<span class="material-icons">lock_open</span>';
-          controls.classList.add('hidden');
-          qualityIndicator.style.opacity = '0';
-        } else {
-          lockBtn.innerHTML = '<span class="material-icons">lock</span>';
-          showControls();
-        }
-        showLockButton();
-      });
-      
-      // Playback controls
-      playBtn.addEventListener('click', () => {
-        if (video.paused) {
-          video.play().catch(e => showError('Click to play', true));
-        } else {
-          video.pause();
-        }
-        showControls();
-      });
-      
-      video.addEventListener('play', () => {
-        playBtn.innerHTML = '<span class="material-icons">pause</span>';
-      });
-      
-      video.addEventListener('pause', () => {
-        playBtn.innerHTML = '<span class="material-icons">play_arrow</span>';
-      });
-      
-      // Skip buttons
-      rewindBtn.addEventListener('click', () => {
-        video.currentTime = Math.max(0, video.currentTime - 10);
-        showControls();
-      });
-      
-      forwardBtn.addEventListener('click', () => {
-        video.currentTime = Math.min(video.duration, video.currentTime + 10);
-        showControls();
-      });
-      
-      // Progress bar with handle
-      const progressHandle = document.getElementById('progress-handle');
-      let isDragging = false;
+  });
 
-      function updateProgressUI(percent) {
-        progressBar.style.width = percent + '%';
-        if (progressHandle) {
-          progressHandle.style.left = percent + '%';
+  if (sessionStorage.getItem('isLoggedIn') === 'true') {
+    loginModal.hide();
+    showContent();
+  }
+});
+
+function showContent() {
+  document.getElementById('apiSection').classList.remove('hidden');
+}
+
+function showNotification() {
+  const toast = new bootstrap.Toast(document.getElementById('loginToast'));
+  toast.show();
+  setTimeout(() => { toast.hide(); }, 60000);
+}
+
+function checkCredentials(username, password) {
+  return fetch('Admin/users.txt')
+    .then(response => {
+      if (!response.ok) {
+        throw new Error('Unable to load users.txt');
+      }
+      return response.text();
+    })
+    .then(text => {
+      const lines = text.trim().split('\n');
+      for (let line of lines) {
+        const [user, pass, expiry] = line.trim().split(':');
+        if (user === username && pass === password) {
+          return { valid: true, expiry };
         }
       }
-
-      function seekToPosition(clientX) {
-        const rect = progressContainer.getBoundingClientRect();
-        const pos = Math.max(0, Math.min(1, (clientX - rect.left) / rect.width));
-        const percent = pos * 100;
-        updateProgressUI(percent);
-        if (!isNaN(video.duration)) {
-          video.currentTime = pos * video.duration;
-        }
-      }
-
-      video.addEventListener('timeupdate', () => {
-         if (!isDragging && !isNaN(video.duration)) {
-           const percent = (video.currentTime / video.duration) * 100;
-           updateProgressUI(percent);
-           timeDisplay.textContent =
-             formatTime(video.currentTime) + ' / ' + formatTime(video.duration);
-         }
-       });
-
-       progressContainer.addEventListener('mousedown', (e) => {
-         isDragging = true;
-         seekToPosition(e.clientX);
-       });
-
-       document.addEventListener('mousemove', (e) => {
-         if (isDragging) seekToPosition(e.clientX);
-       });
-
-       document.addEventListener('mouseup', () => {
-         isDragging = false;
-       });
-
-       progressContainer.addEventListener('touchstart', (e) => {
-         isDragging = true;
-         seekToPosition(e.touches[0].clientX);
-       });
-
-       document.addEventListener('touchmove', (e) => {
-         if (isDragging) seekToPosition(e.touches[0].clientX);
-       });
-
-       document.addEventListener('touchend', () => {
-         isDragging = false;
-       });
-      
-      function updateBufferBar() {
-        if (video.buffered.length > 0) {
-          const bufferedEnd = video.buffered.end(video.buffered.length - 1);
-          const duration = video.duration;
-          if (duration > 0) {
-            const bufferPercent = (bufferedEnd / duration) * 100;
-            bufferBar.style.width = bufferPercent + '%';
-          }
-        }
-      }
-      
-      // Volume control
-      volumeBtn.addEventListener('click', () => {
-        if (video.muted) {
-          video.muted = false;
-          volumeSlider.value = video.volume;
-          updateVolumeIcon();
-          updateVolumeSliderColor();
-        } else {
-          video.muted = true;
-          volumeSlider.value = 0;
-          volumeBtn.innerHTML = '<span class="material-icons">volume_off</span>';
-          volumeSlider.style.setProperty('--volume-fill', '0%');
-        }
-  
-        localStorage.setItem('playerMuted', video.muted);
-        showControls();
-      });
-      
-      volumeSlider.addEventListener('input', (e) => {
-        video.volume = e.target.value;
-        if (video.volume > 0) {
-          video.muted = false;
-          localStorage.setItem('playerMuted', false);
-        }
-        localStorage.setItem('playerVolume', video.volume);
-        updateVolumeIcon();
-        updateVolumeSliderColor();
-        showControls();
-      });
-      
-      // Settings menu
-      settingsBtn.addEventListener('click', (e) => {
-        e.stopPropagation();
-        closeAllMenus();
-        isSettingsOpen = !isSettingsOpen;
-        settingsMenu.classList.toggle('active', isSettingsOpen);
-        showControls();
-      });
-      
-      // Quality menu
-      qualityBtn.addEventListener('click', (e) => {
-        e.stopPropagation();
-        closeAllMenus();
-        isQualityOpen = !isQualityOpen;
-        qualityMenu.classList.toggle('active', isQualityOpen);
-        showControls();
-      });
-      
-      // Download menu
-      downloadBtn.addEventListener('click', (e) => {
-        e.stopPropagation();
-        closeAllMenus();
-        isDownloadOpen = !isDownloadOpen;
-        downloadMenu.classList.toggle('active', isDownloadOpen);
-        showControls();
-      });
-      
-      // Share menu
-      shareBtn.addEventListener('click', (e) => {
-        e.stopPropagation();
-        closeAllMenus();
-        isShareOpen = !isShareOpen;
-        shareMenu.classList.toggle('active', isShareOpen);
-        showControls();
-      });
-      
-      document.addEventListener('click', (e) => {
-        if (isSettingsOpen && !settingsDropdown.contains(e.target)) {
-          closeAllMenus();
-        }
-        if (isQualityOpen && !qualityDropdown.contains(e.target)) {
-          closeAllMenus();
-        }
-        if (isDownloadOpen && !downloadDropdown.contains(e.target)) {
-          closeAllMenus();
-        }
-        if (isShareOpen && !shareDropdown.contains(e.target)) {
-          closeAllMenus();
-        }
-      });
-      
-      settingsDropdown.querySelectorAll('.settings-item').forEach(item => {
-        item.addEventListener('click', () => {
-          const speed = parseFloat(item.dataset.speed);
-          video.playbackRate = speed;
-          settingsDropdown.querySelectorAll('.settings-item').forEach(i => {
-            i.classList.remove('selected');
-          });
-          item.classList.add('selected');
-          showControls();
-        });
-      });
-      
-      // Fullscreen
-      fullscreenBtn.addEventListener('click', () => {
-        if (!isFullscreen) {
-          if (playerContainer.requestFullscreen) {
-            playerContainer.requestFullscreen();
-          } else if (playerContainer.webkitRequestFullscreen) {
-            playerContainer.webkitRequestFullscreen();
-          } else if (playerContainer.msRequestFullscreen) {
-            playerContainer.msRequestFullscreen();
-          }
-        } else {
-          if (document.exitFullscreen) {
-            document.exitFullscreen();
-          } else if (document.webkitExitFullscreen) {
-            document.webkitExitFullscreen();
-          } else if (document.msExitFullscreen) {
-            document.msExitFullscreen();
-          }
-        }
-        showControls();
-      });
-      
-      document.addEventListener('fullscreenchange', () => {
-        isFullscreen = !!document.fullscreenElement;
-        fullscreenBtn.innerHTML = isFullscreen ? 
-          '<span class="material-icons">fullscreen_exit</span>' : 
-          '<span class="material-icons">fullscreen</span>';
-      });
-      
-      document.addEventListener('webkitfullscreenchange', () => {
-        isFullscreen = !!document.webkitFullscreenElement;
-        fullscreenBtn.innerHTML = isFullscreen ? 
-          '<span class="material-icons">fullscreen_exit</span>' : 
-          '<span class="material-icons">fullscreen</span>';
-      });
-      
-      document.addEventListener('msfullscreenchange', () => {
-        isFullscreen = !!document.msFullscreenElement;
-        fullscreenBtn.innerHTML = isFullscreen ? 
-          '<span class="material-icons">fullscreen_exit</span>' : 
-          '<span class="material-icons">fullscreen</span>';
-      });
-
-      video.addEventListener('dblclick', async () => {
-          const isFull = !!document.fullscreenElement;
-
-          try {
-              if (!isFull) {
-                  await playerContainer.requestFullscreen();
-            
-                  if (screen.orientation?.lock) {
-                      try {
-                          await screen.orientation.lock('portrait');
-                      } catch (orientationError) {
-                          console.warn('Portrait lock failed, falling back to zoom:', orientationError);
-                          video.style.transform = 'rotate(0deg) scale(1.25)';
-                          video.style.transformOrigin = 'center center';
-                          video.style.transition = 'transform 0.3s ease';
-                      }
-                  }
-              } else {
-                  if (screen.orientation?.type?.includes('portrait')) {
-                      try {
-                          await screen.orientation.lock('landscape');
-                      } catch (landscapeError) {
-                          console.warn('Landscape lock failed:', landscapeError);
-                      }
-                  } else {
-                      await document.exitFullscreen();
-                      video.style.transform = '';
-                      video.style.transition = '';
-                  }
-              }
-          } catch (fullscreenError) {
-              console.error('Fullscreen error:', fullscreenError);
-          }
-      });
-      
-      function formatTime(seconds) {
-          const hrs = Math.floor(seconds / 3600);
-          const mins = Math.floor((seconds % 3600) / 60);
-          const secs = Math.floor(seconds % 60);
-
-          if (hrs > 0) {
-              return hrs + ':' +
-                     (mins < 10 ? '0' : '') + mins + ':' +
-                     (secs < 10 ? '0' : '') + secs;
-          } else {
-              return mins + ':' + (secs < 10 ? '0' : '') + secs;
-          }
-      }
-      
-      // Initialize everything
-      initPlayer();
-      setupDownloadFeatures();
-      setupScreenshotFeatures();
-      setupShareFeatures();
+      return { valid: false };
     });
-  </script>
+}
+</script>
 
-</body>
-    </html>
+<style>
+#loginModal .modal-content { border-radius: 12px; overflow: hidden; }
+#loginModal .modal-header { background: linear-gradient(90deg, #ff69b4, #0dcaf0); color: white; border-bottom: none; }
+#loginModal .modal-body { padding: 2rem; }
+#loginModal .btn-primary {
+  background: linear-gradient(90deg, #ff69b4, #0dcaf0);
+  border: none;
+  padding: 10px;
+  font-weight: 600;
+}
+#loginModal .form-control {
+  padding: 10px;
+  border-radius: 8px;
+  border: 1px solid #ddd;
+}
+.dark-mode #loginModal .modal-content {
+  background-color: #1e1e1e;
+  color: #f8f9fa;
+}
+.dark-mode #loginModal .form-control {
+  background-color: #2d2d2d;
+  color: #f8f9fa;
+  border-color: #444;
+}
+#loginToast {
+  border-radius: 10px;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.15);
+}
+#loginToast a {
+  font-weight: bold;
+  text-decoration: underline;
+}
+</style>
+        
+<!-- Hamburger Menu -->
+<button aria-controls="mainMenuOffcanvas" class="btn btn-outline-dark btn-sm position-fixed top-0 end-0 m-2 z-3 d-inline-block" data-bs-target="#mainMenuOffcanvas" data-bs-toggle="offcanvas" style="z-index: 1050;" type="button">
+<i class="bi bi-list" style="font-size: 1.2rem;"></i>
+</button>
+<div class="container">
+<h1 class="text-center mb-4" style="
+    font-weight: 800;
+    font-size: 1.9rem;
+    background: linear-gradient(90deg, #ff69b4, #0dcaf0, #00bcd4);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-shadow: 0 2px 8px rgba(255, 105, 180, 0.2);
+">
+  Rwa • Winners Institute • Mg Concept
+</h1>
+<nav aria-label="breadcrumb" class="mb-4">
+<ol class="breadcrumb" id="breadcrumb">
+<li class="breadcrumb-item active-breadcrumb" id="bc-api">API Setup</li>
+<li class="breadcrumb-item" id="bc-login">Login</li>
+<li class="breadcrumb-item" id="bc-batches">Batches</li>
+<li class="breadcrumb-item" id="bc-subjects">Subjects</li>
+<li class="breadcrumb-item" id="bc-classes">Classes</li>
+<li class="breadcrumb-item" id="bc-links">Links</li>
+</ol>
+</nav>
+<div class="section hidden" id="apiSection">
+<h3>Step 1: Enter API Endpoint</h3>
+<div class="input-group mb-3"><div class="w-100"><select class="form-select" id="apiEndpoint"><option data-api="https://rozgarapinew.teachx.in" value="RWA">RWA</option><option data-api="https://winnersinstituteapi.classx.co.in" value="Winners Institute">Winners Institute</option><option data-api="https://mgconceptapi.classx.co.in" value="Mg Concept">Mg Concept</option><option data-api="" value="Add Your Api 🙃">Add Your Api 🙃</option></select><input class="form-control mt-2" id="customApi" placeholder="Enter custom API URL" style="display:none;" type="text"></div><button class="btn btn-primary mb-2" id="submitApi">Connect</button></div>
+<div class="nav-buttons row gy-2">
+<div class="col-12 col-md-auto"><button class="btn btn-outline-secondary w-100 mb-2" id="homeBtnFromApi">
+<i class="bi bi-house"></i> Home
+
+                </button></div>
+<div></div> <!-- Spacer -->
+</div>
+</div>
+<div class="section hidden" id="loginSection">
+<h3>Step 2: Login</h3>
+<div class="mb-3">
+<div class="form-check">
+<input checked="" class="form-check-input" id="credentialLogin" name="loginType" type="radio">
+<label class="form-check-label" for="credentialLogin">Login with Credentials</label>
+</div>
+<div class="form-check">
+<input class="form-check-input" id="tokenLogin" name="loginType" type="radio">
+<label class="form-check-label" for="tokenLogin">Login with Token</label>
+</div>
+</div>
+<div id="credentialFields">
+<div class="mb-3">
+<label class="form-label" for="username">Mobile/Email</label>
+<input class="form-control" id="username" placeholder="Enter your email or number" type="text" value="">
+</div>
+<div class="mb-3">
+<label class="form-label" for="password">Password</label>
+<input class="form-control" id="password" placeholder="Enter your password" type="password" value="">
+</div>
+</div>
+<div class="hidden" id="tokenFields">
+<select class="form-select mb-2" id="predefinedToken">
+<option value="">Select Token (Optional)</option>
+<option data-token="dZR5CT5cySEq9CDbvDmmQFe2I3o2hKhYQaax52pzOesONRi+C+6nbE7lVloGMalJrLTeuTbPv6S+NNUTdJbqatabp9xCNqLXXlozjX090YKMHbx0jq5CpFsuGh7AqWU0kfbhtfx1yswKymcSzB5l71fhy/actiHsK4ulX/b2KIR1FGooJGF5qmmXxzH5OeSe4lqazpKik3zhqC+DTZVGuFg/z6GIPDcaa0GfUus+5BOttzqIBXvGj7veO+EYPMsm">Rwa Admin Token</option>
+</select>
+<div class="alert alert-success" id="tokenAddedMsg" style="display:none;">Your Token Added 🥰😘</div>
+<div class="mb-3">
+<label class="form-label" for="jwtToken">JWT Token</label>
+<input class="form-control" id="jwtToken" type="text">
+</div>
+</div>
+<div class="nav-buttons row gy-2">
+<div class="col-12 col-md-auto"><button class="btn btn-outline-secondary w-100 mb-2" id="homeBtnFromLogin">
+<i class="bi bi-house"></i> Home
+
+                </button></div>
+<div class="col-12 col-md-auto"><button class="btn btn-outline-primary w-100 mb-2" id="backToApiFromLogin">
+<i class="bi bi-arrow-left"></i> Back
+
+                </button></div>
+</div>
+<button class="btn btn-primary mt-3 mb-2" id="loginBtn">Login</button>
+</div>
+<div class="section hidden" id="batchSection">
+<h3>Your Course Batches</h3>
+
+<div class="d-flex justify-content-between align-items-center mb-2">
+  <h5 id="totalBatchCount">Total Batches: 0</h5>
+  <input type="text" id="batchSearchInput" class="form-control" placeholder="🔍 Search by ID or Name..." style="max-width: 300px;">
+</div>
+
+<div class="list-group" id="batchList"></div>
+<div class="nav-buttons row gy-2">
+<div class="col-12 col-md-auto"><button class="btn btn-outline-secondary w-100 mb-2" id="homeBtnFromBatches">
+<i class="bi bi-house"></i> Home
+
+                </button></div>
+<div class="col-12 col-md-auto"><button class="btn btn-outline-primary w-100 mb-2" id="backToLoginFromBatches">
+<i class="bi bi-arrow-left"></i> Back
+
+                </button></div>
+</div>
+</div>
+<div class="section hidden" id="subjectSection">
+<h3>Subjects in <span id="currentBatchName"></span></h3>
+<div class="list-group" id="subjectList"></div>
+<div class="nav-buttons row gy-2">
+<div class="col-12 col-md-auto"><button class="btn btn-outline-secondary w-100 mb-2" id="homeBtnFromSubjects">
+<i class="bi bi-house"></i> Home
+
+                </button></div>
+<div class="col-12 col-md-auto"><button class="btn btn-outline-primary w-100 mb-2" id="backToBatches">
+<i class="bi bi-arrow-left"></i> Back to Batches
+
+                </button></div>
+</div>
+</div>
+<div class="section hidden" id="classSection">
+<h3>Classes in <span id="currentSubjectName"></span></h3>
+<div class="list-group" id="classList"></div>
+<div class="nav-buttons row gy-2">
+<div class="col-12 col-md-auto"><button class="btn btn-outline-secondary w-100 mb-2" id="homeBtnFromClasses">
+<i class="bi bi-house"></i> Home
+
+                </button></div>
+<div class="col-12 col-md-auto"><button class="btn btn-outline-primary w-100 mb-2" id="backToSubjects">
+<i class="bi bi-arrow-left"></i> Back to Subjects
+
+                </button></div>
+</div>
+</div>
+<div class="section hidden" id="linksSection">
+<div class="d-flex justify-content-between align-items-center mb-3">
+<h3>Extracted Links</h3>
+<div>
+<button class="btn btn-sm btn-success me-2 mb-2" id="copyLinksBtn">
+<i class="bi bi-clipboard"></i> Copy All
+
+                    </button>
+<button class="btn btn-sm btn-info mb-2" id="toggleViewBtn">
+<i class="bi bi-textarea-t"></i> Text View
+
+                    </button>
+</div>
+</div>
+<div class="mb-2" id="conversionStatus"></div>
+<div id="linksContainer"></div>
+<textarea class="form-control" id="linksTextarea" readonly=""></textarea>
+<div class="nav-buttons row gy-2">
+<div class="col-12 col-md-auto"><button class="btn btn-outline-secondary w-100 mb-2" id="homeBtnFromLinks">
+<i class="bi bi-house"></i> Home
+
+                </button></div>
+<div class="col-12 col-md-auto"><button class="btn btn-outline-primary w-100 mb-2" id="backToClasses">
+<i class="bi bi-arrow-left"></i> Back to Classes
+
+                </button></div>
+</div>
+</div>
+<div class="mt-3 alert hidden" id="statusMessage"></div>
+</div>
+<div class="footer text-center">
+<p class="footer-text">
+  <span class="crafted-text">Crafted</span> with <span style="color: red;">❤️</span> by <span class="brand-text">Studymate India</span>
+</p>
+<a href="https://instagram.com/pulystar09" style="color: #0088cc; text-decoration: underline; font-weight: bold; font-size: 1rem; display: inline-block;" target="_blank">
+<i class="bi bi-telegram" style="margin-right: 6px;"></i>Official Telegram Channel
+  </a>
+<br>
+<a href="https://www.youtube.com/@StudyMateIndiaOfficial" style="color: #FF0000; text-decoration: underline; font-weight: bold; font-size: 1rem; display: inline-block;" target="_blank">
+  <i class="bi bi-youtube" style="margin-right: 6px;"></i>Official YouTube Channel
+</a>
+
+</div>
+<div aria-hidden="true" class="modal fade" id="videoPlayerModal" tabindex="-1">
+<div class="modal-dialog modal-lg">
+<div class="modal-content">
+<div class="modal-header">
+<h5 class="modal-title" id="videoModalLabel">Video Player</h5>
+<button aria-label="Close" class="btn-close" data-bs-dismiss="modal" type="button"></button>
+</div>
+<div class="modal-body p-0" style="background: #000;">
+<div id="videoPlayer" style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000;"></div>
+</div>
+<div class="modal-footer">
+<div class="btn-group w-100">
+<button class="btn btn-secondary mb-2" id="playPauseBtn" type="button">
+<i class="bi bi-play-fill"></i> Play
+
+                        </button>
+<button class="btn btn-secondary mb-2" id="muteBtn" type="button">
+<i class="bi bi-volume-up"></i>
+</button>
+<button class="btn btn-secondary mb-2" id="fullscreenBtn" type="button">
+<i class="bi bi-fullscreen"></i>
+</button>
+<button class="btn btn-secondary mb-2" id="downloadVideoBtn" type="button">
+<i class="bi bi-download"></i>
+</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div aria-hidden="true" class="modal fade" id="pdfViewerModal" tabindex="-1">
+<div class="modal-dialog modal-xl">
+<div class="modal-content">
+<div class="modal-header">
+<h5 class="modal-title" id="pdfModalLabel">PDF Viewer</h5>
+<button aria-label="Close" class="btn-close" data-bs-dismiss="modal" type="button"></button>
+</div>
+<div class="modal-body p-0">
+<div class="pdf-toolbar">
+<div class="pdf-page-controls">
+<button class="btn btn-sm btn-secondary me-2 mb-2" disabled="" id="prevPageBtn" type="button">
+<i class="bi bi-chevron-left"></i> Previous
+
+                            </button>
+<span class="btn btn-sm" id="pageInfo">Page 1 of 1</span>
+<button class="btn btn-sm btn-secondary ms-2 mb-2" disabled="" id="nextPageBtn" type="button">
+
+                                Next <i class="bi bi-chevron-right"></i>
+</button>
+</div>
+<div>
+<button class="btn btn-sm btn-secondary me-2 mb-2" id="zoomInBtn" type="button">
+<i class="bi bi-zoom-in"></i>
+</button>
+<button class="btn btn-sm btn-secondary me-2 mb-2" id="zoomOutBtn" type="button">
+<i class="bi bi-zoom-out"></i>
+</button>
+<button class="btn btn-sm btn-secondary mb-2" id="downloadPdfBtn" type="button">
+<i class="bi bi-download"></i> Download
+
+                            </button>
+</div>
+</div>
+<div id="pdfViewerContainer"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="theme-toggle" id="themeToggle">
+<i class="bi bi-sun-fill" id="themeIcon"></i>
+</div>
+<div class="copy-notification" id="copyNotification">Copied!</div>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+<script>
+
+        // Initialize PDF.js worker
+
+        pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.11.338/pdf.worker.min.js';
+
+        
+
+        document.addEventListener('DOMContentLoaded', function() {
+
+            const elements = {
+
+                apiSection: document.getElementById('apiSection'),
+
+                loginSection: document.getElementById('loginSection'),
+
+                batchSection: document.getElementById('batchSection'),
+
+                subjectSection: document.getElementById('subjectSection'),
+
+                classSection: document.getElementById('classSection'),
+
+                linksSection: document.getElementById('linksSection'),
+
+                breadcrumb: document.getElementById('breadcrumb'),
+
+                bcApi: document.getElementById('bc-api'),
+
+                bcLogin: document.getElementById('bc-login'),
+
+                bcBatches: document.getElementById('bc-batches'),
+
+                bcSubjects: document.getElementById('bc-subjects'),
+
+                bcClasses: document.getElementById('bc-classes'),
+
+                bcLinks: document.getElementById('bc-links'),
+
+                apiEndpoint: document.getElementById('apiEndpoint'),
+
+                submitApiBtn: document.getElementById('submitApi'),
+
+                credentialLogin: document.getElementById('credentialLogin'),
+
+                tokenLogin: document.getElementById('tokenLogin'),
+
+                credentialFields: document.getElementById('credentialFields'),
+
+                tokenFields: document.getElementById('tokenFields'),
+
+                loginBtn: document.getElementById('loginBtn'),
+
+                batchList: document.getElementById('batchList'),
+
+                subjectList: document.getElementById('subjectList'),
+
+                classList: document.getElementById('classList'),
+
+                backToBatches: document.getElementById('backToBatches'),
+
+                backToSubjects: document.getElementById('backToSubjects'),
+
+                backToClasses: document.getElementById('backToClasses'),
+
+                linksContainer: document.getElementById('linksContainer'),
+
+                linksTextarea: document.getElementById('linksTextarea'),
+
+                copyLinksBtn: document.getElementById('copyLinksBtn'),
+
+                toggleViewBtn: document.getElementById('toggleViewBtn'),
+
+                statusMessage: document.getElementById('statusMessage'),
+
+                username: document.getElementById('username'),
+
+                password: document.getElementById('password'),
+
+                jwtToken: document.getElementById('jwtToken'),
+                customApi: document.getElementById('customApi'),
+                predefinedToken: document.getElementById('predefinedToken'),
+                tokenAddedMsg: document.getElementById('tokenAddedMsg'),
+
+                conversionStatus: document.getElementById('conversionStatus'),
+
+                videoPlayer: document.getElementById('videoPlayer'),
+
+                videoPlayerModal: new bootstrap.Modal(document.getElementById('videoPlayerModal')),
+
+                pdfViewerModal: new bootstrap.Modal(document.getElementById('pdfViewerModal')),
+
+                currentBatchName: document.getElementById('currentBatchName'),
+
+                currentSubjectName: document.getElementById('currentSubjectName'),
+
+                themeToggle: document.getElementById('themeToggle'),
+
+                themeIcon: document.getElementById('themeIcon'),
+
+                playPauseBtn: document.getElementById('playPauseBtn'),
+
+                muteBtn: document.getElementById('muteBtn'),
+
+                fullscreenBtn: document.getElementById('fullscreenBtn'),
+
+                downloadVideoBtn: document.getElementById('downloadVideoBtn'),
+
+                prevPageBtn: document.getElementById('prevPageBtn'),
+
+                nextPageBtn: document.getElementById('nextPageBtn'),
+
+                pageInfo: document.getElementById('pageInfo'),
+
+                zoomInBtn: document.getElementById('zoomInBtn'),
+
+                zoomOutBtn: document.getElementById('zoomOutBtn'),
+
+                downloadPdfBtn: document.getElementById('downloadPdfBtn'),
+
+                homeBtnFromApi: document.getElementById('homeBtnFromApi'),
+
+                homeBtnFromLogin: document.getElementById('homeBtnFromLogin'),
+
+                homeBtnFromBatches: document.getElementById('homeBtnFromBatches'),
+
+                homeBtnFromSubjects: document.getElementById('homeBtnFromSubjects'),
+
+                homeBtnFromClasses: document.getElementById('homeBtnFromClasses'),
+
+                homeBtnFromLinks: document.getElementById('homeBtnFromLinks'),
+
+                backToApiFromLogin: document.getElementById('backToApiFromLogin'),
+
+                backToLoginFromBatches: document.getElementById('backToLoginFromBatches'),
+
+                copyNotification: document.getElementById('copyNotification')
+
+            };
+
+            let state = {
+
+                apiBase: '',
+
+                token: '',
+
+                userId: '',
+
+                currentBatch: null,
+
+                currentSubject: null,
+
+                currentClass: null,
+
+                batches: [],
+
+                subjects: [],
+
+                classes: [],
+
+                extractedLinks: [],
+
+                currentView: 'rich',
+
+                darkMode: false,
+
+                currentVideoElement: null,
+
+                currentPdfDoc: null,
+
+                currentPageNum: 1,
+
+                currentPageRendering: false,
+
+                currentPageNumPending: null,
+
+                currentScale: 1.5,
+
+                currentVideoUrl: ''
+
+            };
+
+            function initEventListeners() {
+
+                elements.submitApiBtn.addEventListener('click', handleApiSubmit);
+                // Show/Hide custom API input
+                elements.apiEndpoint.addEventListener('change', () => {
+                    const selectedApi = elements.apiEndpoint.selectedOptions[0].dataset.api;
+                    elements.customApi.style.display = selectedApi ? 'none' : 'block';
+                });
+
+                // Token dropdown auto-fill
+                if (elements.predefinedToken) {
+                    elements.predefinedToken.addEventListener('change', () => {
+                        const token = elements.predefinedToken.selectedOptions[0].dataset.token || '';
+                        if (token) {
+                            elements.jwtToken.value = token;
+                            elements.jwtToken.style.display = 'none';
+                            elements.tokenAddedMsg.style.display = 'block';
+                        } else {
+                            elements.jwtToken.value = '';
+                            elements.jwtToken.style.display = 'block';
+                            elements.tokenAddedMsg.style.display = 'none';
+                        }
+                    });
+                }
+
+
+                elements.credentialLogin.addEventListener('change', toggleLoginFields);
+
+                elements.tokenLogin.addEventListener('change', toggleLoginFields);
+
+                elements.loginBtn.addEventListener('click', handleLogin);
+
+                elements.backToBatches.addEventListener('click', () => showSection('batch'));
+
+                elements.backToSubjects.addEventListener('click', () => showSection('subject'));
+
+                elements.backToClasses.addEventListener('click', () => showSection('class'));
+
+                elements.copyLinksBtn.addEventListener('click', copyLinksToClipboard);
+
+                elements.toggleViewBtn.addEventListener('click', toggleViewMode);
+
+                elements.themeToggle.addEventListener('click', toggleDarkMode);
+
+                
+
+                // Home buttons
+
+                elements.homeBtnFromApi.addEventListener('click', () => showSection('api'));
+
+                elements.homeBtnFromLogin.addEventListener('click', () => showSection('api'));
+
+                elements.homeBtnFromBatches.addEventListener('click', () => showSection('api'));
+
+                elements.homeBtnFromSubjects.addEventListener('click', () => showSection('api'));
+
+                elements.homeBtnFromClasses.addEventListener('click', () => showSection('api'));
+
+                elements.homeBtnFromLinks.addEventListener('click', () => showSection('api'));
+
+                
+
+                // Back buttons
+
+                elements.backToApiFromLogin.addEventListener('click', () => showSection('api'));
+
+                elements.backToLoginFromBatches.addEventListener('click', () => showSection('login'));
+
+                
+
+                // Video player controls
+
+                elements.playPauseBtn.addEventListener('click', togglePlayPause);
+
+                elements.muteBtn.addEventListener('click', toggleMute);
+
+                elements.fullscreenBtn.addEventListener('click', toggleFullscreen);
+
+                elements.downloadVideoBtn.addEventListener('click', downloadVideo);
+
+                
+
+                // PDF viewer controls
+
+                elements.prevPageBtn.addEventListener('click', previousPage);
+
+                elements.nextPageBtn.addEventListener('click', nextPage);
+
+                elements.zoomInBtn.addEventListener('click', zoomIn);
+
+                elements.zoomOutBtn.addEventListener('click', zoomOut);
+
+                elements.downloadPdfBtn.addEventListener('click', downloadPdf);
+
+                
+
+                // Close modals reset state
+
+                document.getElementById('videoPlayerModal').addEventListener('hidden.bs.modal', resetVideoPlayer);
+
+                document.getElementById('pdfViewerModal').addEventListener('hidden.bs.modal', resetPdfViewer);
+
+            }
+
+            function toggleDarkMode() {
+
+                state.darkMode = !state.darkMode;
+
+                document.body.classList.toggle('dark-mode', state.darkMode);
+
+                elements.themeIcon.classList.toggle('bi-sun-fill', !state.darkMode);
+
+                elements.themeIcon.classList.toggle('bi-moon-fill', state.darkMode);
+
+                
+
+                // Save preference to localStorage
+
+                localStorage.setItem('darkMode', state.darkMode);
+
+            }
+
+            function toggleLoginFields() {
+
+                if (elements.credentialLogin.checked) {
+
+                    elements.credentialFields.classList.remove('hidden');
+
+                    elements.tokenFields.classList.add('hidden');
+
+                } else {
+
+                    elements.credentialFields.classList.add('hidden');
+
+                    elements.tokenFields.classList.remove('hidden');
+
+                }
+
+            }
+
+            function showStatus(message, type) {
+
+                elements.statusMessage.textContent = message;
+
+                elements.statusMessage.className = `alert alert-${type}`;
+
+                elements.statusMessage.classList.remove('hidden');
+
+                
+
+                if (type === 'success') {
+
+                    setTimeout(() => {
+
+                        elements.statusMessage.classList.add('hidden');
+
+                    }, 5000);
+
+                }
+
+            }
+
+            function showSection(section) {
+
+                elements.apiSection.classList.add('hidden');
+
+                elements.loginSection.classList.add('hidden');
+
+                elements.batchSection.classList.add('hidden');
+
+                elements.subjectSection.classList.add('hidden');
+
+                elements.classSection.classList.add('hidden');
+
+                elements.linksSection.classList.add('hidden');
+
+                
+
+                elements.bcApi.classList.remove('active-breadcrumb');
+
+                elements.bcLogin.classList.remove('active-breadcrumb');
+
+                elements.bcBatches.classList.remove('active-breadcrumb');
+
+                elements.bcSubjects.classList.remove('active-breadcrumb');
+
+                elements.bcClasses.classList.remove('active-breadcrumb');
+
+                elements.bcLinks.classList.remove('active-breadcrumb');
+
+                
+
+                switch(section) {
+
+                    case 'api':
+
+                        elements.apiSection.classList.remove('hidden');
+
+                        elements.bcApi.classList.add('active-breadcrumb');
+
+                        break;
+
+                    case 'login':
+
+                        elements.loginSection.classList.remove('hidden');
+
+                        elements.bcLogin.classList.add('active-breadcrumb');
+
+                        break;
+
+                    case 'batch':
+
+                        elements.batchSection.classList.remove('hidden');
+
+                        elements.bcBatches.classList.add('active-breadcrumb');
+
+                        break;
+
+                    case 'subject':
+
+                        elements.subjectSection.classList.remove('hidden');
+
+                        elements.bcSubjects.classList.add('active-breadcrumb');
+
+                        break;
+
+                    case 'class':
+
+                        elements.classSection.classList.remove('hidden');
+
+                        elements.bcClasses.classList.add('active-breadcrumb');
+
+                        break;
+
+                    case 'links':
+
+                        elements.linksSection.classList.remove('hidden');
+
+                        elements.bcLinks.classList.add('active-breadcrumb');
+
+                        break;
+
+                }
+
+            }
+
+            function toggleViewMode() {
+
+                if (state.currentView === 'rich') {
+
+                    state.currentView = 'text';
+
+                    elements.toggleViewBtn.innerHTML = '<i class="bi bi-card-text"></i> Rich View';
+
+                    elements.linksContainer.classList.add('hidden');
+
+                    elements.linksTextarea.classList.remove('hidden');
+
+                    
+
+                    elements.linksTextarea.value = state.extractedLinks
+
+                        .map(link => `${link.title}: ${link.url}${link.extraInfo ? ' ' + link.extraInfo : ''}`)
+
+                        .join('\n\n');
+
+                } else {
+
+                    state.currentView = 'rich';
+
+                    elements.toggleViewBtn.innerHTML = '<i class="bi bi-textarea-t"></i> Text View';
+
+                    elements.linksContainer.classList.remove('hidden');
+
+                    elements.linksTextarea.classList.add('hidden');
+
+                }
+
+            }
+
+            async function handleApiSubmit() {
+
+                let apiUrl = elements.apiEndpoint.selectedOptions[0].dataset.api || '';
+                if (!apiUrl) {
+                    apiUrl = elements.customApi.value.trim();
+                }
+
+                
+
+                if (!apiUrl) {
+
+                    showStatus('Please enter a valid API endpoint', 'danger');
+
+                    return;
+
+                }
+
+                
+
+                try {
+
+                    new URL(apiUrl);
+
+                    state.apiBase = apiUrl;
+
+                    showStatus('API endpoint set successfully', 'success');
+
+                    showSection('login');
+
+                } catch (e) {
+
+                    showStatus('Please enter a valid URL (include http:// or https://)', 'danger');
+
+                }
+
+            }
+
+            async function handleLogin() {
+
+                if (elements.credentialLogin.checked) {
+
+                    const username = elements.username.value.trim();
+
+                    const password = elements.password.value.trim();
+
+                    
+
+                    if (!username || !password) {
+
+                        showStatus('Please enter both username and password', 'danger');
+
+                        return;
+
+                    }
+
+                    
+
+                    showStatus('Logging in...', 'info');
+
+                    
+
+                    try {
+
+                        const response = await loginWithCredentials(state.apiBase, username, password);
+
+                        
+
+                        if (response.status === 200) {
+
+                            state.token = response.token;
+
+                            state.userId = response.userId;
+
+                            showStatus('Login successful', 'success');
+
+                            await fetchBatches();
+
+                            showSection('batch');
+
+                        } else {
+
+                            showStatus('Login failed: ' + (response.message || 'Invalid credentials'), 'danger');
+
+                        }
+
+                    } catch (error) {
+
+                        showStatus('Error during login: ' + error.message, 'danger');
+
+                    }
+
+                } else {
+
+                    const tokenInput = elements.jwtToken.value.trim();
+                    if (!tokenInput) {
+                        showStatus('Please enter a JWT token', 'danger');
+                        return;
+                    }
+                    try {
+                        const key = CryptoJS.enc.Utf8.parse("638udh3829162018");
+                        const iv = CryptoJS.enc.Utf8.parse("fedcba9876543210");
+                        const decrypted = CryptoJS.AES.decrypt(
+                            { ciphertext: CryptoJS.enc.Base64.parse(tokenInput) },
+                            key,
+                            { iv: iv, mode: CryptoJS.mode.CBC, padding: CryptoJS.pad.Pkcs7 }
+                        );
+                        const decryptedToken = decrypted.toString(CryptoJS.enc.Utf8);
+                        state.token = decryptedToken || tokenInput;  // use decrypted if valid, else assume plain JWT
+                        showStatus(decryptedToken ? 'Encrypted token accepted ✅' : 'Plain token accepted ✅', 'success');
+                        await fetchBatches();
+                        showSection('batch');
+                    } catch (e) {
+                        // fallback to plain token
+                        state.token = tokenInput;
+                        showStatus('Plain token accepted ✅', 'success');
+                        await fetchBatches();
+                        showSection('batch');
+                    }
+
+                }
+
+            }
+
+            async function loginWithCredentials(apiBase, username, password) {
+
+                const url = `${apiBase}/post/userLogin`;
+
+                const headers = {
+
+                    "Auth-Key": "appxapi",
+
+                    "User-Id": "-2",
+
+                    "Authorization": "",
+
+                    "User_app_category": "",
+
+                    "Language": "en",
+
+                    "Content-Type": "application/x-www-form-urlencoded",
+
+                    "Accept-Encoding": "gzip, deflate"
+
+                };
+
+                const data = new URLSearchParams();
+
+                data.append('email', username);
+
+                data.append('password', password);
+
+                try {
+
+                    const response = await fetch(url, {
+
+                        method: 'POST',
+
+                        headers: headers,
+
+                        body: data
+
+                    });
+
+                    const result = await response.json();
+
+                    
+
+                    if (result.status === 200) {
+
+                        return {
+
+                            status: 200,
+
+                            token: result.data.token,
+
+                            userId: result.data.userid
+
+                        };
+
+                    } else if (result.status === 203) {
+
+                        return await tryAlternativeLogin(apiBase, username, password);
+
+                    } else {
+
+                        throw new Error(result.message || 'Login failed');
+
+                    }
+
+                } catch (error) {
+
+                    throw new Error('Network error: ' + error.message);
+
+                }
+
+            }
+
+            async function tryAlternativeLogin(apiBase, username, password) {
+
+                const url = `${apiBase}/post/userLogin?extra_details=0`;
+
+                const headers = {
+
+                    "auth-key": "appxapi",
+
+                    "client-service": "Appx",
+
+                    "source": "website",
+
+                    "user-agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36",
+
+                    "accept": "*/*",
+
+                    "accept-language": "en-GB,en-US;q=0.9,en;q=0.8"
+
+                };
+
+                const data = new URLSearchParams();
+
+                data.append('source', 'website');
+
+                data.append('phone', username);
+
+                data.append('email', username);
+
+                data.append('password', password);
+
+                data.append('extra_details', '1');
+
+                try {
+
+                    const response = await fetch(url, {
+
+                        method: 'POST',
+
+                        headers: headers,
+
+                        body: data
+
+                    });
+
+                    const result = await response.json();
+
+                    
+
+                    if (result.status === 200) {
+
+                        return {
+
+                            status: 200,
+
+                            token: result.data.token,
+
+                            userId: result.data.userid
+
+                        };
+
+                    } else {
+
+                        throw new Error(result.message || 'Alternative login failed');
+
+                    }
+
+                } catch (error) {
+
+                    throw new Error('Alternative login network error: ' + error.message);
+
+                }
+
+            }
+
+            async function fetchBatches() {
+
+                showStatus('Fetching your batches...', 'info');
+
+                
+
+                try {
+
+                    const url = `${state.apiBase}/get/mycoursev2?userid=${state.userId}`;
+
+                    const headers = {
+
+                        "Client-Service": "Appx",
+
+                        "source": "website",
+
+                        "Auth-Key": "appxapi",
+
+                        "Authorization": state.token,
+
+                        "User-ID": state.userId
+
+                    };
+
+                    const response = await fetch(url, { headers: headers });
+
+                    const result = await response.json();
+
+                    
+
+                    if (result.data && result.data.length > 0) {
+
+                        state.batches = result.data.map(batch => ({
+
+                            id: batch.id,
+
+                            name: batch.course_name,
+
+                            thumbnail: batch.course_thumbnail,
+
+                            start: batch.start_date,
+
+                            end: batch.end_date,
+
+                            price: batch.price
+
+                        }));
+
+                        elements.batchList.innerHTML = '';
+
+                        document.getElementById("totalBatchCount").textContent = `Total Batches: ${state.batches.length}`;
+
+                        const searchInput = document.getElementById("batchSearchInput");
+                        if (searchInput && !searchInput.dataset.listenerAttached) {
+                            searchInput.addEventListener("input", function () {
+                                const query = this.value.trim().toLowerCase();
+                                const items = elements.batchList.querySelectorAll(".list-group-item");
+
+                                // Agar 3 se kam letters h → sab wapas show karo
+                                if (query.length < 3) {
+                                    items.forEach(item => item.style.display = "");
+                                    return;
+                                }
+
+                               // Agar 3 ya usse zyada letters h → filter karo
+                               items.forEach(item => {
+                                   const text = item.textContent.toLowerCase();
+                                   item.style.display = text.includes(query) ? "" : "none";
+                               });
+                            });
+
+                            // Prevent duplicate listener
+                            searchInput.dataset.listenerAttached = "true";
+                        }
+
+
+                        state.batches.forEach(batch => {
+
+                            const item = document.createElement('a');
+
+                            item.href = '#';
+
+                            item.className = 'list-group-item list-group-item-action d-flex justify-content-between align-items-center';
+
+                            item.innerHTML = `
+
+                                <div>
+
+                                    <strong>${batch.name}</strong>
+
+                                    <div class="text-muted small">ID: ${batch.id} | ${batch.start} to ${batch.end} <button class="btn btn-sm btn-outline-info ms-2" onclick="window.open('${batch.thumbnail}', '_blank')">View PNG</button></div>
+
+                                </div>
+
+                                <span class="badge bg-primary rounded-pill">→</span>
+
+                            `;
+
+                            item.addEventListener('click', () => {
+
+                                state.currentBatch = batch;
+
+                                elements.currentBatchName.textContent = batch.name;
+
+                                fetchSubjects(batch.id);
+
+                                showSection('subject');
+
+                            });
+
+                            elements.batchList.appendChild(item);
+
+                        });
+
+                        
+
+                        showStatus('Batches loaded successfully', 'success');
+
+                    } else {
+
+                        throw new Error('No batches found or access denied');
+
+                    }
+
+                } catch (error) {
+
+                    showStatus('Error fetching batches: ' + error.message, 'danger');
+
+                }
+
+            }
+
+            async function fetchSubjects(batchId) {
+
+                showStatus('Fetching subjects...', 'info');
+
+                
+
+                try {
+
+                    const url = `${state.apiBase}/get/allsubjectfrmlivecourseclass?courseid=${batchId}&start=-1`;
+
+                    const headers = {
+
+                        "Client-Service": "Appx",
+
+                        "source": "website",
+
+                        "Auth-Key": "appxapi",
+
+                        "Authorization": state.token,
+
+                        "User-ID": state.userId
+
+                    };
+
+                    const response = await fetch(url, { headers: headers });
+
+                    const result = await response.json();
+
+                    
+
+                    if (result.data && result.data.length > 0) {
+
+                        state.subjects = result.data.map(subject => ({
+
+                            id: subject.subjectid,
+
+                            name: subject.subject_name,
+
+                            description: subject.subject_description || '📘 By StudyMate India.'
+
+                        }));
+
+                        elements.subjectList.innerHTML = '';
+
+                        state.subjects.forEach(subject => {
+
+                            const item = document.createElement('a');
+
+                            item.href = '#';
+
+                            item.className = 'list-group-item list-group-item-action d-flex justify-content-between align-items-center';
+
+                            item.innerHTML = `
+
+                                <div>
+
+                                    <strong>${subject.name}</strong>
+
+                                    <div class="text-muted small">${subject.description}</div>
+
+                                </div>
+
+                                <span class="badge bg-primary rounded-pill">→</span>
+
+                            `;
+
+                            item.addEventListener('click', () => {
+
+                                state.currentSubject = subject;
+
+                                elements.currentSubjectName.textContent = subject.name;
+
+                                fetchClasses(batchId, subject.id);
+
+                                showSection('class');
+
+                            });
+
+                            elements.subjectList.appendChild(item);
+
+                        });
+
+                        
+
+                        showStatus('Subjects loaded successfully', 'success');
+
+                    } else {
+
+                        throw new Error('No subjects found for this batch');
+
+                    }
+
+                } catch (error) {
+
+                    showStatus('Error fetching subjects: ' + error.message, 'danger');
+
+                }
+
+            }
+
+            async function fetchClasses(batchId, subjectId) {
+
+                showStatus('Fetching classes...', 'info');
+
+                
+
+                try {
+
+                    const url = `${state.apiBase}/get/alltopicfrmlivecourseclass?courseid=${batchId}&subjectid=${subjectId}&start=-1`;
+
+                    const headers = {
+
+                        "Client-Service": "Appx",
+
+                        "source": "website",
+
+                        "Auth-Key": "appxapi",
+
+                        "Authorization": state.token,
+
+                        "User-ID": state.userId
+
+                    };
+
+                    const response = await fetch(url, { headers: headers });
+
+                    const result = await response.json();
+
+                    
+
+                    if (result.data && result.data.length > 0) {
+
+                        state.classes = result.data.map(cls => ({
+
+                            id: cls.topicid,
+
+                            name: cls.topic_name,
+
+                            description: cls.topic_description || '📘 By StudyMate India.'
+
+                        }));
+
+                        elements.classList.innerHTML = '';
+
+                        state.classes.forEach(cls => {
+
+                            const item = document.createElement('a');
+
+                            item.href = '#';
+
+                            item.className = 'list-group-item list-group-item-action d-flex justify-content-between align-items-center';
+
+                            item.innerHTML = `
+
+                                <div>
+
+                                    <strong>${cls.name}</strong>
+
+                                    <div class="text-muted small">${cls.description}</div>
+
+                                </div>
+
+                                <span class="badge bg-primary rounded-pill">→</span>
+
+                            `;
+
+                            item.addEventListener('click', () => {
+
+                                state.currentClass = cls;
+
+                                fetchClassContent(batchId, subjectId, cls.id);
+
+                                showSection('links');
+
+                            });
+
+                            elements.classList.appendChild(item);
+
+                        });
+
+                        
+
+                        showStatus('Classes loaded successfully', 'success');
+
+                    } else {
+
+                        throw new Error('No classes found for this subject');
+
+                    }
+
+                } catch (error) {
+
+                    showStatus('Error fetching classes: ' + error.message, 'danger');
+
+                }
+
+            }
+
+            async function fetchClassContent(batchId, subjectId, classId) {
+
+                showStatus('Extracting content links...', 'info');
+
+                elements.conversionStatus.innerHTML = '<div class="loading-spinner"></div> Converting video links when possible...';
+
+                
+
+                try {
+
+                    const url = `${state.apiBase}/get/livecourseclassbycoursesubtopconceptapiv3?courseid=${batchId}&subjectid=${subjectId}&topicid=${classId}&conceptid=&start=-1`;
+
+                    const headers = {
+
+                        "Client-Service": "Appx",
+
+                        "source": "website",
+
+                        "Auth-Key": "appxapi",
+
+                        "Authorization": state.token,
+
+                        "User-ID": state.userId
+
+                    };
+
+                    const response = await fetch(url, { headers: headers });
+
+                    const result = await response.json();
+
+                    
+
+                    if (result.data && result.data.length > 0) {
+
+                        state.extractedLinks = [];
+
+                        let videoLinksFound = 0;
+
+                        let videoLinksConverted = 0;
+
+                        
+
+                        elements.linksContainer.innerHTML = '';
+
+                        
+
+                        for (const material of result.data) {
+
+                            const title = material.Title || 'Untitled';
+
+                            
+
+                            if (material.id) {
+
+                                try {
+
+                                    videoLinksFound++;
+
+                                    
+
+                                    const videoDetailsUrl = `${state.apiBase}/get/fetchVideoDetailsById?course_id=${batchId}&video_id=${material.id}&ytflag=0&folder_wise_course=0`;
+
+                                    const videoResponse = await fetch(videoDetailsUrl, { headers: headers });
+
+                                    const videoDetails = await videoResponse.json();
+
+                                    
+
+                                    if (videoDetails.data) {
+
+                                        if (videoDetails.data.download_link) {
+
+                                            const decryptedLink = decrypt(videoDetails.data.download_link);
+
+                                            if (decryptedLink && !decryptedLink.includes('Error')) {
+
+                                                if (!decryptedLink.includes('.pdf')) {
+
+                                                    const mp4Url = await convertM3u8ToMp4(decryptedLink);
+
+                                                    if (mp4Url && mp4Url !== decryptedLink) {
+
+                                                        videoLinksConverted++;
+
+                                                        addLinkToContainer(title, mp4Url, 'video', '(converted from M3U8)');
+
+                                                    } else {
+
+                                                        addLinkToContainer(title, decryptedLink, 'video');
+
+                                                    }
+
+                                                }
+
+                                            }
+
+                                        }
+
+                                        
+
+                                        if (videoDetails.data.video_id) {
+
+                                            const decryptedId = decrypt(videoDetails.data.video_id);
+
+                                            if (decryptedId && !decryptedId.includes('Error')) {
+
+                                                addLinkToContainer(title, `https://youtu.be/${decryptedId}`, 'video');
+
+                                            }
+
+                                        }
+
+                                        
+                                    }
+
+                                } catch (e) {
+
+                                    console.error('Error processing video:', e);
+
+                                }
+
+                            }
+
+                            
+
+                            if (material.pdf_link) {
+
+                                try {
+
+                                    const pdfUrl = decrypt(material.pdf_link);
+
+                                    if (pdfUrl && !pdfUrl.includes('Error')) {
+
+                                        addLinkToContainer(title, pdfUrl, 'pdf');
+
+                                    }
+
+                                } catch (e) {
+
+                                    console.error('Error decrypting PDF link:', e);
+
+                                }
+
+                            }
+
+                            if (material.pdf_link2) {
+
+                                try {
+
+                                    const pdfUrl2 = decrypt(material.pdf_link2);
+
+                                    if (pdfUrl2 && !pdfUrl2.includes('Error')) {
+
+                                        addLinkToContainer(title, pdfUrl2, 'pdf');
+
+                                    }
+
+                                } catch (e) {
+
+                                    console.error('Error decrypting PDF link 2:', e);
+
+                                }
+
+                            }
+
+                        }
+
+                        elements.conversionStatus.innerHTML = `Found ${videoLinksFound} video links, successfully converted ${videoLinksConverted} to MP4 format`;
+
+                        
+
+                        if (state.extractedLinks.length === 0) {
+
+                            showStatus('No extractable links found', 'warning');
+
+                        } else {
+
+                            showStatus('Links extracted successfully', 'success');
+
+                        }
+
+                    } else {
+
+                        throw new Error('No content found for this class');
+
+                    }
+
+                } catch (error) {
+
+                    elements.conversionStatus.innerHTML = '';
+
+                    showStatus('Error extracting links: ' + error.message, 'danger');
+
+                }
+
+            }
+
+            function addLinkToContainer(title, url, type, extraInfo = '') {
+                // Apply prefix for video or pdf
+                let finalUrl = url;
+                if (type === 'video') {
+                     let cleanUrl = decodeURIComponent(url);
+
+                     if (cleanUrl.includes("player?url")) {
+                         finalUrl = cleanUrl;  // Don't wrap — open directly
+                     } else {
+                         finalUrl = `https://rwa-video-player.vercel.app/player?url=${encodeURIComponent(cleanUrl)}`;
+                     }
+                } else if (type === 'pdf') {
+                    finalUrl = `https://mozilla.github.io/pdf.js/web/viewer.html?file=${encodeURIComponent(url)}`;
+                }
+
+                const linkObj = { title, url: finalUrl, type, extraInfo };
+                state.extractedLinks.push(linkObj);
+
+                const linkItem = document.createElement('div');
+                linkItem.className = 'link-item';
+
+                const linkTitle = document.createElement('div');
+                linkTitle.className = 'link-title';
+                linkTitle.textContent = title;
+
+                const linkUrl = document.createElement('div');
+                linkUrl.className = 'link-url';
+                linkUrl.style.display = 'none'; // Hide the raw URL completely
+  
+                if (extraInfo) {
+                    const extraSpan = document.createElement('span');
+                    extraSpan.className = 'text-info';
+                    extraSpan.textContent = ' ' + extraInfo;
+                    linkUrl.appendChild(extraSpan);
+                }
+
+                const buttonGroup = document.createElement('div');
+                buttonGroup.className = 'd-flex mt-2';
+
+                if (type === 'video') {
+                    let cleanUrl = decodeURIComponent(url);
+
+                    let finalUrl;
+                    if (cleanUrl.includes("player?url")) {
+                        finalUrl = cleanUrl;
+                    } else {
+                        finalUrl = `https://rwa-video-player.vercel.app/player?url=${encodeURIComponent(cleanUrl)}`;
+                    }
+
+                    const playBtn = document.createElement('button');
+                    playBtn.className = 'btn btn-sm btn-primary me-2';
+                    playBtn.innerHTML = '<i class="bi bi-play-fill"></i> Play';
+
+                    const copyBtn = document.createElement('button');
+                    copyBtn.className = 'btn btn-sm btn-secondary';
+                    copyBtn.innerHTML = '<i class="bi bi-clipboard"></i> Copy';
+
+                    const qualitySelect = document.createElement('select');
+                    qualitySelect.className = 'form-select form-select-sm me-2';
+                    qualitySelect.style.width = '100px';
+
+                    const qualities = ['720p', '480p', '360p', '240p'];
+                    for (const q of qualities) {
+                        const option = document.createElement('option');
+                        option.value = q;
+                        option.textContent = q.toUpperCase();
+                        if (q === '720p') option.selected = true;
+                        qualitySelect.appendChild(option);
+                    }
+
+                    function updateQuality(q) {
+                        let updatedCleanUrl = cleanUrl.replace(/(720p|480p|360p|240p)/i, q);
+                           if (updatedCleanUrl.includes("player?url")) {
+                               finalUrl = updatedCleanUrl;
+                           } else {
+                               finalUrl = `https://rwa-video-player.vercel.app/player?url=${encodeURIComponent(updatedCleanUrl)}`;
+                           }
+                    }
+
+                    updateQuality('720p');
+
+                    qualitySelect.addEventListener('change', () => {
+                        updateQuality(qualitySelect.value);
+                    });
+  
+                    playBtn.addEventListener('click', () => {
+                        window.open(finalUrl, '_blank');
+                    });
+
+                    copyBtn.addEventListener('click', () => {
+                        copyToClipboard(finalUrl);
+                    });
+
+                    buttonGroup.appendChild(qualitySelect);
+                    buttonGroup.appendChild(playBtn);
+                    buttonGroup.appendChild(copyBtn);
+
+               } else if (type === 'pdf') {
+                   const finalUrl = `https://mozilla.github.io/pdf.js/web/viewer.html?file=${encodeURIComponent(url)}`;
+
+                   const viewBtn = document.createElement('button');
+                   viewBtn.className = 'btn btn-sm btn-info me-2';
+                   viewBtn.innerHTML = '<i class="bi bi-file-earmark-pdf"></i> View';
+                   viewBtn.addEventListener('click', () => {
+                       window.open(finalUrl, '_blank');
+                   });
+
+                   const copyBtn = document.createElement('button');
+                   copyBtn.className = 'btn btn-sm btn-secondary';
+                   copyBtn.innerHTML = '<i class="bi bi-clipboard"></i> Copy';
+                   copyBtn.addEventListener('click', () => {
+                       copyToClipboard(finalUrl);
+                   });
+
+                   buttonGroup.appendChild(viewBtn);
+                   buttonGroup.appendChild(copyBtn);
+               }
+
+               linkItem.appendChild(linkTitle);
+               linkItem.appendChild(linkUrl);
+               linkItem.appendChild(buttonGroup);
+               elements.linksContainer.appendChild(linkItem);
+            }
+
+            function playVideo(videoUrl, title) {
+
+                const videoPlayerElement = document.getElementById('videoPlayer');
+
+                videoPlayerElement.innerHTML = '';
+
+                
+
+                state.currentVideoUrl = videoUrl;
+
+                
+
+                if (videoUrl.includes('youtu.be')) {
+
+                    const videoId = videoUrl.split('/').pop().split('?')[0];
+
+                    const embedUrl = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
+
+                    const iframe = document.createElement('iframe');
+
+                    iframe.setAttribute('width', '100%');
+
+                    iframe.setAttribute('height', '100%');
+
+                    iframe.setAttribute('src', embedUrl);
+
+                    iframe.setAttribute('frameborder', '0');
+
+                    iframe.setAttribute('allow', 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture');
+
+                    iframe.setAttribute('allowfullscreen', '');
+
+                    videoPlayerElement.appendChild(iframe);
+
+                    
+
+                    // Store the iframe for controls
+
+                    state.currentVideoElement = iframe;
+
+                } else {
+
+                    // Handle encrypted videos
+
+                    if (videoUrl.includes('*')) {
+
+                        const [path, key] = videoUrl.split('*');
+
+                        try {
+
+                            // Decrypt the video stream here (this is a placeholder)
+
+                            // In a real implementation, you would use the key to decrypt the stream
+
+                            videoUrl = path;
+
+                        } catch (e) {
+
+                            console.error('Error decrypting video:', e);
+
+                            showStatus('Error decrypting video stream', 'danger');
+
+                            return;
+
+                        }
+
+                    }
+
+                    const videoElement = document.createElement('video');
+                    videoElement.setAttribute('controls', '');
+                    videoElement.setAttribute('autoplay', '');
+                    videoElement.style.width = '100%';
+                    videoElement.style.height = '100%';
+
+                    if (Hls.isSupported() && videoUrl.includes('.m3u8')) {
+                        const hls = new Hls();
+                        hls.loadSource(videoUrl);
+                        hls.attachMedia(videoElement);
+                    } else if (videoElement.canPlayType('application/vnd.apple.mpegurl')) {
+                        videoElement.src = videoUrl;
+                    } else {
+                        const sourceElement = document.createElement('source');
+                        sourceElement.setAttribute('src', videoUrl);
+                        sourceElement.setAttribute('type', videoUrl.includes('.m3u8') ? 'application/x-mpegURL' : 'video/mp4');
+                        videoElement.appendChild(sourceElement);
+                    }
+
+                    videoPlayerElement.appendChild(videoElement);
+                    state.currentVideoElement = videoElement;
+
+                    videoElement.addEventListener('play', () => {
+                        elements.playPauseBtn.innerHTML = '<i class="bi bi-pause-fill"></i> Pause';
+                    });
+                    videoElement.addEventListener('pause', () => {
+                        elements.playPauseBtn.innerHTML = '<i class="bi bi-play-fill"></i> Play';
+                    });
+
+                    videoElement.setAttribute('controls', '');
+
+                    videoElement.setAttribute('autoplay', '');
+
+                    videoElement.style.width = '100%';
+
+                    videoElement.style.height = '100%';
+
+                    
+
+                    const sourceElement = document.createElement('source');
+
+                    sourceElement.setAttribute('src', videoUrl);
+
+                    sourceElement.setAttribute('type', videoUrl.includes('.m3u8') ? 'application/x-mpegURL' : 'video/mp4');
+
+                    
+
+                    videoElement.appendChild(sourceElement);
+
+                    videoPlayerElement.appendChild(videoElement);
+
+                    
+
+                    // Store the video element for controls
+
+                    state.currentVideoElement = videoElement;
+
+                    
+
+                    // Update play/pause button when video state changes
+
+                    videoElement.addEventListener('play', () => {
+
+                        elements.playPauseBtn.innerHTML = '<i class="bi bi-pause-fill"></i> Pause';
+
+                    });
+
+                    videoElement.addEventListener('pause', () => {
+
+                        elements.playPauseBtn.innerHTML = '<i class="bi bi-play-fill"></i> Play';
+
+                    });
+
+                }
+
+                
+
+                document.getElementById('videoModalLabel').textContent = title || 'Video Player';
+
+                elements.videoPlayerModal.show();
+
+                
+
+                // Set download button
+
+                elements.downloadVideoBtn.onclick = () => {
+
+                    window.open(videoUrl, '_blank');
+
+                };
+
+            }
+
+            function togglePlayPause() {
+
+                if (state.currentVideoElement) {
+
+                    if (state.currentVideoElement.tagName === 'VIDEO') {
+
+                        if (state.currentVideoElement.paused) {
+
+                            state.currentVideoElement.play();
+
+                            elements.playPauseBtn.innerHTML = '<i class="bi bi-pause-fill"></i> Pause';
+
+                        } else {
+
+                            state.currentVideoElement.pause();
+
+                            elements.playPauseBtn.innerHTML = '<i class="bi bi-play-fill"></i> Play';
+
+                        }
+
+                    }
+
+                }
+
+            }
+
+            function toggleMute() {
+
+                if (state.currentVideoElement && state.currentVideoElement.tagName === 'VIDEO') {
+
+                    state.currentVideoElement.muted = !state.currentVideoElement.muted;
+
+                    elements.muteBtn.innerHTML = state.currentVideoElement.muted ? 
+
+                        '<i class="bi bi-volume-mute"></i>' : 
+
+                        '<i class="bi bi-volume-up"></i>';
+
+                }
+
+            }
+
+            function toggleFullscreen() {
+
+                if (state.currentVideoElement) {
+
+                    if (state.currentVideoElement.requestFullscreen) {
+
+                        state.currentVideoElement.requestFullscreen();
+
+                    } else if (state.currentVideoElement.webkitRequestFullscreen) {
+
+                        state.currentVideoElement.webkitRequestFullscreen();
+
+                    } else if (state.currentVideoElement.msRequestFullscreen) {
+
+                        state.currentVideoElement.msRequestFullscreen();
+
+                    }
+
+                }
+
+            }
+
+            function downloadVideo() {
+
+                if (state.currentVideoElement) {
+
+                    let videoUrl;
+
+                    if (state.currentVideoElement.tagName === 'VIDEO') {
+
+                        videoUrl = state.currentVideoElement.querySelector('source').src;
+
+                    } else if (state.currentVideoElement.tagName === 'IFRAME') {
+
+                        videoUrl = state.currentVideoElement.src;
+
+                    }
+
+                    
+
+                    if (videoUrl) {
+
+                        window.open(videoUrl, '_blank');
+
+                    }
+
+                }
+
+            }
+
+            function resetVideoPlayer() {
+
+                if (state.currentVideoElement) {
+
+                    if (state.currentVideoElement.tagName === 'VIDEO') {
+
+                        state.currentVideoElement.pause();
+
+                        state.currentVideoElement.currentTime = 0;
+
+                    }
+
+                    state.currentVideoElement = null;
+
+                }
+
+            }
+
+            async function viewPdf(pdfUrl, title) {
+
+                const container = document.getElementById('pdfViewerContainer');
+
+                container.innerHTML = '<div class="text-center p-5"><div class="loading-spinner"></div><p>Loading PDF...</p></div>';
+
+                
+
+                try {
+
+                    const loadingTask = pdfjsLib.getDocument(pdfUrl);
+
+                    const pdf = await loadingTask.promise;
+
+                    
+
+                    state.currentPdfDoc = pdf;
+
+                    state.currentPageNum = 1;
+
+                    state.currentScale = 1.5;
+
+                    
+
+                    // Update page info
+
+                    elements.pageInfo.textContent = `Page ${state.currentPageNum} of ${pdf.numPages}`;
+
+                    elements.prevPageBtn.disabled = state.currentPageNum <= 1;
+
+                    elements.nextPageBtn.disabled = state.currentPageNum >= pdf.numPages;
+
+                    
+
+                    // Render first page
+
+                    renderPage(pdf, state.currentPageNum, state.currentScale);
+
+                    
+
+                    document.getElementById('pdfModalLabel').textContent = title || `PDF Viewer - ${pdf.numPages} pages`;
+
+                    elements.pdfViewerModal.show();
+
+                    
+
+                    // Set download button
+
+                    elements.downloadPdfBtn.onclick = () => {
+
+                        window.open(pdfUrl, '_blank');
+
+                    };
+
+                } catch (error) {
+
+                    container.innerHTML = `<div class="alert alert-danger">Error loading PDF: ${error.message}</div>`;
+
+                    showStatus('Error loading PDF: ' + error.message, 'danger');
+
+                }
+
+            }
+
+            function renderPage(pdf, pageNum, scale) {
+
+                state.currentPageRendering = true;
+
+                
+
+                pdf.getPage(pageNum).then(function(page) {
+
+                    const viewport = page.getViewport({ scale: scale });
+
+                    const container = document.getElementById('pdfViewerContainer');
+
+                    container.innerHTML = '';
+
+                    
+
+                    const canvas = document.createElement('canvas');
+
+                    const context = canvas.getContext('2d');
+
+                    canvas.height = viewport.height;
+
+                    canvas.width = viewport.width;
+
+                    
+
+                    const pageDiv = document.createElement('div');
+
+                    pageDiv.className = 'pdf-page';
+
+                    pageDiv.innerHTML = `<div class="page-label">Page ${pageNum}</div>`;
+
+                    pageDiv.appendChild(canvas);
+
+                    container.appendChild(pageDiv);
+
+                    
+
+                    const renderContext = {
+
+                        canvasContext: context,
+
+                        viewport: viewport
+
+                    };
+
+                    
+
+                    const renderTask = page.render(renderContext);
+
+                    
+
+                    renderTask.promise.then(function() {
+
+                        state.currentPageRendering = false;
+
+                        if (state.currentPageNumPending !== null) {
+
+                            renderPage(pdf, state.currentPageNumPending, state.currentScale);
+
+                            state.currentPageNumPending = null;
+
+                        }
+
+                    });
+
+                });
+
+            }
+
+            function previousPage() {
+
+                if (state.currentPageNum <= 1 || state.currentPageRendering) {
+
+                    return;
+
+                }
+
+                state.currentPageNum--;
+
+                queueRenderPage(state.currentPageNum);
+
+            }
+
+            function nextPage() {
+
+                if (state.currentPageNum >= state.currentPdfDoc.numPages || state.currentPageRendering) {
+
+                    return;
+
+                }
+
+                state.currentPageNum++;
+
+                queueRenderPage(state.currentPageNum);
+
+            }
+
+            function queueRenderPage(num) {
+
+                if (state.currentPageRendering) {
+
+                    state.currentPageNumPending = num;
+
+                } else {
+
+                    renderPage(state.currentPdfDoc, num, state.currentScale);
+
+                    elements.pageInfo.textContent = `Page ${num} of ${state.currentPdfDoc.numPages}`;
+
+                    elements.prevPageBtn.disabled = num <= 1;
+
+                    elements.nextPageBtn.disabled = num >= state.currentPdfDoc.numPages;
+
+                }
+
+            }
+
+            function zoomIn() {
+
+                if (state.currentPdfDoc && !state.currentPageRendering) {
+
+                    state.currentScale += 0.25;
+
+                    renderPage(state.currentPdfDoc, state.currentPageNum, state.currentScale);
+
+                }
+
+            }
+
+            function zoomOut() {
+
+                if (state.currentPdfDoc && !state.currentPageRendering && state.currentScale > 0.5) {
+
+                    state.currentScale -= 0.25;
+
+                    renderPage(state.currentPdfDoc, state.currentPageNum, state.currentScale);
+
+                }
+
+            }
+
+            function downloadPdf() {
+
+                if (state.currentPdfDoc) {
+
+                    // This would require the original PDF URL which we store in the link object
+
+                    // In a real implementation, you might need to track this differently
+
+                }
+
+            }
+
+            function resetPdfViewer() {
+
+                state.currentPdfDoc = null;
+
+                state.currentPageNum = 1;
+
+                state.currentPageRendering = false;
+
+                state.currentPageNumPending = null;
+
+                state.currentScale = 1.5;
+
+            }
+
+            async function convertM3u8ToMp4(m3u8Url) {
+
+                try {
+
+                    if (m3u8Url.includes('.mp4')) {
+
+                        return m3u8Url;
+
+                    }
+
+                    
+
+                    if (!m3u8Url.includes('.m3u8')) {
+
+                        return m3u8Url;
+
+                    }
+
+                    
+
+                    const masterResponse = await fetch(m3u8Url);
+
+                    const masterContent = await masterResponse.text();
+
+                    
+
+                    if (masterContent.includes('#EXT-X-STREAM-INF')) {
+
+                        const variants = masterContent.split('#EXT-X-STREAM-INF:');
+
+                        let bestUrl = '';
+
+                        let bestBandwidth = 0;
+
+                        
+
+                        for (let i = 1; i < variants.length; i++) {
+
+                            const parts = variants[i].split('\n');
+
+                            const bandwidthMatch = parts[0].match(/BANDWIDTH=(\d+)/);
+
+                            if (bandwidthMatch) {
+
+                                const bandwidth = parseInt(bandwidthMatch[1]);
+
+                                const variantUrl = parts[1].trim();
+
+                                if (bandwidth > bestBandwidth) {
+
+                                    bestBandwidth = bandwidth;
+
+                                    bestUrl = new URL(variantUrl, m3u8Url).href;
+
+                                }
+
+                            }
+
+                        }
+
+                        
+
+                        if (bestUrl) {
+
+                            m3u8Url = bestUrl;
+
+                        }
+
+                    }
+
+                    
+
+                    const response = await fetch(m3u8Url);
+
+                    const m3u8Content = await response.text();
+
+                    
+
+                    const segmentMatch = m3u8Content.match(/^(?!#).*\.(ts|mp4)/m);
+
+                    if (segmentMatch) {
+
+                        const segmentUrl = new URL(segmentMatch[0], m3u8Url).href;
+
+                        
+
+                        const mp4Url = segmentUrl.replace(/\.(ts|mp4)$/, '.mp4');
+
+                        
+
+                        try {
+
+                            const headResponse = await fetch(mp4Url, { method: 'HEAD' });
+
+                            if (headResponse.ok) {
+
+                                return mp4Url;
+
+                            }
+
+                        } catch (e) {
+
+                            console.log('MP4 version not available at', mp4Url);
+
+                        }
+
+                        
+
+                        const baseUrl = m3u8Url.substring(0, m3u8Url.lastIndexOf('/') + 1);
+
+                        const mp4BaseUrl = baseUrl + 'index.mp4';
+
+                        
+
+                        try {
+
+                            const headResponse = await fetch(mp4BaseUrl, { method: 'HEAD' });
+
+                            if (headResponse.ok) {
+
+                                return mp4BaseUrl;
+
+                            }
+
+                        } catch (e) {
+
+                            console.log('MP4 index not available at', mp4BaseUrl);
+
+                        }
+
+                    }
+
+                    
+
+                    return m3u8Url;
+
+                } catch (e) {
+
+                    console.error('Error converting M3U8 to MP4:', e);
+
+                    return m3u8Url;
+
+                }
+
+            }
+
+            function decrypt(enc) {
+
+                try {
+
+                    if (!enc) return "";
+
+                    
+
+                    const encPart = enc.includes(':') ? enc.split(':')[0] : enc;
+
+                    
+
+                    const decoded = CryptoJS.enc.Base64.parse(encPart);
+
+                    
+
+                    const key = CryptoJS.enc.Utf8.parse('638udh3829162018');
+
+                    const iv = CryptoJS.enc.Utf8.parse('fedcba9876543210');
+
+                    
+
+                    const decrypted = CryptoJS.AES.decrypt(
+
+                        { ciphertext: decoded },
+
+                        key,
+
+                        { iv: iv, mode: CryptoJS.mode.CBC, padding: CryptoJS.pad.Pkcs7 }
+
+                    );
+
+                    
+
+                    return decrypted.toString(CryptoJS.enc.Utf8);
+
+                } catch (e) {
+
+                    console.error('Decryption error:', e);
+
+                    return `Error decrypting: ${enc}`;
+
+                }
+
+            }
+
+            function showCopyNotification() {
+
+                elements.copyNotification.classList.add('show');
+
+                setTimeout(() => {
+
+                    elements.copyNotification.classList.remove('show');
+
+                }, 2000);
+
+            }
+
+            
+            function copyToClipboard(text) {
+                if (navigator.clipboard && window.isSecureContext) {
+            navigator.clipboard.writeText(text).then(function() {
+                        showCopyNotification();
+                    }).catch(function(err) {
+                        fallbackCopy(text);
+                    });
+               } else {
+                   fallbackCopy(text);
+               }
+            }
+
+            function fallbackCopy(text) {
+                const textArea = document.createElement("textarea");
+                textArea.value = text;
+                textArea.style.position = "fixed";
+                textArea.style.top = "0";
+                textArea.style.left = "0";
+                textArea.style.opacity = "0";
+                document.body.appendChild(textArea);
+                textArea.focus();
+                textArea.select();
+                try {
+                    const successful = document.execCommand('copy');
+                    if (successful) {
+                        showCopyNotification();
+                    } else {
+                        showStatus('Failed to copy text', 'danger');
+                    }
+                } catch (err) {
+                    showStatus('Copy command failed', 'danger');
+                }
+                document.body.removeChild(textArea);
+            }
+
+            function copyLinksToClipboard() {
+
+                const allLinks = state.extractedLinks
+
+                    .map(link => `${link.title}: ${link.url}${link.extraInfo ? ' ' + link.extraInfo : ''}`)
+
+                    .join('\n\n');
+
+                copyToClipboard(allLinks);
+
+            }
+
+            // Initialize the application
+
+            initEventListeners();
+
+            
+
+            // Check for dark mode preference
+
+            if (localStorage.getItem('darkMode') === 'true') {
+
+                toggleDarkMode();
+
+            }
+
+        });
+
+    </script>
+<script>
+    const videoPlayerElement = document.getElementById('videoPlayer');
+    const observer = new MutationObserver(() => {
+        const vid = videoPlayerElement.querySelector('iframe, video');
+        if (vid) {
+            vid.style.position = 'absolute';
+            vid.style.top = 0;
+            vid.style.left = 0;
+            vid.style.width = '100%';
+            vid.style.height = '100%';
+        }
+    });
+    observer.observe(videoPlayerElement, { childList: true, subtree: true });
+    </script>
+<div class="popup-overlay" id="welcomePopup">
+<div class="popup-box">
+<h2>🚨 Important Notification</h2>
+<p>
+      🎉 This website is <strong>100% FREE</strong> for everyone.<br>
+      🧑‍🏫 Built with ❤️ for <strong>educational purposes</strong> only.<br>
+      🔗 Feel free to share it with your friends!
+    </p>
+<button class="btn btn-primary mb-2" id="closePopupBtn">Got it</button>
+</div>
+</div>
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const popup = document.getElementById("welcomePopup");
+  const closeBtn = document.getElementById("closePopupBtn");
+  closeBtn.addEventListener("click", () => {
+    popup.style.display = "none";
+  });
+});
+</script>
+<!-- Encrypt JWT Modal -->
+<div aria-hidden="true" aria-labelledby="encryptJwtLabel" class="modal fade" id="encryptJwtModal" tabindex="-1">
+<div class="modal-dialog modal-dialog-centered modal-lg">
+<div class="modal-content">
+<div class="modal-header">
+<h5 class="modal-title" id="encryptJwtLabel">🔐 Encrypt JWT Token</h5>
+<button aria-label="Close" class="btn-close" data-bs-dismiss="modal" type="button"></button>
+</div>
+<div class="modal-body" style="padding: 20px;">
+
+<h3>🔐 Encrypt JWT Tool</h3>
+<label for="plainJwtInput">Plain JWT Token</label>
+<textarea class="form-control" id="plainJwtInput" placeholder="Paste your plain JWT here..." rows="4"></textarea>
+<button class="btn btn-primary" onclick="encryptJwt()">Encrypt</button>
+<label for="encryptedJwtOutput">Encrypted JWT</label>
+<textarea class="form-control" id="encryptedJwtOutput" readonly="" rows="4"></textarea><button class="btn btn-secondary mt-2" onclick="copyEncryptedJwt()">📋 Copy Encrypted JWT</button>
+<script>
+    function encryptJwt() {
+      const plainJwt = document.getElementById("plainJwtInput").value.trim();
+      if (!plainJwt) return alert("Please enter a plain JWT token.");
+      const key = CryptoJS.enc.Utf8.parse("638udh3829162018");
+      const iv = CryptoJS.enc.Utf8.parse("fedcba9876543210");
+      const encrypted = CryptoJS.AES.encrypt(plainJwt, key, {
+        iv: iv,
+        mode: CryptoJS.mode.CBC,
+        padding: CryptoJS.pad.Pkcs7
+      });
+      document.getElementById("encryptedJwtOutput").value = encrypted.toString();
+    }
+  </script>
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const encryptPopupBtn = document.getElementById("openEncryptPopup");
+  encryptPopupBtn.addEventListener("click", () => {
+    const modal = new bootstrap.Modal(document.getElementById("encryptJwtModal"));
+    modal.show();
+  });
+});
+
+function encryptJwt() {
+  const plainJwt = document.getElementById("plainJwtInput").value.trim();
+  if (!plainJwt) return alert("Please enter a plain JWT token.");
+  const key = CryptoJS.enc.Utf8.parse("638udh3829162018");
+  const iv = CryptoJS.enc.Utf8.parse("fedcba9876543210");
+  const encrypted = CryptoJS.AES.encrypt(plainJwt, key, {
+    iv: iv,
+    mode: CryptoJS.mode.CBC,
+    padding: CryptoJS.pad.Pkcs7
+  });
+  document.getElementById("encryptedJwtOutput").value = encrypted.toString();
+}
+</script>
+
+<a href="https://youtube.com/@starpranks09" target="_blank" id="robotChatButton" title="Chat with StudyMate Bot">
+  <img src="https://i.ibb.co/2DBryXN/Screenshot-20250901-153155.jpg" alt="Chat Bot" style="width: 55px; height: 55px; border-radius: 50%; object-fit: cover;">
+</a>
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    const botButton = document.getElementById("robotChatButton");
+    let isDragging = false;
+    let offsetX, offsetY;
+
+    // Make the button draggable
+    botButton.addEventListener("mousedown", function(e) {
+      isDragging = true;
+      offsetX = e.clientX - botButton.getBoundingClientRect().left;
+      offsetY = e.clientY - botButton.getBoundingClientRect().top;
+      botButton.style.cursor = "grabbing";
+    });
+
+    document.addEventListener("mousemove", function(e) {
+      if (isDragging) {
+        botButton.style.left = (e.clientX - offsetX) + "px";
+        botButton.style.top = (e.clientY - offsetY) + "px";
+      }
+    });
+
+    document.addEventListener("mouseup", function() {
+      isDragging = false;
+      botButton.style.cursor = "pointer";
+    });
+
+    // Touch support for mobile devices
+    botButton.addEventListener("touchstart", function(e) {
+      isDragging = true;
+      const touch = e.touches[0];
+      offsetX = touch.clientX - botButton.getBoundingClientRect().left;
+      offsetY = touch.clientY - botButton.getBoundingClientRect().top;
+      e.preventDefault(); // Prevent scrolling
+    });
+
+    document.addEventListener("touchmove", function(e) {
+      if (isDragging) {
+        const touch = e.touches[0];
+        botButton.style.left = (touch.clientX - offsetX) + "px";
+        botButton.style.top = (touch.clientY - offsetY) + "px";
+        e.preventDefault(); // Prevent scrolling
+      }
+    }, { passive: false });
+
+    document.addEventListener("touchend", function() {
+      isDragging = false;
+    });
+  });
+</script>
+
+</div>
+</div>
+</div>
+</div>
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const encryptPopupBtn = document.getElementById("openEncryptPopup");
+  encryptPopupBtn.addEventListener("click", () => {
+    const modal = new bootstrap.Modal(document.getElementById("encryptJwtModal"));
+    modal.show();
+  });
+});
+
+function encryptJwt() {
+  const plainJwt = document.getElementById("plainJwtInput").value.trim();
+  if (!plainJwt) return alert("Please enter a plain JWT token.");
+  const key = CryptoJS.enc.Utf8.parse("638udh3829162018");
+  const iv = CryptoJS.enc.Utf8.parse("fedcba9876543210");
+  const encrypted = CryptoJS.AES.encrypt(plainJwt, key, {
+    iv: iv,
+    mode: CryptoJS.mode.CBC,
+    padding: CryptoJS.pad.Pkcs7
+  });
+  document.getElementById("encryptedJwtOutput").value = encrypted.toString();
+}
+</script>
+<!-- Offcanvas Sidebar Menu -->
+<div aria-labelledby="mainMenuLabel" class="offcanvas offcanvas-start" id="mainMenuOffcanvas" tabindex="-1">
+<div class="offcanvas-header">
+<h5 class="offcanvas-title" id="mainMenuLabel">☰ Menu</h5>
+<button aria-label="Close" class="btn-close text-reset" data-bs-dismiss="offcanvas" type="button"></button>
+</div>
+<div class="offcanvas-body">
+<ul class="list-group">
+<li class="list-group-item list-group-item-action" id="menuEncryptJwt">🔐 Encrypt JWT</li>
+<li class="list-group-item list-group-item-action" onclick="location.reload()">🏠 Home</li>
+
+<li class="list-group-item">
+  <a href="https://youtube.com/shorts/QmYfVL8Z8_4?si=khhbHaVMBU0wlUMj" target="_blank" style="text-decoration: none; font-weight: bold; color: #FF0000;">
+    <i class="bi bi-youtube" style="margin-right: 8px;"></i>How to Use
+  </a>
+</li>
+
+</ul>
+</div>
+</div>
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const menuEncryptJwt = document.getElementById("menuEncryptJwt");
+  menuEncryptJwt.addEventListener("click", () => {
+    const modal = new bootstrap.Modal(document.getElementById("encryptJwtModal"));
+    modal.show();
+  });
+});
+</script>
+<script>
+function copyEncryptedJwt() {
+  const output = document.getElementById("encryptedJwtOutput");
+  output.select();
+  output.setSelectionRange(0, 99999); // For mobile devices
+  try {
+    document.execCommand("copy");
+    alert("Encrypted JWT copied to clipboard!");
+  } catch (err) {
+    alert("Failed to copy!");
+  }
+}
+</script>
+
+<script>
+
+function makeMovable(el) {
+  let isDragging = false, offsetX = 0, offsetY = 0;
+
+  el.addEventListener('mousedown', startDrag);
+  el.addEventListener('touchstart', startDrag, { passive: false });
+
+  function startDrag(e) {
+    isDragging = true;
+    const rect = el.getBoundingClientRect();
+    offsetX = (e.touches ? e.touches[0].clientX : e.clientX) - rect.left;
+    offsetY = (e.touches ? e.touches[0].clientY : e.clientY) - rect.top;
+
+    document.addEventListener('mousemove', drag);
+    document.addEventListener('mouseup', endDrag);
+    document.addEventListener('touchmove', drag, { passive: false });
+    document.addEventListener('touchend', endDrag);
+  }
+
+  function drag(e) {
+    if (!isDragging) return;
+    e.preventDefault();
+    const x = (e.touches ? e.touches[0].clientX : e.clientX) - offsetX;
+    const y = (e.touches ? e.touches[0].clientY : e.clientY) - offsetY;
+    el.style.left = `${x}px`;
+    el.style.top = `${y}px`;
+    el.style.bottom = 'auto';
+    el.style.right = 'auto';
+  }
+
+  function endDrag() {
+    isDragging = false;
+    document.removeEventListener('mousemove', drag);
+    document.removeEventListener('mouseup', endDrag);
+    document.removeEventListener('touchmove', drag);
+    document.removeEventListener('touchend', endDrag);
+  }
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+  const assistant = document.getElementById('assistantContainer');
+  makeMovable(assistant);
+});        
+        
+</script>
+
+<!-- How To Use Modal -->
+<div class="modal fade" id="howToUseModal" tabindex="-1" aria-hidden="true">
+  <div class="modal-dialog modal-lg modal-dialog-scrollable">
+    <div class="modal-content rounded-4 shadow-lg">
+      <div class="modal-header text-white" style="background: linear-gradient(90deg, #ff69b4, #0dcaf0);">
+        <h5 class="modal-title">📖 How To Use This Web</h5>
+        <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal"></button>
+      </div>
+      <div class="modal-body bg-light" style="font-family: 'Segoe UI', sans-serif;">
+        <div class="row gy-3">
+          
+          <!-- Step 1 -->
+          <div class="col-12">
+            <div class="card shadow-sm border-0 rounded-3">
+              <div class="card-body">
+                <h6>🔑 Step 1 – Login</h6>
+                <p>Enter ID &amp; Password (Join Our Official Telegram channel) 👉 
+                   <a href="https://instagram.com/pulystar09" target="_blank" class="telegram-link">Join Here</a></p>
+                <img src="https://i.ibb.co/HpPHhN7S/My-Images-IMG-20250830-222126-808.jpg" class="img-fluid rounded">
+              </div>
+            </div>
+          </div>
+
+          <!-- Step 2 -->
+          <div class="col-12">
+            <div class="card shadow-sm border-0 rounded-3">
+              <div class="card-body">
+                <h6>🌐 Step 2 – Select API</h6>
+                <p>Choose API and click <b>Connect</b></p>
+                <img src="https://i.ibb.co/Z1Wq4vwW/My-Images-Screenshot-20250830-222618-1.jpg" class="img-fluid rounded">
+              </div>
+            </div>
+          </div>
+
+          <!-- Step 3 -->
+          <div class="col-12">
+            <div class="card shadow-sm border-0 rounded-3">
+              <div class="card-body">
+                <h6>🔐 Step 3 – Login with Token / ID</h6>
+                <p>For RWA API → You can also use Admin Token</p>
+                <img src="https://i.ibb.co/3yL1wwjq/My-Images-Screenshot-20250830-222629-1.jpg" class="img-fluid rounded">
+                <img src="https://i.ibb.co/mrjLn40j/My-Images-Screenshot-20250830-222645-1.jpg" class="img-fluid rounded">
+              </div>                   
+            </div>
+          </div>
+
+          <!-- Step 4 -->
+          <div class="col-12">
+            <div class="card shadow-sm border-0 rounded-3">
+              <div class="card-body">
+                <h6>🎓 Step 4 – Select Batch</h6>
+                <img src="https://i.ibb.co/R4d5z462/My-Images-Screenshot-20250830-222717-1.jpg" class="img-fluid rounded">
+              </div>
+            </div>
+          </div>
+
+          <!-- Step 5 -->
+          <div class="col-12">
+            <div class="card shadow-sm border-0 rounded-3">
+              <div class="card-body">
+                <h6>📘 Step 5 – Choose Subject</h6>
+                <img src="https://i.ibb.co/MD8m5zky/My-Images-Screenshot-20250830-222744-1.jpg" class="img-fluid rounded">
+              </div>
+            </div>
+          </div>
+
+          <!-- Step 6 -->
+          <div class="col-12">
+            <div class="card shadow-sm border-0 rounded-3">
+              <div class="card-body">
+                <h6>📂 Step 6 – Pick Topic</h6>
+                <img src="https://i.ibb.co/Q7dfYKbD/My-Images-Screenshot-20250830-222801-1.jpg" class="img-fluid rounded">
+              </div>
+            </div>
+          </div>
+
+          <!-- Step 7 -->
+          <div class="col-12">
+            <div class="card shadow-sm border-0 rounded-3">
+              <div class="card-body">
+                <h6>🎥 Step 7 – Select Class</h6>
+                <img src="https://i.ibb.co/Hf9qVVY1/My-Images-Screenshot-20250830-222821-1.jpg" class="img-fluid rounded">
+              </div>
+            </div>
+          </div>
+
+          <!-- Step 8 -->
+          <div class="col-12">
+            <div class="card shadow-sm border-0 rounded-3">
+              <div class="card-body text-center">
+                <h6>🎉 Step 8 – Enjoy Learning Class Started</h6>
+                <img src="https://i.ibb.co/SwctH9Fv/My-Images-Screenshot-20250830-222838.jpg" class="img-fluid rounded">      
+                <p class="mb-0">▶ Play • ⏸ Pause • 🔊 Volume • ⛶ Fullscreen • 🙏 Stay Connected</p>
+              </div>
+            </div>
+          </div>
+
+        </div> <!-- row end -->
+      </div>
+    </div>
+  </div>
+</div>
+        
+
+<!-- Vercel Analytics -->
+<script defer="" src="https://vercel.com/analytics/script.js"></script>       
+
+<script>
+function openHowToUseInsideLogin() {
+  const howToUseModal = new bootstrap.Modal(document.getElementById('howToUseModal'));
+  howToUseModal.show();
+}
+</script>
+        
+<!-- 🧠 Floating Assistant with Telegram -->
+<div id="assistantContainer" class="floating-assistant movable">
+  <a href="https://youtube.com/@starpranks09" target="_blank" class="telegram-link">
+    <img src="https://i.ibb.co/2DBryXN/Screenshot-20250901-153155.jpg" width="50" height="50" alt="Assistant" style="border-radius: 50%; box-shadow: 0 4px 12px rgba(0,0,0,0.3);">
+    <div style="margin-top: 5px;">ASK ME</div>
+  </a>
+</div>   
+        
+
+
+<div class="modal-backdrop fade show"></div></body></html>
