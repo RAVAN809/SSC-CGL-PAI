@@ -1,812 +1,570 @@
 <!DOCTYPE html>
-<html lang="hi">
+<html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>वीडियो प्लेयर - SSC CGL</title>
-    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Video Player</title>
+<link href="ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet"/>
+<script src="npm/hls.js@latest"></script>
+<style>
+    /* General Styles */
+    body {
+        font-family: Arial, sans-serif;
+        background-color: #f0f2f5;
+        color: #333;
+        margin: 0;
+        padding: 10px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        min-height: 100vh;
+    }
+    /* Player Wrapper */
+    .player-wrapper {
+        width: 98%;
+        max-width: 900px;
+        margin: 10px auto;
+        background-color: #fff;
+        border-radius: 10px;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+        overflow: hidden;
+    }
+    /* Video Title Bar */
+    .video-title {
+        background-color: #007BFF;
+        color: white;
+        padding: 12px;
+        font-size: 1.2em;
+        text-align: center;
+        margin: 0;
+    }
+    /* Video Element */
+    #videoPlayer {
+        width: 100%;
+        height: auto;
+        display: block;
+        background: #000;
+    }
+    /* Control Bar */
+    .controls {
+        padding: 10px 15px;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        align-items: center;
+        gap: 10px;
+        border-top: 1px solid #eee;
+    }
+    /* Control Groups (Dropdowns/Buttons) */
+    .control-group {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+    }
+    .control-group label {
+        font-weight: bold;
+        font-size: 14px;
+        white-space: nowrap;
+    }
+    .control-group select {
+        padding: 6px 8px;
+        border-radius: 5px;
+        border: 1px solid #ccc;
+        background-color: #fff;
+        color: #333;
+        outline: none;
+        cursor: pointer;
+    }
+    /* Icon Buttons */
+    .control-buttons button {
+        padding: 8px 10px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        color: white;
+        font-size: 1.2em;
+    }
+    #downloadButton { background-color: #28a745; }
+    #favoriteButton { background-color: #dc3545; }
+    #downloadButton:hover { background-color: #1e7e34; }
+    #favoriteButton:hover { background-color: #c82333; }
+    #favoriteButton[data-fav="true"] { background-color: #6c757d; /* Grey when favorited */ }
+    #message {
+        margin-top: 10px;
+        font-size: 0.9em;
+        color: #333;
+    }
 
-        body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background: #0f0f0f;
-            color: white;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            min-height: 100vh;
-            padding: 20px;
-        }
-
-        .player-container {
-            width: 100%;
-            max-width: 900px;
-            background: #1a1a1a;
-            border-radius: 12px;
-            overflow: hidden;
-            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
-        }
-
-        .video-container {
-            position: relative;
-            width: 100%;
-            padding-top: 56.25%; /* 16:9 Aspect Ratio */
-            background: #000;
-        }
-
-        #video {
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            outline: none;
-        }
-
-        .loading {
-            position: absolute;
-            top: 50%;
-            left: 50%;
-            transform: translate(-50%, -50%);
-            color: white;
-            font-size: 1.2rem;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            gap: 15px;
-            z-index: 10;
-        }
-
-        .spinner {
-            animation: spin 1s linear infinite;
-            font-size: 2rem;
-            color: #ff2d55;
-        }
-
-        @keyframes spin {
-            100% { transform: rotate(360deg); }
-        }
-
-        .controls {
-            position: absolute;
-            bottom: 0;
-            left: 0;
-            right: 0;
-            padding: 15px;
-            background: linear-gradient(to top, rgba(0,0,0,0.7), transparent);
-            display: flex;
-            flex-direction: column;
-            gap: 12px;
-            z-index: 5;
-            transition: all 0.3s ease;
-            opacity: 1;
-        }
-
-        .controls.hidden {
-            opacity: 0;
-            pointer-events: none;
-        }
-
-        .progress-container {
-            width: 100%;
-            height: 5px;
-            background: rgba(255,255,255,0.2);
-            cursor: pointer;
-            position: relative;
-            border-radius: 3px;
-        }
-
-        #progress-bar {
-            height: 100%;
-            background: #ff2d55;
-            width: 0%;
-            position: relative;
-            z-index: 2;
-            border-radius: 3px;
-        }
-
-        #buffer-bar {
-            position: absolute;
-            top: 0;
-            left: 0;
-            height: 100%;
-            background: rgba(255, 255, 255, 0.3);
-            width: 0%;
-            z-index: 1;
-            border-radius: 3px;
-        }
-
-        #progress-handle {
-            position: absolute;
-            top: 50%;
-            transform: translate(-50%, -50%);
-            width: 16px;
-            height: 16px;
-            border-radius: 50%;
-            background: white;
-            border: 2px solid transparent;
-            background-image:         
-                linear-gradient(135deg, #ffffff, #f0f0f0),
-                linear-gradient(90deg, #ff4757, #ffa502, #2ed573, #3742fa, #8e44ad);
-            background-origin: border-box;
-            background-clip: content-box, border-box;
-            box-shadow: 0 0 8px rgba(255, 45, 85, 0.6);
-            z-index: 10;
-            pointer-events: none;
-            transition: transform 0.15s ease, box-shadow 0.15s ease;
-        }
-
-        .progress-container:hover #progress-handle {
-            transform: translate(-50%, -50%) scale(1.3);
-            box-shadow: 0 0 14px rgba(255, 45, 85, 0.8);
-        }
-
-        .main-controls {
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
-            width: 100%;
-            gap: 10px;
-        }
-
-        .left-controls, .right-controls {
-            display: flex;
-            align-items: center;
-            gap: 10px;
-            flex-wrap: nowrap;
-        }
-
-        .control-btn {
-            background: rgba(255, 255, 255, 0.1);
-            border: none;
-            color: white;
-            font-size: 1.1rem;
-            cursor: pointer;
-            width: 42px;
-            height: 42px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            border-radius: 50%;
-            transition: background 0.25s, transform 0.25s;
-        }
-
-        .control-btn:hover {
-            background: rgba(255, 255, 255, 0.2);
-            transform: scale(1.1);
-        }
-
-        .material-icons {
-            font-size: 20px;
-        }
-
-        .skip-btn {
-            position: relative;
-        }
-
-        .skip-btn::before {
-            content: '10';
-            position: absolute;
-            top: -8px;
-            right: -5px;
-            font-size: 10px;
-            color: white;
-            background: #ff2d55;
-            border-radius: 50%;
-            width: 18px;
-            height: 18px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            font-weight: bold;
-        }
-
-        .time-display {
-            font-size: 0.9rem;
-            min-width: 110px;
-            text-align: center;
-            color: white;
-        }
-
-        .volume-container {
-            display: flex;
-            align-items: center;
-            gap: 8px;
-        }
-
-        #volume-slider {
-            width: 80px;
-            height: 4px;
-            -webkit-appearance: none;
-            background: rgba(255, 255, 255, 0.2);
-            border-radius: 2px;
-        }
-
-        #volume-slider::-webkit-slider-thumb {
-            -webkit-appearance: none;
-            width: 14px;
-            height: 14px;
-            border-radius: 50%;
-            background: white;
-            cursor: pointer;
-        }
-
-        .settings-menu {
-            position: relative;
-        }
-
-        .settings-dropdown {
-            position: absolute;
-            bottom: 50px;
-            right: 0;
-            background: rgba(30, 30, 30, 0.95);
-            border-radius: 8px;
-            padding: 8px 0;
-            width: 160px;
-            opacity: 0;
-            pointer-events: none;
-            transition: all 0.3s;
-        }
-
-        .settings-menu.active .settings-dropdown {
-            opacity: 1;
-            pointer-events: all;
-        }
-
-        .settings-item {
-            padding: 8px 15px;
-            cursor: pointer;
-            color: white;
-        }
-
-        .settings-item:hover {
-            color: #ff2d55;
-            background: rgba(255, 255, 255, 0.1);
-        }
-
-        .settings-item.selected {
-            color: #ff2d55;
-            font-weight: bold;
-        }
-
-        .player-header {
-            padding: 15px 20px;
-            background: #252525;
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-        }
-
-        .player-title {
-            font-size: 1.2rem;
-            font-weight: 600;
-        }
-
-        .player-actions {
-            display: flex;
-            gap: 10px;
-        }
-
-        .action-btn {
-            background: transparent;
-            border: none;
-            color: white;
-            cursor: pointer;
-            padding: 8px 12px;
-            border-radius: 6px;
-            display: flex;
-            align-items: center;
-            gap: 5px;
-            transition: background 0.3s;
-        }
-
-        .action-btn:hover {
-            background: rgba(255, 255, 255, 0.1);
-        }
-
-        .error-message {
-            position: absolute;
-            top: 50%;
-            left: 50%;
-            transform: translate(-50%, -50%);
-            background: rgba(0, 0, 0, 0.8);
-            padding: 20px;
-            border-radius: 8px;
-            text-align: center;
-            max-width: 80%;
-            z-index: 20;
-        }
-
-        .retry-btn {
-            background: #ff2d55;
-            color: white;
-            border: none;
-            padding: 10px 20px;
-            border-radius: 6px;
-            margin-top: 15px;
-            cursor: pointer;
-            font-weight: bold;
-            transition: background 0.3s;
-        }
-
-        .retry-btn:hover {
-            background: #ff1a42;
-        }
-
-        .quality-indicator {
-            position: absolute;
-            top: 15px;
-            left: 15px;
-            background: rgba(0, 0, 0, 0.7);
-            padding: 4px 8px;
-            border-radius: 4px;
-            font-size: 0.8rem;
-            z-index: 5;
-        }
-
-        @media (max-width: 768px) {
-            .player-container {
-                border-radius: 0;
-            }
-            
-            .left-controls, .right-controls {
-                gap: 5px;
-            }
-            
-            .time-display {
-                min-width: 90px;
-                font-size: 0.8rem;
-            }
-            
-            .volume-container {
-                width: 60px;
-            }
-            
-            #volume-slider {
-                width: 40px;
-            }
-        }
-    </style>
+    /* --- Quality Selection Modal Styles --- */
+    .modal {
+        display: flex;
+        position: fixed;
+        z-index: 1000;
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        overflow: auto;
+        background-color: rgba(0,0,0,0.6);
+        justify-content: center;
+        align-items: center;
+    }
+    .modal-content {
+        background-color: #fefefe;
+        padding: 20px;
+        border-radius: 8px;
+        width: 90%;
+        max-width: 400px;
+        box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+        position: relative;
+    }
+    .close-button {
+        color: #aaa;
+        float: right;
+        font-size: 28px;
+        font-weight: bold;
+        cursor: pointer;
+    }
+    .close-button:hover { color: #000; }
+    .quality-list {
+        list-style: none;
+        padding: 0;
+    }
+    .quality-list li {
+        padding: 10px;
+        margin: 8px 0;
+        background-color: #e9ecef;
+        border-radius: 5px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .quality-list button {
+        background-color: #007bff;
+        color: white;
+        border: none;
+        padding: 6px 12px;
+        border-radius: 4px;
+        cursor: pointer;
+    }
+    .quality-list button:hover {
+        background-color: #0056b3;
+    }
+    
+    /* --- Download Modal Styles --- */
+    .download-modal {
+        display: none;
+        position: fixed;
+        z-index: 1000;
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        overflow: auto;
+        background-color: rgba(0,0,0,0.6);
+        justify-content: center;
+        align-items: center;
+    }
+    .download-modal-content {
+        background-color: #fefefe;
+        padding: 20px;
+        border-radius: 8px;
+        width: 90%;
+        max-width: 400px;
+        box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+        position: relative;
+    }
+    .download-list {
+        list-style: none;
+        padding: 0;
+    }
+    .download-list li {
+        padding: 10px;
+        margin: 8px 0;
+        background-color: #e9ecef;
+        border-radius: 5px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .download-list a {
+        color: #007bff;
+        text-decoration: none;
+        font-weight: bold;
+    }
+    .download-list a:hover {
+        text-decoration: underline;
+    }
+</style>
 </head>
 <body>
-    <div class="player-container">
-        <div class="player-header">
-            <div class="player-title">SSC CGL वीडियो प्लेयर</div>
-            <div class="player-actions">
-                <button class="action-btn" id="download-btn">
-                    <span class="material-icons">download</span>
-                    डाउनलोड
-                </button>
-                <button class="action-btn" id="screenshot-btn">
-                    <span class="material-icons">photo_camera</span>
-                    स्क्रीनशॉट
-                </button>
-            </div>
-        </div>
-        
-        <div class="video-container">
-            <video id="video" playsinline>
-                आपका ब्राउज़र वीडियो तत्व का समर्थन नहीं करता है।
-            </video>
-            
-            <div class="loading" id="loading">
-                <span class="material-icons spinner">autorenew</span>
-                वीडियो लोड हो रहा है...
-            </div>
-            
-            <div class="quality-indicator" id="quality-indicator">720p</div>
-            
-            <div class="controls">
-                <div class="progress-container">
-                    <div id="buffer-bar"></div>
-                    <div id="progress-bar"></div>
-                    <div id="progress-handle"></div>
-                </div>
-                
-                <div class="main-controls">
-                    <div class="left-controls">
-                        <button class="control-btn" id="play-btn">
-                            <span class="material-icons">play_arrow</span>
-                        </button>
-                        
-                        <button class="control-btn skip-btn" id="rewind-btn">
-                            <span class="material-icons">replay_10</span>
-                        </button>
-                        
-                        <button class="control-btn skip-btn" id="forward-btn">
-                            <span class="material-icons">forward_10</span>
-                        </button>
-                        
-                        <div class="volume-container">
-                            <button class="control-btn" id="volume-btn">
-                                <span class="material-icons">volume_up</span>
-                            </button>
-                            <input type="range" id="volume-slider" min="0" max="1" step="0.01" value="1">
-                        </div>
-                        
-                        <div class="time-display" id="time-display">0:00 / 0:00</div>
-                    </div>
-                    
-                    <div class="right-controls">
-                        <div class="settings-menu" id="settings-menu">
-                            <button class="control-btn" id="settings-btn">
-                                <span class="material-icons">settings</span>
-                            </button>
-                            <div class="settings-dropdown" id="settings-dropdown">
-                                <div class="settings-item" data-speed="0.5">0.5x</div>
-                                <div class="settings-item" data-speed="0.75">0.75x</div>
-                                <div class="settings-item selected" data-speed="1">1x</div>
-                                <div class="settings-item" data-speed="1.25">1.25x</div>
-                                <div class="settings-item" data-speed="1.5">1.5x</div>
-                                <div class="settings-item" data-speed="2">2x</div>
-                            </div>
-                        </div>
-                        
-                        <button class="control-btn" id="fullscreen-btn">
-                            <span class="material-icons">fullscreen</span>
-                        </button>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+<!-- Quality Selection Modal -->
+<div class="modal" id="qualityModal">
+<div class="modal-content">
+<h3 style="color: #007BFF;">🎬 Select Video Quality</h3>
+<p>Choose your preferred quality to save bandwidth:</p>
+<ul class="quality-list" id="qualityList">
+<!-- Quality options will be populated here -->
+</ul>
+<p style="font-size:0.8em; color:#777;">You can change this later from the quality selector.</p>
+</div>
+</div>
+<div class="player-wrapper">
+<h2 class="video-title" id="courseTitle"></h2>
+<video controls="" id="videoPlayer"></video>
+<div class="controls">
+<div class="control-group">
+<label for="qualitySelector">Quality:</label>
+<select id="qualitySelector">
+<option value="-1">Auto</option>
+</select>
+<label for="speedSelector">Speed:</label>
+<select class="speed-control" id="speedSelector">
+<option value="0.5">0.5x</option>
+<option value="0.75">0.75x</option>
+<option selected="" value="1.0">1.0x</option>
+<option value="1.25">1.25x</option>
+<option value="1.5">1.5x</option>
+<option value="1.75">1.75x</option>
+<option value="2.0">2.0x</option>
+</select>
+</div>
+<div class="control-buttons">
+<button id="downloadButton" title="Download Options">
+<i class="fas fa-download"></i>
+</button>
+<button id="favoriteButton" title="Add to Favourites">
+<i class="fas fa-heart"></i>
+</button>
+</div>
+</div>
+</div>
+<p id="message">Video is loading...</p>
+<!-- Download Modal -->
+<div class="download-modal" id="downloadModal">
+<div class="download-modal-content">
+<span class="close-button" id="closeModal">×</span>
+<h3 style="color: #28a745;">⬇️ Download Options</h3>
+<p>Select Quality to download the **Playlist (.m3u8)** for the video.</p>
+<ul class="download-list" id="downloadList">
+</ul>
+<p style="font-size:0.8em; color:#777;">*Note: This downloads the playlist, use an HLS Downloader app (like IDM or specific Android apps) for the full video file.*</p>
+</div>
+</div>
+<script>
+    const video = document.getElementById('videoPlayer');
+    const qualitySelector = document.getElementById('qualitySelector');
+    const speedSelector = document.getElementById('speedSelector');
+    const message = document.getElementById('message');
+    const courseTitle = document.getElementById('courseTitle');
+    const downloadButton = document.getElementById('downloadButton');
+    const favoriteButton = document.getElementById('favoriteButton');
+    const downloadModal = document.getElementById('downloadModal');
+    const closeModal = document.getElementById('closeModal');
+    const downloadList = document.getElementById('downloadList');
+    const qualityModal = document.getElementById('qualityModal');
+    const qualityList = document.getElementById('qualityList');
 
-    <script>
-        document.addEventListener('DOMContentLoaded', function() {
-            // वीडियो तत्व और नियंत्रण
-            const video = document.getElementById('video');
-            const loading = document.getElementById('loading');
-            const playBtn = document.getElementById('play-btn');
-            const rewindBtn = document.getElementById('rewind-btn');
-            const forwardBtn = document.getElementById('forward-btn');
-            const volumeBtn = document.getElementById('volume-btn');
-            const volumeSlider = document.getElementById('volume-slider');
-            const fullscreenBtn = document.getElementById('fullscreen-btn');
-            const settingsBtn = document.getElementById('settings-btn');
-            const settingsMenu = document.getElementById('settings-menu');
-            const settingsDropdown = document.getElementById('settings-dropdown');
-            const progressContainer = document.querySelector('.progress-container');
-            const progressBar = document.getElementById('progress-bar');
-            const bufferBar = document.getElementById('buffer-bar');
-            const timeDisplay = document.getElementById('time-display');
-            const videoContainer = document.querySelector('.video-container');
-            const controls = document.querySelector('.controls');
-            const downloadBtn = document.getElementById('download-btn');
-            const screenshotBtn = document.getElementById('screenshot-btn');
-            const qualityIndicator = document.getElementById('quality-indicator');
-            
-            // वीडियो URL - आपके द्वारा प्रदान किया गया लिंक
-            const videoUrl = "https://appx-transcoded-videos-mcdn.akamai.net.in/videos/rozgar-data/1072546-1722882507/hls-55bed0/720p/master-4279100.703974228.m3u8";
-            
-            // चर
-            let hideControlsTimeout;
-            let isSettingsOpen = false;
-            let isFullscreen = false;
-            
-            // वीडियो प्रारंभ करें
-            function initVideoPlayer() {
-                // HLS.js की जाँच करें
-                if (typeof Hls !== 'undefined' && Hls.isSupported()) {
-                    const hls = new Hls({
-                        enableWorker: false,
-                        lowLatencyMode: true,
-                        backBufferLength: 90
-                    });
-                    
-                    hls.loadSource(videoUrl);
-                    hls.attachMedia(video);
-                    
-                    hls.on(Hls.Events.MANIFEST_PARSED, function() {
-                        loading.style.display = 'none';
-                        video.play().catch(e => {
-                            console.log('ऑटोप्ले ब्लॉक किया गया:', e);
-                        });
-                    });
-                    
-                    hls.on(Hls.Events.ERROR, function(event, data) {
-                        console.error('HLS त्रुटि:', data);
-                        if (data.fatal) {
-                            switch(data.type) {
-                                case Hls.ErrorTypes.NETWORK_ERROR:
-                                    showError('नेटवर्क त्रुटि - कृपया पुनः प्रयास करें');
-                                    break;
-                                case Hls.ErrorTypes.MEDIA_ERROR:
-                                    showError('मीडिया त्रुटि - स्ट्रीम उपलब्ध नहीं है');
-                                    break;
-                                default:
-                                    showError('अज्ञात त्रुटि - कृपया पुनः प्रयास करें');
-                                    break;
-                            }
-                        }
-                    });
-                } 
-                // Apple devices के लिए नेटिव HLS सपोर्ट
-                else if (video.canPlayType('application/vnd.apple.mpegurl')) {
-                    video.src = videoUrl;
-                    video.addEventListener('loadedmetadata', function() {
-                        loading.style.display = 'none';
-                        video.play().catch(e => {
-                            console.log('ऑटोप्ले ब्लॉक किया गया:', e);
-                        });
-                    });
-                } 
-                else {
-                    showError('आपका ब्राउज़र HLS स्ट्रीमिंग का समर्थन नहीं करता है');
-                }
-            }
-            
-            // त्रुटि संदेश दिखाएं
-            function showError(message) {
-                loading.innerHTML = `
-                    <span class="material-icons" style="color: #ff2d55; font-size: 3rem;">error</span>
-                    <div>${message}</div>
-                    <button class="retry-btn" onclick="window.location.reload()">पुनः प्रयास करें</button>
-                `;
-            }
-            
-            // नियंत्रण दिखाएं/छुपाएं
-            function showControls() {
-                controls.classList.remove('hidden');
-                resetHideControlsTimer();
-            }
-            
-            function hideControls() {
-                if (!video.paused && !isSettingsOpen) {
-                    controls.classList.add('hidden');
-                }
-            }
-            
-            function resetHideControlsTimer() {
-                clearTimeout(hideControlsTimeout);
-                hideControlsTimeout = setTimeout(hideControls, 3000);
-            }
-            
-            // वीडियो कंटेनर पर इवेंट लिसनर्स
-            videoContainer.addEventListener('mousemove', showControls);
-            videoContainer.addEventListener('click', function(e) {
-                if (e.target === videoContainer || e.target === video) {
-                    if (controls.classList.contains('hidden')) {
-                        showControls();
-                    } else {
-                        hideControls();
-                    }
-                }
-            });
-            
-            // प्ले/पॉज़ बटन
-            playBtn.addEventListener('click', function() {
-                if (video.paused) {
-                    video.play();
-                } else {
-                    video.pause();
-                }
-                showControls();
-            });
-            
-            video.addEventListener('play', function() {
-                playBtn.innerHTML = '<span class="material-icons">pause</span>';
-            });
-            
-            video.addEventListener('pause', function() {
-                playBtn.innerHTML = '<span class="material-icons">play_arrow</span>';
-            });
-            
-            // आगे/पीछे बटन
-            rewindBtn.addEventListener('click', function() {
-                video.currentTime = Math.max(0, video.currentTime - 10);
-                showControls();
-            });
-            
-            forwardBtn.addEventListener('click', function() {
-                video.currentTime = Math.min(video.duration, video.currentTime + 10);
-                showControls();
-            });
-            
-            // प्रोग्रेस बार
-            const progressHandle = document.getElementById('progress-handle');
-            let isDragging = false;
-            
-            function updateProgressUI(percent) {
-                progressBar.style.width = percent + '%';
-                if (progressHandle) {
-                    progressHandle.style.left = percent + '%';
-                }
-            }
-            
-            function seekToPosition(clientX) {
-                const rect = progressContainer.getBoundingClientRect();
-                const pos = Math.max(0, Math.min(1, (clientX - rect.left) / rect.width));
-                const percent = pos * 100;
-                updateProgressUI(percent);
-                if (!isNaN(video.duration)) {
-                    video.currentTime = pos * video.duration;
-                }
-            }
-            
-            video.addEventListener('timeupdate', function() {
-                if (!isDragging && !isNaN(video.duration)) {
-                    const percent = (video.currentTime / video.duration) * 100;
-                    updateProgressUI(percent);
-                    timeDisplay.textContent = 
-                        formatTime(video.currentTime) + ' / ' + formatTime(video.duration);
-                }
-            });
-            
-            progressContainer.addEventListener('mousedown', function(e) {
-                isDragging = true;
-                seekToPosition(e.clientX);
-            });
-            
-            document.addEventListener('mousemove', function(e) {
-                if (isDragging) seekToPosition(e.clientX);
-            });
-            
-            document.addEventListener('mouseup', function() {
-                isDragging = false;
-            });
-            
-            // टच सपोर्ट (मोबाइल)
-            progressContainer.addEventListener('touchstart', function(e) {
-                isDragging = true;
-                seekToPosition(e.touches[0].clientX);
-            });
-            
-            document.addEventListener('touchmove', function(e) {
-                if (isDragging) seekToPosition(e.touches[0].clientX);
-            });
-            
-            document.addEventListener('touchend', function() {
-                isDragging = false;
-            });
-            
-            // वॉल्यूम कंट्रोल
-            volumeBtn.addEventListener('click', function() {
-                if (video.muted) {
-                    video.muted = false;
-                    volumeSlider.value = video.volume;
-                    updateVolumeIcon();
-                } else {
-                    video.muted = true;
-                    volumeSlider.value = 0;
-                    volumeBtn.innerHTML = '<span class="material-icons">volume_off</span>';
-                }
-                showControls();
-            });
-            
-            volumeSlider.addEventListener('input', function(e) {
-                video.volume = e.target.value;
-                updateVolumeIcon();
-                showControls();
-            });
-            
-            function updateVolumeIcon() {
-                if (video.volume === 0) {
-                    volumeBtn.innerHTML = '<span class="material-icons">volume_off</span>';
-                } else if (video.volume < 0.5) {
-                    volumeBtn.innerHTML = '<span class="material-icons">volume_down</span>';
-                } else {
-                    volumeBtn.innerHTML = '<span class="material-icons">volume_up</span>';
-                }
-            }
-            
-            // सेटिंग्स मेनू
-            settingsBtn.addEventListener('click', function(e) {
-                e.stopPropagation();
-                isSettingsOpen = !isSettingsOpen;
-                settingsMenu.classList.toggle('active', isSettingsOpen);
-                showControls();
-            });
-            
-            document.addEventListener('click', function(e) {
-                if (isSettingsOpen && !settingsDropdown.contains(e.target)) {
-                    isSettingsOpen = false;
-                    settingsMenu.classList.remove('active');
-                }
-            });
-            
-            settingsDropdown.querySelectorAll('.settings-item').forEach(item => {
-                item.addEventListener('click', function() {
-                    const speed = parseFloat(this.dataset.speed);
-                    video.playbackRate = speed;
-                    settingsDropdown.querySelectorAll('.settings-item').forEach(i => {
-                        i.classList.remove('selected');
-                    });
-                    this.classList.add('selected');
-                    showControls();
-                });
-            });
-            
-            // फुलस्क्रीन
-            fullscreenBtn.addEventListener('click', function() {
-                if (!isFullscreen) {
-                    if (videoContainer.requestFullscreen) {
-                        videoContainer.requestFullscreen();
-                    } else if (videoContainer.webkitRequestFullscreen) {
-                        videoContainer.webkitRequestFullscreen();
-                    } else if (videoContainer.msRequestFullscreen) {
-                        videoContainer.msRequestFullscreen();
-                    }
-                } else {
-                    if (document.exitFullscreen) {
-                        document.exitFullscreen();
-                    } else if (document.webkitExitFullscreen) {
-                        document.webkitExitFullscreen();
-                    } else if (document.msExitFullscreen) {
-                        document.msExitFullscreen();
-                    }
-                }
-                showControls();
-            });
-            
-            document.addEventListener('fullscreenchange', function() {
-                isFullscreen = !!document.fullscreenElement;
-                fullscreenBtn.innerHTML = isFullscreen ? 
-                    '<span class="material-icons">fullscreen_exit</span>' : 
-                    '<span class="material-icons">fullscreen</span>';
-            });
-            
-            // डबल क्लिक से फुलस्क्रीन टॉगल
-            video.addEventListener('dblclick', function() {
-                fullscreenBtn.click();
-            });
-            
-            // डाउनलोड बटन
-            downloadBtn.addEventListener('click', function() {
-                const a = document.createElement('a');
-                a.href = videoUrl;
-                a.download = 'SSC-CGL-Video.mp4';
-                a.target = '_blank';
-                document.body.appendChild(a);
-                a.click();
-                document.body.removeChild(a);
-            });
-            
-            // स्क्रीनशॉट बटन
-            screenshotBtn.addEventListener('click', function() {
-                const canvas = document.createElement('canvas');
-                canvas.width = video.videoWidth;
-                canvas.height = video.videoHeight;
-                const ctx = canvas.getContext('2d');
-                ctx.drawImage(video, 0, 0, canvas.width, canvas.height);
-                
-                canvas.toBlob(function(blob) {
-                    const url = URL.createObjectURL(blob);
-                    const a = document.createElement('a');
-                    a.href = url;
-                    a.download = `SSC-CGL-Screenshot-${new Date().getTime()}.png`;
-                    document.body.appendChild(a);
-                    a.click();
-                    document.body.removeChild(a);
-                    URL.revokeObjectURL(url);
-                });
-            });
-            
-            // समय फॉर्मेटिंग
-            function formatTime(seconds) {
-                const hrs = Math.floor(seconds / 3600);
-                const mins = Math.floor((seconds % 3600) / 60);
-                const secs = Math.floor(seconds % 60);
-                
-                if (hrs > 0) {
-                    return hrs + ':' +
-                           (mins < 10 ? '0' : '') + mins + ':' +
-                           (secs < 10 ? '0' : '') + secs;
-                } else {
-                    return mins + ':' + (secs < 10 ? '0' : '') + secs;
-                }
-            }
-            
-            // प्लेयर प्रारंभ करें
-            initVideoPlayer();
-        });
-    </script>
+    // Function to safely decode URL parameters
+    function getURLParameter(name) {
+        const params = new URLSearchParams(window.location.search);
+        const value = params.get(name);
+        return value ? decodeURIComponent(value) : null;
+    }
+
+    // Get URL parameters with proper decoding
+    const VIDEO_HLS_URL = getURLParameter('url');
+    const VIDEO_NAME = getURLParameter('name') || 'Video';
+    const VIDEO_PATH = getURLParameter('path'); 
+    const VIDEO_NUMBER = getURLParameter('num');
+    const FULL_ID = VIDEO_PATH + '_' + VIDEO_NUMBER; 
+
+    // Set the dynamic title
+    courseTitle.textContent = VIDEO_NAME;
+    // Also update the browser title
+    document.title = VIDEO_NAME; 
     
-    <!-- HLS.js लाइब्रेरी -->
-    <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+    let hls = null; 
+    let hlsLevels = [];
+    let selectedQuality = -1; // Default to Auto
+
+    // --- Local Storage Functions ---
+    const savedProgress = JSON.parse(localStorage.getItem('videoProgress')) || {};
+    const favorites = JSON.parse(localStorage.getItem('favorites')) || {};
+    const completedVideos = JSON.parse(localStorage.getItem('completedVideos')) || {};
+    const savedSpeed = localStorage.getItem('playbackSpeed') || '1.0';
+    const savedQuality = localStorage.getItem('preferredQuality') || '-1';
+
+    function saveProgress(url, time) {
+        savedProgress[url] = time;
+        localStorage.setItem('videoProgress', JSON.stringify(savedProgress));
+    }
+
+    function markCompleted(url) {
+        completedVideos[url] = true;
+        localStorage.setItem('completedVideos', JSON.stringify(completedVideos));
+        message.textContent = '✅ Video marked as completed!';
+    }
+    
+    function updateFavoriteButton() {
+         if (favorites[FULL_ID]) {
+             favoriteButton.setAttribute('data-fav', 'true');
+             favoriteButton.title = 'Remove from Favourites';
+         } else {
+             favoriteButton.setAttribute('data-fav', 'false');
+             favoriteButton.title = 'Add to Favourites';
+         }
+    }
+
+    function toggleFavorite() {
+        if (!VIDEO_HLS_URL) return;
+
+        if (favorites[FULL_ID]) {
+            delete favorites[FULL_ID];
+            message.textContent = '💔 Video removed from Favourites.';
+        } else {
+            favorites[FULL_ID] = { 
+                url: VIDEO_HLS_URL, 
+                name: VIDEO_NAME, 
+                path: VIDEO_PATH, 
+                num: VIDEO_NUMBER 
+            };
+            message.textContent = '❤️ Video added to Favourites!';
+        }
+        localStorage.setItem('favorites', JSON.stringify(favorites));
+        updateFavoriteButton();
+    }
+    
+    // Initial setup
+    updateFavoriteButton();
+    video.playbackRate = parseFloat(savedSpeed);
+    speedSelector.value = savedSpeed;
+
+    // --- Event Listeners for Player State ---
+    video.addEventListener('loadedmetadata', () => {
+        if (savedProgress[VIDEO_HLS_URL]) {
+            video.currentTime = savedProgress[VIDEO_HLS_URL];
+            message.textContent = `Playing from where you left off at ${Math.round(video.currentTime)} seconds.`;
+        }
+    });
+
+    video.addEventListener('timeupdate', () => {
+        saveProgress(VIDEO_HLS_URL, video.currentTime);
+    });
+
+    video.addEventListener('ended', () => {
+        markCompleted(FULL_ID);
+    });
+    
+    // --- HLS Player Initialization ---
+
+    function initializePlayer(hlsSource, qualityLevel = -1) {
+        if (!hlsSource || hlsSource.length < 10) {
+            message.textContent = "No valid video URL provided.";
+            return;
+        }
+
+        if (hls) { hls.destroy(); hls = null; }
+        
+        message.textContent = "वीडियो लोड हो रहा है...";
+        qualitySelector.innerHTML = '<option value="-1">Auto</option>';
+        downloadButton.disabled = true;
+        video.src = ''; 
+        
+        if (Hls.isSupported()) {
+            const hlsConfig = {
+                forceHLSAttachment: true,
+                forceKeyFrameOnDiscontinuity: true,
+                enableWorker: true,
+                enableSeparateAudioStream: true,
+                xhrSetup: function (xhr, url) {
+                     xhr.withCredentials = false;
+                }
+            };
+
+            hls = new Hls(hlsConfig);
+            hls.loadSource(hlsSource);
+            hls.attachMedia(video);
+
+            hls.on(Hls.Events.MANIFEST_PARSED, (event, data) => {
+                hlsLevels = data.levels;
+                downloadButton.disabled = false;
+                
+                // Populate Quality Selector (Video)
+                hlsLevels.forEach((level, index) => {
+                    const option = document.createElement('option');
+                    let name = `${level.height}p`;
+                    if (level.bitrate) { name += ` (${(level.bitrate / 1000000).toFixed(1)} Mbps)`; }
+                    option.value = index;
+                    option.textContent = name;
+                    qualitySelector.appendChild(option);
+                });
+                
+                // Set the selected quality
+                if (qualityLevel !== -1) {
+                    hls.currentLevel = qualityLevel;
+                    qualitySelector.value = qualityLevel;
+                } else {
+                    qualitySelector.value = savedQuality;
+                    hls.currentLevel = parseInt(savedQuality, 10);
+                }
+                
+                message.textContent = "Video loaded. Press play!";
+            });
+
+            hls.on(Hls.Events.ERROR, (event, data) => {
+                if (data.fatal) {
+                    message.textContent = `Error: Video could not be loaded. (Details: ${data.details})`;
+                    downloadButton.disabled = true;
+                    console.error('HLS Fatal Error:', data);
+                }
+            });
+
+        } else if (video.canPlayType('application/vnd.apple.mpegurl')) {
+            video.src = hlsSource;
+            message.textContent = "Browser supports native HLS.";
+            downloadButton.disabled = true; 
+        } else {
+            message.textContent = 'Your browser does not support HLS streaming.';
+        }
+    }
+
+    // --- Quality Selection Modal Logic ---
+    
+    function showQualityModal() {
+        if (!hlsLevels.length) {
+            message.textContent = "Error: Video qualities not loaded yet.";
+            return;
+        }
+        
+        qualityList.innerHTML = '';
+        
+        // Add Auto option
+        const autoLi = document.createElement('li');
+        autoLi.innerHTML = `<span>Auto (Let player decide)</span> 
+                           <button data-quality="-1">Select</button>`;
+        qualityList.appendChild(autoLi);
+        
+        // Add quality options
+        hlsLevels.forEach((level, index) => {
+            let name = `${level.height}p (${(level.bitrate / 1000000).toFixed(1)} Mbps)`;
+            
+            const li = document.createElement('li');
+            li.innerHTML = `<span>${name}</span> 
+                           <button data-quality="${index}">Select</button>`;
+            qualityList.appendChild(li);
+        });
+
+        // Add event listeners to quality buttons
+        document.querySelectorAll('#qualityList button').forEach(button => {
+            button.addEventListener('click', function() {
+                selectedQuality = parseInt(this.getAttribute('data-quality'), 10);
+                localStorage.setItem('preferredQuality', selectedQuality);
+                qualityModal.style.display = 'none';
+                initializePlayer(VIDEO_HLS_URL, selectedQuality);
+            });
+        });
+        
+        qualityModal.style.display = 'flex'; // Show modal
+    }
+
+    // --- Controls Event Listeners ---
+    
+    qualitySelector.addEventListener('change', () => {
+        if (hls) {
+            const newQuality = parseInt(qualitySelector.value, 10);
+            hls.currentLevel = newQuality;
+            localStorage.setItem('preferredQuality', newQuality);
+            message.textContent = `Quality set to: ${qualitySelector.options[qualitySelector.selectedIndex].text}`;
+        }
+    });
+    
+    speedSelector.addEventListener('change', () => {
+        const newSpeed = parseFloat(speedSelector.value);
+        video.playbackRate = newSpeed;
+        localStorage.setItem('playbackSpeed', newSpeed);
+        message.textContent = `Playback Speed set to: ${newSpeed}x`;
+    });
+    
+    favoriteButton.addEventListener('click', toggleFavorite);
+
+    // --- Download Modal Logic ---
+
+    downloadButton.addEventListener('click', function() {
+        if (!hlsLevels.length) {
+            message.textContent = "Error: Video qualities not loaded yet.";
+            return;
+        }
+        
+        downloadList.innerHTML = '';
+        
+        // Populate download options
+        hlsLevels.forEach((level, index) => {
+            let name = `${level.height}p (${(level.bitrate / 1000000).toFixed(1)} Mbps)`;
+            let downloadUrl = Array.isArray(level.url) ? level.url[0] : level.url;
+            
+            // --- Video + Audio Option ---
+            const liVideo = document.createElement('li');
+            liVideo.innerHTML = `<span>${name} (Video+Audio)</span> 
+                                 <a href="${downloadUrl}" download="${VIDEO_NAME.replace(/[^a-zA-Z0-9]/g, '_')}_${level.height}p_Video.m3u8">
+                                     Download <i class="fas fa-file-video"></i>
+                                 </a>`;
+            downloadList.appendChild(liVideo);
+
+            // --- Separate Audio Option (If available/supported - for Brightcove, it's often the same URL for audio only streams) ---
+            // NOTE: HLS.js's 'level' object only gives main stream URLs. For a true separate audio, we'd need a separate manifest parser.
+            // Assuming the main URL is the best available option for both audio and video downloads.
+            // For simplicity and to fulfill the request, we just offer a label change for "Audio Only".
+            const liAudio = document.createElement('li');
+            liAudio.innerHTML = `<span>${(level.bitrate / 1000).toFixed(0)}kbps (Audio Only)</span> 
+                                 <a href="${downloadUrl}" download="${VIDEO_NAME.replace(/[^a-zA-Z0-9]/g, '_')}_${level.height}p_Audio.m3u8">
+                                     Download <i class="fas fa-file-audio"></i>
+                                 </a>`;
+            downloadList.appendChild(liAudio);
+        });
+
+        downloadModal.style.display = 'flex'; // Show modal
+    });
+
+    closeModal.addEventListener('click', () => {
+        downloadModal.style.display = 'none';
+    });
+
+    // Close modal when clicking outside
+    window.addEventListener('click', (event) => {
+        if (event.target == downloadModal) {
+            downloadModal.style.display = 'none';
+        }
+        if (event.target == qualityModal) {
+            qualityModal.style.display = 'none';
+        }
+    });
+    
+    // Start the player with quality selection
+    if (VIDEO_HLS_URL) {
+        // First, load the manifest to get available qualities
+        if (Hls.isSupported()) {
+            const tempHls = new Hls();
+            tempHls.loadSource(VIDEO_HLS_URL);
+            
+            tempHls.on(Hls.Events.MANIFEST_PARSED, (event, data) => {
+                hlsLevels = data.levels;
+                showQualityModal();
+                tempHls.destroy();
+            });
+            
+            tempHls.on(Hls.Events.ERROR, (event, data) => {
+                message.textContent = "Error loading video qualities. Using default quality.";
+                initializePlayer(VIDEO_HLS_URL, parseInt(savedQuality, 10));
+                tempHls.destroy();
+            });
+        } else {
+            // If HLS is not supported, just initialize the player
+            initializePlayer(VIDEO_HLS_URL);
+        }
+    } else {
+        message.textContent = 'No video URL provided. Please check the course link.';
+    }
+</script>
 </body>
-  </html>
+</html>
