@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+
 <html lang="en">
 <head>
 <meta charset="utf-8"/>
@@ -7,195 +8,195 @@
 <link href="ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet"/>
 <script src="npm/hls.js@latest"></script>
 <style>
-    /* General Styles */
-    body {
-        font-family: Arial, sans-serif;
-        background-color: #f0f2f5;
-        color: #333;
-        margin: 0;
-        padding: 10px;
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        min-height: 100vh;
-    }
-    /* Player Wrapper */
-    .player-wrapper {
-        width: 98%;
-        max-width: 900px;
-        margin: 10px auto;
-        background-color: #fff;
-        border-radius: 10px;
-        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
-        overflow: hidden;
-    }
-    /* Video Title Bar */
-    .video-title {
-        background-color: #007BFF;
-        color: white;
-        padding: 12px;
-        font-size: 1.2em;
-        text-align: center;
-        margin: 0;
-    }
-    /* Video Element */
-    #videoPlayer {
-        width: 100%;
-        height: auto;
-        display: block;
-        background: #000;
-    }
-    /* Control Bar */
-    .controls {
-        padding: 10px 15px;
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: space-between;
-        align-items: center;
-        gap: 10px;
-        border-top: 1px solid #eee;
-    }
-    /* Control Groups (Dropdowns/Buttons) */
-    .control-group {
-        display: flex;
-        align-items: center;
-        gap: 10px;
-    }
-    .control-group label {
-        font-weight: bold;
-        font-size: 14px;
-        white-space: nowrap;
-    }
-    .control-group select {
-        padding: 6px 8px;
-        border-radius: 5px;
-        border: 1px solid #ccc;
-        background-color: #fff;
-        color: #333;
-        outline: none;
-        cursor: pointer;
-    }
-    /* Icon Buttons */
-    .control-buttons button {
-        padding: 8px 10px;
-        border: none;
-        border-radius: 5px;
-        cursor: pointer;
-        color: white;
-        font-size: 1.2em;
-    }
-    #downloadButton { background-color: #28a745; }
-    #favoriteButton { background-color: #dc3545; }
-    #downloadButton:hover { background-color: #1e7e34; }
-    #favoriteButton:hover { background-color: #c82333; }
-    #favoriteButton[data-fav="true"] { background-color: #6c757d; /* Grey when favorited */ }
-    #message {
-        margin-top: 10px;
-        font-size: 0.9em;
-        color: #333;
-    }
+        /* General Styles */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f2f5;
+            color: #333;
+            margin: 0;
+            padding: 10px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            min-height: 100vh;
+        }
+        /* Player Wrapper */
+        .player-wrapper {
+            width: 98%;
+            max-width: 900px;
+            margin: 10px auto;
+            background-color: #fff;
+            border-radius: 10px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+            overflow: hidden;
+        }
+        /* Video Title Bar */
+        .video-title {
+            background-color: #007BFF;
+            color: white;
+            padding: 12px;
+            font-size: 1.2em;
+            text-align: center;
+            margin: 0;
+        }
+        /* Video Element */
+        #videoPlayer {
+            width: 100%;
+            height: auto;
+            display: block;
+            background: #000;
+        }
+        /* Control Bar */
+        .controls {
+            padding: 10px 15px;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+            align-items: center;
+            gap: 10px;
+            border-top: 1px solid #eee;
+        }
+        /* Control Groups (Dropdowns/Buttons) */
+        .control-group {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        .control-group label {
+            font-weight: bold;
+            font-size: 14px;
+            white-space: nowrap;
+        }
+        .control-group select {
+            padding: 6px 8px;
+            border-radius: 5px;
+            border: 1px solid #ccc;
+            background-color: #fff;
+            color: #333;
+            outline: none;
+            cursor: pointer;
+        }
+        /* Icon Buttons */
+        .control-buttons button {
+            padding: 8px 10px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            color: white;
+            font-size: 1.2em;
+        }
+        #downloadButton { background-color: #28a745; }
+        #favoriteButton { background-color: #dc3545; }
+        #downloadButton:hover { background-color: #1e7e34; }
+        #favoriteButton:hover { background-color: #c82333; }
+        #favoriteButton[data-fav="true"] { background-color: #6c757d; /* Grey when favorited */ }
+        #message {
+            margin-top: 10px;
+            font-size: 0.9em;
+            color: #333;
+        }
 
-    /* --- Quality Selection Modal Styles --- */
-    .modal {
-        display: flex;
-        position: fixed;
-        z-index: 1000;
-        left: 0;
-        top: 0;
-        width: 100%;
-        height: 100%;
-        overflow: auto;
-        background-color: rgba(0,0,0,0.6);
-        justify-content: center;
-        align-items: center;
-    }
-    .modal-content {
-        background-color: #fefefe;
-        padding: 20px;
-        border-radius: 8px;
-        width: 90%;
-        max-width: 400px;
-        box-shadow: 0 5px 15px rgba(0,0,0,0.3);
-        position: relative;
-    }
-    .close-button {
-        color: #aaa;
-        float: right;
-        font-size: 28px;
-        font-weight: bold;
-        cursor: pointer;
-    }
-    .close-button:hover { color: #000; }
-    .quality-list {
-        list-style: none;
-        padding: 0;
-    }
-    .quality-list li {
-        padding: 10px;
-        margin: 8px 0;
-        background-color: #e9ecef;
-        border-radius: 5px;
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-    }
-    .quality-list button {
-        background-color: #007bff;
-        color: white;
-        border: none;
-        padding: 6px 12px;
-        border-radius: 4px;
-        cursor: pointer;
-    }
-    .quality-list button:hover {
-        background-color: #0056b3;
-    }
-    
-    /* --- Download Modal Styles --- */
-    .download-modal {
-        display: none;
-        position: fixed;
-        z-index: 1000;
-        left: 0;
-        top: 0;
-        width: 100%;
-        height: 100%;
-        overflow: auto;
-        background-color: rgba(0,0,0,0.6);
-        justify-content: center;
-        align-items: center;
-    }
-    .download-modal-content {
-        background-color: #fefefe;
-        padding: 20px;
-        border-radius: 8px;
-        width: 90%;
-        max-width: 400px;
-        box-shadow: 0 5px 15px rgba(0,0,0,0.3);
-        position: relative;
-    }
-    .download-list {
-        list-style: none;
-        padding: 0;
-    }
-    .download-list li {
-        padding: 10px;
-        margin: 8px 0;
-        background-color: #e9ecef;
-        border-radius: 5px;
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-    }
-    .download-list a {
-        color: #007bff;
-        text-decoration: none;
-        font-weight: bold;
-    }
-    .download-list a:hover {
-        text-decoration: underline;
-    }
-</style>
+        /* --- Quality Selection Modal Styles --- */
+        .modal {
+            display: flex;
+            position: fixed;
+            z-index: 1000;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            overflow: auto;
+            background-color: rgba(0,0,0,0.6);
+            justify-content: center;
+            align-items: center;
+        }
+        .modal-content {
+            background-color: #fefefe;
+            padding: 20px;
+            border-radius: 8px;
+            width: 90%;
+            max-width: 400px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+            position: relative;
+        }
+        .close-button {
+            color: #aaa;
+            float: right;
+            font-size: 28px;
+            font-weight: bold;
+            cursor: pointer;
+        }
+        .close-button:hover { color: #000; }
+        .quality-list {
+            list-style: none;
+            padding: 0;
+        }
+        .quality-list li {
+            padding: 10px;
+            margin: 8px 0;
+            background-color: #e9ecef;
+            border-radius: 5px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .quality-list button {
+            background-color: #007bff;
+            color: white;
+            border: none;
+            padding: 6px 12px;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        .quality-list button:hover {
+            background-color: #0056b3;
+        }
+        
+        /* --- Download Modal Styles --- */
+        .download-modal {
+            display: none;
+            position: fixed;
+            z-index: 1000;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            overflow: auto;
+            background-color: rgba(0,0,0,0.6);
+            justify-content: center;
+            align-items: center;
+        }
+        .download-modal-content {
+            background-color: #fefefe;
+            padding: 20px;
+            border-radius: 8px;
+            width: 90%;
+            max-width: 400px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+            position: relative;
+        }
+        .download-list {
+            list-style: none;
+            padding: 0;
+        }
+        .download-list li {
+            padding: 10px;
+            margin: 8px 0;
+            background-color: #e9ecef;
+            border-radius: 5px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .download-list a {
+            color: #007bff;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        .download-list a:hover {
+            text-decoration: underline;
+        }
+    </style>
 </head>
 <body>
 <!-- Quality Selection Modal -->
@@ -252,319 +253,309 @@
 </div>
 </div>
 <script>
-    const video = document.getElementById('videoPlayer');
-    const qualitySelector = document.getElementById('qualitySelector');
-    const speedSelector = document.getElementById('speedSelector');
-    const message = document.getElementById('message');
-    const courseTitle = document.getElementById('courseTitle');
-    const downloadButton = document.getElementById('downloadButton');
-    const favoriteButton = document.getElementById('favoriteButton');
-    const downloadModal = document.getElementById('downloadModal');
-    const closeModal = document.getElementById('closeModal');
-    const downloadList = document.getElementById('downloadList');
-    const qualityModal = document.getElementById('qualityModal');
-    const qualityList = document.getElementById('qualityList');
+        const video = document.getElementById('videoPlayer');
+        const qualitySelector = document.getElementById('qualitySelector');
+        const speedSelector = document.getElementById('speedSelector');
+        const message = document.getElementById('message');
+        const courseTitle = document.getElementById('courseTitle');
+        const downloadButton = document.getElementById('downloadButton');
+        const favoriteButton = document.getElementById('favoriteButton');
+        const downloadModal = document.getElementById('downloadModal');
+        const closeModal = document.getElementById('closeModal');
+        const downloadList = document.getElementById('downloadList');
+        const qualityModal = document.getElementById('qualityModal');
+        const qualityList = document.getElementById('qualityList');
 
-    // Function to safely decode URL parameters
-    function getURLParameter(name) {
         const params = new URLSearchParams(window.location.search);
-        const value = params.get(name);
-        return value ? decodeURIComponent(value) : null;
-    }
+        const VIDEO_HLS_URL = params.get('url');
+        const VIDEO_NAME = params.get('name') || 'Video';
+        const VIDEO_PATH = params.get('path'); 
+        const VIDEO_NUMBER = params.get('num');
+        const FULL_ID = VIDEO_PATH + '_' + VIDEO_NUMBER; 
 
-    // Get URL parameters with proper decoding
-    const VIDEO_HLS_URL = getURLParameter('url');
-    const VIDEO_NAME = getURLParameter('name') || 'Video';
-    const VIDEO_PATH = getURLParameter('path'); 
-    const VIDEO_NUMBER = getURLParameter('num');
-    const FULL_ID = VIDEO_PATH + '_' + VIDEO_NUMBER; 
+        // Set the dynamic title
+        courseTitle.textContent = VIDEO_NAME;
+        // Also update the browser title
+        document.title = VIDEO_NAME; 
+        
+        let hls = null; 
+        let hlsLevels = [];
+        let selectedQuality = -1; // Default to Auto
 
-    // Set the dynamic title
-    courseTitle.textContent = VIDEO_NAME;
-    // Also update the browser title
-    document.title = VIDEO_NAME; 
-    
-    let hls = null; 
-    let hlsLevels = [];
-    let selectedQuality = -1; // Default to Auto
+        // --- Local Storage Functions ---
+        const savedProgress = JSON.parse(localStorage.getItem('videoProgress')) || {};
+        const favorites = JSON.parse(localStorage.getItem('favorites')) || {};
+        const completedVideos = JSON.parse(localStorage.getItem('completedVideos')) || {};
+        const savedSpeed = localStorage.getItem('playbackSpeed') || '1.0';
+        const savedQuality = localStorage.getItem('preferredQuality') || '-1';
 
-    // --- Local Storage Functions ---
-    const savedProgress = JSON.parse(localStorage.getItem('videoProgress')) || {};
-    const favorites = JSON.parse(localStorage.getItem('favorites')) || {};
-    const completedVideos = JSON.parse(localStorage.getItem('completedVideos')) || {};
-    const savedSpeed = localStorage.getItem('playbackSpeed') || '1.0';
-    const savedQuality = localStorage.getItem('preferredQuality') || '-1';
-
-    function saveProgress(url, time) {
-        savedProgress[url] = time;
-        localStorage.setItem('videoProgress', JSON.stringify(savedProgress));
-    }
-
-    function markCompleted(url) {
-        completedVideos[url] = true;
-        localStorage.setItem('completedVideos', JSON.stringify(completedVideos));
-        message.textContent = '✅ Video marked as completed!';
-    }
-    
-    function updateFavoriteButton() {
-         if (favorites[FULL_ID]) {
-             favoriteButton.setAttribute('data-fav', 'true');
-             favoriteButton.title = 'Remove from Favourites';
-         } else {
-             favoriteButton.setAttribute('data-fav', 'false');
-             favoriteButton.title = 'Add to Favourites';
-         }
-    }
-
-    function toggleFavorite() {
-        if (!VIDEO_HLS_URL) return;
-
-        if (favorites[FULL_ID]) {
-            delete favorites[FULL_ID];
-            message.textContent = '💔 Video removed from Favourites.';
-        } else {
-            favorites[FULL_ID] = { 
-                url: VIDEO_HLS_URL, 
-                name: VIDEO_NAME, 
-                path: VIDEO_PATH, 
-                num: VIDEO_NUMBER 
-            };
-            message.textContent = '❤️ Video added to Favourites!';
+        function saveProgress(url, time) {
+            savedProgress[url] = time;
+            localStorage.setItem('videoProgress', JSON.stringify(savedProgress));
         }
-        localStorage.setItem('favorites', JSON.stringify(favorites));
+
+        function markCompleted(url) {
+            completedVideos[url] = true;
+            localStorage.setItem('completedVideos', JSON.stringify(completedVideos));
+            message.textContent = '✅ Video marked as completed!';
+        }
+        
+        function updateFavoriteButton() {
+             if (favorites[FULL_ID]) {
+                 favoriteButton.setAttribute('data-fav', 'true');
+                 favoriteButton.title = 'Remove from Favourites';
+             } else {
+                 favoriteButton.setAttribute('data-fav', 'false');
+                 favoriteButton.title = 'Add to Favourites';
+             }
+        }
+
+        function toggleFavorite() {
+            if (!VIDEO_HLS_URL) return;
+
+            if (favorites[FULL_ID]) {
+                delete favorites[FULL_ID];
+                message.textContent = '💔 Video removed from Favourites.';
+            } else {
+                favorites[FULL_ID] = { url: VIDEO_HLS_URL, name: VIDEO_NAME, path: VIDEO_PATH, num: VIDEO_NUMBER };
+                message.textContent = '❤️ Video added to Favourites!';
+            }
+            localStorage.setItem('favorites', JSON.stringify(favorites));
+            updateFavoriteButton();
+        }
+        
+        // Initial setup
         updateFavoriteButton();
-    }
-    
-    // Initial setup
-    updateFavoriteButton();
-    video.playbackRate = parseFloat(savedSpeed);
-    speedSelector.value = savedSpeed;
+        video.playbackRate = parseFloat(savedSpeed);
+        speedSelector.value = savedSpeed;
 
-    // --- Event Listeners for Player State ---
-    video.addEventListener('loadedmetadata', () => {
-        if (savedProgress[VIDEO_HLS_URL]) {
-            video.currentTime = savedProgress[VIDEO_HLS_URL];
-            message.textContent = `Playing from where you left off at ${Math.round(video.currentTime)} seconds.`;
-        }
-    });
+        // --- Event Listeners for Player State ---
+        video.addEventListener('loadedmetadata', () => {
+            if (savedProgress[VIDEO_HLS_URL]) {
+                video.currentTime = savedProgress[VIDEO_HLS_URL];
+                message.textContent = `Playing from where you left off at ${Math.round(video.currentTime)} seconds.`;
+            }
+        });
 
-    video.addEventListener('timeupdate', () => {
-        saveProgress(VIDEO_HLS_URL, video.currentTime);
-    });
+        video.addEventListener('timeupdate', () => {
+            saveProgress(VIDEO_HLS_URL, video.currentTime);
+        });
 
-    video.addEventListener('ended', () => {
-        markCompleted(FULL_ID);
-    });
-    
-    // --- HLS Player Initialization ---
-
-    function initializePlayer(hlsSource, qualityLevel = -1) {
-        if (!hlsSource || hlsSource.length < 10) {
-            message.textContent = "No valid video URL provided.";
-            return;
-        }
-
-        if (hls) { hls.destroy(); hls = null; }
+        video.addEventListener('ended', () => {
+            markCompleted(FULL_ID);
+        });
         
-        message.textContent = "वीडियो लोड हो रहा है...";
-        qualitySelector.innerHTML = '<option value="-1">Auto</option>';
-        downloadButton.disabled = true;
-        video.src = ''; 
+        // --- HLS Player Initialization ---
+
+        function initializePlayer(hlsSource, qualityLevel = -1) {
+            if (!hlsSource || hlsSource.length < 10) {
+                message.textContent = "No valid video URL provided.";
+                return;
+            }
+
+            if (hls) { hls.destroy(); hls = null; }
+            
+            message.textContent = "वीडियो लोड हो रहा है...";
+            qualitySelector.innerHTML = '<option value="-1">Auto</option>';
+            downloadButton.disabled = true;
+            video.src = ''; 
+            
+            if (Hls.isSupported()) {
+                const hlsConfig = {
+                    forceHLSAttachment: true,
+                    forceKeyFrameOnDiscontinuity: true,
+                    enableWorker: true,
+                    enableSeparateAudioStream: true,
+                    xhrSetup: function (xhr, url) {
+                         xhr.withCredentials = false;
+                    }
+                };
+
+                hls = new Hls(hlsConfig);
+                hls.loadSource(hlsSource);
+                hls.attachMedia(video);
+
+                hls.on(Hls.Events.MANIFEST_PARSED, (event, data) => {
+                    hlsLevels = data.levels;
+                    downloadButton.disabled = false;
+                    
+                    // Populate Quality Selector (Video)
+                    hlsLevels.forEach((level, index) => {
+                        const option = document.createElement('option');
+                        let name = `${level.height}p`;
+                        if (level.bitrate) { name += ` (${(level.bitrate / 1000000).toFixed(1)} Mbps)`; }
+                        option.value = index;
+                        option.textContent = name;
+                        qualitySelector.appendChild(option);
+                    });
+                    
+                    // Set the selected quality
+                    if (qualityLevel !== -1) {
+                        hls.currentLevel = qualityLevel;
+                        qualitySelector.value = qualityLevel;
+                    } else {
+                        qualitySelector.value = savedQuality;
+                        hls.currentLevel = parseInt(savedQuality, 10);
+                    }
+                    
+                    message.textContent = "Video loaded. Press play!";
+                });
+
+                hls.on(Hls.Events.ERROR, (event, data) => {
+                    if (data.fatal) {
+                        message.textContent = `Error: Video could not be loaded. (Details: ${data.details})`;
+                        downloadButton.disabled = true;
+                        console.error('HLS Fatal Error:', data);
+                    }
+                });
+
+            } else if (video.canPlayType('application/vnd.apple.mpegurl')) {
+                video.src = hlsSource;
+                message.textContent = "Browser supports native HLS.";
+                downloadButton.disabled = true; 
+            } else {
+                message.textContent = 'Your browser does not support HLS streaming.';
+            }
+        }
+
+        // --- Quality Selection Modal Logic ---
         
-        if (Hls.isSupported()) {
-            const hlsConfig = {
-                forceHLSAttachment: true,
-                forceKeyFrameOnDiscontinuity: true,
-                enableWorker: true,
-                enableSeparateAudioStream: true,
-                xhrSetup: function (xhr, url) {
-                     xhr.withCredentials = false;
-                }
-            };
-
-            hls = new Hls(hlsConfig);
-            hls.loadSource(hlsSource);
-            hls.attachMedia(video);
-
-            hls.on(Hls.Events.MANIFEST_PARSED, (event, data) => {
-                hlsLevels = data.levels;
-                downloadButton.disabled = false;
+        function showQualityModal() {
+            if (!hlsLevels.length) {
+                message.textContent = "Error: Video qualities not loaded yet.";
+                return;
+            }
+            
+            qualityList.innerHTML = '';
+            
+            // Add Auto option
+            const autoLi = document.createElement('li');
+            autoLi.innerHTML = `<span>Auto (Let player decide)</span> 
+                               <button data-quality="-1">Select</button>`;
+            qualityList.appendChild(autoLi);
+            
+            // Add quality options
+            hlsLevels.forEach((level, index) => {
+                let name = `${level.height}p (${(level.bitrate / 1000000).toFixed(1)} Mbps)`;
                 
-                // Populate Quality Selector (Video)
-                hlsLevels.forEach((level, index) => {
-                    const option = document.createElement('option');
-                    let name = `${level.height}p`;
-                    if (level.bitrate) { name += ` (${(level.bitrate / 1000000).toFixed(1)} Mbps)`; }
-                    option.value = index;
-                    option.textContent = name;
-                    qualitySelector.appendChild(option);
+                const li = document.createElement('li');
+                li.innerHTML = `<span>${name}</span> 
+                               <button data-quality="${index}">Select</button>`;
+                qualityList.appendChild(li);
+            });
+
+            // Add event listeners to quality buttons
+            document.querySelectorAll('#qualityList button').forEach(button => {
+                button.addEventListener('click', function() {
+                    selectedQuality = parseInt(this.getAttribute('data-quality'), 10);
+                    localStorage.setItem('preferredQuality', selectedQuality);
+                    qualityModal.style.display = 'none';
+                    initializePlayer(VIDEO_HLS_URL, selectedQuality);
+                });
+            });
+            
+            qualityModal.style.display = 'flex'; // Show modal
+        }
+
+        // --- Controls Event Listeners ---
+        
+        qualitySelector.addEventListener('change', () => {
+            if (hls) {
+                const newQuality = parseInt(qualitySelector.value, 10);
+                hls.currentLevel = newQuality;
+                localStorage.setItem('preferredQuality', newQuality);
+                message.textContent = `Quality set to: ${qualitySelector.options[qualitySelector.selectedIndex].text}`;
+            }
+        });
+        
+        speedSelector.addEventListener('change', () => {
+            const newSpeed = parseFloat(speedSelector.value);
+            video.playbackRate = newSpeed;
+            localStorage.setItem('playbackSpeed', newSpeed);
+            message.textContent = `Playback Speed set to: ${newSpeed}x`;
+        });
+        
+        favoriteButton.addEventListener('click', toggleFavorite);
+
+        // --- Download Modal Logic ---
+
+        downloadButton.addEventListener('click', function() {
+            if (!hlsLevels.length) {
+                message.textContent = "Error: Video qualities not loaded yet.";
+                return;
+            }
+            
+            downloadList.innerHTML = '';
+            
+            // Populate download options
+            hlsLevels.forEach((level, index) => {
+                let name = `${level.height}p (${(level.bitrate / 1000000).toFixed(1)} Mbps)`;
+                let downloadUrl = Array.isArray(level.url) ? level.url[0] : level.url;
+                
+                // --- Video + Audio Option ---
+                const liVideo = document.createElement('li');
+                liVideo.innerHTML = `<span>${name} (Video+Audio)</span> 
+                                     <a href="${downloadUrl}" download="${VIDEO_NAME.replace(/[^a-zA-Z0-9]/g, '_')}_${level.height}p_Video.m3u8">
+                                         Download <i class="fas fa-file-video"></i>
+                                     </a>`;
+                downloadList.appendChild(liVideo);
+
+                // --- Separate Audio Option (If available/supported - for Brightcove, it's often the same URL for audio only streams) ---
+                // NOTE: HLS.js's 'level' object only gives main stream URLs. For a true separate audio, we'd need a separate manifest parser.
+                // Assuming the main URL is the best available option for both audio and video downloads.
+                // For simplicity and to fulfill the request, we just offer a label change for "Audio Only".
+                const liAudio = document.createElement('li');
+                liAudio.innerHTML = `<span>${(level.bitrate / 1000).toFixed(0)}kbps (Audio Only)</span> 
+                                     <a href="${downloadUrl}" download="${VIDEO_NAME.replace(/[^a-zA-Z0-9]/g, '_')}_${level.height}p_Audio.m3u8">
+                                         Download <i class="fas fa-file-audio"></i>
+                                     </a>`;
+                downloadList.appendChild(liAudio);
+            });
+
+            downloadModal.style.display = 'flex'; // Show modal
+        });
+
+        closeModal.addEventListener('click', () => {
+            downloadModal.style.display = 'none';
+        });
+
+        // Close modal when clicking outside
+        window.addEventListener('click', (event) => {
+            if (event.target == downloadModal) {
+                downloadModal.style.display = 'none';
+            }
+            if (event.target == qualityModal) {
+                qualityModal.style.display = 'none';
+            }
+        });
+        
+        // Start the player with quality selection
+        if (VIDEO_HLS_URL) {
+            // First, load the manifest to get available qualities
+            if (Hls.isSupported()) {
+                const tempHls = new Hls();
+                tempHls.loadSource(VIDEO_HLS_URL);
+                
+                tempHls.on(Hls.Events.MANIFEST_PARSED, (event, data) => {
+                    hlsLevels = data.levels;
+                    showQualityModal();
+                    tempHls.destroy();
                 });
                 
-                // Set the selected quality
-                if (qualityLevel !== -1) {
-                    hls.currentLevel = qualityLevel;
-                    qualitySelector.value = qualityLevel;
-                } else {
-                    qualitySelector.value = savedQuality;
-                    hls.currentLevel = parseInt(savedQuality, 10);
-                }
-                
-                message.textContent = "Video loaded. Press play!";
-            });
-
-            hls.on(Hls.Events.ERROR, (event, data) => {
-                if (data.fatal) {
-                    message.textContent = `Error: Video could not be loaded. (Details: ${data.details})`;
-                    downloadButton.disabled = true;
-                    console.error('HLS Fatal Error:', data);
-                }
-            });
-
-        } else if (video.canPlayType('application/vnd.apple.mpegurl')) {
-            video.src = hlsSource;
-            message.textContent = "Browser supports native HLS.";
-            downloadButton.disabled = true; 
+                tempHls.on(Hls.Events.ERROR, (event, data) => {
+                    message.textContent = "Error loading video qualities. Using default quality.";
+                    initializePlayer(VIDEO_HLS_URL, parseInt(savedQuality, 10));
+                    tempHls.destroy();
+                });
+            } else {
+                // If HLS is not supported, just initialize the player
+                initializePlayer(VIDEO_HLS_URL);
+            }
         } else {
-            message.textContent = 'Your browser does not support HLS streaming.';
+            message.textContent = 'No video URL provided. Please check the course link.';
         }
-    }
-
-    // --- Quality Selection Modal Logic ---
-    
-    function showQualityModal() {
-        if (!hlsLevels.length) {
-            message.textContent = "Error: Video qualities not loaded yet.";
-            return;
-        }
-        
-        qualityList.innerHTML = '';
-        
-        // Add Auto option
-        const autoLi = document.createElement('li');
-        autoLi.innerHTML = `<span>Auto (Let player decide)</span> 
-                           <button data-quality="-1">Select</button>`;
-        qualityList.appendChild(autoLi);
-        
-        // Add quality options
-        hlsLevels.forEach((level, index) => {
-            let name = `${level.height}p (${(level.bitrate / 1000000).toFixed(1)} Mbps)`;
-            
-            const li = document.createElement('li');
-            li.innerHTML = `<span>${name}</span> 
-                           <button data-quality="${index}">Select</button>`;
-            qualityList.appendChild(li);
-        });
-
-        // Add event listeners to quality buttons
-        document.querySelectorAll('#qualityList button').forEach(button => {
-            button.addEventListener('click', function() {
-                selectedQuality = parseInt(this.getAttribute('data-quality'), 10);
-                localStorage.setItem('preferredQuality', selectedQuality);
-                qualityModal.style.display = 'none';
-                initializePlayer(VIDEO_HLS_URL, selectedQuality);
-            });
-        });
-        
-        qualityModal.style.display = 'flex'; // Show modal
-    }
-
-    // --- Controls Event Listeners ---
-    
-    qualitySelector.addEventListener('change', () => {
-        if (hls) {
-            const newQuality = parseInt(qualitySelector.value, 10);
-            hls.currentLevel = newQuality;
-            localStorage.setItem('preferredQuality', newQuality);
-            message.textContent = `Quality set to: ${qualitySelector.options[qualitySelector.selectedIndex].text}`;
-        }
-    });
-    
-    speedSelector.addEventListener('change', () => {
-        const newSpeed = parseFloat(speedSelector.value);
-        video.playbackRate = newSpeed;
-        localStorage.setItem('playbackSpeed', newSpeed);
-        message.textContent = `Playback Speed set to: ${newSpeed}x`;
-    });
-    
-    favoriteButton.addEventListener('click', toggleFavorite);
-
-    // --- Download Modal Logic ---
-
-    downloadButton.addEventListener('click', function() {
-        if (!hlsLevels.length) {
-            message.textContent = "Error: Video qualities not loaded yet.";
-            return;
-        }
-        
-        downloadList.innerHTML = '';
-        
-        // Populate download options
-        hlsLevels.forEach((level, index) => {
-            let name = `${level.height}p (${(level.bitrate / 1000000).toFixed(1)} Mbps)`;
-            let downloadUrl = Array.isArray(level.url) ? level.url[0] : level.url;
-            
-            // --- Video + Audio Option ---
-            const liVideo = document.createElement('li');
-            liVideo.innerHTML = `<span>${name} (Video+Audio)</span> 
-                                 <a href="${downloadUrl}" download="${VIDEO_NAME.replace(/[^a-zA-Z0-9]/g, '_')}_${level.height}p_Video.m3u8">
-                                     Download <i class="fas fa-file-video"></i>
-                                 </a>`;
-            downloadList.appendChild(liVideo);
-
-            // --- Separate Audio Option (If available/supported - for Brightcove, it's often the same URL for audio only streams) ---
-            // NOTE: HLS.js's 'level' object only gives main stream URLs. For a true separate audio, we'd need a separate manifest parser.
-            // Assuming the main URL is the best available option for both audio and video downloads.
-            // For simplicity and to fulfill the request, we just offer a label change for "Audio Only".
-            const liAudio = document.createElement('li');
-            liAudio.innerHTML = `<span>${(level.bitrate / 1000).toFixed(0)}kbps (Audio Only)</span> 
-                                 <a href="${downloadUrl}" download="${VIDEO_NAME.replace(/[^a-zA-Z0-9]/g, '_')}_${level.height}p_Audio.m3u8">
-                                     Download <i class="fas fa-file-audio"></i>
-                                 </a>`;
-            downloadList.appendChild(liAudio);
-        });
-
-        downloadModal.style.display = 'flex'; // Show modal
-    });
-
-    closeModal.addEventListener('click', () => {
-        downloadModal.style.display = 'none';
-    });
-
-    // Close modal when clicking outside
-    window.addEventListener('click', (event) => {
-        if (event.target == downloadModal) {
-            downloadModal.style.display = 'none';
-        }
-        if (event.target == qualityModal) {
-            qualityModal.style.display = 'none';
-        }
-    });
-    
-    // Start the player with quality selection
-    if (VIDEO_HLS_URL) {
-        // First, load the manifest to get available qualities
-        if (Hls.isSupported()) {
-            const tempHls = new Hls();
-            tempHls.loadSource(VIDEO_HLS_URL);
-            
-            tempHls.on(Hls.Events.MANIFEST_PARSED, (event, data) => {
-                hlsLevels = data.levels;
-                showQualityModal();
-                tempHls.destroy();
-            });
-            
-            tempHls.on(Hls.Events.ERROR, (event, data) => {
-                message.textContent = "Error loading video qualities. Using default quality.";
-                initializePlayer(VIDEO_HLS_URL, parseInt(savedQuality, 10));
-                tempHls.destroy();
-            });
-        } else {
-            // If HLS is not supported, just initialize the player
-            initializePlayer(VIDEO_HLS_URL);
-        }
-    } else {
-        message.textContent = 'No video URL provided. Please check the course link.';
-    }
-</script>
+    </script>
 </body>
 </html>
+
+
