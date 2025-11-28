@@ -1,0 +1,4054 @@
+{
+  "batchid": 2571,
+  "topicid": 25939,
+  "classes_total": 62,
+  "classes": [
+    {
+      "title": "Maths | Class-64 | Probability",
+      "id": "4446394",
+      "date": "02-Dec-2024 12:00",
+      "video_url": "4446394_0_3135907708500801"
+    },
+    {
+      "title": "Class-63 | Probability",
+      "id": "4446392",
+      "date": "02-Dec-2024 11:15",
+      "video_url": "4446392_0_6701713833436052"
+    },
+    {
+      "title": "Class-62 | Compound Interest ( चक्रवृद्धि ब्याज़ )",
+      "id": "4446386",
+      "date": "30-Nov-2024 10:30",
+      "video_url": "4446386_0_4407290690062385"
+    },
+    {
+      "title": "Class-61 | Compound Interest ( चक्रवृद्धि ब्याज़ )",
+      "id": "4446385",
+      "date": "29-Nov-2024 11:15",
+      "video_url": "4446385_0_1938848699593053"
+    },
+    {
+      "title": "Class-60 | Compound Interest ( चक्रवृद्धि ब्याज़ )",
+      "id": "4446384",
+      "date": "29-Nov-2024 10:00",
+      "video_url": "4446384_0_8204213579537480"
+    },
+    {
+      "title": "Class-59 | Compound Interest ( चक्रवृद्धि ब्याज़ )",
+      "id": "4446419",
+      "date": "28-Nov-2024 11:30",
+      "video_url": "4446419_0_7024268561852956"
+    },
+    {
+      "title": "Class-58 | Compound Interest ( चक्रवृद्धि ब्याज़ )",
+      "id": "4446382",
+      "date": "28-Nov-2024 10:30",
+      "video_url": "4446382_0_2847917517922284"
+    },
+    {
+      "title": "Class-57 | Simple Interest",
+      "id": "4446381",
+      "date": "27-Nov-2024 14:14",
+      "video_url": "4446381_0_4196001760413873"
+    },
+    {
+      "title": "Class-56 | Simple Interest",
+      "id": "4446380",
+      "date": "27-Nov-2024 14:12",
+      "video_url": "4446380_0_9910819914071312"
+    },
+    {
+      "title": "Class-55 | Simple Interest",
+      "id": "4446379",
+      "date": "27-Nov-2024 13:10",
+      "video_url": "4446379_0_2148310814228847"
+    },
+    {
+      "title": "Class-54 | Maths | Discount | बट्टा",
+      "id": "4446378",
+      "date": "27-Nov-2024 13:00",
+      "video_url": "4446378_0_8342303529811185"
+    },
+    {
+      "title": "Class-53 | Maths | Profit and Loss ( लाभ और हानि )",
+      "id": "4446377",
+      "date": "27-Nov-2024 11:15",
+      "video_url": "4446377_0_2829633263183188"
+    },
+    {
+      "title": "Class-52 | Maths | Profit and Loss ( लाभ और हानि )",
+      "id": "4446376",
+      "date": "27-Nov-2024 10:00",
+      "video_url": "4446376_0_3844095366336992"
+    },
+    {
+      "title": "Class-51 | Maths | Percentage ( प्रतिशत )",
+      "id": "4442461",
+      "date": "26-Nov-2024 12:45",
+      "video_url": "4442461_0_6913384241275923"
+    },
+    {
+      "title": "Class-50 | Maths | Percentage ( प्रतिशत )",
+      "id": "4446375",
+      "date": "26-Nov-2024 11:15",
+      "video_url": "4446375_0_9143931098095087"
+    },
+    {
+      "title": "Class-49 | Maths | Percentage ( प्रतिशत )",
+      "id": "4446374",
+      "date": "26-Nov-2024 10:00",
+      "video_url": "4446374_0_1166149154060652"
+    },
+    {
+      "title": "Class-48 | Maths | Percentage ( प्रतिशत )",
+      "id": "4446373",
+      "date": "25-Nov-2024 12:45",
+      "video_url": "4446373_0_1463132808392330"
+    },
+    {
+      "title": "Class-45 | Maths | Geometry ( ज्यामिति या रेखागणित )",
+      "id": "4446370",
+      "date": "23-Nov-2024 10:40",
+      "video_url": "4446370_0_8839323039073818"
+    },
+    {
+      "title": "Class-44 | Maths | Geometry ( ज्यामिति या रेखागणित )",
+      "id": "4446368",
+      "date": "22-Nov-2024 14:00",
+      "video_url": "4446368_0_4768530484447138"
+    },
+    {
+      "title": "Class-43 | Maths | Geometry ( ज्यामिति या रेखागणित )",
+      "id": "4446367",
+      "date": "22-Nov-2024 11:15",
+      "video_url": "4446367_0_4985719187863901"
+    },
+    {
+      "title": "Class-42 | Maths | Geometry ( ज्यामिति या रेखागणित )",
+      "id": "4446366",
+      "date": "22-Nov-2024 10:00",
+      "video_url": "4446366_0_4181355305804250"
+    },
+    {
+      "title": "Class-41 | Maths | Geometry ( ज्यामिति या रेखागणित )",
+      "id": "4446363",
+      "date": "21-Nov-2024 11:15",
+      "video_url": "4446363_0_5566185688747011"
+    },
+    {
+      "title": "Class-40 | Maths | Geometry ( ज्यामिति या रेखागणित )",
+      "id": "4446362",
+      "date": "21-Nov-2024 10:00",
+      "video_url": "4446362_0_1150167435181214"
+    },
+    {
+      "title": "Class-39 | Maths | Geometry ( ज्यामिति या रेखागणित )",
+      "id": "4446355",
+      "date": "20-Nov-2024 11:15",
+      "video_url": "4446355_0_7512673837284098"
+    },
+    {
+      "title": "Class-38 | Maths | Algebra",
+      "id": "4446354",
+      "date": "20-Nov-2024 10:00",
+      "video_url": "4446354_0_8594503838443187"
+    },
+    {
+      "title": "Class-37 | Maths | Algebra",
+      "id": "4446349",
+      "date": "19-Nov-2024 10:15",
+      "video_url": "4446349_0_5715227133012680"
+    },
+    {
+      "title": "Class-36 | Maths | Algebra",
+      "id": "4446344",
+      "date": "18-Nov-2024 10:00",
+      "video_url": "4446344_0_8822469251510742"
+    },
+    {
+      "title": "Class-35 | Maths | Algebra",
+      "id": "4446338",
+      "date": "15-Nov-2024 10:00",
+      "video_url": "4446338_0_7524954698083154"
+    },
+    {
+      "title": "Class-34 | Maths | Algebra",
+      "id": "4446335",
+      "date": "14-Nov-2024 10:00",
+      "video_url": "4446335_0_7942206866676538"
+    },
+    {
+      "title": "Class-33 | Maths |  Algebra",
+      "id": "4446330",
+      "date": "13-Nov-2024 10:00",
+      "video_url": "4446330_0_8610477274642759"
+    },
+    {
+      "title": "Class-32 | Maths | Mensuration",
+      "id": "4446323",
+      "date": "12-Nov-2024 10:15",
+      "video_url": "4446323_0_6690280080181138"
+    },
+    {
+      "title": "Class-31 | Maths | Mensuration",
+      "id": "4446316",
+      "date": "11-Nov-2024 10:30",
+      "video_url": "4446316_0_3412695808087831"
+    },
+    {
+      "title": "Class-30 | Maths | Mensuration",
+      "id": "4446313",
+      "date": "09-Nov-2024 10:00",
+      "video_url": "4446313_0_6442371461400920"
+    },
+    {
+      "title": "Class-29 | Maths | Mensuration",
+      "id": "4446095",
+      "date": "08-Nov-2024 11:15",
+      "video_url": "4446095_0_3154609198895601"
+    },
+    {
+      "title": "Class-28 | Maths | Mensuration",
+      "id": "4446082",
+      "date": "26-Oct-2024 11:45",
+      "video_url": "4446082_0_8626875665875827"
+    },
+    {
+      "title": "Class-27 | Maths | Mensuration",
+      "id": "4446081",
+      "date": "26-Oct-2024 10:30",
+      "video_url": "4446081_0_4191838927096627"
+    },
+    {
+      "title": "Class-26 | Maths | Mensuration",
+      "id": "4446078",
+      "date": "25-Oct-2024 14:45",
+      "video_url": "4446078_0_5592818890386807"
+    },
+    {
+      "title": "Class-25 | Maths | Mensuration",
+      "id": "4446077",
+      "date": "25-Oct-2024 11:15",
+      "video_url": "4446077_0_1457898800021577"
+    },
+    {
+      "title": "Class-24 | Simplification",
+      "id": "4446075",
+      "date": "24-Oct-2024 14:06",
+      "video_url": "4446075_0_4861332032125529"
+    },
+    {
+      "title": "Class-23 | Roman Numbers",
+      "id": "4446074",
+      "date": "24-Oct-2024 14:04",
+      "video_url": "4446074_0_7289401961242068"
+    },
+    {
+      "title": "Class-22 | Roman Numbers",
+      "id": "4446073",
+      "date": "24-Oct-2024 14:02",
+      "video_url": "4446073_0_1831091623301065"
+    },
+    {
+      "title": "Class-21 | Mean Mode Median",
+      "id": "4446072",
+      "date": "24-Oct-2024 14:00",
+      "video_url": "4446072_0_5310317999345122"
+    },
+    {
+      "title": "Class-20 | Maths | Mean Mode Median",
+      "id": "4446068",
+      "date": "24-Oct-2024 11:15",
+      "video_url": "4446068_0_8101133989263329"
+    },
+    {
+      "title": "Class-19 | Maths | Fraction",
+      "id": "4446064",
+      "date": "23-Oct-2024 11:15",
+      "video_url": "4446064_0_7971202311295217"
+    },
+    {
+      "title": "Class-18 | Maths | Fraction",
+      "id": "4446059",
+      "date": "22-Oct-2024 11:15",
+      "video_url": "4446059_0_4679409387217588"
+    },
+    {
+      "title": "Class-17 | Maths | Multiple and Factor",
+      "id": "4446051",
+      "date": "17-Oct-2024 11:15",
+      "video_url": "4446051_0_6305560130387702"
+    },
+    {
+      "title": "Class-16 | Maths | Multiple and Factor",
+      "id": "4446047",
+      "date": "16-Oct-2024 11:15",
+      "video_url": "4446047_0_4530530744977829"
+    },
+    {
+      "title": "Class-15 | Maths | Multiple and Factor",
+      "id": "4446042",
+      "date": "15-Oct-2024 11:15",
+      "video_url": "4446042_0_2847531095276398"
+    },
+    {
+      "title": "Class-14 | Maths | Multiple and Factor",
+      "id": "4446035",
+      "date": "14-Oct-2024 11:15",
+      "video_url": "4446035_0_1853773250673752"
+    },
+    {
+      "title": "Class-13 | Maths | Multiple and Factor",
+      "id": "4446030",
+      "date": "10-Oct-2024 11:15",
+      "video_url": "4446030_0_4157677067006649"
+    },
+    {
+      "title": "Class-12 | Maths | Multiple and Factor",
+      "id": "4446027",
+      "date": "09-Oct-2024 11:15",
+      "video_url": "4446027_0_4943621159618906"
+    },
+    {
+      "title": "Class-11 | Maths | Divisibility",
+      "id": "4446024",
+      "date": "08-Oct-2024 11:15",
+      "video_url": "4446024_0_7748120209180226"
+    },
+    {
+      "title": "Class-10 | Maths | Divisibility",
+      "id": "4446021",
+      "date": "07-Oct-2024 11:15",
+      "video_url": "4446021_0_4889727098643049"
+    },
+    {
+      "title": "Class-09 | Maths | Divisibility",
+      "id": "4446013",
+      "date": "04-Oct-2024 11:15",
+      "video_url": "4446013_0_4665373314456103"
+    },
+    {
+      "title": "Class-08 | Maths | Divisibility",
+      "id": "4446009",
+      "date": "03-Oct-2024 11:15",
+      "video_url": "4446009_0_7136361074053293"
+    },
+    {
+      "title": "Class-07 | Maths | Numbers",
+      "id": "4446004",
+      "date": "01-Oct-2024 11:15",
+      "video_url": "4446004_0_2916095513785773"
+    },
+    {
+      "title": "Class-06 | Maths | Numbers",
+      "id": "4446000",
+      "date": "30-Sep-2024 11:15",
+      "video_url": "4446000_0_2790653191479920"
+    },
+    {
+      "title": "Class-05 | Maths | Numbers",
+      "id": "4445994",
+      "date": "27-Sep-2024 11:15",
+      "video_url": "4445994_0_1808700179746577"
+    },
+    {
+      "title": "Class-04 | Maths | Numbers",
+      "id": "4445986",
+      "date": "25-Sep-2024 11:15",
+      "video_url": "4445986_0_3484269154472896"
+    },
+    {
+      "title": "Class-03 | Maths | Numbers",
+      "id": "4445982",
+      "date": "24-Sep-2024 11:15",
+      "video_url": "4445982_0_4827988103723461"
+    },
+    {
+      "title": "Class-02 | Maths | Numbers",
+      "id": "4445978",
+      "date": "23-Sep-2024 11:15",
+      "video_url": "4445978_0_6169412858117325"
+    },
+    {
+      "title": "Class-01 | Maths | Introduction",
+      "id": "4445973",
+      "date": "20-Sep-2024 11:15",
+      "video_url": "4445973_0_2818001974205563"
+    }
+  ],
+  "notes_total": 612,
+  "notes": [
+    {
+      "id": 710413,
+      "title": "हिंदी पर्यायवाची शब्द",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6908774303921_6542392f76719__.pdf",
+      "date": "03-Nov-2025"
+    },
+    {
+      "id": 454722,
+      "title": "Sci Practice | 13 Dec | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/675f0f1625e8e_Sci.Practice_13th.Dec.Class.PNG_CTET_Dec_2024_Paper2_CTET_Dec_2024_Paper121100amcompressed.pdf",
+      "date": "15-Dec-2024"
+    },
+    {
+      "id": 454284,
+      "title": "Sci Practice | 12 Dec | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/675bc252972cf_Sci.Practice_12th.Dec.Class.PNG_CTET_Dec_2024_Paper2_CTET_Dec_2024_Paper121100amcompressed.pdf",
+      "date": "13-Dec-2024"
+    },
+    {
+      "id": 454179,
+      "title": "Sci Practice | 11 Dec | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/675a84d317ea4_Sci.Practice_11th.Dec.Class.PNG_CTET_Dec_2024_Paper2_CTET_Dec_2024_Paper121100amcompressed.pdf",
+      "date": "12-Dec-2024"
+    },
+    {
+      "id": 452569,
+      "title": "Sci Practice | 10 Dec | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67591460c86cb_Science_Practice_10_Dec_CTET_Dec_2024_Paper2_CTET_Dec_2024_Paper12_1100_amcompressed.pdf",
+      "date": "11-Dec-2024"
+    },
+    {
+      "id": 452194,
+      "title": "Sci Practice | 09 Dec | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6757c90dcc727_Science_Practice_9_Dec_CTET_Dec_2024_Paper2_CTET_Dec_2024_Paper12_1100_amcompressed.pdf",
+      "date": "10-Dec-2024"
+    },
+    {
+      "id": 451994,
+      "title": "Sci Practice | 06 Dec | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/675410d5a2f90_Sci.practices_6th.Dec.class.pngCTET_Dec_2024_Paper2_CTET_Dec_2024_Paper121100amcompressed.pdf",
+      "date": "07-Dec-2024"
+    },
+    {
+      "id": 451982,
+      "title": "Eng | 6 Dec | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67540bbf90974_CTETPaper1_CTETPaper2_CTET_Paper12_Eng_by_Arun_Gautam_Sir_2_pm_6_Decembercompressed.pdf",
+      "date": "07-Dec-2024"
+    },
+    {
+      "id": 451952,
+      "title": "English Pedagogy | 6 Dec | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6753e94ce3076_English_pedagogy_20_.....6_Decembercompressed.pdf",
+      "date": "07-Dec-2024"
+    },
+    {
+      "id": 451949,
+      "title": "Maths Pedagogy | 6 Dec | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6753e922f1ad7_maths_pedagogy_20_....._6_Decembercompressed.pdf",
+      "date": "07-Dec-2024"
+    },
+    {
+      "id": 451940,
+      "title": "Science Pedagogy Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6753e7d01deb2_Ctet_Science_digital_board_done.pdf",
+      "date": "07-Dec-2024"
+    },
+    {
+      "id": 451937,
+      "title": "SST Pedagogy Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6753e79c3adf7_CTET_sst_pedagogy_done.pdf",
+      "date": "07-Dec-2024"
+    },
+    {
+      "id": 451764,
+      "title": "Eng | 05 Dec | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67527897e3b9f_CTETPaper1_CTETPaper2_CTET_Paper12_Eng_by_Arun_Gautam_Sir_2_pm_5_Decembercompressed.pdf",
+      "date": "06-Dec-2024"
+    },
+    {
+      "id": 451102,
+      "title": "Sci Practice | 04 Dec | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/675138340351b_Science_Practice_4_Dec_CTET_Dec_2024_Paper2_CTET_Dec_2024_Paper12_1100_amcompressed.pdf",
+      "date": "05-Dec-2024"
+    },
+    {
+      "id": 451096,
+      "title": "Eng | 04 Dec | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/675134896c88d_CTETPaper1_CTETPaper2_CTET_Paper12_Eng_by_Arun_Gautam_Sir_2_pm_4_Decembercompressed.pdf",
+      "date": "05-Dec-2024"
+    },
+    {
+      "id": 451009,
+      "title": "CDP (Pedagogy) Free Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67504c400671c_CDP_Pedagogy_Free_Notes_by_Himanshi_SIngh_compressed_1.pdf",
+      "date": "04-Dec-2024"
+    },
+    {
+      "id": 450997,
+      "title": "English Pedagogy | 2 Dec | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67503108b987d_English_pedagogy_17_....2_Decembercompressed.pdf",
+      "date": "04-Dec-2024"
+    },
+    {
+      "id": 450994,
+      "title": "Maths Pedagogy | 2 Dec | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/675030d73e0b8_maths_pedagogy_17...2_Decembercompressed.pdf",
+      "date": "04-Dec-2024"
+    },
+    {
+      "id": 450932,
+      "title": "CTET - July 2024  Year Question Paper-2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67501fe1c1dd6_Ctet_paper_2_1.pdf",
+      "date": "04-Dec-2024"
+    },
+    {
+      "id": 450930,
+      "title": "CTET - January 2024  Year Question Paper-2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67501aa7356d2_CTET_January_2024_previous_year_question_paper_2.pdf",
+      "date": "04-Dec-2024"
+    },
+    {
+      "id": 450924,
+      "title": "Ctet Paper - II Set-(1-10) (English)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/675015c83e56f_Ctet_Paper_II_Set110_Englishcompressed.pdf",
+      "date": "04-Dec-2024"
+    },
+    {
+      "id": 450923,
+      "title": "Ctet Paper - II Set-(1-10) (Hindi)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6750158fdc3e2_Ctet_Paper_II_Set110_Hindicompressed.pdf",
+      "date": "04-Dec-2024"
+    },
+    {
+      "id": 450822,
+      "title": "Sci Practice | 03 Dec | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/674fd89be039b_Science_Practice_3rd_Dec_CTET_Dec_2024_Paper2_CTET_Dec_2024_Paper12_1100_amcompressed.pdf",
+      "date": "04-Dec-2024"
+    },
+    {
+      "id": 450812,
+      "title": "Eng | 03 Dec | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/674fd47997fc4_CTETPaper1_CTETPaper2_CTET_Paper12_Eng_by_Arun_Gautam_Sir_2_pm_3_Decembercompressed.pdf",
+      "date": "04-Dec-2024"
+    },
+    {
+      "id": 450510,
+      "title": "Probability | 02 Dec | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/674e82f9eb9e2_11.15_ctetPaper_1_and_12_Class_Uday_Sir_2_DEC.pdf",
+      "date": "03-Dec-2024"
+    },
+    {
+      "id": 450364,
+      "title": "English Pedagogy | 30 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/674d7d61777e3_English_pedagogy_16...30_Novembercompressed.pdf",
+      "date": "02-Dec-2024"
+    },
+    {
+      "id": 450362,
+      "title": "Maths Pedagogy | 30 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/674d7d2067d7b_maths_pedagogy_16..30_Novembercompressed.pdf",
+      "date": "02-Dec-2024"
+    },
+    {
+      "id": 450356,
+      "title": "Probability Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/674d66e131d79_11_Jan_2024_Class_PNG330275crwill.pdf",
+      "date": "02-Dec-2024"
+    },
+    {
+      "id": 450301,
+      "title": "Compound Interest | 30 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/674d3a9c2d256_11.15_ctetPaper_1_and_12_Class_Uday_Sir_30_Nov.pdf",
+      "date": "02-Dec-2024"
+    },
+    {
+      "id": 450209,
+      "title": "Compound Interest | 29 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/674a8c1c9ee3b_11.15_ctetPaper_1_and_12_Class_Uday_Sir_29_Nov.pdf",
+      "date": "30-Nov-2024"
+    },
+    {
+      "id": 450207,
+      "title": "Compound Interest | 29 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/674a8be127951_10AM_ctet_paper_2_and_12_Math_Class_Uday_Sir_29_Nov.pdf",
+      "date": "30-Nov-2024"
+    },
+    {
+      "id": 450194,
+      "title": "Jean Piaget (Latest)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6749b5e7136a2_Jean_Piaget_1.pdf",
+      "date": "29-Nov-2024"
+    },
+    {
+      "id": 450191,
+      "title": "Multiple Intelligence",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6749b58e7e5e1_Multiple_Intelligence_1.pdf",
+      "date": "29-Nov-2024"
+    },
+    {
+      "id": 449428,
+      "title": "Eng | 28 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67493be90f195_CTETPaper1_CTETPaper2_CTET_Paper12_Eng_by_Arun_Gautam_Sir_2_pm_28_Novcompressed.pdf",
+      "date": "29-Nov-2024"
+    },
+    {
+      "id": 449424,
+      "title": "Compound Interest | 28 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67493b41a244f_11.15_ctetPaper_1_and_12_Class_Uday_Sir_28_Nov.pdf",
+      "date": "29-Nov-2024"
+    },
+    {
+      "id": 449422,
+      "title": "Compound Interest | 28 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67493b29b05f7_10AM_ctet_paper_2_and_12_Math_Class_Uday_Sir_28_Nov.pdf",
+      "date": "29-Nov-2024"
+    },
+    {
+      "id": 449370,
+      "title": "English Pedagogy | 28 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6749147c65dee_English_pedagogy_1428_Novembercompressed.pdf",
+      "date": "29-Nov-2024"
+    },
+    {
+      "id": 449367,
+      "title": "Maths Pedagogy | 28 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6749144e51645_maths_pedagogy_14..28_Novembercompressed.pdf",
+      "date": "29-Nov-2024"
+    },
+    {
+      "id": 449199,
+      "title": "Eng | 27 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6747ea3861272_CTETPaper1_CTETPaper2_CTET_Paper12_Eng_by_Arun_Gautam_Sir_2_pm_27_Novcompressed.pdf",
+      "date": "28-Nov-2024"
+    },
+    {
+      "id": 449195,
+      "title": "Discount | 27 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6747e9e536163_1pm_ctetPaper_1_and_12_Class_Uday_Sir_27_Nov.pdf",
+      "date": "28-Nov-2024"
+    },
+    {
+      "id": 449193,
+      "title": "Profit and Loss | 27 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6747e9a335198_11.15_ctetPaper_1_and_12_Class_Uday_Sir_27_Nov.pdf",
+      "date": "28-Nov-2024"
+    },
+    {
+      "id": 449189,
+      "title": "Profit and Loss | 27 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6747e807457d9_10AM_ctet_paper_2_and_12_Math_Class_Uday_Sir_27_Nov.pdf",
+      "date": "28-Nov-2024"
+    },
+    {
+      "id": 449093,
+      "title": "Simple Interest Class-03 PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6746dbcc0fec5_Simple_Interest_Class03_PNG.pdf",
+      "date": "27-Nov-2024"
+    },
+    {
+      "id": 449091,
+      "title": "Simple Interest Class-02 PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6746dba8025bb_Simple_Interest_Class02_PNG.pdf",
+      "date": "27-Nov-2024"
+    },
+    {
+      "id": 449089,
+      "title": "Simple Interest Class-01 PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6746db8301ffb_Simple_Interest_Class01_PNG.pdf",
+      "date": "27-Nov-2024"
+    },
+    {
+      "id": 449015,
+      "title": "Percentage | 26 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67469bd8e7ff8_DSSSB_PRT_B05_GP_Maths_by_Uday_Sir_1245pm_26_Nov.pdf",
+      "date": "27-Nov-2024"
+    },
+    {
+      "id": 449013,
+      "title": "Percentage | 26 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67469bb041301_11.15_ctetPaper_1_and_12_Class_Uday_Sir_26_Nov.pdf",
+      "date": "27-Nov-2024"
+    },
+    {
+      "id": 449011,
+      "title": "Percentage | 26 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67469b960fd65_10AM_ctet_paper_2_and_12_Math_Class_Uday_Sir_26_Nov.pdf",
+      "date": "27-Nov-2024"
+    },
+    {
+      "id": 448962,
+      "title": "English Pedagogy | 25 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6745b6a68cf2d_English_pedagogy_12....25_Novembercompressed.pdf",
+      "date": "26-Nov-2024"
+    },
+    {
+      "id": 448959,
+      "title": "Maths Pedagogy | 25 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6745b66573161_maths_pedagogy_12....25_Novembercompressed.pdf",
+      "date": "26-Nov-2024"
+    },
+    {
+      "id": 448929,
+      "title": "Hindi Pedagogy Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67459f397109b_Hindi_peda_...pdf",
+      "date": "26-Nov-2024"
+    },
+    {
+      "id": 448923,
+      "title": "Sanskrit Pedagogy Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67459ed38732a_Sanskrit_peda..pdf",
+      "date": "26-Nov-2024"
+    },
+    {
+      "id": 448852,
+      "title": "Percentage | 25 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/674551e22f49d_12.45pm_ctetPaper_1_and_12_Class_Uday_Sir_25_Nov.pdf",
+      "date": "26-Nov-2024"
+    },
+    {
+      "id": 448850,
+      "title": "Exponent | 25 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/674551afbe1ed_11.15_ctetPaper_1_and_12_Class_Uday_Sir_25_Nov.pdf",
+      "date": "26-Nov-2024"
+    },
+    {
+      "id": 448848,
+      "title": "Exponent | 25 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67455194934f2_10AM_ctet_paper_2_and_12_Math_Class_Uday_Sir_25_Nov.pdf",
+      "date": "26-Nov-2024"
+    },
+    {
+      "id": 448707,
+      "title": "English Pedagogy | 21,22,23 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6744185fdf537_ilovepdfmerged_38.pdf",
+      "date": "25-Nov-2024"
+    },
+    {
+      "id": 448704,
+      "title": "Maths Pedagogy | 21,22,23 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6744180f1f7d5_ilovepdfmerged_37compressed.pdf",
+      "date": "25-Nov-2024"
+    },
+    {
+      "id": 448697,
+      "title": "Geometry | 23 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67429ecfe9438_10.40_AM_ctet_paper_2_and_12_Math_Class_Uday_Sir_23_Nov.pdf",
+      "date": "24-Nov-2024"
+    },
+    {
+      "id": 448617,
+      "title": "Geometry | 22 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67414d9918ea5_2_pmctet_paper_2_and_12_Math_Class_Uday_Sir_22_Nov.pdf",
+      "date": "23-Nov-2024"
+    },
+    {
+      "id": 448615,
+      "title": "Geometry | 22 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67414d80d09e3_11.15_ctetPaper_1_and_12_Class_Uday_Sir_22_Nov.pdf",
+      "date": "23-Nov-2024"
+    },
+    {
+      "id": 448613,
+      "title": "Geometry | 22 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67414d5622215_10AM_ctet_paper_2_and_12_Math_Class_Uday_Sir_22_Nov.pdf",
+      "date": "23-Nov-2024"
+    },
+    {
+      "id": 448549,
+      "title": "SST Class Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67404b797179b_Sst_pedagogy_done_1.pdf",
+      "date": "22-Nov-2024"
+    },
+    {
+      "id": 448430,
+      "title": "Bio | 21 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/673ffb51c99e5_CTET_BIO_Bhawani_Sir_8PM_21_NOV.pdf",
+      "date": "22-Nov-2024"
+    },
+    {
+      "id": 448428,
+      "title": "Bio | 21 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/673ffb23650ff_CTET_Bio_Bhawani_Sir_7PM_21NOV.pdf",
+      "date": "22-Nov-2024"
+    },
+    {
+      "id": 448424,
+      "title": "Geometry | 21 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/673ffae1d9c26_11.15_ctetPaper_1_and_12_Class_Uday_Sir_21_Nov.pdf",
+      "date": "22-Nov-2024"
+    },
+    {
+      "id": 448422,
+      "title": "Geometry | 21 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/673ffabb05630_10AM_ctet_paper_2_and_12_Math_Class_Uday_Sir_21_Nov.pdf",
+      "date": "22-Nov-2024"
+    },
+    {
+      "id": 448274,
+      "title": "CCE",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/673edb4c16241_CCE.pdf",
+      "date": "21-Nov-2024"
+    },
+    {
+      "id": 448271,
+      "title": "Multiple Intelligence",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/673edb3167001_Multiple_Intelligence.pdf",
+      "date": "21-Nov-2024"
+    },
+    {
+      "id": 448268,
+      "title": "Kohelberg",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/673edaedd6068_Kohelberg.pdf",
+      "date": "21-Nov-2024"
+    },
+    {
+      "id": 448265,
+      "title": "Cognition & Emotion",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/673edaca01e67_Cognition_Emotion.pdf",
+      "date": "21-Nov-2024"
+    },
+    {
+      "id": 448259,
+      "title": "क्रिया",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/673ed422a02f8_.pdf",
+      "date": "21-Nov-2024"
+    },
+    {
+      "id": 448256,
+      "title": "समास",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/673ed3f9dff35_.pdf",
+      "date": "21-Nov-2024"
+    },
+    {
+      "id": 448253,
+      "title": "अव्यय",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/673ed3de1efcd_.pdf",
+      "date": "21-Nov-2024"
+    },
+    {
+      "id": 448250,
+      "title": "वर्तनी",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/673ed3ba4d833_Vartni_Digital_Board.pdf",
+      "date": "21-Nov-2024"
+    },
+    {
+      "id": 448247,
+      "title": "संधि",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/673ed36279887_.pdf",
+      "date": "21-Nov-2024"
+    },
+    {
+      "id": 448174,
+      "title": "Bio | 20 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/673eabc10b955_CTET_BIO_Bhawani_Sir_8PM_20NOV.pdf",
+      "date": "21-Nov-2024"
+    },
+    {
+      "id": 448172,
+      "title": "Bio | 20 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/673eaba24e84b_CTET_BIO_Bhawani_Sir_7PM_20NOV.pdf",
+      "date": "21-Nov-2024"
+    },
+    {
+      "id": 448170,
+      "title": "Geometry | 20 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/673eab4fb42c1_11.15_ctetPaper_1_and_12_Class_Uday_Sir_20_Nov.pdf",
+      "date": "21-Nov-2024"
+    },
+    {
+      "id": 448168,
+      "title": "Algebra | 20 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/673eab343102e_10AM_ctet_paper_2_and_12_Math_Class_Uday_Sir_20_Nov.pdf",
+      "date": "21-Nov-2024"
+    },
+    {
+      "id": 448115,
+      "title": "Intelligence",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/673dccd77ae25_Intelligence.pdf",
+      "date": "20-Nov-2024"
+    },
+    {
+      "id": 447388,
+      "title": "Phy | 19 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/673d5b0a59034_Phy_19_Nov_Class_PNG_CTET_Dec_2024_Paper2_CTET_Dec_2024_Paper12_New_Batch_1245pmcompressed.pdf",
+      "date": "20-Nov-2024"
+    },
+    {
+      "id": 447379,
+      "title": "Bio | 19 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/673d576106c3a_CTET_BIO_Bhawani_Sir_8PM_19NOV.pdf",
+      "date": "20-Nov-2024"
+    },
+    {
+      "id": 447372,
+      "title": "Algebra | 19 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/673d55f340a79_10AM_ctet_paper_2_and_12_Math_Class_Uday_Sir_19_Nov.pdf",
+      "date": "20-Nov-2024"
+    },
+    {
+      "id": 446514,
+      "title": "SST Class Notes-11 Oct to 19 Nov",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/673c5bbc100a5_11_OCT_TO_19_NOV_Varsha_maam_pdf.pdf",
+      "date": "19-Nov-2024"
+    },
+    {
+      "id": 446467,
+      "title": "NEP 2020",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/673c34404126e_NEP_2020.pdf",
+      "date": "19-Nov-2024"
+    },
+    {
+      "id": 446463,
+      "title": "NCF 2005",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/673c33c5a017e_NCF_2005.pdf",
+      "date": "19-Nov-2024"
+    },
+    {
+      "id": 446459,
+      "title": "Socialisation Process",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/673c33a9a7ad8_Socialisation_Process.pdf",
+      "date": "19-Nov-2024"
+    },
+    {
+      "id": 446456,
+      "title": "RTE Act 2009",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/673c33856b7aa_RTE_Act_2009_1.pdf",
+      "date": "19-Nov-2024"
+    },
+    {
+      "id": 446453,
+      "title": "Learning",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/673c336937625_Learning.pdf",
+      "date": "19-Nov-2024"
+    },
+    {
+      "id": 446450,
+      "title": "Jean Piaget",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/673c334da0b9b_Jean_Piaget.pdf",
+      "date": "19-Nov-2024"
+    },
+    {
+      "id": 446447,
+      "title": "Vygotsky",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/673c33325c56c_Vygotsky.pdf",
+      "date": "19-Nov-2024"
+    },
+    {
+      "id": 446444,
+      "title": "Inclusive Education",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/673c3313cc951_Inclusive_Education.pdf",
+      "date": "19-Nov-2024"
+    },
+    {
+      "id": 446381,
+      "title": "Algebra | 18 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/673c11ba7df12_10AM_ctet_paper_2_and_12_Math_Class_Uday_Sir_18_Nov.pdf",
+      "date": "19-Nov-2024"
+    },
+    {
+      "id": 445631,
+      "title": "Bio | 16 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/673abfed4fbb5_CTET_bio_Bhawani_Sir_7_pm_16_Nov.pdf",
+      "date": "18-Nov-2024"
+    },
+    {
+      "id": 445501,
+      "title": "Phy | 15 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67382d4d0a180_Phy_15_Nov_Class_PNG_CTET_Dec_2024_Paper2_CTET_Dec_2024_Paper12_New_Batch_1245pmcompressed.pdf",
+      "date": "16-Nov-2024"
+    },
+    {
+      "id": 445490,
+      "title": "Eng | 15 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6738298e42f0d_CTETPaper1_CTETPaper2_CTET_Paper12_Eng_by_Arun_Gautam_Sir_2_pm_15_Novcompressed.pdf",
+      "date": "16-Nov-2024"
+    },
+    {
+      "id": 445485,
+      "title": "Bio | 15 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67382951428ed_CTET_BIO_Bhawani_Sir_8PM_15_NOV.pdf",
+      "date": "16-Nov-2024"
+    },
+    {
+      "id": 445483,
+      "title": "Algebra | 15 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/673829318a7a2_10AM_ctet_paper_2_and_12_Math_Class_Uday_Sir_15_Nov.pdf",
+      "date": "16-Nov-2024"
+    },
+    {
+      "id": 445326,
+      "title": "Hindi | 14 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6736f1c42b883_Hindi.14tn.nov_CTET_Dec_2024_Paper1_CTET_Dec_2024_Paper2_CTET_Dec_2024_Paper12_900amcompressed.pdf",
+      "date": "15-Nov-2024"
+    },
+    {
+      "id": 445315,
+      "title": "Hindi | 13 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6736ed51602bc_Hindi.13tn.nov_CTET_Dec_2024_Paper1_CTET_Dec_2024_Paper2_CTET_Dec_2024_Paper12_900amcompressed.pdf",
+      "date": "15-Nov-2024"
+    },
+    {
+      "id": 445312,
+      "title": "Sanskrit | 13 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6736ed3417096_Hindi_13th.nov_CTET_Dec_2024_Paper1_CTET_Dec_2024_Paper2_CTET_Dec_2024_Paper12_Sanskrit_Class_700amcompressed.pdf",
+      "date": "15-Nov-2024"
+    },
+    {
+      "id": 445301,
+      "title": "Hindi | 12 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6736e91a75eb4_Hindi_12th.nov_class.pngDec_2024_Paper1_CTET_Dec_2024_Paper2_CTET_Dec_2024_Paper12900am_Arun.sircompressed.pdf",
+      "date": "15-Nov-2024"
+    },
+    {
+      "id": 445247,
+      "title": "Phy | 14 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6736bff2af5b7_Phy_14_Nov_Class_PNG_CTET_Dec_2024_Paper2_CTET_Dec_2024_Paper12_New_Batch_1245pmcompressed.pdf",
+      "date": "15-Nov-2024"
+    },
+    {
+      "id": 445235,
+      "title": "Eng | 14 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6736b67e63614_CTETPaper1_CTETPaper2_CTET_Paper12_Eng_by_Arun_Gautam_Sir_2_pm_14_Novcompressed.pdf",
+      "date": "15-Nov-2024"
+    },
+    {
+      "id": 445231,
+      "title": "Bio | 14 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6736b57e9dca6_CTET_BIO_Bhawani_Sir_8PM_14_NOV.pdf",
+      "date": "15-Nov-2024"
+    },
+    {
+      "id": 445224,
+      "title": "Algebra | 14 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6736b4b195db0_10AM_ctet_paper_2_and_12_Math_Class_Uday_Sir_14_Nov.pdf",
+      "date": "15-Nov-2024"
+    },
+    {
+      "id": 445161,
+      "title": "English Pedagogy | 13 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6735950844161_english_pedagogy_class_8...13_Novembercompressed.pdf",
+      "date": "14-Nov-2024"
+    },
+    {
+      "id": 445158,
+      "title": "Maths Pedagogy | 13 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/673594c99e729_maths_pedagogy_clas_8...13_Novembercompressed.pdf",
+      "date": "14-Nov-2024"
+    },
+    {
+      "id": 445121,
+      "title": "Phy | 13 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67356bf182df6_Phy_13_Nov_Class_PNG_CTET_Dec_2024_Paper2_CTET_Dec_2024_Paper12_New_Batch_1245pmcompressed.pdf",
+      "date": "14-Nov-2024"
+    },
+    {
+      "id": 445111,
+      "title": "Eng | 13 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/673569774e25b_CTETPaper1_CTETPaper2_CTET_Paper12_Eng_by_Arun_Gautam_Sir_2_pm_13_Novcompressed.pdf",
+      "date": "14-Nov-2024"
+    },
+    {
+      "id": 445103,
+      "title": "Bio | 13 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6735690840481_CTET_BIO_Bhawani_Sir_8PM_13_NOV.pdf",
+      "date": "14-Nov-2024"
+    },
+    {
+      "id": 445097,
+      "title": "Algebra | 13 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6735682459a7f_10AM_ctet_paper_2_and_12_Math_Class_Uday_Sir_13_Nov.pdf",
+      "date": "14-Nov-2024"
+    },
+    {
+      "id": 445084,
+      "title": "Hindi | 13 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67348a2c76756_Hindi_13th.nov_CTET_Dec_2024_Paper1_CTET_Dec_2024_Paper2_CTET_Dec_2024_Paper12_Sanskrit_Class_700amcompressed.pdf",
+      "date": "13-Nov-2024"
+    },
+    {
+      "id": 444976,
+      "title": "Maths Pedagogy | 06 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/673447c395f8e_maths_pedagogy_class_4_...6_November.pdf",
+      "date": "13-Nov-2024"
+    },
+    {
+      "id": 444973,
+      "title": "Maths Pedagogy | 19 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6734476588e36_mathsbpedagogyb_class_3..19_octobercompressed.pdf",
+      "date": "13-Nov-2024"
+    },
+    {
+      "id": 444940,
+      "title": "Phy | 12 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6734225a0c0fd_Phy_12_Nov_Class_PNG_CTET_Dec_2024_Paper2_CTET_Dec_2024_Paper12_New_Batch_1245pmcompressed.pdf",
+      "date": "13-Nov-2024"
+    },
+    {
+      "id": 444924,
+      "title": "Eng | 12 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/673410e4d6d97_CTETPaper1_CTETPaper2_CTET_Paper12_Eng_by_Arun_Gautam_Sir_2_pm_12_Novcompressed.pdf",
+      "date": "13-Nov-2024"
+    },
+    {
+      "id": 444915,
+      "title": "Bio | 12 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67341057615c2_CTET_BIO_Bhawani_Sir_8PM_12_NOV.pdf",
+      "date": "13-Nov-2024"
+    },
+    {
+      "id": 444909,
+      "title": "Mensuration | 12 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67340fcd23c2b_10AM_ctet_paper_2_and_12_Math_Class_Uday_Sir_12_Nov.pdf",
+      "date": "13-Nov-2024"
+    },
+    {
+      "id": 444772,
+      "title": "Eng Pedagogy | 12 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67333ed7abae3_english_pedagogy_class_7compressed.pdf",
+      "date": "12-Nov-2024"
+    },
+    {
+      "id": 444769,
+      "title": "Maths Pedagogy | 12 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67333ea1abd61_maths_pedagogy_clas_7compressed.pdf",
+      "date": "12-Nov-2024"
+    },
+    {
+      "id": 444581,
+      "title": "Phy | 11 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6732bf3c86177_Phy_11_Nov_Class_PNG_CTET_Dec_2024_Paper2_CTET_Dec_2024_Paper12_New_Batch_1245pmcompressed.pdf",
+      "date": "12-Nov-2024"
+    },
+    {
+      "id": 444566,
+      "title": "Eng | 11 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6732bb6757443_CTETPaper1_CTETPaper2_CTET_Paper12_Eng_by_Arun_Gautam_Sir_2_pm_11_Novcompressed.pdf",
+      "date": "12-Nov-2024"
+    },
+    {
+      "id": 444558,
+      "title": "Bio | 11 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6732bae161235_CTET_BIO_Bhawani_Sir_8PM_11_NOV.pdf",
+      "date": "12-Nov-2024"
+    },
+    {
+      "id": 444552,
+      "title": "Mensuration | 11 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6732ba8913b8d_10AM_ctet_paper_2_and_12_Math_Class_Uday_Sir_11_Nov.pdf",
+      "date": "12-Nov-2024"
+    },
+    {
+      "id": 444486,
+      "title": "Sci Peda Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6731ddc5e90a0_ilovepdfmerged_19compressed.pdf",
+      "date": "11-Nov-2024"
+    },
+    {
+      "id": 444467,
+      "title": "Maths Pedagogy | 6 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6731a5ae13b8c_2024110916024786maths_pedagogy_6..deccompressed.pdf",
+      "date": "11-Nov-2024"
+    },
+    {
+      "id": 444464,
+      "title": "Eng Pedagogy | 5&6 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6731a5235eeac_ilovepdfmerged_13compressed.pdf",
+      "date": "11-Nov-2024"
+    },
+    {
+      "id": 444445,
+      "title": "Bio | 09 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67316b804bdcf_CTET_BIO_Bhawani_Sir_7PM_09_Nov.pdf",
+      "date": "11-Nov-2024"
+    },
+    {
+      "id": 444443,
+      "title": "Mensuration | 09 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67316b6758528_10AM_ctet_paper_2_and_12_Math_Class_Uday_Sir_09_Nov.pdf",
+      "date": "11-Nov-2024"
+    },
+    {
+      "id": 443512,
+      "title": "Phy | 08 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/672ec9e4d32f8_Phy_8th.Nov_Class_PNG_CTET_Dec_2024_Paper2_CTET_Dec_2024_Paper12_New_Batch_1245pmcompressed.pdf",
+      "date": "09-Nov-2024"
+    },
+    {
+      "id": 443508,
+      "title": "Eng | 08 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/672ec8109fe10_CTETPaper1_CTETPaper2_CTET_Paper12_Eng_by_Arun_Gautam_Sir_2_pm_8_Novcompressed.pdf",
+      "date": "09-Nov-2024"
+    },
+    {
+      "id": 443501,
+      "title": "Bio | 08 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/672ec7bb3e5f2_CTET_BIO_Bhawani_Sir_8PM_08_Nov.pdf",
+      "date": "09-Nov-2024"
+    },
+    {
+      "id": 443494,
+      "title": "Mensuration | 08 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/672ec6a2d6b83_11.15_ctet_Class_Uday_Sir_08_Nov.pdf",
+      "date": "09-Nov-2024"
+    },
+    {
+      "id": 443491,
+      "title": "Maths Pedagogy | 5 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/672e085ddf167_maths_pedagogy5..dec_2024compressed.pdf",
+      "date": "08-Nov-2024"
+    },
+    {
+      "id": 443488,
+      "title": "Eng Pedagogy | 4 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/672e08323d601_English_pedagogy_4..dec2024compressed.pdf",
+      "date": "08-Nov-2024"
+    },
+    {
+      "id": 443485,
+      "title": "Language and thought",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/672e0707cf7f2_Language_and_thoughtcompressed.pdf",
+      "date": "08-Nov-2024"
+    },
+    {
+      "id": 443337,
+      "title": "Phy | 07 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/672d71cb397c0_Phy_7th.Nov_Class_PNG_CTET_Dec_2024_Paper2_CTET_Dec_2024_Paper12_New_Batch_1245pmcompressed.pdf",
+      "date": "08-Nov-2024"
+    },
+    {
+      "id": 443333,
+      "title": "Bio | 07 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/672d707cc3b7e_CTET_BIO_Bhawani_Sir_8PM_07_Nov.pdfcompressed.pdf",
+      "date": "08-Nov-2024"
+    },
+    {
+      "id": 443191,
+      "title": "Phy | 06 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/672c22c41c0cd_Phy_6th.Nov_Class_PNG_CTET_Dec_2024_Paper2_CTET_Dec_2024_Paper12_New_Batch_1245pmcompressed.pdf",
+      "date": "07-Nov-2024"
+    },
+    {
+      "id": 443175,
+      "title": "Bio | 06 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/672c1f821c536_CTET_BIO_Bhawani_Sir_8PM_06_Nov.pdf.pdf",
+      "date": "07-Nov-2024"
+    },
+    {
+      "id": 442983,
+      "title": "Phy | 05 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/672ad4a755019_Phy_5th.Nov_Class_PNG_CTET_Dec_2024_Paper2_CTET_Dec_2024_Paper12_New_Batch_1245pmcompressed.pdf",
+      "date": "06-Nov-2024"
+    },
+    {
+      "id": 442978,
+      "title": "Eng | 05 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/672ad019029aa_CTETPaper1_CTETPaper2_CTET_Paper12_Eng_by_Arun_Gautam_Sir_2_pm_5_Novcompressed.pdf",
+      "date": "06-Nov-2024"
+    },
+    {
+      "id": 442867,
+      "title": "Individual Dfference",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6729b7108c5ea_Individual_difference.pdf",
+      "date": "05-Nov-2024"
+    },
+    {
+      "id": 442536,
+      "title": "Phy | 04 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67298b0828f23_Phy_4th.Nov_Class_PNG_CTET_Dec_2024_Paper2_CTET_Dec_2024_Paper12_New_Batch_1245pmcompressed.pdf",
+      "date": "05-Nov-2024"
+    },
+    {
+      "id": 442527,
+      "title": "Eng | 04 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67298864eafe9_CTETPaper1_CTETPaper2_CTET_Paper12_Eng_by_Arun_Gautam_Sir_2_pm_4_Novcompressed.pdf",
+      "date": "05-Nov-2024"
+    },
+    {
+      "id": 442475,
+      "title": "Phy | 28 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67286691bd188_phy_28Oct_Class_PNG_CTET_Dec_2024_Paper2_CTET_Dec_2024_Paper12_New_Batch_1245pmcompressed.pdf",
+      "date": "04-Nov-2024"
+    },
+    {
+      "id": 442459,
+      "title": "Bio | 28 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/672860cc92119_CTET_BIO_Bhawani_Sir_28_Oct_2_PMcompressed.pdf",
+      "date": "04-Nov-2024"
+    },
+    {
+      "id": 442457,
+      "title": "Bio | 26 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6728602328a76_CTET_BIO_Bhawani_Sir_26_Oct_330_PM.pdf",
+      "date": "04-Nov-2024"
+    },
+    {
+      "id": 442453,
+      "title": "Mensuration | 26 Oct | Class PNG (11:45AM)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67285fffad875_DSSSB_PRT_B05_GP_Maths_by_Uday_Sir_1245pm_26_October.pdf",
+      "date": "04-Nov-2024"
+    },
+    {
+      "id": 442450,
+      "title": "Mensuration | 26 Oct | Class PNG (10:30AM)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67285fb073fbe_110.30_AM_ctet_Class_Uday_Sir_26_Oct.pdf",
+      "date": "04-Nov-2024"
+    },
+    {
+      "id": 442441,
+      "title": "Eng | 26 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67285e3a1cd07_CTETPaper1_CTETPaper2_CTET_Paper12_Eng_by_Arun_Gautam_Sir_2_pm_26_Octobercompressed.pdf",
+      "date": "04-Nov-2024"
+    },
+    {
+      "id": 441121,
+      "title": "Phy | 25 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/671c64c92f308_phy_25Oct_Class_PNG_CTET_Dec_2024_Paper2_CTET_Dec_2024_Paper12_New_Batch_1245pmcompressed.pdf",
+      "date": "26-Oct-2024"
+    },
+    {
+      "id": 441113,
+      "title": "Bio | 25 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/671c62ff554f4_CTET_BIO_Bhawani_Sir_8PM_25Oct.pdf",
+      "date": "26-Oct-2024"
+    },
+    {
+      "id": 441105,
+      "title": "Mensuration | 25 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/671c62349a021_3_pm_ctet_Class_Uday_Sir_25_Oct.pdf",
+      "date": "26-Oct-2024"
+    },
+    {
+      "id": 441101,
+      "title": "Mensuration | 25 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/671c621298912_11.15_ctet_Class_Uday_Sir_25_Oct.pdf",
+      "date": "26-Oct-2024"
+    },
+    {
+      "id": 440978,
+      "title": "Phy | 24 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/671b0498973d5_Phy_24_Oct_Class_PNG_CTET_Dec_2024_Paper2_CTET_Dec_2024_Paper12_1245_PMcompressed.pdf",
+      "date": "25-Oct-2024"
+    },
+    {
+      "id": 440968,
+      "title": "Bio | 24 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/671b014aa0c18_CTET_BIO_Bhawani_Sir_8PM_24_Octcompressed.pdf",
+      "date": "25-Oct-2024"
+    },
+    {
+      "id": 440963,
+      "title": "Eng | 24 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/671b011a7d0e2_CTETPaper1_CTETPaper2_CTET_Paper12_Eng_by_Arun_Gautam_Sir_2_pm_24_Octobercompressed.pdf",
+      "date": "25-Oct-2024"
+    },
+    {
+      "id": 440953,
+      "title": "Mean Mode Median | 24 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/671b007db87b3_11.15_ctet_Class_Uday_Sir_24_Oct.pdf",
+      "date": "25-Oct-2024"
+    },
+    {
+      "id": 440811,
+      "title": "Phy | 23 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6719acf87926f_Phy_23_Oct_Class_PNG_CTET_Dec_2024_Paper2_CTET_Dec_2024_Paper12_1245_pmcompressed.pdf",
+      "date": "24-Oct-2024"
+    },
+    {
+      "id": 440801,
+      "title": "Eng | 23 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6719aa80afabf_CTETPaper1_CTETPaper2_CTET_Paper12_Eng_by_Arun_Gautam_Sir_2_pm_23_Octobercompressed.pdf",
+      "date": "24-Oct-2024"
+    },
+    {
+      "id": 440798,
+      "title": "Eng | 22 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6719aa6686a5d_CTETPaper1_CTETPaper2_CTET_Paper12_Eng_by_Arun_Gautam_Sir_2_pm_22_Octobercompressed.pdf",
+      "date": "24-Oct-2024"
+    },
+    {
+      "id": 440796,
+      "title": "Bio | 23 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6719aa0164ed5_CTET_BIO_Bhawani_Sir_8PM_23_Oct.pdf",
+      "date": "24-Oct-2024"
+    },
+    {
+      "id": 440787,
+      "title": "Fraction | 23 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6719a96b72a52_11.15_ctet_Class_Uday_Sir_23_Oct.pdf",
+      "date": "24-Oct-2024"
+    },
+    {
+      "id": 440767,
+      "title": "Child Centered and Progressive Education",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/671917c582bf3_Child_Centered_and_Progressive_Education.pdf",
+      "date": "23-Oct-2024"
+    },
+    {
+      "id": 440556,
+      "title": "Phy | 22 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6718563074cb8_Phy_22th.Oct_class.pngCTET_Dec_2024_Paper2_CTET_Dec_2024_Paper121245pmcompressed.pdf",
+      "date": "23-Oct-2024"
+    },
+    {
+      "id": 440547,
+      "title": "Fraction | 22 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/671853b776d9a_11.15_ctet_Class_Uday_Sir_22_Oct.pdf",
+      "date": "23-Oct-2024"
+    },
+    {
+      "id": 440431,
+      "title": "Phy | 21 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67171c8b40662_phy_21Oct_Class_PNG_CTET_Dec_2024_Paper2_CTET_Dec_2024_Paper12_New_Batch_1245pmcompressed.pdf",
+      "date": "22-Oct-2024"
+    },
+    {
+      "id": 440396,
+      "title": "Bio | 21 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67171067c4f20_CTET_Dec_2024_Paper2_CTET_Dec_2024_Paper12_Bio_Bhawani_Sir_8pm_21_Oct.pdf",
+      "date": "22-Oct-2024"
+    },
+    {
+      "id": 440314,
+      "title": "Bio | 19 Oct | Class PNG (5PM)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6715f25757f2b_CTET_BIO_Bhawani_Sir_5PM_19Oct.pdf",
+      "date": "21-Oct-2024"
+    },
+    {
+      "id": 440312,
+      "title": "Bio | 19 Oct | Class PNG (7PM)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6715f1ef1d6e2_CTET_BIO_Bhawani_Sir_7PM_19Oct.pdf",
+      "date": "21-Oct-2024"
+    },
+    {
+      "id": 440204,
+      "title": "Maths Pedagogy Class Notes-1,2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6714b127e2634_ilovepdfmerged_8compressed.pdf",
+      "date": "20-Oct-2024"
+    },
+    {
+      "id": 440201,
+      "title": "Eng Pedagogy Class Notes-1,2,3",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6714b0be732fd_ilovepdfmerged_7compressed.pdf",
+      "date": "20-Oct-2024"
+    },
+    {
+      "id": 440092,
+      "title": "Bio | 18 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/671365a8706d9_CTET_BIO_Bhawani_Sir_8PM_18Oct.pdf",
+      "date": "19-Oct-2024"
+    },
+    {
+      "id": 439980,
+      "title": "Bio | 17 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6711cc1a3cbb0_CTET_BIO_Bhawani_Sir_8PM_17Oct.pdf",
+      "date": "18-Oct-2024"
+    },
+    {
+      "id": 439973,
+      "title": "Multiple and Factor | 17 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6711cb09b2acb_11.15_ctet_Class_Uday_Sir_17_Oct.pdf",
+      "date": "18-Oct-2024"
+    },
+    {
+      "id": 439967,
+      "title": "Multiple and Factor | 15 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6711ca4a23961_11.15_ctet_Class_Uday_Sir_15_Oct.pdf",
+      "date": "18-Oct-2024"
+    },
+    {
+      "id": 438113,
+      "title": "Phy | 16 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6710828448f32_Phy_16_Oct_Class_PNG_CTET_Dec_2024_Paper2_CTET_Dec_2024_Paper12_1245_Pmcompressed.pdf",
+      "date": "17-Oct-2024"
+    },
+    {
+      "id": 438110,
+      "title": "Multiple Factor | 16 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/671078c406db1_11.15_ctet_Class_Uday_Sir_16_Oct.pdf",
+      "date": "17-Oct-2024"
+    },
+    {
+      "id": 438102,
+      "title": "Bio | 16 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6710773af27f1_CTET_Bio_Bhawani_Sir_8PM_16_Oct.pdf",
+      "date": "17-Oct-2024"
+    },
+    {
+      "id": 438075,
+      "title": "Gender",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/670fc809d3335_Gender.pdf",
+      "date": "16-Oct-2024"
+    },
+    {
+      "id": 438068,
+      "title": "Role of Heredity and Environment (16 Oct 2024 Final)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/670fc6bc173cb_Role_of_Heredity_and_Environment_16_Oct_2024_Final.pdf",
+      "date": "16-Oct-2024"
+    },
+    {
+      "id": 438065,
+      "title": "Principles and Dimensions of Development",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/670fc697b3e6a_Principles_and_Dimensions_of_Development.pdf",
+      "date": "16-Oct-2024"
+    },
+    {
+      "id": 438062,
+      "title": "Factors affecting development",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/670fc6640e024_Factors_affecting_developmentcompressed.pdf",
+      "date": "16-Oct-2024"
+    },
+    {
+      "id": 438059,
+      "title": "Concept of Growth and Development",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/670fc63de94dc_Concept_of_Growth_and_Developmentcompressed.pdf",
+      "date": "16-Oct-2024"
+    },
+    {
+      "id": 437971,
+      "title": "Phy | 15 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/670f3d197ccb3_Phy_15th.Oct_Class_PNG_CTET_Dec_2024_Paper2_CTET_Dec_2024_Paper12_New_Batch_1245_pmcompressed.pdf",
+      "date": "16-Oct-2024"
+    },
+    {
+      "id": 437950,
+      "title": "Bio |15 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/670f322e4c02a_CTET_BIO_Bhawani_Sir_15_Oct_8_PM.pdf",
+      "date": "16-Oct-2024"
+    },
+    {
+      "id": 437633,
+      "title": "Chem | 14 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/670dd757b8c59_Chem_14_Oct_Class_PNG_CTET_Dec_2024_Paper2_CTET_Dec_2024_Paper12_New_Batch_200pm_pmcompressed.pdf",
+      "date": "15-Oct-2024"
+    },
+    {
+      "id": 437630,
+      "title": "Phy | 14 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/670dd7005bf25_Physic_14_Oct_Class_PNG_CTET_Dec_2024_Paper2_CTET_Dec_2024_Paper12_New_Batch_1245_pmcompressed.pdf",
+      "date": "15-Oct-2024"
+    },
+    {
+      "id": 437609,
+      "title": "Multiple and Factor | 14 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/670dcf790a74e_11.15_ctet_Class_Uday_Sir_14_Oct.pdf",
+      "date": "15-Oct-2024"
+    },
+    {
+      "id": 437602,
+      "title": "Bio | 14 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/670dce64a2ba7_CTET_Bio_Bhawani_Sir_8PM_14_Oct.pdf",
+      "date": "15-Oct-2024"
+    },
+    {
+      "id": 437544,
+      "title": "SST | 11 Oct | Class Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/670cef5763a63_POLITY_100_by_Varsha_Mam_11_Octobercompressed.pdf",
+      "date": "14-Oct-2024"
+    },
+    {
+      "id": 437542,
+      "title": "SST | 09 Oct | Class Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/670cef2001b5a_varsha.maamyoutube.CTET9th.Oct_1245pmcompressed.pdf",
+      "date": "14-Oct-2024"
+    },
+    {
+      "id": 437289,
+      "title": "Phy | 11 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/670c87ba53001_Physics_11th_Oct_Class_PNG_CTET_Dec_2024_Paper2_CTET_Dec_2024_Paper12_New_Batch_1245_pmcompressed.pdf",
+      "date": "14-Oct-2024"
+    },
+    {
+      "id": 437279,
+      "title": "Bio | 11 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/670c815dc6db9_CTET_BIO_Bhawani_Sir_8PM_11_Oct.pdf",
+      "date": "14-Oct-2024"
+    },
+    {
+      "id": 437242,
+      "title": "Phy | 10 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67088bfd477e5_Phy10th.Oct_class.pngCTET_Dec_2024_Paper2_CTET_Dec_2024_Paper121245pmcompressed.pdf",
+      "date": "11-Oct-2024"
+    },
+    {
+      "id": 437219,
+      "title": "Eng | 10 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/670886dc87a38_CTETPaper1_CTETPaper2_CTET_Paper12_Eng_by_Arun_Gautam_Sir_2_pm_10_Octobercompressed.pdf",
+      "date": "11-Oct-2024"
+    },
+    {
+      "id": 437216,
+      "title": "Bio | 10 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6708867c3ebe5_CTET_BIO_Bhawani_Sir_8PM_10_Oct.pdf",
+      "date": "11-Oct-2024"
+    },
+    {
+      "id": 437208,
+      "title": "Multiple Factor | 10 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/670885cd87cb6_11.15_ctet_Class_Uday_Sir_10_Oct.pdf",
+      "date": "11-Oct-2024"
+    },
+    {
+      "id": 437043,
+      "title": "Phy | 09 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6707357bd7a7c_Physics_9th_Oct_Class_PNG_CTET_Dec_2024_Paper2_CTET_Dec_2024_Paper12_1245_pmcompressed.pdf",
+      "date": "10-Oct-2024"
+    },
+    {
+      "id": 437033,
+      "title": "Bio | 09 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/670733312c542_CTET_BIO_Bhawani_Sir_8PM_8_Oct.pdf",
+      "date": "10-Oct-2024"
+    },
+    {
+      "id": 437027,
+      "title": "Multiple Factor | 09 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/670732e67c18c_11.15_ctet_Class_Uday_Sir_09_Oct.pdf",
+      "date": "10-Oct-2024"
+    },
+    {
+      "id": 436822,
+      "title": "Chem | 08 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6705f3f13e307_Chem_8th_Oct_Class_PNG_CTET_Dec_2024_Paper2_CTET_Dec_2024_Paper12_New_Batch_Free_1245_pmcompressed.pdf",
+      "date": "09-Oct-2024"
+    },
+    {
+      "id": 436813,
+      "title": "Eng | 08 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6705e65922e9f_CTETPaper1_CTETPaper2_CTET_Paper12_Eng_by_Arun_Gautam_Sir_2_pm_8_Octobercompressed.pdf",
+      "date": "09-Oct-2024"
+    },
+    {
+      "id": 436803,
+      "title": "Divisibility | 08 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6705e554bcd01_11.15_ctet_Class_Uday_Sir_08_Oct.pdf",
+      "date": "09-Oct-2024"
+    },
+    {
+      "id": 436724,
+      "title": "SST Practice | 07 Oct Class Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6704db0c7c16c_varsha.maamYouTube.Ctet.lets_learn1245pmcompressed.pdf",
+      "date": "08-Oct-2024"
+    },
+    {
+      "id": 436504,
+      "title": "Chem  | 07 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6704cb45c981a_Chem_7th.Oct.class.pngCTET_Dec_2024_Paper2_CTET_Dec_2024_Paper12_1245pmcompressed.pdf",
+      "date": "08-Oct-2024"
+    },
+    {
+      "id": 436493,
+      "title": "Divisibility | 07 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6704c9c5c074d_11.15_ctet_Class_Uday_Sir_07_Oct.pdf",
+      "date": "08-Oct-2024"
+    },
+    {
+      "id": 436266,
+      "title": "Records and Test | 07 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6703d06ee646f_20241007091332585.pdf",
+      "date": "07-Oct-2024"
+    },
+    {
+      "id": 436264,
+      "title": "Learning disability | 07 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6703d03beb500_20241007080829629compressed.pdf",
+      "date": "07-Oct-2024"
+    },
+    {
+      "id": 436260,
+      "title": "Learning disability | 03 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6703cfb4838db_20241003100132053.pdf",
+      "date": "07-Oct-2024"
+    },
+    {
+      "id": 436258,
+      "title": "Science Teaching Method in Science| 03 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6703cf6e6f0ff_20241003080911874compressed.pdf",
+      "date": "07-Oct-2024"
+    },
+    {
+      "id": 436119,
+      "title": "Bio | 05 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6703883d629ff_CTET_BIO_Bhawani_Sir_7_PM_5_Oct.pdf",
+      "date": "07-Oct-2024"
+    },
+    {
+      "id": 436078,
+      "title": "Chem | 04 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6700ab2dae662_Chem_4th_Oct_Class_PNG_CTET_Dec_2024_Paper2_CTET_Dec_2024_Paper12_New_Batch_Free_1245_pmcompressed.pdf",
+      "date": "05-Oct-2024"
+    },
+    {
+      "id": 436069,
+      "title": "Bio | 04 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67009d9e943bb_CTET_Bio_Bhawani_Sir_8_PM_4_Oct.pdf",
+      "date": "05-Oct-2024"
+    },
+    {
+      "id": 436061,
+      "title": "Eng | 04 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67009d1cc2263_CTETPaper1_CTETPaper2_CTET_Paper12_Eng_by_Arun_Gautam_Sir_2_pm_4_Octobercompressed.pdf",
+      "date": "05-Oct-2024"
+    },
+    {
+      "id": 436053,
+      "title": "Divisibility  | 04 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67009c3b2f00c_11.15_ctet_Class_Uday_Sir_04_Oct.pdf",
+      "date": "05-Oct-2024"
+    },
+    {
+      "id": 435914,
+      "title": "Eng | 03 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66ff57a331ce4_CTETPaper1_CTETPaper2_CTET_Paper12_Eng_by_Arun_Gautam_Sir_2_pm_3_Octobercompressed.pdf",
+      "date": "04-Oct-2024"
+    },
+    {
+      "id": 435910,
+      "title": "Bio | 03 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66ff576c02d48_CTET_Bio_Bhawani_Sir_8_PM_3_Oct.pdf",
+      "date": "04-Oct-2024"
+    },
+    {
+      "id": 435904,
+      "title": "Divisibility | 03 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66ff572170d57_11.15_ctet_Class_Uday_Sir_03_Oct.pdf",
+      "date": "04-Oct-2024"
+    },
+    {
+      "id": 435850,
+      "title": "Eng | 01 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66fe54e14665a_CTETPaper1_CTETPaper2_CTET_Paper12_Eng_by_Arun_Gautam_Sir_2_pm_1_Octobercompressed.pdf",
+      "date": "03-Oct-2024"
+    },
+    {
+      "id": 435527,
+      "title": "Chem | 01 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66fdfd0f03a38_Chem_1st_Oct_Class_PNG_CTET_Dec_2024_Paper2_CTET_Dec_2024_Paper12_New_Batch_Free_1245_pmcompressed.pdf",
+      "date": "03-Oct-2024"
+    },
+    {
+      "id": 435512,
+      "title": "Number  | 01 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66fdfaa4f3083_11.15_ctet_Class_Uday_Sir_01_Oct.pdf",
+      "date": "03-Oct-2024"
+    },
+    {
+      "id": 435088,
+      "title": "SST Concept | 01 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66fbb9660e015_20241001091024596compressed.pdf",
+      "date": "01-Oct-2024"
+    },
+    {
+      "id": 435086,
+      "title": "RTE Question | 01 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66fbb63e2bf14_20241001080655961.pdf",
+      "date": "01-Oct-2024"
+    },
+    {
+      "id": 433504,
+      "title": "Chem | 30 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66fb762c1b1b3_Chem_30_Sept_Class_PNG_CTET_Dec_2024_Paper2_CTET_Dec_2024_Paper12_New_Batch_Free_1245_pmcompressed.pdf",
+      "date": "01-Oct-2024"
+    },
+    {
+      "id": 433498,
+      "title": "Eng | 30 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66fb6c466e892_CTETPaper1_CTETPaper2_CTET_Paper12_Eng_by_Arun_Gautam_Sir_2_pm_30_Septcompressed.pdf",
+      "date": "01-Oct-2024"
+    },
+    {
+      "id": 433488,
+      "title": "Bio | 30 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66fb675d4a415_CTET_BIO_Bhawani_Sir_8_PM_30_Sep.pdf",
+      "date": "01-Oct-2024"
+    },
+    {
+      "id": 433481,
+      "title": "Number | 30 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66fb66bd2835c_11.15_ctet_Class_Uday_Sir_30_Sept.pdf",
+      "date": "01-Oct-2024"
+    },
+    {
+      "id": 432667,
+      "title": "SST | 30 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66fa40d3edcb2_20240930090730704compressed.pdf",
+      "date": "30-Sep-2024"
+    },
+    {
+      "id": 432665,
+      "title": "Sci | 30 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66fa4037ccd57_20240930080939515compressed.pdf",
+      "date": "30-Sep-2024"
+    },
+    {
+      "id": 432663,
+      "title": "SST | 27 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66fa3fabb2d62_20240927090644405compressed.pdf",
+      "date": "30-Sep-2024"
+    },
+    {
+      "id": 432659,
+      "title": "SST | 23 & 24 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66fa3bf542aad_NCFmergedcompressed.pdf",
+      "date": "30-Sep-2024"
+    },
+    {
+      "id": 432655,
+      "title": "Sci | 23 & 24 & 26 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66fa3eaae95c9_ilovepdfmerged_2compressed.pdf",
+      "date": "30-Sep-2024"
+    },
+    {
+      "id": 432594,
+      "title": "Bio | 28 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66fa03d374a39_CTET_BIO_Bhawani_Sir_7_PM_28_SEP.pdf",
+      "date": "30-Sep-2024"
+    },
+    {
+      "id": 432418,
+      "title": "Chem | 27 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66f76849e65ea_Chem_27_Sept_Class_PNG_CTET_Dec_2024_Paper_2_and_CTET_Dec_2024_Paper_12_New_Batch_1245_PMcompressed.pdf",
+      "date": "28-Sep-2024"
+    },
+    {
+      "id": 432412,
+      "title": "Bio | 27 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66f765efd144b_CTET_BIO_Bhawani_Sir_8PM_27_SEP_.pdf",
+      "date": "28-Sep-2024"
+    },
+    {
+      "id": 432406,
+      "title": "Eng | 27 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66f7658e52d73_CTETPaper1_CTETPaper2_CTET_Paper12_Eng_by_Arun_Gautam_Sir_2_pm_27_Septcompressed.pdf",
+      "date": "28-Sep-2024"
+    },
+    {
+      "id": 432397,
+      "title": "Number | 27 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66f764f6153f6_11.15_ctet_Class_Uday_Sir_27_Sept.pdf",
+      "date": "28-Sep-2024"
+    },
+    {
+      "id": 432299,
+      "title": "Chem | 26 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66f60feea39d0_Chem_26_Sept_Class_PNG_CTET_Dec_2024_Paper_2_and_CTET_Dec_2024_Paper_12_New_Batch_1245_PMcompressed.pdf",
+      "date": "27-Sep-2024"
+    },
+    {
+      "id": 432288,
+      "title": "Eng | 26 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66f60d142cd61_CTETPaper1_CTETPaper2_CTET_Paper12_Eng_by_Arun_Gautam_Sir_2_pm_26_Septcompressed.pdf",
+      "date": "27-Sep-2024"
+    },
+    {
+      "id": 432280,
+      "title": "Bio | 26 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66f60c6a326bb_CTET_BIO_Bhawani_Sir_8_PM_26_Sep.pdf",
+      "date": "27-Sep-2024"
+    },
+    {
+      "id": 432223,
+      "title": "CTET Dec 2024 Syllabus (CDP)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66f5501c3c8ca_CTET_Dec_2024_Syllabus.pdf",
+      "date": "26-Sep-2024"
+    },
+    {
+      "id": 432120,
+      "title": "CTET Paper - 02 (English and Hindi Part - 02)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1657706697-CTET_IIPart_2_ENGLISH__HINDI_SOCIAL_SCIENCE_compressed_1.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432119,
+      "title": "CTET Paper - 02 (English and Hindi Part - 02)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1657706694-CTET_II_Part_1_ENGLISH__HINDI_SOCIAL_SCIENCE_compressed_1.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432118,
+      "title": "CTET Paper - 02 (English and Hindi Part - 02)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1657706694-CTET_PAPAR_II_PART_2_ENGLISH_AND_HINDI,_MATH__SOCIAL_SCIENCE_compressed.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432117,
+      "title": "CTET Paper - 02 (English and Hindi Part - 02)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1657706690-CTET_PAPER_-_II_(PART_1)_ENGLISH_HINDI_compressed.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432116,
+      "title": "CTET Paper - 02 (Hindi and English Part - 01)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1657706394-CTET_PAPER_II_PART_3_HINDI__ENGLISH_SOCIAL_SCIENCE_compressed.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432115,
+      "title": "CTET Paper - 02 (Hindi and English Part - 01)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1657706349-CTET_PAPER_II_PART_5_HINDI__ENGLISH,_MATHS_SOCIAL_SCIENCE_compressed.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432114,
+      "title": "CTET Paper - 02 (Hindi and English Part - 01)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1657706276-CTET_PAPER_II_PART_1_HINDI__ENGLISH_SOCIAL_SCIENCE_compressed.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432113,
+      "title": "CTET Paper - 02 (Hindi and English Part - 01)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1657706212-CTET_PAPER_II_PART_1_HINDI__ENGLISH,_MATHS_SOCIAL_SCIENCE_compressed.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432112,
+      "title": "CTET Science Expected Question - 2023 (Part-3)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64b8fb8e727b4_CTET SCIENCE EXPECTED QUESTION - 2023 (MCQ) (PART-III).pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432111,
+      "title": "CTET Science Expected Question - 2023 (Part-2)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64b8fb6f29d7e_CTET SCIENCE EXPECTED QUESTION - 2023 (PART - II).....pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432110,
+      "title": "CTET Science Expected Question - 2023 (Part-1)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64b8fb5840f94_CTET SCIENCE EXPECTED QUESTION - 2023 (PART -I).pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432109,
+      "title": "CTET Social and Political Life Expected Question - 2023 (Part-3)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64b8fafda724f_CTET GEOGHRAPHY EXPECTED QUESTION - 2023 (PART - III).pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432108,
+      "title": "CTET Social and Political Life Expected Question - 2023 (Part-2)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64b8faddf3e9d_SOCIAL AND POLITICAL LIFE EXPECTED QUEASTION - 2023 ( PART- II).pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432107,
+      "title": "CTET Social and Political Life Expected Question - 2023 (Part-1))",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64b8faba4560b_CTET SOCIAL AND POLITICAL LIFE EXPECTED QUESTION - 2023 (PART - I).pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432106,
+      "title": " Geography Expected Questions - 2023 (Part-3)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64b8f7e134df2_CTET GEOGHRAPHY EXPECTED QUESTION - 2023 (PART - III).pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432105,
+      "title": " Geography Expected Questions - 2023 (Part-2)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64b8f7c0b9bc7_CTET GEOGHRAPHY EXPECTED QUESTION - 2023 (PART - II).pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432104,
+      "title": " Geography Expected Questions - 2023 (Part-1)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64b8f7bf645d2_CTET GEOGHRAPHY EXPECTED QUESTION - 2023 (PART - I).pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432103,
+      "title": "CTET History Expected Questions Part-3",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/649982cc0bee3_CTET HISTORY EXPECTED QUESTION - 2023 (PART- 3).pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432102,
+      "title": "CTET History Expected Questions Part-2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/649982912cb39_CTET HISTORY EXPECTED QUESTION - 2023 (PART - 2).pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432101,
+      "title": "CTET History Expected Questions Part-1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6499826d8bd4a_CTET HISTORY EXPECTED QUESTION - 2023 (PART- 1).pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432100,
+      "title": "Maths E Book - P - 02",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1637131819-All_Chapters_Maths.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432099,
+      "title": "Social Science E-Book",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1633946948-social_science.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432098,
+      "title": "Science Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1633702183-SCIENCE_UDAY_SIR.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432097,
+      "title": "Waste water management",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66598fca21495_Waste water management.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432096,
+      "title": "अपशिष्ट जल प्रबंधन",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66598fbb9ceab_अपशिष्ट जल प्रबंधन..pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432095,
+      "title": "Transportation & excretion",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66598fab82f46_Transportation & excretion.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432094,
+      "title": "परिवहन एवं उत्सर्जन",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66598f9058c00_परिवहन एवं उत्सर्जन..pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432093,
+      "title": "Soil",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66598f7f65629_Soil.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432092,
+      "title": "मृदा",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66598f73ce834_मृदा..pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432091,
+      "title": "Respiration in plants & animals",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66598f62bc32e_Respiration in plants & animals.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432090,
+      "title": "पौधों और जानवरों में श्वसन",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66598f599bcc9_पौधों और जानवरों में श्वसन..pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432089,
+      "title": "Reproduction in Plants",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66598f47be8fe_Reproduction in Plants.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432088,
+      "title": "पौधों में प्रजनन",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66598f36e536a_पौधों में प्रजनन..pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432087,
+      "title": "Reproduction in Human",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66598f0ec4383_Reproduction in Human.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432086,
+      "title": "जीवों में प्रजनन",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66598f015a99f_जीवों में प्रजनन..pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432085,
+      "title": "Reaching at the age of adolescence",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66598ef0db7c1_Reaching at the age of adolescence.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432084,
+      "title": "किशोरावस्था की उम्र तक पहुंचना",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66598ee5a7601_किशोरावस्था की उम्र तक पहुंचना..pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432083,
+      "title": "Pollution of air & water",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66598ecda60aa_Pollution of air & water.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432082,
+      "title": "वायु एवं जल का प्रदूषण",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66598ec1b4669_वायु एवं जल का प्रदूषण..pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432081,
+      "title": "Our Forest",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66598e9665bce_Our Forest.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432080,
+      "title": "हमारा वन",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66598e8c43cda_हमारा वन..pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432079,
+      "title": "Nutrition In Plant",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66598e780167f_Nutrition In Plant.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432078,
+      "title": "पौघें में पोषण",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66598e6caa1b2_पौघें में पोषण..pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432077,
+      "title": "Nutrition in animal",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66598e5d9d3e1_Nutrition in animal.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432076,
+      "title": "जीवों में पोषण",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66598e50564e3_जीवों में पोषण...pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432075,
+      "title": "Microorganism",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66598d612230b_Microorganism.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432074,
+      "title": "सूक्ष्मजीवों",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66598d4e83411_सूक्ष्मजीवों..pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432073,
+      "title": "Crop production & Management",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66598d3e3b561_Crop production & Management.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432072,
+      "title": "फसल उत्पादन एवं प्रबंधन",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66598d348bdef_फसल उत्पादन एवं प्रबंधन...pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432071,
+      "title": "Conservation of plant & animals",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66598cc0a4999_Conservation of plant & animals.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432070,
+      "title": "पौधों और जानवरों का संरक्षण",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66598cb8bcb74_पौधों और जानवरों का संरक्षण..pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432069,
+      "title": "Cell",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66598caa8191a_Cell.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432068,
+      "title": "कोशिका",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66598ca0eb90e_कोशिका..pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432067,
+      "title": "The language of chemistry",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66597ce54377b_The language of chemistry.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432066,
+      "title": "रसायन विज्ञान की भाषा",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66597cd8757f8_रसायन विज्ञान की भाषा.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432065,
+      "title": "Metal and Nonmetals",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66597cc9a5ddb_Metal and Nonmetals.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432064,
+      "title": "धातु और अधातु",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66597cc11e9e6_धातु और अधातु.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432063,
+      "title": "Materials",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66597cb3a2e83_Materials.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432062,
+      "title": "पदार्थ",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66597caa76525_पदार्थ.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432061,
+      "title": "How Things Change & React With One Another",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66597c9f1bfbc_How Things Change & React With One Another.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432060,
+      "title": "भौतिक एवं रासायनिक परिवर्तन",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66597c8fdc3a9_भौतिक एवं रासायनिक परिवर्तन.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432059,
+      "title": "CombuStion & Flame",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66597c7f42817_COMBUSTION & FLAME.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432058,
+      "title": "दहन एवं ज्वाला",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66597c6032c29_दहन एवं ज्वाला.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432057,
+      "title": "Coal & Petroleum",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66597c4e17839_Coal & Petroleum.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432056,
+      "title": "कोयला और पेट्रोलियम",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66597c3b24f4d_कोयला और पेट्रोलियम.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432055,
+      "title": "Chemical effect of electric current",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66597c2f2b440_Chemical effect of electric current.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432054,
+      "title": "विद्युत धारा का रासायनिक प्रभाव",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66597c2568c1e_विद्युत धारा का रासायनिक प्रभाव.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432053,
+      "title": "Acid Base & Salts",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66597c1a1736f_Acid Base & Salts.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432052,
+      "title": "अम्ल क्षार एवं लवण",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66597c0e310ad_अम्ल क्षार एवं लवण.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432051,
+      "title": "Electric Current & Its Effect",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/664f1c7c57ebb_Electric Current & Its Effect.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432050,
+      "title": "विद्युत धारा और उसका प्रभाव",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/664f1c750ead4_विद्युत धारा और उसका प्रभाव.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432049,
+      "title": "Force & Pressure",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/664f1c4954535_Force & Pressure.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432048,
+      "title": "बल एवं दबाव",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/664f1c4256b3a_बल एवं दबाव.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432047,
+      "title": "Light",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/664f1c0f2093f_Light.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432046,
+      "title": "प्रकाश",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/664f1c08434d2_प्रकाश.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432045,
+      "title": "Sound",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/664f1bc7d7ab8_Sound.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432044,
+      "title": "ध्वनि",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/664f1bc0e8193_ध्वनि.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432043,
+      "title": "Stars & The Solar System",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/664f1af682bf9_Stars & The Solar System.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432042,
+      "title": "तारे और सौर मंडल",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/664f1af0a95b5_तारे और सौर मंडल.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432041,
+      "title": "Friction",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/664f1aad1e516_Friction.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432040,
+      "title": "घर्षण",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/664f1aa4a4ac2_घर्षण.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432039,
+      "title": "Motion And Time",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/664f1a7885ae6_Motion And Time.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432038,
+      "title": "गति और समय",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/664f1a524ee7a_गति और समय.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432037,
+      "title": "Some Natural Phenomena",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/664f1a0b73572_Some Natural Phenomena.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432036,
+      "title": "कुछ प्राकृतिक घटनाएँ",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/664f19e67be43_कुछ प्राकृतिक घटनाएँ.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432035,
+      "title": "Heat",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/664f19ad83457_Heat.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432034,
+      "title": "ऊष्मा",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/664f198d29f7a_ऊष्मा.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432033,
+      "title": "Winds, Storms And Rain",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/664f196e8eb17_Winds, Storms And Rain.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432032,
+      "title": "आँधी, तूफ़ान और बारिश",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/664f194d44f35_आँधी, तूफ़ान और बारिश.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432031,
+      "title": "CTET  MOCK TEST PAPER -2 SET - 5 ANSKEY (MS)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65a4b38b6d15e_CTET  MOCK TEST PAPER -2 SET - 5 ANSKEY (MS).pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432030,
+      "title": "CTET  MOCK TEST PAPER -2 SET -5(ENG) eng - 1 hindi -2  (MS)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65a4b35798514_CTET  MOCK TEST PAPER -2 SET -5(ENG) eng - 1 hindi -2  (MS).pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432029,
+      "title": "CTET  MOCK TEST PAPER -2 SET -5(HINDI) hindi -1 eng - 2 (MS)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65a4b2d7098da_CTET  MOCK TEST PAPER -2 SET -5(HINDI) hindi -1 eng - 2 (MS).pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432028,
+      "title": "CTET  MOCK TEST PAPER -2 SET -5(HINDI) eng - 1 hindi -2 (MS)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65a4b25b492cf_CTET  MOCK TEST PAPER -2 SET -5(HINDI) eng - 1 hindi -2 (MS).pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432027,
+      "title": "CTET  MOCK TEST PAPER -2 SET -5(ENG) hindi -1 eng - 2 (MS)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65a4b1ffb341b_CTET  MOCK TEST PAPER -2 SET -5(ENG) hindi -1 eng - 2 (MS).pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432026,
+      "title": "CTET  MOCK TEST PAPER -2 SET -5 ANSKEY (SST).",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65a4b1b134926_CTET  MOCK TEST PAPER -2 SET -5 ANSKEY (SST)..pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432025,
+      "title": "CTET  MOCK TEST PAPER -2 SET -5(ENG) hindi -1 eng - 2 (SST)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65a4b16fac5a4_CTET  MOCK TEST PAPER -2 SET -5(ENG) hindi -1 eng - 2 (SST).pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432024,
+      "title": "CTET  MOCK TEST PAPER -2 SET -5(ENG) eng - 1 hindi -2  (SST)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65a4b13438441_CTET  MOCK TEST PAPER -2 SET -5(ENG) eng - 1 hindi -2  (SST).pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432023,
+      "title": "CTET  MOCK TEST PAPER -2 SET -5(HINDI) hindi -1 eng - 2 (SST)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65a4b0f379f11_CTET  MOCK TEST PAPER -2 SET -5(HINDI) hindi -1 eng - 2 (SST).pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432022,
+      "title": "CTET  MOCK TEST PAPER -2 SET -5(HINDI) eng - 1 hindi -2  (SST)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65a4b0c23b47d_CTET  MOCK TEST PAPER -2 SET -5(HINDI) eng - 1 hindi -2  (SST).pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432021,
+      "title": "CTET  MOCK TEST PAPER -2 SET -4 ANSKEY (MS)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65a4af364f365_CTET  MOCK TEST PAPER -2 SET -4 ANSKEY (MS).pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432020,
+      "title": "CTET  MOCK TEST PAPER -2 SET -4(HINDI) hindi -1 eng - 2 (MS)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65a4af0fc7de5_CTET  MOCK TEST PAPER -2 SET -4(HINDI) hindi -1 eng - 2 (MS).pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432019,
+      "title": "CTET  MOCK TEST PAPER -2 SET -4(HINDI) eng - 1 hindi -2  (MS)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65a4aed55c552_CTET  MOCK TEST PAPER -2 SET -4(HINDI) eng - 1 hindi -2  (MS).pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432018,
+      "title": "CTET  MOCK TEST PAPER -2 SET -4(ENG) hindi -1 eng - 2 (MS)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65a4ae940e122_CTET  MOCK TEST PAPER -2 SET -4(ENG) hindi -1 eng - 2 (MS).pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432017,
+      "title": "CTET  MOCK TEST PAPER -2 SET -4(ENG) eng - 1 hindi -2  (MS)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65a4ae67a7ec7_CTET  MOCK TEST PAPER -2 SET -4(ENG) eng - 1 hindi -2  (MS).pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432016,
+      "title": "CTET  MOCK TEST PAPER -2 SET -4 ANSKEY (SST).",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65a4ae389b487_CTET  MOCK TEST PAPER -2 SET -4 ANSKEY (SST)..pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432015,
+      "title": "CTET  MOCK TEST PAPER -2 SET -3 ANSKEY (MS)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65a4ae0e74304_CTET  MOCK TEST PAPER -2 SET -3 ANSKEY (MS).pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432014,
+      "title": "CTET  MOCK TEST PAPER -2 SET -3(ENG) eng - 1 hindi -2  (MS)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65a4addd73322_CTET  MOCK TEST PAPER -2 SET -3(ENG) eng - 1 hindi -2  (MS).pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432013,
+      "title": "CTET  MOCK TEST PAPER -2 SET -3(ENG) eng - 1 hindi -2  (MS)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65a4adacca1be_CTET  MOCK TEST PAPER -2 SET -3(ENG) eng - 1 hindi -2  (MS).pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432012,
+      "title": "CTET  MOCK TEST PAPER -2 SET -3(HINDI) eng - 1 hindi -2 (MS)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65a4ad7b10f7f_CTET  MOCK TEST PAPER -2 SET -3(HINDI) eng - 1 hindi -2 (MS)@.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432011,
+      "title": "CTET  MOCK TEST PAPER -2 SET -3(ENG) hindi -1 eng - 2 (MS)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65a4ad4954d9d_CTET  MOCK TEST PAPER -2 SET -3(ENG) hindi -1 eng - 2 (MS).pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432010,
+      "title": "CTET  MOCK TEST PAPER -2 SET -3 ANSKEY (SST).",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65a4a9a99b238_CTET  MOCK TEST PAPER -2 SET -3 ANSKEY (SST)..pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432009,
+      "title": "CTET  MOCK TEST PAPER -2 SET -3(ENG) hindi -1 eng - 2 (SST)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65a4a96a60812_CTET  MOCK TEST PAPER -2 SET -3(ENG) hindi -1 eng - 2 (SST).pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432008,
+      "title": "CTET  MOCK TEST PAPER -2 SET -3(ENG) eng - 1 hindi -2  (SST)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65a4a91959d03_CTET  MOCK TEST PAPER -2 SET -3(ENG) eng - 1 hindi -2  (SST).pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432007,
+      "title": "CTET  MOCK TEST PAPER -2 SET -3(HINDI) hindi -1 eng - 2 (SST)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65a4a8edac46a_CTET  MOCK TEST PAPER -2 SET -3(HINDI) hindi -1 eng - 2 (SST).pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432006,
+      "title": "CTET  MOCK TEST PAPER -2 SET -3(HINDI) eng - 1 hindi -2  (SST)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65a4a8c1a77ce_CTET  MOCK TEST PAPER -2 SET -3(HINDI) eng - 1 hindi -2  (SST)@.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432005,
+      "title": "CTET  MOCK TEST PAPER -2 SET -2 ANSKEY (M.S)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/659a7b9948e8d_CTET  MOCK TEST PAPER -2 SET -2 ANSKEY (M.S).pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432004,
+      "title": "CTET  MOCK TEST PAPER -2 SET -2(HINDI) hindi -1 eng - 2 (MS)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/659a7b7f1411e_CTET  MOCK TEST PAPER -2 SET -2(HINDI) hindi -1 eng - 2 (MS).pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432003,
+      "title": "CTET  MOCK TEST PAPER -2 SET -2(HINDI) eng - 1 hindi -2  (MS)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/659a7b5b4d554_CTET  MOCK TEST PAPER -2 SET -2(HINDI) eng - 1 hindi -2  (MS).pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432002,
+      "title": "CTET  MOCK TEST PAPER -2 SET -2(ENG) hindi -1 eng - 2 (MS)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/659a7b3da7965_CTET  MOCK TEST PAPER -2 SET -2(ENG) hindi -1 eng - 2 (MS).pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432001,
+      "title": "CTET  MOCK TEST PAPER -2 SET -2(ENG) eng - 1 hindi -2 (SST)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/659a7b07d4f0b_CTET  MOCK TEST PAPER -2 SET -2(ENG) eng - 1 hindi -2 (SST).pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 432000,
+      "title": "CTET MOCK TEST PAPER -2 Set - 1 ANSKEY(SST)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/659a7ae18ccf3_CTET MOCK TEST PAPER -2 Set - 1 ANSKEY(SST).pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431999,
+      "title": "CTET  MOCK TEST PAPER -2 SET -1(ENG) hindi -1 eng - 2(SST)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/659a7ac782a8f_CTET  MOCK TEST PAPER -2 SET -1(ENG) hindi -1 eng - 2(SST).pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431998,
+      "title": "CTET  MOCK TEST PAPER -2 SET -1(HINDI) hindi -1 eng - 2(SST)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/659a7aafa903a_CTET  MOCK TEST PAPER -2 SET -1(HINDI) hindi -1 eng - 2(SST).pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431997,
+      "title": "CTET  MOCK TEST PAPER -2 SET -1(HINDI) eng - 1 hindi -2(SST)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/659a7a982b59c_CTET  MOCK TEST PAPER -2 SET -1(HINDI) eng - 1 hindi -2(SST).pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431996,
+      "title": "CTET  MOCK TEST PAPER -2 SET -1(ENG) eng - 1 hindi -2(SST)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/659a7a7d63c16_CTET  MOCK TEST PAPER -2 SET -1(ENG) eng - 1 hindi -2(SST).pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431995,
+      "title": "CTET MOCK TEST  PAPER -2  SET - 1  (MS) ANSWERKEY",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/659a79eac737a_CTET MOCK TEST  PAPER -2  SET - 1  (MS) ANSWERKEY.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431994,
+      "title": "CTET  MOCK TEST PAPER -2 SET -1(HINDI) hindi -1 eng - 2  (MS)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/659a79c7d7b2f_CTET  MOCK TEST PAPER -2 SET -1(HINDI) hindi -1 eng - 2  (MS).pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431993,
+      "title": "CTET  MOCK TEST PAPER -2 SET -1(HINDI) eng - 1 hindi -2 (MS)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/659a79ac70d3f_CTET  MOCK TEST PAPER -2 SET -1(HINDI) eng - 1 hindi -2 (MS).pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431992,
+      "title": "CTET  MOCK TEST PAPER -2 SET -1(ENG) eng - 1 hindi -2 (MS)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/659a7962daf45_CTET  MOCK TEST PAPER -2 SET -1(ENG) eng - 1 hindi -2 (MS).pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431991,
+      "title": "CTET  MOCK TEST PAPER -2 SET -1(ENG) hindi -1 eng - 2  (MS)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/659a7930f2995_CTET  MOCK TEST PAPER -2 SET -1(ENG) hindi -1 eng - 2  (MS).pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431990,
+      "title": "World Vegetation Distribution of Natural Vegetation and Wildlife",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6638b489d7471_GEOGRAPHY- WORLD VEGETATION DISTRIBUTION OF NATURALC VEGETATION AND WILDLIFE.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431989,
+      "title": "Weather and Climate",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6638b4027859e_GEOGRAPHY- WEATHER AND CLIMATE.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431988,
+      "title": "Understanding the Environment",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6638b3a6e167d_GEOGRAPHY- UNDERSTANDING THE ENVIRONMENT.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431987,
+      "title": "The Hydrosphere",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6638b35d3e755_GEOGRAPHY- THE HYDROSPHERE.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431986,
+      "title": "Our Ever Changing Earth",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6638b283a8066_GEOGRAPHY- OUR EVER CHANGING EARTH.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431985,
+      "title": "Life in the Temperate Grasslands",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6638b240db537_GEOGRAPHY- LIFE IN THE TEMPERATE GRASSLANDS.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431984,
+      "title": "Life in the hot and cold Deserts",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6638b20f04330_GEOGRAPHY- LIFE IN THE HOT AND COLD DESERTS.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431983,
+      "title": "Inside our Earth Rocks and Minerals",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6638b1d26f98b_GEOGRAPHY- INSIDE OUR EARTH - ROCKS AND MINERALS.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431982,
+      "title": "Human Environment - Settlements, Transport and Communication",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6638b0f520628_GEOGRAPHY- HUMAN ENVIRONMENT - SETTLEMENTS, TRANSPORT AND COMMUNICATION.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431981,
+      "title": "Where in the World are we",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6638b0755714c_GEOGRAPHY- WHERE IN THE WORLD ARE WE.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431980,
+      "title": "The four Great Realms of Our Planet Earth",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6638b03c6f898_GEOGRAPHY- THE FOUR GREAT REALMS OF OUR PLANET EARTH.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431979,
+      "title": "Our Country India-Location and Physical Fetures",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6638afc4eaf3d_GEOGRAPHY- OUR COUNTRY INDIA-LOCATION AND PHYSICAL FEATURES.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431978,
+      "title": "Motions of the Earth",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6638af39a4792_GEOGRAPHY- MOTIONS OF THE EARTH.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431977,
+      "title": "Major Landforms of the Earth",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6638af0f00be0_GEOGRAPHY- MAJOR LANDFORMS OF THE EARTH.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431976,
+      "title": "India Climate Natural Vegetation and Wildlife",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6638aecf7e7e8_GEOGRAPHY- INDIA-CLIMATE, NATURAL VEGETATION AND WILDLIFE.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431975,
+      "title": "Earth as Part of the Solar System",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6638aea52d810_GEOGRAPHY- EARTH AS PART OF THE SOLAR SYSTEM.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431974,
+      "title": "MAPS",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6638ae7ac5786_GEOGRAPHY-  MAPS.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431973,
+      "title": "हमारी सदैव बदलती पृथ्वी",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6638ae1a49108_हमारी सदैव बदलती पृथ्वी.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431972,
+      "title": "शीतोष्ण घास के मैदानों में जीवन",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6638ae06e2930_शीतोष्ण घास के मैदानों में जीवन.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431971,
+      "title": "वनस्पति",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6638adf735c08_वनस्पति.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431970,
+      "title": "मौसम और जलवायु",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6638ade1e5af3_मौसम और जलवायु.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431969,
+      "title": "मानव भूगोल",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6638add110f02_मानव भूगोल.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431968,
+      "title": "पर्यावरण",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6638adc28571d_पर्यावरण.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431967,
+      "title": "जलवायु",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6638adb1956c4_जलवायु.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431966,
+      "title": "जल मंडल",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6638ad9ecaa1e_जल मंडल.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431965,
+      "title": "चट्टानें और खनिज",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6638ad8a4786e_चट्टानें और खनिज.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431964,
+      "title": "हमारी धरती के परिमंडल",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66347b1f96a08_हमारी धरती के परिमंडल.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431963,
+      "title": "सौर मंडल",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66347b0bad014_सौर मंडल.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431962,
+      "title": "मानचित्र",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66347a7ef1654_मानचित्र.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431961,
+      "title": "भारत (स्थान और भौतिक विशेषता)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66347a69b2922_भारत (स्थान और भौतिक विशेषता).pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431960,
+      "title": "पृथ्वी की प्रमुख भू-आकृतियाँ",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66347a4e92fee_पृथ्वी की प्रमुख भू-आकृतियाँ.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431959,
+      "title": "पृथ्वी की गतियाँ",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66347a3a2218e_पृथ्वी की गतियाँ.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431958,
+      "title": "जलवायु विज्ञान",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66347a253adfa_जलवायु विज्ञान.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431957,
+      "title": "अक्षांश एवं देशान्तर",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66347a10ee6f1_अक्षांश एवं देशान्तर.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431924,
+      "title": "When, Where And How",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6638ab287509c_HISTORY When, Where And How.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431923,
+      "title": "Towns, Traders And Craftsmen",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6638a47fe0168_HISTORY-Towns, Traders And Craftsmen.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431922,
+      "title": "The Delhi Sultnate",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6638a44cdbbad_HISTORY-The Delhi Sultανατε.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431921,
+      "title": "Political Formation In Eighteenth Century India",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6638a3fca9cfe_HISTORY-Political Formation In Eighteenth Century India.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431920,
+      "title": "New Kings And Kingdoms In India",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6638a3dec8f9f_HISTORY-New Kings And Kingdoms In India.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431919,
+      "title": "Devotional Paths To The Divine",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6638a3aa50137_HISTORY-Devotional Paths To The Divine.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431918,
+      "title": "When, Where And How",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6638a39a32a55_HISTORY When, Where And How.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431917,
+      "title": "The Mughal Empire",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6638a36579d76_HISTORY- The Mughal Empire.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431916,
+      "title": "Architecture As Power",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6638a32865f75_HISTORY- Architecture As Power.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431915,
+      "title": "Development In Art And Architecture",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6634765d037fc_HISTORY-Development In Art And Architecture.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431914,
+      "title": "Contact With Distant Lands",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66347648a1908_HISTORY-Contact With Distant Lands.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431913,
+      "title": "When, Where And How",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/663476316f86e_HISTORY- When, Where And How.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431912,
+      "title": "The Vedic Age",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6634761b88542_HISTORY- The Vedic Age.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431911,
+      "title": "The Second Urbanisation",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66347607d5abf_HISTORY- The Second Urbanisation.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431910,
+      "title": "The Neolithic Revolution",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/663475f7a30ed_HISTORY- The Neolithic Revolution.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431909,
+      "title": "The Lives Of The Hunter-Gatherers",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/663475df4ac36_HISTORY- The Lives Of The Hunter-gatherers.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431908,
+      "title": "New Thoughts - Evolution Of Ideas",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/663475c56ce01_HISTORY- New Thoughts - Evolution Of Ideas.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431907,
+      "title": "New Empires And Kingdoms",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/663475b081a32_HISTORY- New Empires And Kingdoms.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431906,
+      "title": "Early Kingdoms And Republics",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6634759d36a34_HISTORY- Early Kingdoms And Republics.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431905,
+      "title": "Early Cities In The Indian Subcontinent",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6634758b1d39d_HISTORY- Early Cities In The Indian Subcontinent.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431904,
+      "title": "Ashoka The Great",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/663214b8f10b0_HISTORY- ASHOKA THE GREAT.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431903,
+      "title": "वास्तुकला",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/663213f80cd74_वास्तुकला.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431902,
+      "title": "मध्यकालीन भारत",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/663213e41b74b_मध्यकालीन भारत.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431901,
+      "title": "मध्यकालीन इतिहास-2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/663213b21e650_मध्यकालीन इतिहास-1.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431900,
+      "title": "मध्यकालीन इतिहास-1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6632139f156fd_मध्यकालीन इतिहास.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431899,
+      "title": "नए सम्राट और साम्राज्य",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6632138f6b9f0_नए सम्राट और साम्राज्य.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431898,
+      "title": "धर्म",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/663213799495a_धर्म.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431897,
+      "title": "दिल्ली सल्तनत",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6632135ddd08c_दिल्ली सल्तनत.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431896,
+      "title": "अठारहवीं सदी के भारत में राजनीतिक गठन",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6632134edd03d_अठारहवीं सदी के भारत में राजनीतिक गठन.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431895,
+      "title": "शिकारी-संग्रहकर्ताओं का जीवन",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/663213263d145_शिकारी-संग्रहकर्ताओं का जीवन.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431894,
+      "title": "वैदिक काल",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/663213165d6fe_वैदिक काल.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431893,
+      "title": "भारतीय उपमहाद्वीप के प्रारंभिक शहर",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/663212fe9327a_भारतीय उपमहाद्वीप के प्रारंभिक शहर.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431892,
+      "title": "प्रारंभिक साम्राज्य और गणराज्य",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/663212efbcad6_प्रारंभिक साम्राज्य और गणराज्य.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431891,
+      "title": "नवपाषाण क्रांति",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/663212df75b28_नवपाषाण क्रांति.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431890,
+      "title": "नए राज्य एवं साम्राज्य का उदय",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/663212ce65871_नए राज्य एवं साम्राज्य का उदय.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431889,
+      "title": "द्वितीय शहरीकरण",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/663212bb4ecbe_द्वितीय शहरीकरण.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431888,
+      "title": "कला और संस्कृति",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/663212ab55f6b_कला और संस्कृति.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431887,
+      "title": "इतिहास – कब, कहाँ और कैसे",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/663212999d532_इतिहास – कब, कहाँ और कैसे.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431886,
+      "title": "आधुनिक इतिहास-2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66321288d0cb0_आधुनिक इतिहास-2.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431885,
+      "title": "आधुनिक इतिहास-1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6632127f9ee8e_आधुनिक इतिहास.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431884,
+      "title": "अशोक महान",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/663212060aef5_अशोक महान.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431883,
+      "title": "CTET Paper -II SET E English Hindi",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/658af02c3fd54_CTET_Paper_II_SET_E_English_Hindi_1__9e77d9b287b1eb71634d513bf606ef69 (1).pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431882,
+      "title": "CTET P-2 (29-12-2022)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64b7d6af63bc3_ctet ms l1 english l2 hindi p2 (29-12-2022)_compressed.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431881,
+      "title": "CTET P-2 (23-01-2023)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64b7d5f0796e0_ctet ms l1 english l2 hindi p2 (23-01-2023)_compressed.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431880,
+      "title": "CTET P-2 (20-01-2023)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64b7d56bae83d_ctet ms l1 english l2 hindi p2 (20-01-2023)_compressed.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431879,
+      "title": "CTET P-2 (19-01-2023)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64b7d507dc2ef_ctet ms l1 english l2 hindi p2 (19-01-2023)_compressed.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431878,
+      "title": "CTET P-2 (18-01-2023)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64b7d4880aae6_ctet ms l1 english l2 hindi p2 (18-01-2023)_compressed.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431877,
+      "title": "CTET P-2 (17-01-2023)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64b7d4335fd5d_ctet ms l1 english l2 hindi p2 (17-01-2023)_compressed.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431876,
+      "title": "CTET P-2 (13-01-2023)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64b7d3fcdf416_ctet ms l1 english l2 hindi p2 (13-01-2023)_compressed.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431875,
+      "title": "CTET P-2 (12-01-2023)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64b7d3afa180b_ctet ms l1 english l2 hindi p2 (12-01-2023)_compressed.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431874,
+      "title": "CTET P-2 (11-01-2023)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64b7d3727a0b8_ctet ms l1 english l2 hindi p2 (11-01-2023)_compressed.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431873,
+      "title": "CTET P-2 (10-01-2023)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64b7d3118c0af_ctet ms l1 english l2 hindi p2 (10-01-2023)_compressed.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431872,
+      "title": "CTET P-2 (30-01-2023)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64b7d266efed0_ctet ss l1 hindi l2 english p2 (30-01-2023)_compressed.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431871,
+      "title": "CTET P-2 (29-01-2023)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64b7d20fed073_ctet ss l1 hindi l2 english p2 (29-01-2023)_compressed.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431870,
+      "title": "CTET P-2 (28-01-2023)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64b7d1cb19f74_ctet ss l1 hindi l2 english p2 (28-01-2023)_compressed.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431869,
+      "title": "CTET P-2 (27-01-2023)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64b7d15f6f134_ctet ss l1 hindi l2 english p2 (27-01-2023)_compressed.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431868,
+      "title": "CTET P-2 (25-01-2023)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64b7d107e83f4_ctet ss l1 hindi l2 english p2 (25-01-2023)_compressed.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431867,
+      "title": "CTET P-2 (24-01-2023)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64b7d0b01fd73_ctet ss l1 hindi l2 english p2 (24-01-2023)_compressed.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431866,
+      "title": "CTET P-2 (07-02-2023)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64b7d04946f71_ctet ss l1 hindi l2 english p2 (07-02-2023)_compressed.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431865,
+      "title": "CTET P-2 (06-02-2023)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64b7cfd7ca9f9_ctet ss l1 hindi l2 english p2 (06-02-2023)_compressed.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431864,
+      "title": "CTET P-2 (04-02-2023)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64b7c4c760887_ctet ss l1 hindi l2 english p2 (04-02-2023)_compressed.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431863,
+      "title": "CTET P-2 (03-02-2023)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64b7c46ddfdc2_ctet ss l1 hindi l2 english p2 (03-02-2023)_compressed.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431862,
+      "title": "CTET P-2 (02-02-2023)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64b7c4112df10_ctet ss l1 hindi l2 english p2 (02-02-2023)_compressed.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431861,
+      "title": "CTET P-2 (01-02-2023)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64b7c2e77b8d2_ctet ss l1 hindi l2 english p2 (01-02-2023)_compressed.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431860,
+      "title": "CTET P-2 (23-01-2023)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64b7c289e4791_ctet ss l1 hindi l2 english p2 (23-01-2023)_compressed.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431859,
+      "title": "CTET P-2 (28-12-2022)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64b7c2339b19d_ctet ss l1 english l2 hindi p2 (28-12-2022)_compressed.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431858,
+      "title": "CTET P-2 (20-01-2023)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64b7c1daaf75a_ctet ss l1 english l2 hindi p2 (20-01-2023)_compressed.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431857,
+      "title": "CTET P-2 (19-01-2023)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64b7c16f5a4a4_ctet ss l1 english l2 hindi p2 (19-01-2023)_compressed.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431856,
+      "title": "CTET P-2 (18-01-2023)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64b7c111db053_ctet ss l1 english l2 hindi p2 (18-01-2023)_compressed.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431855,
+      "title": "CTET P-2 (17-01-2023)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64b7c0b1552d6_ctet ss l1 english l2 hindi p2 (17-01-2023)_compressed.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431854,
+      "title": "CTET P-2 (13-01-2023) ",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64b7bf230db59_ctet ss l1 english l2 hindi p2 (13-01-2023)_compressed.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431853,
+      "title": "CTET P-2 (12-01-2023)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64b7bed0a1aa9_ctet ss l1 english l2 hindi p2 (12-01-2023)_compressed.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431852,
+      "title": "CTET P-2 (11-01-2023)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64b7be7f77540_ctet ss l1 english l2 hindi p2 (11-01-2023)_compressed.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431851,
+      "title": "CTET P-2 (10-01-2023)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64b7be374ce3b_ctet ss l1 english l2 hindi p2 (10-01-2023)_compressed.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431850,
+      "title": "CTET P-2 (30-01-2023)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64b7bc60ecad1_ctet ms l1 hindi l2 english p2 (30-01-2023)_compressed.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431849,
+      "title": "CTET P-2 (29-01-2023)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64b7bbb8c6910_ctet ms l1 hindi l2 english p2 (29-01-2023)_compressed.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431848,
+      "title": "CTET P-2 (28-01-2023)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64b7ba407707d_ctet ms l1 hindi l2 english p2 (28-01-2023)_compressed.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431847,
+      "title": "CTET P-2 (27-01-2023)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64b7b96f0ac4d_ctet ms l1 hindi l2 english p2 (27-01-2023)_compressed.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431846,
+      "title": "CTET P-2 (25-01-2023)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64b7b8d3c99d0_ctet ms l1 hindi l2 english p2 (25-01-2023)_compressed.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431845,
+      "title": "CTET P-2 (24-01-2023)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64b7b8516cd7b_ctet ms l1 hindi l2 english p2 (24-01-2023)_compressed.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431844,
+      "title": "CTET P-2 (07-02-2023)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64b7b71b8de40_ctet ms l1 hindi l2 english p2 (07-02-2023)_compressed.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431843,
+      "title": "CTET P-2 (06-02-2023)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64b7b6541781a_ctet ms l1 hindi l2 english p2 (06-02-2023)_compressed.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431842,
+      "title": "CTET P-2 (04-02-2023)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64b7b5e0ece35_ctet ms l1 hindi l2 english p2 (04-02-2023)_compressed.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431841,
+      "title": "CTET P-2 (03-02-2023)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64b7b560b6a5e_ctet ms l1 hindi l2 english p2 (03-02-2023)_compressed.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431840,
+      "title": "CTET P-2 (02-02-2023)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64b7b4bd79513_ctet ms l1 hindi l2 english p2 (02-02-2023)_compressed.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431839,
+      "title": "CTET P-2 (01-02-2023)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64b7b3e960f96_ctet ms l1 hindi l2 english p2 (01-02-2023)_compressed.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431838,
+      "title": "Ctet Jan 2021 - Paper - 2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1637132527-Ctet_Jan_2021_-_Paper_-_2.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431837,
+      "title": "Ctet Dec 2019 - Paper - 2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1637132527-Ctet_Dec_2019_-_Paper_-_2.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431836,
+      "title": "Ctet July 2019 - Paper - 2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1637132527-Ctet_July_2019_-_Paper_-_2.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431835,
+      "title": "CTET Paper - 2 (Maths & Sci Ebook)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1637131981-CTET_MASTER_BOOK_M-S_P-2.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431834,
+      "title": "CTET Paper - 2 (SST Ebook)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1637132135-CTET_MASTER_BOOK_P-2_SST.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431833,
+      "title": "Class 8th History All chapter (English & hindi) ",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1665650634-Class_8th_History_All_(Chapter_English_hindi)_compressed.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431832,
+      "title": "Class 7th History All chapter (English & hindi) ",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1665650634-Class_7th_History_All_chapter_(English_hindi)_compressed.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431831,
+      "title": "Class 6th History All chapter (English & hindi) ",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1665650634-Class_6th_History_All_chapter_(English_hindi)_compressed.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431830,
+      "title": "Class 8th Polity. All Chapter (English & Hindi)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1664772306-Class_8th_Polity__All_Chapter_(English_Hindi).pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431829,
+      "title": "Class 7th Polity. All Chapter (English & Hindi)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1664772306-Class_7th_Polity__All_chapter_(English_Hindi).pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431828,
+      "title": "Class 6th Polity All Chapter (English & Hindi)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1664772306-Class_6th_Polity_All_chapter_(English_Hindi).pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431827,
+      "title": "Class 8th Science. All Chapter (English & Hindi)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1664258740-Class_8th_Science__All_chapter_(English_Hindi)_compressed.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431826,
+      "title": "Class 7th Science. All Chapter (English & Hindi)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1664258740-Class_7th_Science__All_chapter_(English_Hindi)_compressed.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431825,
+      "title": "Class 6th Science. All Chapter (English & Hindi)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1673955252-Class_6th_Science__All_chapter_English_Hindi_.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431824,
+      "title": "Class 8th Geography (English & Hindi) ",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1664258740-Class_8th_Geography_(English_hindi)_compressed.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431823,
+      "title": "Class 7th Geography (English & Hendi) ",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1664258740-Class_7th_Geography_(English_Hendi)_compressed.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431822,
+      "title": "Class 6th Geography (English & Hindi)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1664258740-Class_6th_Geography_(English_Hindi)_compressed.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431821,
+      "title": "CTET Set - (1 to 9)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1668751161-Student_CTET_Set_1_to_9_Sanskrit_Student_(1).pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431820,
+      "title": "Biology English Notes (Part-4)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6628eb1d41f07_Biology English Notes (PART-4).pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431819,
+      "title": "Biology English Notes (Part-3)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6628eaeb58501_Biology English Notes (PART-3).pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431818,
+      "title": "Biology English Notes (Part-2)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6628eab504c3d_Biology English Notes (PART-2).pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431817,
+      "title": "Biology English Notes (Part-1)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6628ea7428659_Biology English Notes (PART-1).pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431816,
+      "title": "Biology Hindi Notes (Part-4)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6628e86648523_Biology Hindi Notes (PART-4).pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431815,
+      "title": "Biology Hindi Notes (Part-3)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6628e81f561e0_Biology Hindi Notes (PART-3).pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431814,
+      "title": "Biology Hindi Notes (Part-2)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6628e7e4867e9_Biology Hindi Notes (PART-2).pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431813,
+      "title": "Biology Hindi Notes (Part-1)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6628e787422e1_Biology Hindi Notes (PART-1).pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431812,
+      "title": "Chemistry Marathon-3",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66823e5aacf28_CTET-3 DONE.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431811,
+      "title": "Chemistry Marathon-2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66751affb1a04_CTET-2n_compressed.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431810,
+      "title": "Chemistry Marathon-1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6673bb0c790c9_Ctet-1 chemistry_compressed.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431807,
+      "title": "Current Electricity",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1664788584-Current_Electricity.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431806,
+      "title": "Fibre To Fabric - 02",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1664788584-Fibre_To_Fabric_-_2.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431805,
+      "title": "Fibre To Fabric - 01 ",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1664788584-Fibre_To_Fabric.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431804,
+      "title": "Fibre to Fabric",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1663040975-1637994181-Fibre_To_Fabric.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431803,
+      "title": "Physics Marathon-4",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6684de997de82_Phy-1 (DONE).pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431802,
+      "title": "Physics Marathon-2&3",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66826f93ea0e4_Phy-2 & 3 (DONE).pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431801,
+      "title": "Phy Eng Full Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1632213668-Phy_Eng_Full_Notes.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431800,
+      "title": "Phy Hin Full Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1632213668-Phy_Hin_Full_Notes.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431799,
+      "title": "2024 Polity Set-1,2,3",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/667d0a5429412_2024 Polity Set-1,2,3_compressed.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431796,
+      "title": "Geo Practice PDF 27 June",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/667e64b798f07_CTET Geography practice by vivek sir 27 june_compressed.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431795,
+      "title": "Geography Practice PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/667bab59c15f7_ctet practice by vivek sir 25 june_compressed.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431717,
+      "title": "Math Pedagogy Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1633069346-math_pedagogy_notes.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431716,
+      "title": "Maths Full PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1632993751-PAPER_-_2_,_COMBO,_SUPERTET_compressed.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431456,
+      "title": "Chem | 25 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66f4d139b0554_Chem_25_Sept_Class_PNG_CTET_Dec_2024_Paper2_CTET_Dec_2024_Paper12_New_Batch_Free_1245_pmcompressed.pdf",
+      "date": "26-Sep-2024"
+    },
+    {
+      "id": 431439,
+      "title": "Eng | 25 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66f4cdd138f05_CTETPaper1_CTETPaper2_CTET_Paper12_Eng_by_Arun_Gautam_Sir_2_pm_25_Septcompressed.pdf",
+      "date": "26-Sep-2024"
+    },
+    {
+      "id": 431434,
+      "title": "Number | 25 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66f4cdaa6e733_11.15_ctet_Class_Uday_Sir_25_Septcompressed.pdf",
+      "date": "26-Sep-2024"
+    },
+    {
+      "id": 431040,
+      "title": "Chem | 24 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66f370a7c4997_Chem_24_Sept_Class_PNG_CTET_Dec_2024_Paper2_CTET_Dec_2024_Paper12_New_Batch_Free_1245_pmcompressed.pdf",
+      "date": "25-Sep-2024"
+    },
+    {
+      "id": 431007,
+      "title": "Number | 24 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66f36b6a2099b_11.15_ctet_Class_Uday_Sir_24_Sept.pdf",
+      "date": "25-Sep-2024"
+    },
+    {
+      "id": 430999,
+      "title": "Bio | 24 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66f36aeb23774_CTET_BIO_Bhawani_Sir_8_PM_24_Sep.pdf",
+      "date": "25-Sep-2024"
+    },
+    {
+      "id": 430996,
+      "title": "Eng | 24 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66f36ac943dda_CTETPaper1_CTETPaper2_CTET_Paper12_Eng_by_Arun_Gautam_Sir_2_pm_24_Septcompressed.pdf",
+      "date": "25-Sep-2024"
+    },
+    {
+      "id": 430921,
+      "title": "वाक्य में त्रुटि",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66f2874e7060e__HINDI_DIGITAL_BOARD....pdf",
+      "date": "24-Sep-2024"
+    },
+    {
+      "id": 430917,
+      "title": "अनेकार्थी शब्द नोट्स",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66f287109b243__.pdf",
+      "date": "24-Sep-2024"
+    },
+    {
+      "id": 430913,
+      "title": "एकार्थी शब्द",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66f286c0c306c__.pdf",
+      "date": "24-Sep-2024"
+    },
+    {
+      "id": 430909,
+      "title": "विपरीतार्थक शब्द",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66f286194c722__.pdf",
+      "date": "24-Sep-2024"
+    },
+    {
+      "id": 430905,
+      "title": "विलोम शब्द नोट्स",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66f285f0988ac__.pdf",
+      "date": "24-Sep-2024"
+    },
+    {
+      "id": 430901,
+      "title": "शब्दावली हिंदी",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66f285b263e16_Sabdavali_hindi_digital_board.pdf",
+      "date": "24-Sep-2024"
+    },
+    {
+      "id": 430897,
+      "title": "रिक्त स्थान वाक्य",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66f2854d76e99_Rikt_sthan_vale_vakya_PDFcompressed.pdf",
+      "date": "24-Sep-2024"
+    },
+    {
+      "id": 430893,
+      "title": "वाक्य अशुद्धि",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66f284a733cfc_Vakya_Ashudhhicompressed.pdf",
+      "date": "24-Sep-2024"
+    },
+    {
+      "id": 430890,
+      "title": "अनेकार्थी शब्द",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66f28435aca1e__dcompressed.pdf",
+      "date": "24-Sep-2024"
+    },
+    {
+      "id": 430886,
+      "title": "वर्तनी",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66f283bcd9965_Vartani_dcompressed.pdf",
+      "date": "24-Sep-2024"
+    },
+    {
+      "id": 430884,
+      "title": "विलोम शब्द",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66f280da5be9d_Vilom_shabd_14.09.24_PDFcompressed.pdf",
+      "date": "24-Sep-2024"
+    },
+    {
+      "id": 430835,
+      "title": "Chem | 23 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66f264a71f279_Chem_23_Sept_Class_PNG_CTET_Dec_2024_Paper2_CTET_Dec_2024_Paper12_New_Batch_Free_1245_pmcompressed.pdf",
+      "date": "24-Sep-2024"
+    },
+    {
+      "id": 430817,
+      "title": "Eng | 23 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66f2600b2f453_CTETPaper1_CTETPaper2_CTET_Paper12_Eng_by_Arun_Gautam_Sir_2_pm_23_Septcompressed.pdf",
+      "date": "24-Sep-2024"
+    },
+    {
+      "id": 430805,
+      "title": "Bio | 23 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66f25f3b56760_CTET_Bio_Bhawani_Sir_23_Sep_8_PM.pdf",
+      "date": "24-Sep-2024"
+    },
+    {
+      "id": 430723,
+      "title": "Number | 23 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66f249a2b6230_11.30_ctet_Class_Uday_Sir_23_Sept.pdf",
+      "date": "24-Sep-2024"
+    },
+    {
+      "id": 430713,
+      "title": "Bio | 21 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66f13df3e7ffd_CTET_BIO_Bhawani_Sir_7_PM_21_Sep.pdf",
+      "date": "23-Sep-2024"
+    },
+    {
+      "id": 430711,
+      "title": "Bio | 20 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66f13dd25739c_CTET_Bio_Bhawani_Sir_20_Sep_8_PM.pdf",
+      "date": "23-Sep-2024"
+    },
+    {
+      "id": 429898,
+      "title": "Chem | 20 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66ee2bc89f412_Chem_20_Sept_Class_PNG_CTET_Dec_2024_Paper2_CTET_Dec_2024_Paper12_New_Batch_Free_1245_pmcompressed.pdf",
+      "date": "21-Sep-2024"
+    },
+    {
+      "id": 429875,
+      "title": "Eng | 20 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66ee2729b0730_CTETPaper1_CTETPaper2_CTET_Paper12_Eng_by_Arun_Gautam_Sir_5_pm_20_Septcompressed.pdf",
+      "date": "21-Sep-2024"
+    },
+    {
+      "id": 429871,
+      "title": "Maths Intro | 20 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66ee2701f2ac1_11.30_ctet_Class_Uday_Sir_20_Sept.pdf",
+      "date": "21-Sep-2024"
+    },
+    {
+      "id": 429865,
+      "title": "CDP Syllabus",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65f9244bcba3f_Syllabus Bilingual (1) (1).pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 429864,
+      "title": "Syllabus Elementary Stage",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1648039718-1632220255-Syllabus_Elementary_Stage_pmd.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 429863,
+      "title": "Syllabus for Primary",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1648039718-1632214497-Syllabus_for_Primary_pmd.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 429507,
+      "title": "Chem | 19 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66ecdd756a7b9_Chem_19_Sept_Class_PNG_CTET_Dec_2024_Paper2_CTET_Dec_2024_Paper12_New_Batch_Free_1245_pmcompressed.pdf",
+      "date": "20-Sep-2024"
+    },
+    {
+      "id": 429470,
+      "title": "Bio | 19 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66ecd67f9999f_CTET_Bio_Bhawani_Sir_19_Sep_8_PM.pdf",
+      "date": "20-Sep-2024"
+    },
+    {
+      "id": 429458,
+      "title": "Eng | 19 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66ecd453cd043_CTETPaper1_CTETPaper2_CTET_Paper12_New_Batch_Free_Eng_by_Arun_Gautam_Sir_5_pmcompressed.pdf",
+      "date": "20-Sep-2024"
+    },
+    {
+      "id": 431956,
+      "title": "Discrimination Inequality, Stereotypes and Prejudice",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6638b678a1456_POLITY- DISCRIMINATION-INEQUALITY, STEREOTYPES AND PREJUDICE.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431954,
+      "title": "Understanding Media",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6638ac8db3217_POLITY- UNDERSTANDING MEDIA.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431953,
+      "title": "Understanding Advertising",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6638ac6b6e57d_POLITY- UNDERSTANDING ADVERTISING.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431952,
+      "title": "Role of the State Government in Health Care",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6638ac3e98db6_POLITY- ROLE OF THE STATE GOVERNMENT IN HEALTH CARE.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431951,
+      "title": "Role of Gender",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6638ac07b4d65_POLITY- ROLE OF GENDER.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431950,
+      "title": "Institutional Representation of Democracy",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6638abea0f4f4_POLITY- INSTITUTIONAL REPRESENTATION OF DEMOCRACY.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431949,
+      "title": "Functioning of State Government",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6638abc1d96b2_POLITY- FUNCTIONING OF STATE GOVERNMENT.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431948,
+      "title": "Democracy",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6638ab72c8fe8_POLITY- DEMOCRACY.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431947,
+      "title": "Urban Livelihoods",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6638aa64248f6_POLITY- URBAN LIVELIHOODS.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431808,
+      "title": "Chem (Hindi) Full Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1653560969-Chem_Notes_Hindi_By_Satender_Sir_(1).pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431946,
+      "title": "Urban administration",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6638aa3cafb3c_POLITY- URBAN ADMINISTRATION.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431809,
+      "title": "Chem (Eng) Full Notes ",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1624090349-Chem_Notes_Eng_By_Satender_Sir.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431945,
+      "title": "Rural Livelihoods",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6638aa1a57aee_POLITY- RURAL LIVELIHOODS.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431944,
+      "title": "RURAL ADMINISTRATIONS",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6638a9eb2ce18_POLITY- RURAL ADMINISTRATIONS.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431943,
+      "title": "Panchayati Raj",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6638a9d339b84_POLITY- PANCHAYATI RAJ.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431942,
+      "title": "key Elements of a Democratic Government",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6638a9b04ac7a_POLITY- KEY ELEMENTS OF A DEMOCRATIC GOVERNMENT.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431941,
+      "title": "Government",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6638a98121f85_POLITY- GOVERNMENT.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431940,
+      "title": "Diversity",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6638a94d6bfd4_POLITY- DIVERSITY.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431955,
+      "title": "भेदभाव-असमानता, रूढ़िवादिता और पूर्वाग्रह",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6638b621ef842_भेदभाव-असमानता, रूढ़िवादिता और पूर्वाग्रह.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431939,
+      "title": "स्वास्थ्य क्षेत्रक",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6638a920d18d8_स्वास्थ्य क्षेत्रक.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431938,
+      "title": "सामाजिक एवं राजनीतिक जीवन",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6638a90c53b3c_सामाजिक एवं राजनीतिक जीवन.......pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431937,
+      "title": "सरकार के तंत्र",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6638a8f247fd1_सरकार के तंत्र.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431936,
+      "title": "विज्ञापन",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6638a8d96c7cc_विज्ञापन.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431935,
+      "title": "लोकतंत्र",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6638a8c65f51e_लोकतंत्र.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431934,
+      "title": "लिंग सहभागिता",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6638a8b1aa9a4_लिंग सहभागिता.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431933,
+      "title": "प्रजातंत्र",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6638a89d29ebf_प्रजातंत्र.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431932,
+      "title": "सरकार",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6638a8823aae9_सरकार.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431788,
+      "title": "Ancient History English By Abhishek Sir",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1627122019-Ancient_History_English_By_Abhishek_Sir.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431931,
+      "title": "शहरी आजीविका",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6638a86f1938e_शहरी आजीविका.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431789,
+      "title": "Ancient History Hindi By Abhishek Sir",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1627122019-Ancient_History_Hindi_By_Abhishek_Sir.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431930,
+      "title": "विविधता",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6638a85c7ac4f_विविधता.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431790,
+      "title": "Medieval Modern History English By Abhishek Sir",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1627122019-Medieval_Modern_History_English_By_Abhishek_Sir.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431929,
+      "title": "लोकतांत्रिक सरकार के प्रमुख तत्व",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6638a84353929_लोकतांत्रिक सरकार के प्रमुख तत्व.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431791,
+      "title": "Medieval Modern History Hindi By Abhishek Sir",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1627122019-Medieval_Modern_History_Hindi_By_Abhishek_Sir.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431928,
+      "title": "प्रशासन",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6638a80f7166a_प्रशासन.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431927,
+      "title": "पंचायती राज",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6638a7fbb7366_पंचायती राज.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431926,
+      "title": "ग्रामीण प्रशासन",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6638a7e4d9955_ग्रामीण प्रशासन.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431925,
+      "title": "ग्रामीण आजीविका",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6638a7d238336_ग्रामीण आजीविका.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431792,
+      "title": "Indian Geo (English) Full Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1624090202-Indian_Geography_Eng.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431793,
+      "title": "Indian + World Geo (Hindi) Full Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1624090202-Indian_World_Geography_Notes_Hindi.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431794,
+      "title": "World Geo (English) Full Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1624090202-World_Geography_English.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431797,
+      "title": "Polity (Hindi) Full Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1624090202-Polity_Hindi_By_Abhishek_Suman_Sir_Full_Notes.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 431798,
+      "title": "Polity (English) Full Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1624090202-Polity_English_By_Abhishek_Sir_Full_Notes.pdf",
+      "date": "18-Sep-2024"
+    }
+  ]
+}
