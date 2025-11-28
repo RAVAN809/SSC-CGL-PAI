@@ -1,5 +1,5 @@
 {
-  "batch_id": 2690,
+  "batch_id": "2690",
   "topics": [
     {
       "id": 27426,
@@ -9,5 +9,6 @@
       "id": 27593,
       "topicName": "Live"
     }
-  ]
+  ],
+  "batch_name": "SST Practice (TGT/PGT) Teaching Batches"
 }
