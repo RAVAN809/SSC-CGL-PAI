@@ -1,0 +1,1012 @@
+{
+  "batchid": 3182,
+  "topicid": 32644,
+  "classes_total": 47,
+  "classes": [
+    {
+      "title": "Class-50 | Reas | Non Verbal Reasoning",
+      "id": "4612710",
+      "date": "27-Nov-2025 08:00",
+      "video_url": "4612710_0_7612340504353248"
+    },
+    {
+      "title": "Class-49 | Reas | Non Verbal Reasoning",
+      "id": "4611709",
+      "date": "26-Nov-2025 08:00",
+      "video_url": "4611709_0_4217706094942176"
+    },
+    {
+      "title": "Class-47 | Reas | Mathematical Operations",
+      "id": "4609474",
+      "date": "24-Nov-2025 08:00",
+      "video_url": "4609474_0_6618640162337567"
+    },
+    {
+      "title": "Class-46 | Reas | Inequality",
+      "id": "4607579",
+      "date": "21-Nov-2025 08:00",
+      "video_url": "4607579_0_1441310540927839"
+    },
+    {
+      "title": "Class-45 | Reas | Inequality",
+      "id": "4606576",
+      "date": "20-Nov-2025 08:00",
+      "video_url": "4606576_0_2726076304833074"
+    },
+    {
+      "title": "Class-44 | Reas | Inequality",
+      "id": "4605545",
+      "date": "19-Nov-2025 08:00",
+      "video_url": "4605545_0_6692729861431270"
+    },
+    {
+      "title": "Class-43 | Reas | Inequality",
+      "id": "4603445",
+      "date": "17-Nov-2025 08:00",
+      "video_url": "4603445_0_1362382115632930"
+    },
+    {
+      "title": "Class-42 | Reas | Cube and cuboid",
+      "id": "4600405",
+      "date": "13-Nov-2025 08:00",
+      "video_url": "4600405_0_3732217517802243"
+    },
+    {
+      "title": "Class-41 | Reas | Cube and cuboid",
+      "id": "4599402",
+      "date": "12-Nov-2025 08:00",
+      "video_url": "4599402_0_2910425199993947"
+    },
+    {
+      "title": "Class-40 | Reas | Cube and cuboid",
+      "id": "4598208",
+      "date": "11-Nov-2025 08:00",
+      "video_url": "4598208_0_7909996814149930"
+    },
+    {
+      "title": "Class-38 | Reas | Cube and cuboid",
+      "id": "4594793",
+      "date": "07-Nov-2025 08:00",
+      "video_url": "4594793_0_8346885763298432"
+    },
+    {
+      "title": "Class-37 | Reas | Dice",
+      "id": "4593583",
+      "date": "06-Nov-2025 08:00",
+      "video_url": "4593583_0_2442538848557832"
+    },
+    {
+      "title": "Class-36 | Reas | Dice",
+      "id": "4592528",
+      "date": "05-Nov-2025 08:00",
+      "video_url": "4592528_0_1478442338811717"
+    },
+    {
+      "title": "Class-34 | Reas | Dice",
+      "id": "4591480",
+      "date": "04-Nov-2025 08:00",
+      "video_url": "4591480_0_9598574873226359"
+    },
+    {
+      "title": "Class-33 | Reas | Dice",
+      "id": "4590535",
+      "date": "03-Nov-2025 08:00",
+      "video_url": "4590535_0_7547021451651908"
+    },
+    {
+      "title": "Class-32 | Reas | Dice",
+      "id": "4588598",
+      "date": "31-Oct-2025 08:00",
+      "video_url": "4588598_0_8489874078182648"
+    },
+    {
+      "title": "Class-31 | Reas | Dice",
+      "id": "4587469",
+      "date": "30-Oct-2025 08:00",
+      "video_url": "4587469_0_3054610651806590"
+    },
+    {
+      "title": "Class-30 | Reas | Puzzle",
+      "id": "4586403",
+      "date": "29-Oct-2025 08:00",
+      "video_url": "4586403_0_7026767702684275"
+    },
+    {
+      "title": "Class-29 | Reas | Puzzle",
+      "id": "4585453",
+      "date": "28-Oct-2025 08:00",
+      "video_url": "4585453_0_6826643495323497"
+    },
+    {
+      "title": "Class-28 | Reas | Puzzle",
+      "id": "4584427",
+      "date": "27-Oct-2025 08:00",
+      "video_url": "4584427_0_2356598229123026"
+    },
+    {
+      "title": "Class-27 | Reas | Seating Arrangement",
+      "id": "4580400",
+      "date": "17-Oct-2025 08:00",
+      "video_url": "4580400_0_4843421072002833"
+    },
+    {
+      "title": "Class-26 | Reas | Seating Arrangement",
+      "id": "4579416",
+      "date": "16-Oct-2025 08:00",
+      "video_url": "4579416_0_2981467482133630"
+    },
+    {
+      "title": "Class-25 | Reas | Seating Arrangement",
+      "id": "4578386",
+      "date": "15-Oct-2025 08:00",
+      "video_url": "4578386_0_9092021366873718"
+    },
+    {
+      "title": "Class-24 | Reas | Seating Arrangement",
+      "id": "4577155",
+      "date": "14-Oct-2025 08:00",
+      "video_url": "4577155_0_7538295327109190"
+    },
+    {
+      "title": "Class-23 | Reas | Seating Arrangement",
+      "id": "4576098",
+      "date": "13-Oct-2025 08:00",
+      "video_url": "4576098_0_6052698282858626"
+    },
+    {
+      "title": "Class-22 | Reas | Seating Arrangement",
+      "id": "4573949",
+      "date": "10-Oct-2025 08:00",
+      "video_url": "4573949_0_1948014475733636"
+    },
+    {
+      "title": "Class-21 | Reas | Mental Aptitude",
+      "id": "4572434",
+      "date": "09-Oct-2025 08:00",
+      "video_url": "4572434_0_6720059972806129"
+    },
+    {
+      "title": "Class-20 | Reas | Cause And Effect",
+      "id": "4569769",
+      "date": "07-Oct-2025 08:00",
+      "video_url": "4569769_0_8767532073290611"
+    },
+    {
+      "title": "Class-19 | Reas | Assertion And Reason",
+      "id": "4567789",
+      "date": "06-Oct-2025 08:00",
+      "video_url": "4567789_0_1100881514656903"
+    },
+    {
+      "title": "Class-18 | Reas | Statement And Conclusion",
+      "id": "4565466",
+      "date": "03-Oct-2025 08:00",
+      "video_url": "4565466_0_8671254507625570"
+    },
+    {
+      "title": "Class-17 | Reas | Statement And Conclusion",
+      "id": "4563966",
+      "date": "01-Oct-2025 08:00",
+      "video_url": "4563966_0_9457904337994964"
+    },
+    {
+      "title": "Class-16 | Reas | Statement And Argument",
+      "id": "4562866",
+      "date": "30-Sep-2025 08:00",
+      "video_url": "4562866_0_2930716258646393"
+    },
+    {
+      "title": "Class-15 | Reas | Statement And Argument",
+      "id": "4561938",
+      "date": "29-Sep-2025 08:00",
+      "video_url": "4561938_0_9663750288104800"
+    },
+    {
+      "title": "Class-14 | Reas | Statement And Assumptions",
+      "id": "4559756",
+      "date": "26-Sep-2025 08:00",
+      "video_url": "4559756_0_4632615799652151"
+    },
+    {
+      "title": "Class-13 | Reas | Statement And Assumptions",
+      "id": "4558683",
+      "date": "25-Sep-2025 08:00",
+      "video_url": "4558683_0_3541391390712593"
+    },
+    {
+      "title": "Class-12 | Reas | Syllogism",
+      "id": "4557230",
+      "date": "24-Sep-2025 08:00",
+      "video_url": "4557230_0_5659626364372981"
+    },
+    {
+      "title": "Class-11 | Reas | Syllogism",
+      "id": "4556144",
+      "date": "23-Sep-2025 08:00",
+      "video_url": "4556144_0_9022013814224290"
+    },
+    {
+      "title": "Class-10 | Reas | Syllogism",
+      "id": "4555127",
+      "date": "22-Sep-2025 08:00",
+      "video_url": "4555127_0_6363551762154434"
+    },
+    {
+      "title": "Class-09 | Reas | Syllogism",
+      "id": "4554057",
+      "date": "20-Sep-2025 08:00",
+      "video_url": "4554057_0_3948300206979102"
+    },
+    {
+      "title": "Class-08 | Reas | Syllogism",
+      "id": "4553140",
+      "date": "19-Sep-2025 08:00",
+      "video_url": "4553140_0_5934049162317455"
+    },
+    {
+      "title": "Class-07 | Reas | Syllogism",
+      "id": "4552250",
+      "date": "18-Sep-2025 08:00",
+      "video_url": "4552250_0_7018434713576574"
+    },
+    {
+      "title": "Class-06 | Reas | Syllogism",
+      "id": "4550137",
+      "date": "16-Sep-2025 08:00",
+      "video_url": "4550137_0_5566927819656959"
+    },
+    {
+      "title": "Class-05 | Reas | Syllogism",
+      "id": "4549194",
+      "date": "15-Sep-2025 08:00",
+      "video_url": "4549194_0_4600674128474575"
+    },
+    {
+      "title": "Class-04 | Reas | Statements and Course of Action",
+      "id": "4547347",
+      "date": "12-Sep-2025 08:00",
+      "video_url": "4547347_0_7261081385628525"
+    },
+    {
+      "title": "Class-03 | Reas | Statements and Course of Action",
+      "id": "4546379",
+      "date": "11-Sep-2025 08:00",
+      "video_url": "4546379_0_2176792329483879"
+    },
+    {
+      "title": "Class-2 | Reas | Introduction",
+      "id": "4543771",
+      "date": "08-Sep-2025 12:15",
+      "video_url": "4543771_0_3431202480483148"
+    },
+    {
+      "title": "Class-1 | Reas | Intro + Calendar",
+      "id": "4514916",
+      "date": "07-Aug-2025 13:00",
+      "video_url": "4514916_0_4905179059528879"
+    }
+  ],
+  "notes_total": 120,
+  "notes": [
+    {
+      "id": 744195,
+      "title": "Non Verbal | 28 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6929268c154b1_Arun_Sir_Reas_08.00_AM_28Nov_compressed.pdf",
+      "date": "28-Nov-2025"
+    },
+    {
+      "id": 743430,
+      "title": "Non Verbal | Reas | 27 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6927f35fc74dd_Arun_Sir_Reas_08.00_AM_27Nov_compressed.pdf",
+      "date": "27-Nov-2025"
+    },
+    {
+      "id": 741206,
+      "title": "Reas | 26 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/69269fca36df1_Arun_Sir_Reas_08.00_AM_26Nov_compressed.pdf",
+      "date": "26-Nov-2025"
+    },
+    {
+      "id": 741110,
+      "title": "Reas | 25 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/692683f55712c_arun_sir_1pm_compressed.pdf",
+      "date": "26-Nov-2025"
+    },
+    {
+      "id": 739571,
+      "title": "Reas | 24 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/69241b7976fde_Arun_Sir_Reas_08.00_AM_24Nov_compressed.pdf",
+      "date": "24-Nov-2025"
+    },
+    {
+      "id": 736606,
+      "title": "Reas | 21 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6920031935e10_Arun_Sir_Reas_08.00_AM_21Nov_compressed.pdf",
+      "date": "21-Nov-2025"
+    },
+    {
+      "id": 734945,
+      "title": "Reas | 19 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/691d8bbebe5e6_Arun_Sir_Reas_08.00_AM_19Nov_compressed.pdf",
+      "date": "19-Nov-2025"
+    },
+    {
+      "id": 733685,
+      "title": "Reas | 17 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/691acb52926ff_Arun_Sir_Reas_08.00_AM_17Nov_compressed.pdf",
+      "date": "17-Nov-2025"
+    },
+    {
+      "id": 731217,
+      "title": "Reas | 13 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/69155bb081d1b_Arun_Sir_Reas_08.00_AM_13Nov_compressed.pdf",
+      "date": "13-Nov-2025"
+    },
+    {
+      "id": 730433,
+      "title": "Reas | 12 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/69140aea18a37_Arun_Sir_Reas_08.00_AM_12Nov_compressed.pdf",
+      "date": "12-Nov-2025"
+    },
+    {
+      "id": 729926,
+      "title": "Reas | 11 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6912ce9027bd0_Arun_Sir_Reas_08.00_AM_11Nov_compressed.pdf",
+      "date": "11-Nov-2025"
+    },
+    {
+      "id": 728978,
+      "title": "Reas | 10 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/69116f2b754c6_Arun_Sir_Reas_08.00_AM_10Nov_compressed.pdf",
+      "date": "10-Nov-2025"
+    },
+    {
+      "id": 725663,
+      "title": "Reas | 6 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/690d9e8712914_Arun_Sir_Reas_08.00_AM_07Nov_compressed.pdf",
+      "date": "07-Nov-2025"
+    },
+    {
+      "id": 715905,
+      "title": "Reas | 6 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/690c4af595f85_Arun_Sir_Reas_08.00_AM_06Nov_Dice06_compressed.pdf",
+      "date": "06-Nov-2025"
+    },
+    {
+      "id": 713300,
+      "title": "Reas | 5 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/690ada19742ef_Arun_Sir_Reas_08.00_AM_05Nov_Dice05_compressed.pdf",
+      "date": "05-Nov-2025"
+    },
+    {
+      "id": 711741,
+      "title": "Reas | 4 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6909a92f29ecc_Arun_Sir_Reas_08.00_AM_04Nov_Dice04_compressed.pdf",
+      "date": "04-Nov-2025"
+    },
+    {
+      "id": 710112,
+      "title": "Dice | 3 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/690846a6a2ce1_Arun_Sir_Reas_08.00_AM_03Nov_Dice03.pdf",
+      "date": "03-Nov-2025"
+    },
+    {
+      "id": 707790,
+      "title": "Reas | 31 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/69043ada7b4c6_Arun_Sir_Reas_08.00_AM_31Oct_Dice02_compressed.pdf",
+      "date": "31-Oct-2025"
+    },
+    {
+      "id": 707265,
+      "title": "Reas | 30 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/690306a80b8f0_Arun_Sir_Reas_08.00_AM_30Oct_Dice01.pdf",
+      "date": "30-Oct-2025"
+    },
+    {
+      "id": 706485,
+      "title": "Reas | 29 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6901c1d6577c6_Arun_Sir_Reas_08.00_AM_29Oct_compressed.pdf",
+      "date": "29-Oct-2025"
+    },
+    {
+      "id": 705113,
+      "title": "Reas | 28 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/690052b96867e_Arun_Sir_Reas_08.00_AM_28Oct_compressed.pdf",
+      "date": "28-Oct-2025"
+    },
+    {
+      "id": 703469,
+      "title": "Reas | 27 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68ff431ac7ba9_Arun_Sir_Reas_08_00_AM_27Oct_compressed.pdf",
+      "date": "27-Oct-2025"
+    },
+    {
+      "id": 701809,
+      "title": "Reas | 17 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68f1e7133f78a_Arun_Sir_Reas_08_00_AM_17Oct_compressed.pdf",
+      "date": "17-Oct-2025"
+    },
+    {
+      "id": 700482,
+      "title": "Reas | 16 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68f09e21446a7_Arun_Sir_Reas_08_00_AM_16Oct.pdf",
+      "date": "16-Oct-2025"
+    },
+    {
+      "id": 700115,
+      "title": "Reas | 15 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68ef746a9bf84_Arun_Sir_Reas_08_00_AM_15Oct_compressed.pdf",
+      "date": "15-Oct-2025"
+    },
+    {
+      "id": 698571,
+      "title": "Reas | 14 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68ee1e12a72e6_Arun_Sir_Reas_08.00_AM_14Oct_compressed.pdf",
+      "date": "14-Oct-2025"
+    },
+    {
+      "id": 698145,
+      "title": "Reas | 13 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68ede9e1c20a5_Arun_Sir_Reas_08.00_AM_13Oct_compressed.pdf",
+      "date": "14-Oct-2025"
+    },
+    {
+      "id": 695893,
+      "title": "Reas | 10 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68e8dfc502e23_20251010093805374_compressed.pdf",
+      "date": "10-Oct-2025"
+    },
+    {
+      "id": 694840,
+      "title": "Reas | 09 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68e762d951c96_Arun_Sir_Reas_08.00_AM_09Oct_compressed.pdf",
+      "date": "09-Oct-2025"
+    },
+    {
+      "id": 693592,
+      "title": "Reas | 7 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68e4e440c778b_Arun_Sir_Reas_08.00_AM_07Oct_compressed.pdf",
+      "date": "07-Oct-2025"
+    },
+    {
+      "id": 692470,
+      "title": "Reas | 6 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68e353b3d152e_Arun_Sir_Reas_08.00_AM_06Oct_compressed.pdf",
+      "date": "06-Oct-2025"
+    },
+    {
+      "id": 690362,
+      "title": "Reas | 03 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68df548c474e4_Arun_Sir_Reas_08.00_AM_03Oct_compressed.pdf",
+      "date": "03-Oct-2025"
+    },
+    {
+      "id": 688295,
+      "title": "Reas | 01 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68dce5e91eda6_Arun_Sir_Reas_08.00_AM_01Oct_compressed.pdf",
+      "date": "01-Oct-2025"
+    },
+    {
+      "id": 684502,
+      "title": "Reas | 30 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68db783fc7d31_Arun_Sir_Reas_08.00_AM_30Sep_compressed.pdf",
+      "date": "30-Sep-2025"
+    },
+    {
+      "id": 683532,
+      "title": "Reas | 29  Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68da2bd0f36c1_Arun_Sir_Reas_08.00_AM_29Sep_compressed.pdf",
+      "date": "29-Sep-2025"
+    },
+    {
+      "id": 682522,
+      "title": "Reas | 26 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68d62be465f6d_Arun_Sir_Reas_08.00_AM_26Sep_compressed.pdf",
+      "date": "26-Sep-2025"
+    },
+    {
+      "id": 681348,
+      "title": "Reas | 25 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68d4d3ada1d7f_Arun_Sir_Reas_08.00_AM_25Sep_compressed.pdf",
+      "date": "25-Sep-2025"
+    },
+    {
+      "id": 680602,
+      "title": "Reas | 24 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68d37df474751_Arun_Sir_Reas_08.00_AM_24Sep.pdf",
+      "date": "24-Sep-2025"
+    },
+    {
+      "id": 679964,
+      "title": "Reas | 23 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68d22a3a3feb9_Arun_Sir_Reas_08.00_AM_23Sep_compressed.pdf",
+      "date": "23-Sep-2025"
+    },
+    {
+      "id": 679128,
+      "title": "Assertion & Reason Practice Sheet",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a2bf70e6a7b_Assertion_Reason_Practice_Sheet.pdf",
+      "date": "22-Sep-2025"
+    },
+    {
+      "id": 679127,
+      "title": "Dice Practice Sheet",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/689abe781f896_Dice_Practice_Sheet.pdf",
+      "date": "22-Sep-2025"
+    },
+    {
+      "id": 679126,
+      "title": "Cube & Cuboid Practice Sheet",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/689abd5e2b0eb_Cube_Cuboid_Practice_Sheet.pdf",
+      "date": "22-Sep-2025"
+    },
+    {
+      "id": 679125,
+      "title": "Syllogism Practice Sheet",
+      "url": "https://educp.crwilladmin.com/uploads/class-attachment/lclsys_Syllogism_Practice_Sheet_2.pdf",
+      "date": "22-Sep-2025"
+    },
+    {
+      "id": 679124,
+      "title": "Statements & Arguments Practice Sheet",
+      "url": "https://educp.crwilladmin.com/uploads/class-attachment/lclsys_Statements_Arguments.pdf",
+      "date": "22-Sep-2025"
+    },
+    {
+      "id": 679123,
+      "title": "Statement and Courses of Action Practice Sheet",
+      "url": "https://educp.crwilladmin.com/uploads/class-attachment/lclsys_Statement_and_Courses_of_Action.pdf",
+      "date": "22-Sep-2025"
+    },
+    {
+      "id": 679122,
+      "title": "Statement and Conclusions Practice Sheet",
+      "url": "https://educp.crwilladmin.com/uploads/class-attachment/lclsys_Statement_and_Conclusions.pdf",
+      "date": "22-Sep-2025"
+    },
+    {
+      "id": 679121,
+      "title": "Statement and Assumptions Practice Sheet",
+      "url": "https://educp.crwilladmin.com/uploads/class-attachment/lclsys_Statement_and_Assumptions.pdf",
+      "date": "22-Sep-2025"
+    },
+    {
+      "id": 679120,
+      "title": "Series Practice Sheet",
+      "url": "https://educp.crwilladmin.com/uploads/class-attachment/lclsys_Series_Practice_Sheet.pdf",
+      "date": "22-Sep-2025"
+    },
+    {
+      "id": 679119,
+      "title": "Number Series Latest Questions PYQ",
+      "url": "https://educp.crwilladmin.com/uploads/class-attachment/lclsys_Number_Series_latest_Questions_PYQ.pdf",
+      "date": "22-Sep-2025"
+    },
+    {
+      "id": 679118,
+      "title": "Missing Number Practice Sheet-2",
+      "url": "https://educp.crwilladmin.com/uploads/class-attachment/lclsys_Missing_Number_Practice_Sheet2.pdf",
+      "date": "22-Sep-2025"
+    },
+    {
+      "id": 679117,
+      "title": "Missing Number Practice Sheet-1",
+      "url": "https://educp.crwilladmin.com/uploads/class-attachment/lclsys_Missing_Number_Practice_Sheet1.pdf",
+      "date": "22-Sep-2025"
+    },
+    {
+      "id": 679116,
+      "title": "Mathematical Operations Practice Sheet",
+      "url": "https://educp.crwilladmin.com/uploads/class-attachment/lclsys_Mathematical_Operations_Practice_sheet.pdf",
+      "date": "22-Sep-2025"
+    },
+    {
+      "id": 679115,
+      "title": "Logical Order Practice Sheet",
+      "url": "https://educp.crwilladmin.com/uploads/class-attachment/lclsys_Logical_Order_Practice_Sheet.pdf",
+      "date": "22-Sep-2025"
+    },
+    {
+      "id": 679114,
+      "title": "Input Output Practice Sheet",
+      "url": "https://educp.crwilladmin.com/uploads/class-attachment/lclsys_Input_Output_Practice_Sheet.pdf",
+      "date": "22-Sep-2025"
+    },
+    {
+      "id": 679113,
+      "title": "Inequality Practice Sheet",
+      "url": "https://educp.crwilladmin.com/uploads/class-attachment/lclsys_Inequality_Student_Copy.pdf",
+      "date": "22-Sep-2025"
+    },
+    {
+      "id": 679112,
+      "title": "Distance & Direction Practice Sheet",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a2be4946714_Distance_Direction_Practice_Sheet.pdf",
+      "date": "22-Sep-2025"
+    },
+    {
+      "id": 679111,
+      "title": "Dictionary Order Practice Sheet",
+      "url": "https://educp.crwilladmin.com/uploads/class-attachment/lclsys_Dictionary_Order_Practice_Sheet.pdf",
+      "date": "22-Sep-2025"
+    },
+    {
+      "id": 679110,
+      "title": "Decision Making Practice Sheet",
+      "url": "https://educp.crwilladmin.com/uploads/class-attachment/lclsys_Decision_Making_Practice_Sheet.pdf",
+      "date": "22-Sep-2025"
+    },
+    {
+      "id": 679109,
+      "title": "Alphabet Test Practice Sheet",
+      "url": "https://educp.crwilladmin.com/uploads/class-attachment/lclsys_Alphabet_Test_Practice_Sheet.pdf",
+      "date": "22-Sep-2025"
+    },
+    {
+      "id": 679108,
+      "title": "Calendar Practice Sheet",
+      "url": "https://educp.crwilladmin.com/uploads/class-attachment/lclsys_Calendar_Practice_Sheet.pdf",
+      "date": "22-Sep-2025"
+    },
+    {
+      "id": 679107,
+      "title": "Clock PYQ Practice Sheet",
+      "url": "https://educp.crwilladmin.com/uploads/class-attachment/lclsys_Clock_PYQ_Practice_Sheet.pdf",
+      "date": "22-Sep-2025"
+    },
+    {
+      "id": 679106,
+      "title": "Clock Practice Sheet",
+      "url": "https://educp.crwilladmin.com/uploads/class-attachment/lclsys_Clock_Practice_Sheet.pdf",
+      "date": "22-Sep-2025"
+    },
+    {
+      "id": 679105,
+      "title": "Calendar PYQ Practice Sheet",
+      "url": "https://educp.crwilladmin.com/uploads/class-attachment/lclsys_Calendar_PYQ_Practice_Sheet.pdf",
+      "date": "22-Sep-2025"
+    },
+    {
+      "id": 679104,
+      "title": "Syllogism Practice Sheet",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68789b87d4e35_Syllogism_Practice_Sheet1.pdf",
+      "date": "22-Sep-2025"
+    },
+    {
+      "id": 679103,
+      "title": "Seating Arrangement Practice Sheet",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68789b6d2761c_Seating_Arrangement_Practice_Sheet.pdf",
+      "date": "22-Sep-2025"
+    },
+    {
+      "id": 679102,
+      "title": "Ranking & Order Practice Sheet",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68789b57158c5_Ranking_Order_Practice_Sheet.pdf",
+      "date": "22-Sep-2025"
+    },
+    {
+      "id": 679101,
+      "title": "Puzzle Practice Sheet",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68789b4158ca4_Puzzle_Practice_Sheet.pdf",
+      "date": "22-Sep-2025"
+    },
+    {
+      "id": 679100,
+      "title": "Missing Number Practice Sheet",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68789b30ab90d_Missing_Number_Practice_Sheet.pdf",
+      "date": "22-Sep-2025"
+    },
+    {
+      "id": 679099,
+      "title": "Inequality Practice Sheet",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68789b1f6a3e3_Inequality_Practice_Sheet.pdf",
+      "date": "22-Sep-2025"
+    },
+    {
+      "id": 679098,
+      "title": "Data Sufficiency Practice Sheet",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68789b0d1bfb7_Data_Sufficiency_Practice_Sheet.pdf",
+      "date": "22-Sep-2025"
+    },
+    {
+      "id": 679097,
+      "title": "Coding Decoding Practice Sheet",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68789af90e363_Coding_Decoding_Practice_Sheet.pdf",
+      "date": "22-Sep-2025"
+    },
+    {
+      "id": 679096,
+      "title": "Classification Practice Sheet",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68789ae57ce0b_Classification_Practice_Sheet.pdf",
+      "date": "22-Sep-2025"
+    },
+    {
+      "id": 679095,
+      "title": "Blood Relation Practice Sheet",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68789ac519c86_Blood_Relation_Practice_Sheet.pdf",
+      "date": "22-Sep-2025"
+    },
+    {
+      "id": 679094,
+      "title": "Analogy (Number Based) Practice Sheet",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68789a86d41ea_AnalogyNumber_Based_Practice_Sheet.pdf",
+      "date": "22-Sep-2025"
+    },
+    {
+      "id": 679093,
+      "title": "Analogy Practice Sheet",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68789a6f73377_Analogy_Practice_Sheet.pdf",
+      "date": "22-Sep-2025"
+    },
+    {
+      "id": 679092,
+      "title": "Venn Diagram Practice Sheet",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68789a5933b23_Venn_Diagram_Practice_Sheet.pdf",
+      "date": "22-Sep-2025"
+    },
+    {
+      "id": 679091,
+      "title": "Paper Cut & Fold Practice Sheet",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68789a181c47d_Paper_Cut_Fold_Practice_Sheet.pdf",
+      "date": "22-Sep-2025"
+    },
+    {
+      "id": 679090,
+      "title": "Odd One Out (Non verbal) Practice Sheet",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68789a05ac7dd_Odd_One_Out_Non_verbal_Practice_Sheet.pdf",
+      "date": "22-Sep-2025"
+    },
+    {
+      "id": 679089,
+      "title": "Mirror & Water Image Practice Sheet",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/687899f403e06_Mirror_Water_Image_Practice_Sheet.pdf",
+      "date": "22-Sep-2025"
+    },
+    {
+      "id": 679088,
+      "title": "Grouping of Figure Practice Sheet",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/687899df6f00f_Grouping_of_Figure_Practice_Sheet.pdf",
+      "date": "22-Sep-2025"
+    },
+    {
+      "id": 679087,
+      "title": "Figure Matrix Practice Sheet",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/687899cedf522_Figure_Matrix_Practice_Sheet.pdf",
+      "date": "22-Sep-2025"
+    },
+    {
+      "id": 679086,
+      "title": "Figure Formation Practice Sheet",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/687899be12d6c_Figure_Formation_Practice_Sheet.pdf",
+      "date": "22-Sep-2025"
+    },
+    {
+      "id": 679085,
+      "title": "Embedded Figure Practice Sheet",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/687899adc45a8_Embedded_Figure_Practice_Sheet.pdf",
+      "date": "22-Sep-2025"
+    },
+    {
+      "id": 679084,
+      "title": "Dot Situation Practice Sheet",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6878999b8ed6b_Dot_Situation_Practice_Sheet.pdf",
+      "date": "22-Sep-2025"
+    },
+    {
+      "id": 679083,
+      "title": "Counting of Figure Practice Sheet",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68789988eebb6_Counting_of_Figure_Practice_Sheet.pdf",
+      "date": "22-Sep-2025"
+    },
+    {
+      "id": 679082,
+      "title": "Completion of Figure Practice Sheet",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68789970d1baf_Completion_of_Figure_Practice_Sheet.pdf",
+      "date": "22-Sep-2025"
+    },
+    {
+      "id": 679081,
+      "title": "Analogy (Non Verbal) Practice Sheet",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/687899593a405_Analogy_Non_verbal_Practice_Sheet.pdf",
+      "date": "22-Sep-2025"
+    },
+    {
+      "id": 679080,
+      "title": "Series (Non-Verbal) Practice Sheet",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6878993cba7db_Series_NonVerbal_Practice_Sheet.pdf",
+      "date": "22-Sep-2025"
+    },
+    {
+      "id": 679079,
+      "title": "Statement and Assumptions Hand Written Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66dee4044ce5b_STATEMENT AND ASSUMPTIONS-compressed.pdf",
+      "date": "22-Sep-2025"
+    },
+    {
+      "id": 679078,
+      "title": "Statement and Argument Hand Written Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66dee39c01012_STATEMENT AND ARGUMENTS-compressed.pdf",
+      "date": "22-Sep-2025"
+    },
+    {
+      "id": 679077,
+      "title": "Assertion and Reason Hand Written Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66dee337b45a2_ASSERTION AND REASON-compressed.pdf",
+      "date": "22-Sep-2025"
+    },
+    {
+      "id": 679076,
+      "title": "Statement And Course Of Action Hand Written Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66dee288e9e1a_STATEMENT AND COURSES OF ACTION-compressed.pdf",
+      "date": "22-Sep-2025"
+    },
+    {
+      "id": 679075,
+      "title": "Statement and Conclusion Hand Written Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66dee2070b7cb_STATEMENT AND CONCLUSION-compressed.pdf",
+      "date": "22-Sep-2025"
+    },
+    {
+      "id": 679074,
+      "title": "Calendar Hand Written Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66cda1fe951e3_CALENDAR-compressed (1).pdf",
+      "date": "22-Sep-2025"
+    },
+    {
+      "id": 679073,
+      "title": "Blood Relations Hand Written Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66b9a099b05ea_BLOOD RELATIONS-compressed.pdf",
+      "date": "22-Sep-2025"
+    },
+    {
+      "id": 679072,
+      "title": "Counting of figures Hand Written Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66b99f872ab0b_COUNTING OF FIGURE-compressed.pdf",
+      "date": "22-Sep-2025"
+    },
+    {
+      "id": 679071,
+      "title": "Incorrect Clock Hand Written Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66a88664c5f8b_INCORRECT CLOCK-compressed.pdf",
+      "date": "22-Sep-2025"
+    },
+    {
+      "id": 679070,
+      "title": "Syllogism Hand Written Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66a885f8aa8d6_SYLLOGISM-compressed.pdf",
+      "date": "22-Sep-2025"
+    },
+    {
+      "id": 679069,
+      "title": "Clock PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/669f716d68e57_CLOCK-compressed (1).pdf",
+      "date": "22-Sep-2025"
+    },
+    {
+      "id": 679068,
+      "title": "ALPHABET TEST",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6699f4977e434_ALPHABET TEST _240716_213444 (1)_compressed.pdf",
+      "date": "22-Sep-2025"
+    },
+    {
+      "id": 679067,
+      "title": "DECISION MAKING PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6694964a787e1_DECISION MAKING _240527_142436_compressed.pdf",
+      "date": "22-Sep-2025"
+    },
+    {
+      "id": 679066,
+      "title": "MATHEMATICAL OPERATION PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/669495db80325_MATHEMATICAL OPERATION _240608_090111_compressed.pdf",
+      "date": "22-Sep-2025"
+    },
+    {
+      "id": 679065,
+      "title": "CODING-DECODING PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66949579c3484_CODING-DECODING _240630_151121_compressed.pdf",
+      "date": "22-Sep-2025"
+    },
+    {
+      "id": 679064,
+      "title": "WORLD ARRANGEMENTS LOGICAL SEQUENCE",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66949447f2378_WORLD ARRANGEMENTS LOGICAL SEQUENCE_240621_132858_compressed.pdf",
+      "date": "22-Sep-2025"
+    },
+    {
+      "id": 679063,
+      "title": "Classification Hand Written Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66753d7bda9f6_CLASSIFICATION-compressed.pdf",
+      "date": "22-Sep-2025"
+    },
+    {
+      "id": 679062,
+      "title": "Anology Hand Written Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66753cf70d2c8_ANOLOGY-compressed.pdf",
+      "date": "22-Sep-2025"
+    },
+    {
+      "id": 679061,
+      "title": "Syllogism Hand Written Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66753c8f92d12_SYLLOGISM-compressed.pdf",
+      "date": "22-Sep-2025"
+    },
+    {
+      "id": 679060,
+      "title": "Comparison Test Hand Written Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66629edd6305b_COMPARISON TEST (DONE).pdf",
+      "date": "22-Sep-2025"
+    },
+    {
+      "id": 679059,
+      "title": "Number & Ranking Hand Written Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66629e644d1c3_NUMBER, RANKING & COMPARISON (DONE).pdf",
+      "date": "22-Sep-2025"
+    },
+    {
+      "id": 679058,
+      "title": "Missing Number & Matrix",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6659771802035_MISSING NUMBER & MATRIX (1)_compressed.pdf",
+      "date": "22-Sep-2025"
+    },
+    {
+      "id": 679057,
+      "title": "Dice Hand Written Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/665471ef409f1_DICE (1)_compressed.pdf",
+      "date": "22-Sep-2025"
+    },
+    {
+      "id": 679056,
+      "title": "Cube and Cubiod Hand Written Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6654716ff250e_CUBE_compressed.pdf",
+      "date": "22-Sep-2025"
+    },
+    {
+      "id": 677845,
+      "title": "Reas | 22 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68d0d4c6708b6_Arun_Sir_Reas_08.00_AM_22Sep_compressed.pdf",
+      "date": "22-Sep-2025"
+    },
+    {
+      "id": 675533,
+      "title": "Reas | 20 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68ce41bc85583_Arun_Sir_Reas_08.00_AM_20Sep.pdf",
+      "date": "20-Sep-2025"
+    },
+    {
+      "id": 674816,
+      "title": "Reas | 19 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68ccf5b86c70a_Arun_Sir_Reas_08.00_AM_19Sep.pdf",
+      "date": "19-Sep-2025"
+    },
+    {
+      "id": 674495,
+      "title": "Reas | 18 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68ccdf6ca435a_Arun_Sir_Reas_08.00_AM_18Sep_compressed.pdf",
+      "date": "18-Sep-2025"
+    },
+    {
+      "id": 667519,
+      "title": "Reas | 16 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68c8f7e28ae31_Arun_Sir_Reas_08.00_AM_16Sep_compressed.pdf",
+      "date": "16-Sep-2025"
+    },
+    {
+      "id": 661451,
+      "title": "Statements and Course of Action | 11-12 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68c39fe9a5edb_ilovepdf_merged_95_compressed.pdf",
+      "date": "12-Sep-2025"
+    },
+    {
+      "id": 655650,
+      "title": "Reas | 11 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68c25f3ae22f1_20250911092759658_compressed.pdf",
+      "date": "11-Sep-2025"
+    },
+    {
+      "id": 653098,
+      "title": "Reas Intro | 08 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68beb9408d18c_Arun_Sir_Reas_12.00_PM_08Sep.pdf",
+      "date": "08-Sep-2025"
+    }
+  ]
+}
