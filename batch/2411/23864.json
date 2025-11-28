@@ -1,0 +1,2794 @@
+{
+  "batchid": 2411,
+  "topicid": 23864,
+  "classes_total": 114,
+  "classes": [
+    {
+      "title": "Class-121 | Narration",
+      "id": "4425482",
+      "date": "04-Dec-2024 14:15",
+      "video_url": "4425482_0_7607065162076154"
+    },
+    {
+      "title": "Class-120 | Narration",
+      "id": "4426654",
+      "date": "03-Dec-2024 14:15",
+      "video_url": "4426654_0_5369392716333790"
+    },
+    {
+      "title": "Class-119 | Narration",
+      "id": "4426653",
+      "date": "02-Dec-2024 14:15",
+      "video_url": "4426653_0_5388651434971319"
+    },
+    {
+      "title": "Class-118 | Narration",
+      "id": "4426652",
+      "date": "30-Nov-2024 14:30",
+      "video_url": "4426652_0_5523427462038302"
+    },
+    {
+      "title": "Class-117 | Narration",
+      "id": "4426651",
+      "date": "29-Nov-2024 14:15",
+      "video_url": "4426651_0_5121433188316023"
+    },
+    {
+      "title": "Class-116 | Narration",
+      "id": "4426650",
+      "date": "28-Nov-2024 14:15",
+      "video_url": "4426650_0_5548164641780996"
+    },
+    {
+      "title": "Class-115 | Narration",
+      "id": "4426649",
+      "date": "27-Nov-2024 14:15",
+      "video_url": "4426649_0_1815024263462479"
+    },
+    {
+      "title": "Class-114 | Narration",
+      "id": "4426648",
+      "date": "26-Nov-2024 14:15",
+      "video_url": "4426648_0_8692176319138323"
+    },
+    {
+      "title": "Class-113 | Narration",
+      "id": "4426647",
+      "date": "25-Nov-2024 14:15",
+      "video_url": "4426647_0_8540641291781328"
+    },
+    {
+      "title": "Class-112 | Narration",
+      "id": "4426646",
+      "date": "23-Nov-2024 14:15",
+      "video_url": "4426646_0_1862531306502043"
+    },
+    {
+      "title": "Class-111 | Voice",
+      "id": "4426645",
+      "date": "22-Nov-2024 14:15",
+      "video_url": "4426645_0_2428387974811534"
+    },
+    {
+      "title": "Class-110| Voice",
+      "id": "4426644",
+      "date": "21-Nov-2024 14:15",
+      "video_url": "4426644_0_4716637329243947"
+    },
+    {
+      "title": "Class-109 | Voice",
+      "id": "4426643",
+      "date": "20-Nov-2024 09:30",
+      "video_url": "4426643_0_4571464770077913"
+    },
+    {
+      "title": "Class-108 | Voice",
+      "id": "4426642",
+      "date": "19-Nov-2024 09:30",
+      "video_url": "4426642_0_6924886167978907"
+    },
+    {
+      "title": "Class-106 | Voice",
+      "id": "4426641",
+      "date": "16-Nov-2024 09:30",
+      "video_url": "4426641_0_3191208136239459"
+    },
+    {
+      "title": "Class-105 | Voice",
+      "id": "4426640",
+      "date": "15-Nov-2024 09:30",
+      "video_url": "4426640_0_8209170106246956"
+    },
+    {
+      "title": "Class-104 | Question Tags",
+      "id": "4426639",
+      "date": "14-Nov-2024 09:30",
+      "video_url": "4426639_0_2181088770162308"
+    },
+    {
+      "title": "Class-103 | Question Tags",
+      "id": "4426638",
+      "date": "13-Nov-2024 09:30",
+      "video_url": "4426638_0_3148567386309917"
+    },
+    {
+      "title": "Class-102 | Question Tags",
+      "id": "4426637",
+      "date": "12-Nov-2024 09:30",
+      "video_url": "4426637_0_4321414575413594"
+    },
+    {
+      "title": "Class-101  | Question Tags",
+      "id": "4426636",
+      "date": "11-Nov-2024 09:30",
+      "video_url": "4426636_0_9769984735724401"
+    },
+    {
+      "title": "Class-100 | Modal Auxiliary",
+      "id": "4426635",
+      "date": "09-Nov-2024 09:30",
+      "video_url": "4426635_0_6575147718622709"
+    },
+    {
+      "title": "Class-99 | Modal Auxiliary",
+      "id": "4426634",
+      "date": "08-Nov-2024 09:30",
+      "video_url": "4426634_0_6457172272760638"
+    },
+    {
+      "title": "Class-98 | Modal Auxiliary",
+      "id": "4426633",
+      "date": "07-Nov-2024 09:30",
+      "video_url": "4426633_0_9179119967241967"
+    },
+    {
+      "title": "Class-97 | Modal Auxiliary",
+      "id": "4426632",
+      "date": "06-Nov-2024 09:30",
+      "video_url": "4426632_0_3911843708265791"
+    },
+    {
+      "title": "Class-96 | Modal Auxiliary",
+      "id": "4426631",
+      "date": "05-Nov-2024 09:30",
+      "video_url": "4426631_0_2700398156582604"
+    },
+    {
+      "title": "Class-95 | Verb And Moods",
+      "id": "4426630",
+      "date": "26-Oct-2024 09:30",
+      "video_url": "4426630_0_1684842204204369"
+    },
+    {
+      "title": "Class-94 | Verb And Moods",
+      "id": "4426629",
+      "date": "25-Oct-2024 11:00",
+      "video_url": "4426629_0_3119255727400459"
+    },
+    {
+      "title": "Class-93 | Verb And Moods",
+      "id": "4426628",
+      "date": "24-Oct-2024 09:30",
+      "video_url": "4426628_0_4974797407195361"
+    },
+    {
+      "title": "Class-92 | Conditional Sentences",
+      "id": "4426627",
+      "date": "23-Oct-2024 09:30",
+      "video_url": "4426627_0_4145784167552205"
+    },
+    {
+      "title": "Class-91 | Conditional Sentences",
+      "id": "4426626",
+      "date": "22-Oct-2024 09:30",
+      "video_url": "4426626_0_8529657311659666"
+    },
+    {
+      "title": "Class-90 | Conditional Sentences",
+      "id": "4426625",
+      "date": "21-Oct-2024 09:30",
+      "video_url": "4426625_0_1702675121245878"
+    },
+    {
+      "title": "Class-89 | Conditional Sentences",
+      "id": "4426624",
+      "date": "19-Oct-2024 09:30",
+      "video_url": "4426624_0_4068194410864881"
+    },
+    {
+      "title": "Class-88 | Conditional Sentences",
+      "id": "4426623",
+      "date": "17-Oct-2024 09:30",
+      "video_url": "4426623_0_6718673836376167"
+    },
+    {
+      "title": "Class-87 | Conditional Sentences",
+      "id": "4426622",
+      "date": "16-Oct-2024 09:30",
+      "video_url": "4426622_0_7055063937292674"
+    },
+    {
+      "title": "Class-86 | Tense",
+      "id": "4426621",
+      "date": "15-Oct-2024 09:30",
+      "video_url": "4426621_0_9244046886166139"
+    },
+    {
+      "title": "Class-85 | Tense",
+      "id": "4426620",
+      "date": "14-Oct-2024 09:30",
+      "video_url": "4426620_0_9346614803725300"
+    },
+    {
+      "title": "Class-84 | Tense",
+      "id": "4426619",
+      "date": "11-Oct-2024 09:30",
+      "video_url": "4426619_0_2369227607639712"
+    },
+    {
+      "title": "Class-83 | Tense",
+      "id": "4426618",
+      "date": "10-Oct-2024 09:30",
+      "video_url": "4426618_0_8805193878434209"
+    },
+    {
+      "title": "Class-81 | Tense",
+      "id": "4426617",
+      "date": "08-Oct-2024 09:30",
+      "video_url": "4426617_0_7658683391573477"
+    },
+    {
+      "title": "Class-80 | Tense",
+      "id": "4426616",
+      "date": "07-Oct-2024 09:30",
+      "video_url": "4426616_0_1623734632081472"
+    },
+    {
+      "title": "Class-79 | Tense",
+      "id": "4426615",
+      "date": "04-Oct-2024 09:30",
+      "video_url": "4426615_0_3519991972783645"
+    },
+    {
+      "title": "Class-78 | Tense",
+      "id": "4426614",
+      "date": "03-Oct-2024 09:30",
+      "video_url": "4426614_0_6451933541850701"
+    },
+    {
+      "title": "Class-77 | Tense",
+      "id": "4426613",
+      "date": "02-Oct-2024 09:30",
+      "video_url": "4426613_0_3623825015926208"
+    },
+    {
+      "title": "Class-76 | Tense",
+      "id": "4426612",
+      "date": "01-Oct-2024 09:30",
+      "video_url": "4426612_0_4052012933031282"
+    },
+    {
+      "title": "Class-75 | Tense",
+      "id": "4426611",
+      "date": "30-Sep-2024 09:30",
+      "video_url": "4426611_0_4997224930166450"
+    },
+    {
+      "title": "Class-74 | Tense",
+      "id": "4426610",
+      "date": "27-Sep-2024 09:30",
+      "video_url": "4426610_0_3963090588923330"
+    },
+    {
+      "title": "Class-73 | Tense",
+      "id": "4426609",
+      "date": "26-Sep-2024 09:30",
+      "video_url": "4426609_0_2366812549857777"
+    },
+    {
+      "title": "Class-72 | Tense",
+      "id": "4426608",
+      "date": "25-Sep-2024 09:30",
+      "video_url": "4426608_0_7507635590998275"
+    },
+    {
+      "title": "Class-71 | Tense",
+      "id": "4426607",
+      "date": "24-Sep-2024 09:30",
+      "video_url": "4426607_0_3004742391557692"
+    },
+    {
+      "title": "Class-70 | Determiner",
+      "id": "4440304",
+      "date": "17-Sep-2024 09:30",
+      "video_url": "4440304_0_2608486925923200"
+    },
+    {
+      "title": "Class-69 | Subject Verb Agreement",
+      "id": "4440303",
+      "date": "16-Sep-2024 09:30",
+      "video_url": "4440303_0_7842612889035094"
+    },
+    {
+      "title": "Class-68 | Subject Verb Agreement",
+      "id": "4440302",
+      "date": "14-Sep-2024 09:30",
+      "video_url": "4440302_0_3129848176882126"
+    },
+    {
+      "title": "Class-67 | Subject Verb Agreement",
+      "id": "4440301",
+      "date": "13-Sep-2024 09:30",
+      "video_url": "4440301_0_2796478494797487"
+    },
+    {
+      "title": "Class-66 | Article",
+      "id": "4440300",
+      "date": "12-Sep-2024 09:30",
+      "video_url": "4440300_0_3206645254155596"
+    },
+    {
+      "title": "Class-65 | Article",
+      "id": "4440299",
+      "date": "11-Sep-2024 09:30",
+      "video_url": "4440299_0_9943923445735586"
+    },
+    {
+      "title": "Class-63 | Article",
+      "id": "4440298",
+      "date": "09-Sep-2024 09:30",
+      "video_url": "4440298_0_1071974272491280"
+    },
+    {
+      "title": "Class-62 | Article",
+      "id": "4440297",
+      "date": "07-Sep-2024 09:30",
+      "video_url": "4440297_0_1017808468616138"
+    },
+    {
+      "title": "Class-61 | Conjunction",
+      "id": "4440296",
+      "date": "06-Sep-2024 09:30",
+      "video_url": "4440296_0_8898813449814943"
+    },
+    {
+      "title": "Class-60 | Conjunction",
+      "id": "4440295",
+      "date": "05-Sep-2024 09:30",
+      "video_url": "4440295_0_6854005789605149"
+    },
+    {
+      "title": "Class-59 | Conjunction",
+      "id": "4440294",
+      "date": "04-Sep-2024 09:30",
+      "video_url": "4440294_0_2719031703045856"
+    },
+    {
+      "title": "Class-58 | Conjunction",
+      "id": "4440293",
+      "date": "03-Sep-2024 09:30",
+      "video_url": "4440293_0_4052473761454189"
+    },
+    {
+      "title": "Class-57 | Conjunction",
+      "id": "4440292",
+      "date": "02-Sep-2024 09:30",
+      "video_url": "4440292_0_6245489499170603"
+    },
+    {
+      "title": "Class-56  | Adverb",
+      "id": "4440291",
+      "date": "31-Aug-2024 09:30",
+      "video_url": "4440291_0_6863005349153361"
+    },
+    {
+      "title": "Class-55 | Adverb",
+      "id": "4440290",
+      "date": "29-Aug-2024 09:30",
+      "video_url": "4440290_0_8102494975881119"
+    },
+    {
+      "title": "Class-54 | Adverb",
+      "id": "4440289",
+      "date": "28-Aug-2024 09:30",
+      "video_url": "4440289_0_5853085307374302"
+    },
+    {
+      "title": "Class-53 | Adverb",
+      "id": "4440288",
+      "date": "27-Aug-2024 09:30",
+      "video_url": "4440288_0_4880709812659362"
+    },
+    {
+      "title": "Class-52 | Adverb",
+      "id": "4440287",
+      "date": "26-Aug-2024 09:30",
+      "video_url": "4440287_0_7633792059461296"
+    },
+    {
+      "title": "Class-51 | Adverb",
+      "id": "4440286",
+      "date": "24-Aug-2024 09:30",
+      "video_url": "4440286_0_3550217869499682"
+    },
+    {
+      "title": "Class-50 | Adverb",
+      "id": "4440285",
+      "date": "23-Aug-2024 09:30",
+      "video_url": "4440285_0_1400364612509778"
+    },
+    {
+      "title": "Class-49 | Adverb",
+      "id": "4440284",
+      "date": "22-Aug-2024 09:45",
+      "video_url": "4440284_0_6670452646936054"
+    },
+    {
+      "title": "Class-48 | Preposition",
+      "id": "4437727",
+      "date": "21-Aug-2024 09:30",
+      "video_url": "4437727_0_2734115298649732"
+    },
+    {
+      "title": "Class-47 | Preposition",
+      "id": "4437726",
+      "date": "20-Aug-2024 09:30",
+      "video_url": "4437726_0_5450514338544733"
+    },
+    {
+      "title": "Class-46 | Preposition",
+      "id": "4437725",
+      "date": "18-Aug-2024 09:30",
+      "video_url": "4437725_0_1206301900651965"
+    },
+    {
+      "title": "Class - 45 | Preposition",
+      "id": "4437724",
+      "date": "17-Aug-2024 09:30",
+      "video_url": "4437724_0_1497522006403719"
+    },
+    {
+      "title": "Class - 44 | Preposition",
+      "id": "4437723",
+      "date": "16-Aug-2024 09:30",
+      "video_url": "4437723_0_1931687490756584"
+    },
+    {
+      "title": "Class - 43 | Preposition",
+      "id": "4437722",
+      "date": "14-Aug-2024 09:30",
+      "video_url": "4437722_0_3691263212005662"
+    },
+    {
+      "title": "Class - 42 | Preposition",
+      "id": "4437721",
+      "date": "13-Aug-2024 09:30",
+      "video_url": "4437721_0_8541314555006102"
+    },
+    {
+      "title": "Class - 41 | Preposition",
+      "id": "4437720",
+      "date": "12-Aug-2024 09:30",
+      "video_url": "4437720_0_3948234518891691"
+    },
+    {
+      "title": "Class - 40 | Verb Advance",
+      "id": "4437719",
+      "date": "10-Aug-2024 09:30",
+      "video_url": "4437719_0_7741804403313439"
+    },
+    {
+      "title": "Class - 39 | Verb Advance",
+      "id": "4437718",
+      "date": "09-Aug-2024 09:30",
+      "video_url": "4437718_0_5070218438693765"
+    },
+    {
+      "title": "Class - 38 | Verb Advance",
+      "id": "4437717",
+      "date": "08-Aug-2024 09:30",
+      "video_url": "4437717_0_9730433730857531"
+    },
+    {
+      "title": "Class - 37 | Verb Advance",
+      "id": "4437716",
+      "date": "07-Aug-2024 09:30",
+      "video_url": "4437716_0_8036691150695226"
+    },
+    {
+      "title": "Class - 36 | Verb Advance",
+      "id": "4437715",
+      "date": "06-Aug-2024 09:30",
+      "video_url": "4437715_0_9717820584103709"
+    },
+    {
+      "title": "Class - 35 | Verb Advance",
+      "id": "4437714",
+      "date": "05-Aug-2024 09:30",
+      "video_url": "4437714_0_4480453256602873"
+    },
+    {
+      "title": "Class - 33 | Verb  Advance",
+      "id": "4437713",
+      "date": "02-Aug-2024 09:30",
+      "video_url": "4437713_0_3438833765570109"
+    },
+    {
+      "title": "Class - 32 | Verb Basic",
+      "id": "4437712",
+      "date": "01-Aug-2024 09:30",
+      "video_url": "4437712_0_8180063239741275"
+    },
+    {
+      "title": "Class - 31 | Verb Basic",
+      "id": "4437711",
+      "date": "31-Jul-2024 09:30",
+      "video_url": "4437711_0_2734492847068311"
+    },
+    {
+      "title": "Class - 30 | Verb Basic",
+      "id": "4437710",
+      "date": "30-Jul-2024 09:30",
+      "video_url": "4437710_0_8032460916180474"
+    },
+    {
+      "title": "Class - 29 | Verb Basic",
+      "id": "4437709",
+      "date": "29-Jul-2024 09:30",
+      "video_url": "4437709_0_1884996856858422"
+    },
+    {
+      "title": "Class - 28 | Adjective",
+      "id": "4440283",
+      "date": "26-Jul-2024 09:30",
+      "video_url": "4440283_0_4887903434161882"
+    },
+    {
+      "title": "Class - 27 | Adjective",
+      "id": "4440282",
+      "date": "25-Jul-2024 09:30",
+      "video_url": "4440282_0_2259260144165516"
+    },
+    {
+      "title": "Class - 26 | Adjective",
+      "id": "4440281",
+      "date": "24-Jul-2024 09:30",
+      "video_url": "4440281_0_6305155676410059"
+    },
+    {
+      "title": "Class - 25 | Adjective",
+      "id": "4440280",
+      "date": "23-Jul-2024 09:30",
+      "video_url": "4440280_0_9359222812479974"
+    },
+    {
+      "title": "Class - 24 | Adjective",
+      "id": "4440279",
+      "date": "22-Jul-2024 09:30",
+      "video_url": "4440279_0_3480921852938826"
+    },
+    {
+      "title": "Class - 23 | Adjective",
+      "id": "4440278",
+      "date": "19-Jul-2024 09:30",
+      "video_url": "4440278_0_7935845570631710"
+    },
+    {
+      "title": "Class - 22 | Adjective",
+      "id": "4440277",
+      "date": "18-Jul-2024 09:30",
+      "video_url": "4440277_0_9607829014954767"
+    },
+    {
+      "title": "Class - 21 | Adjective",
+      "id": "4440276",
+      "date": "17-Jul-2024 09:30",
+      "video_url": "4440276_0_2637361912661397"
+    },
+    {
+      "title": "Class - 20 | Adjective",
+      "id": "4440275",
+      "date": "16-Jul-2024 09:30",
+      "video_url": "4440275_0_9929908420392993"
+    },
+    {
+      "title": "Class - 19 | Pronoun",
+      "id": "4440274",
+      "date": "15-Jul-2024 09:30",
+      "video_url": "4440274_0_8658185186179517"
+    },
+    {
+      "title": "Class - 18 | Pronoun",
+      "id": "4440273",
+      "date": "13-Jul-2024 09:30",
+      "video_url": "4440273_0_7705373290915246"
+    },
+    {
+      "title": "Class - 17 | Pronoun",
+      "id": "4440272",
+      "date": "12-Jul-2024 09:30",
+      "video_url": "4440272_0_3753666003542544"
+    },
+    {
+      "title": "Class - 15 | Pronoun",
+      "id": "4440271",
+      "date": "10-Jul-2024 09:30",
+      "video_url": "4440271_0_3744036051899729"
+    },
+    {
+      "title": "Class - 14 | Pronoun",
+      "id": "4440270",
+      "date": "09-Jul-2024 09:30",
+      "video_url": "4440270_0_4096656824298046"
+    },
+    {
+      "title": "Class - 12 | Pronoun",
+      "id": "4440269",
+      "date": "05-Jul-2024 09:30",
+      "video_url": "4440269_0_1718188587235928"
+    },
+    {
+      "title": "Class - 11 | Noun",
+      "id": "4440268",
+      "date": "04-Jul-2024 09:30",
+      "video_url": "4440268_0_1058261060336915"
+    },
+    {
+      "title": "Class - 10 | Noun",
+      "id": "4440267",
+      "date": "03-Jul-2024 09:30",
+      "video_url": "4440267_0_8134938419442972"
+    },
+    {
+      "title": "Class - 09 | Noun",
+      "id": "4440266",
+      "date": "02-Jul-2024 09:30",
+      "video_url": "4440266_0_2052908811608835"
+    },
+    {
+      "title": "Class - 08 | Noun",
+      "id": "4440265",
+      "date": "01-Jul-2024 09:30",
+      "video_url": "4440265_0_2361794661345507"
+    },
+    {
+      "title": "Class - 07 | Noun",
+      "id": "4440264",
+      "date": "28-Jun-2024 09:30",
+      "video_url": "4440264_0_5363175619517344"
+    },
+    {
+      "title": "Class - 06 | Noun",
+      "id": "4440263",
+      "date": "27-Jun-2024 09:30",
+      "video_url": "4440263_0_2841291103398282"
+    },
+    {
+      "title": "Class - 05 | Noun",
+      "id": "4440262",
+      "date": "26-Jun-2024 09:30",
+      "video_url": "4440262_0_4179654247044781"
+    },
+    {
+      "title": "Class - 04 | Noun",
+      "id": "4440261",
+      "date": "25-Jun-2024 09:30",
+      "video_url": "4440261_0_5229868803316557"
+    },
+    {
+      "title": "Class - 03 | Noun",
+      "id": "4440260",
+      "date": "24-Jun-2024 09:30",
+      "video_url": "4440260_0_1589968259727657"
+    },
+    {
+      "title": "Class-01 | Introduction",
+      "id": "4440259",
+      "date": "20-Jun-2024 09:30",
+      "video_url": "4440259_0_6519287293269756"
+    }
+  ],
+  "notes_total": 350,
+  "notes": [
+    {
+      "id": 467507,
+      "title": "RC + Cloze Test + PQRS Set - 56 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6785076b5d88e_DAILY_SHOTS_56.pdf",
+      "date": "13-Jan-2025"
+    },
+    {
+      "id": 465944,
+      "title": "RC + Cloze Test + PQRS Set - 55 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6781044c4f199_DAILY_SHOTS_55.pdf",
+      "date": "10-Jan-2025"
+    },
+    {
+      "id": 463876,
+      "title": "RC + Cloze Test + PQRS Set - 54 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/677e656869b2a_Daily_Shots_54.pdf",
+      "date": "08-Jan-2025"
+    },
+    {
+      "id": 463345,
+      "title": "RC + Cloze Test + PQRS Set - 53 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/677bbf74037b7_DAILY_SHOTS_53.pdf",
+      "date": "06-Jan-2025"
+    },
+    {
+      "id": 462056,
+      "title": "RC + Cloze Test + PQRS Set - 52 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6777b6069f54c_Daily_shots_52_PDF.pdf",
+      "date": "03-Jan-2025"
+    },
+    {
+      "id": 462050,
+      "title": "RC + Cloze Test + PQRS Set - 51 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6777b5bc7c0e0_Daily_Shots_51_PDF.pdf",
+      "date": "03-Jan-2025"
+    },
+    {
+      "id": 460477,
+      "title": "RC + Cloze Test + PQRS Set - 50 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/677253d7cc9ef_DAILY_SHOTS_50.pdf",
+      "date": "30-Dec-2024"
+    },
+    {
+      "id": 460186,
+      "title": "RC + Cloze Test + PQRS Set - 49 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/676e95c1aaa20_daily_shot_49_PDF.pdf",
+      "date": "27-Dec-2024"
+    },
+    {
+      "id": 459719,
+      "title": "RC + Cloze Test + PQRS Set - 48 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/676bda0fc9601_daily_shot_48.pdf",
+      "date": "25-Dec-2024"
+    },
+    {
+      "id": 456509,
+      "title": "RC + Cloze Test + PQRS Set - 47 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6769406252de0_Daily_shots_47_PNG.pdf",
+      "date": "23-Dec-2024"
+    },
+    {
+      "id": 456117,
+      "title": "RC + Cloze Test + PQRS Set - 46 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/676561474e205_Daily_shots_46.pdf",
+      "date": "20-Dec-2024"
+    },
+    {
+      "id": 455680,
+      "title": "RC + Cloze Test + PQRS Set - 45 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6764ea97acfc7_Daily_shots_45.pdf",
+      "date": "20-Dec-2024"
+    },
+    {
+      "id": 455429,
+      "title": "RC + Cloze Test + PQRS Set - 44 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67626d0e01e7e_Daily_shots_44.pdf",
+      "date": "18-Dec-2024"
+    },
+    {
+      "id": 454388,
+      "title": "RC + Cloze Test + PQRS Set - 43 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/675c1ed40a0ee_Daily_shots_43_pdf.pdf",
+      "date": "13-Dec-2024"
+    },
+    {
+      "id": 454098,
+      "title": "RC + Cloze Test + PQRS Set - 42 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67597b0ce30d2_DAILY_SHOTS_42.pdf",
+      "date": "11-Dec-2024"
+    },
+    {
+      "id": 452125,
+      "title": "RC + Cloze Test + PQRS Set - 41 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6756d05d74793_DAILY_SHOTS_41.pdf",
+      "date": "09-Dec-2024"
+    },
+    {
+      "id": 451816,
+      "title": "RC + Cloze Test + PQRS Set - 40 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6752bfefedbe1_DAILY_SHOTS_40_Number_Infinite.pdf",
+      "date": "06-Dec-2024"
+    },
+    {
+      "id": 450938,
+      "title": "RC + Cloze Test + PQRS Set - 39 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6750265ae7e07_DAILY_SHOTS_45.pdf",
+      "date": "04-Dec-2024"
+    },
+    {
+      "id": 450418,
+      "title": "RC + Cloze Test + PQRS Set - 38 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/674d96abe49dd_DAILY_SHOTS_48.pdf",
+      "date": "02-Dec-2024"
+    },
+    {
+      "id": 450289,
+      "title": "SSC CHSL TIER-2 2024 ANSWER KEY BY GOPAL VERMA SIR",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/674b001b5981c_SSC_CHSL_TIER2_2024_ANSWER_KEY_BY_GOPAL_VERMA_SIR.pdf",
+      "date": "30-Nov-2024"
+    },
+    {
+      "id": 450122,
+      "title": "RC + Cloze Test + PQRS Set - 37 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67499bd997126_DAILY_SHOTS_43.pdf",
+      "date": "29-Nov-2024"
+    },
+    {
+      "id": 449110,
+      "title": "RC + Cloze Test + PQRS Set - 36 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6746e895cf866_DAILY_SHOTS_41.pdf",
+      "date": "27-Nov-2024"
+    },
+    {
+      "id": 448935,
+      "title": "RC + Cloze Test + PQRS Set - 35 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6745a6ac5efa8_DAILY_SHOTS_40_1.pdf",
+      "date": "26-Nov-2024"
+    },
+    {
+      "id": 448563,
+      "title": "Voice Updated PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/674056cac39ac_Voice_Practice_Batch...pdf",
+      "date": "22-Nov-2024"
+    },
+    {
+      "id": 448557,
+      "title": "RC + Cloze Test + PQRS Set - 34 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6740533963e65_DAILY_SHOTS_33.pdf",
+      "date": "22-Nov-2024"
+    },
+    {
+      "id": 447941,
+      "title": "RC + Cloze Test + PQRS Set - 33 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/673da59bea34c_DAILY_SHOTS_39.pdf",
+      "date": "20-Nov-2024"
+    },
+    {
+      "id": 446349,
+      "title": "RC + Cloze Test + PQRS Set - 32 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/673b10f05f74e_DAILY_SHOTS_34.pdf",
+      "date": "18-Nov-2024"
+    },
+    {
+      "id": 445349,
+      "title": "RC + Cloze Test + PQRS Set - 31 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/673707e908574_DAILY_SHOTS_32.pdf",
+      "date": "15-Nov-2024"
+    },
+    {
+      "id": 444993,
+      "title": "Comp- CT, Rc & Parajumble -30 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67344c0d505ad_DAILY_SHOTS_37.pdf",
+      "date": "13-Nov-2024"
+    },
+    {
+      "id": 444453,
+      "title": "Comp- CT, Rc & Parajumble -29 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67319106b90e4_DAILY_SHOTS_35.pdf",
+      "date": "11-Nov-2024"
+    },
+    {
+      "id": 443550,
+      "title": "Modal Auxiliary Updated Pdf",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/672ed6628a046_66d2b67b07c55Modal_Auxiliary......pdf",
+      "date": "09-Nov-2024"
+    },
+    {
+      "id": 443401,
+      "title": "Comp- CT, Rc & Parajumble -28 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/672d8eb81e62e_DAILY_SHOTS_31.pdf",
+      "date": "08-Nov-2024"
+    },
+    {
+      "id": 443019,
+      "title": "Comp- CT, Rc & Parajumble -27 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/672ada6c3d946_DAILY_SHOTS_30.pdf",
+      "date": "06-Nov-2024"
+    },
+    {
+      "id": 441198,
+      "title": "Top 100 English Practice Book PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/671c9ef4427f7_Top_100_SSC_CGL_Mains_English_With_Gopal_Verma_with_cover_pagecompressed.pdf",
+      "date": "26-Oct-2024"
+    },
+    {
+      "id": 441031,
+      "title": "Comp- CT, Rc & Parajumble -26 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/671b0b5bdf724_DAILY_SHOTS_29..pdf",
+      "date": "25-Oct-2024"
+    },
+    {
+      "id": 440869,
+      "title": "Mood & Intension of Speaker",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6719cc750e3d8_Mood_Intension_of_Speaker.pdf",
+      "date": "24-Oct-2024"
+    },
+    {
+      "id": 440674,
+      "title": "Comp- CT, Rc & Parajumble -25 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6718b580de56e_DAILY_SHOTS_28...pdf",
+      "date": "23-Oct-2024"
+    },
+    {
+      "id": 440604,
+      "title": "Tense and Conditional Sentences",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6718bb05e734b_TENSE_AND_CONDITIONAL_SENTENCSE_Student_Copy_1.pdf",
+      "date": "23-Oct-2024"
+    },
+    {
+      "id": 440600,
+      "title": "Conditional Sentence",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6718bafdc4370_Conditional_Sentences_1.pdf",
+      "date": "23-Oct-2024"
+    },
+    {
+      "id": 440335,
+      "title": "Comp- CT, Rc & Parajumble -24 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67160bcc121f9_DAILY_SHOTS_27.pdf",
+      "date": "21-Oct-2024"
+    },
+    {
+      "id": 440011,
+      "title": "Comp- CT, Rc & Parajumble -23 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6711ff77b4e0c_DAILY_SHOTS_26.pdf",
+      "date": "18-Oct-2024"
+    },
+    {
+      "id": 438030,
+      "title": "Comp- CT, Rc & Parajumble -22 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/670f6f7de2318_Daily_Shots.....pdf",
+      "date": "16-Oct-2024"
+    },
+    {
+      "id": 437506,
+      "title": "Comp- CT, Rc & Parajumble -21 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/670cdb1e83ce3_Daily_Shots_21.pdf",
+      "date": "14-Oct-2024"
+    },
+    {
+      "id": 437069,
+      "title": "SSC CGL TIER-1 2024 ALL SETS PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67075a5a4de6e_SSC_CGL_TIER1_2024_ALL_SETS_BY_GOPAL_VERMA_SIR.pdf",
+      "date": "10-Oct-2024"
+    },
+    {
+      "id": 435567,
+      "title": "Tense Updated PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/670ca1ad2012f_Tense_Updated_2024.pdf",
+      "date": "03-Oct-2024"
+    },
+    {
+      "id": 424299,
+      "title": "RC + Cloze Test + PQRS Set - 20 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66debdf6d37bf_Daily Shots 20.pdf",
+      "date": "09-Sep-2024"
+    },
+    {
+      "id": 423519,
+      "title": "RC + Cloze Test + PQRS Set - 19 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66dac10f9b643_Daily Shots 19.pdf",
+      "date": "06-Sep-2024"
+    },
+    {
+      "id": 423219,
+      "title": "RC + Cloze Test + PQRS Set - 18 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66d81dfb8854d_Daily Shots 18.pdf",
+      "date": "04-Sep-2024"
+    },
+    {
+      "id": 421208,
+      "title": "RC + Cloze Test + PQRS Set - 17 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66d571d7c15d6_RC + Cloze Test + PQRS Set - 17.pdf",
+      "date": "02-Sep-2024"
+    },
+    {
+      "id": 419096,
+      "title": "RC + Cloze Test + PQRS Set - 16 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66d184f3678c3_Daily Shots 16.pdf",
+      "date": "30-Aug-2024"
+    },
+    {
+      "id": 418910,
+      "title": "Adverb Updated Sheet",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66cff09a9ac5c_Adverb Updated Sheet 2024.pdf",
+      "date": "29-Aug-2024"
+    },
+    {
+      "id": 418807,
+      "title": "Comp- CT, Rc & Parajumble -15 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66cee4db5f116_Daily Shots 15.pdf",
+      "date": "28-Aug-2024"
+    },
+    {
+      "id": 418373,
+      "title": "Comp- CT, Rc & Parajumble -14 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66cc370c24475_Daily Shots Sheet 14.pdf",
+      "date": "26-Aug-2024"
+    },
+    {
+      "id": 418205,
+      "title": "Comp- CT, Rc & Parajumble -13 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66c84ea1863b5_Daily Shots 15.pdf",
+      "date": "23-Aug-2024"
+    },
+    {
+      "id": 417722,
+      "title": "Comp- CT, Rc & Parajumble -12 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66c5c3d917bd8_Daily Shots 12.pdf",
+      "date": "21-Aug-2024"
+    },
+    {
+      "id": 415511,
+      "title": "Comp- CT, Rc & Parajumble -11 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66bf12e64e8c1_Daily Shots Sheet 10 (1).pdf",
+      "date": "16-Aug-2024"
+    },
+    {
+      "id": 415501,
+      "title": "Comp- CT, Rc & Parajumble -10 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66beb8fd72173_Daily Shots Sheet 10.pdf",
+      "date": "16-Aug-2024"
+    },
+    {
+      "id": 412190,
+      "title": "Comp- CT, Rc & Parajumble -09 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66b9c889ce6be_Daily Shots Sheet 09.pdf",
+      "date": "12-Aug-2024"
+    },
+    {
+      "id": 412132,
+      "title": "Verb Advance Updated PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66b99d5e36195_Verb Advance.pdf",
+      "date": "12-Aug-2024"
+    },
+    {
+      "id": 411598,
+      "title": "Comp- CT, Rc & Parajumble -08 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66b5d7a82766b_RC + Cloze Test + PQRS Set - 8.pdf",
+      "date": "09-Aug-2024"
+    },
+    {
+      "id": 411106,
+      "title": "Comp- CT, Rc & Parajumble -07 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66b32deecc6fd_Daily Shots Sheet 7.pdf",
+      "date": "07-Aug-2024"
+    },
+    {
+      "id": 410730,
+      "title": "Comp- CT, Rc & Parajumble -06 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66b1803585f10_RC + Cloze Test + PQRS Set - 06.pdf",
+      "date": "06-Aug-2024"
+    },
+    {
+      "id": 410288,
+      "title": "Comp- CT, Rc & Parajumble -05 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66ad8ddf2ee7b_RC + Cloze Test + PQRS Set - 05.pdf",
+      "date": "03-Aug-2024"
+    },
+    {
+      "id": 407236,
+      "title": "Comp- CT, Rc & Parajumble -04 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66a9eaa52f001_RC + Cloze Test + PQRS Set - 04.pdf",
+      "date": "31-Jul-2024"
+    },
+    {
+      "id": 405969,
+      "title": "Verb Basic Updated PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66a9cdcd7f418_Verb Basic 2024 (Updated)...pdf",
+      "date": "30-Jul-2024"
+    },
+    {
+      "id": 403503,
+      "title": "Comp- CT, Rc & Parajumble -03 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66a75794acaa7_RC + Cloze Test + PQRS Set - 03.pdf",
+      "date": "29-Jul-2024"
+    },
+    {
+      "id": 402602,
+      "title": "Comp- CT, Rc & Parajumble -02 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66a36f4dd38dd_RC + Cloze Test + PQRS Set - 02.pdf",
+      "date": "26-Jul-2024"
+    },
+    {
+      "id": 399788,
+      "title": "Comp- CT, Rc & Parajumble -01 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66a0c45c0589b_Rc + Cloze test + PQRS Sheet 1 .pdf",
+      "date": "24-Jul-2024"
+    },
+    {
+      "id": 393392,
+      "title": "Determiner PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6691e887228f9_Determiner.pdf",
+      "date": "13-Jul-2024"
+    },
+    {
+      "id": 391671,
+      "title": "Comp- CT, Rc & Parajumble -97 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6687a403220d2_RC + Cloze Test + PQRS Sheet 35 (1).pdf",
+      "date": "05-Jul-2024"
+    },
+    {
+      "id": 391193,
+      "title": "Comp- CT, Rc & Parajumble -96 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6685045d69935_RC + Cloze Test + PQRS Sheet 34.pdf",
+      "date": "03-Jul-2024"
+    },
+    {
+      "id": 388800,
+      "title": "Comp- CT, Rc & Parajumble -95 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/667e50d527c8a_RC + Cloze Test + PQRS Sheet 33.pdf",
+      "date": "28-Jun-2024"
+    },
+    {
+      "id": 387924,
+      "title": "Comp- CT, Rc & Parajumble -94 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/667b8327a25b4_RC + Cloze Test + PQRS Sheet 32.pdf",
+      "date": "26-Jun-2024"
+    },
+    {
+      "id": 387569,
+      "title": "Comp- CT, Rc & Parajumble -93 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/667933778c00b_RC + Cloze Test + PQRS Sheet 30.pdf",
+      "date": "24-Jun-2024"
+    },
+    {
+      "id": 387152,
+      "title": "Comp- CT, Rc & Parajumble -92 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/667525a7284a6_RC + Cloze Test + PQRS Sheet 30.pdf",
+      "date": "21-Jun-2024"
+    },
+    {
+      "id": 385963,
+      "title": "Comp-Cloze Test -91 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6671332e54649_Cloze Test 2024 (Youtube).pdf",
+      "date": "18-Jun-2024"
+    },
+    {
+      "id": 385476,
+      "title": "Mock Test -10",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65b860dc52865_Mock Test 10..pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385475,
+      "title": "Mock Test -09",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65b71105de54d_Mock Test-9.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385474,
+      "title": "Mock Test -08",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65b0768f3d936_Mock Test 8.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385473,
+      "title": "Mock Test- 07",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65af4d738ce0d_Mock Test 7.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385472,
+      "title": "Mock Test -06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65adf7755d637_Mock Test 6++.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385471,
+      "title": "Mock Test -05",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65a74132d07f4_Mock Test 5+.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385470,
+      "title": "Mock Test -04",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65a5fdb402ff6_MOCK TEST-4...pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385469,
+      "title": "Mock Test -03",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65a4c00a148d9_Mock Test 3.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385468,
+      "title": "Mock Test -02",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65a0cd276cbef_Mock Test 2.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385467,
+      "title": "Mock Test -01",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/659faace7e01f_Mock Test 1.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385466,
+      "title": "VOCAB Acuity - 22",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645168705-1631022602-VOCAB_ACUITY_(22).pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385465,
+      "title": "VOCAB Acuity - 21",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645168705-1631022602-VOCAB_ACUITY_(21).pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385464,
+      "title": "VOCAB Acuity - 20",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645167906-1631022602-VOCAB_ACUITY_(20).pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385463,
+      "title": "VOCAB Acuity - 19",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645167906-1631022602-VOCAB_ACUITY_(19).pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385462,
+      "title": "VOCAB Acuity - 18",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645167906-1630048667-VOCAB_Acuity_-_18.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385461,
+      "title": "VOCAB Acuity - 17",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645167906-1630048667-VOCAB_Acuity_-_17.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385460,
+      "title": "VOCAB Acuity - 16",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645167906-1630048667-VOCAB_Acuity_-_16.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385459,
+      "title": "VOCAB Acuity - 15",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645167906-1630048667-VOCAB_Acuity_-_15.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385458,
+      "title": "VOCAB Acuity - 14",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645167906-1630048667-VOCAB_Acuity_-_14.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385457,
+      "title": "VOCAB Acuity - 13",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645167906-1630048667-VOCAB_Acuity_-_13.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385456,
+      "title": "VOCAB Acuity - 12",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645167906-1630048667-VOCAB_Acuity_-_12.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385455,
+      "title": "VOCAB Acuity - 11",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645167906-1630048667-VOCAB_Acuity_-_11.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385454,
+      "title": "VOCAB Acuity - 10",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645167906-1630048534-VOCAB_Acuity_-_10.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385453,
+      "title": "VOCAB Acuity - 9",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645167906-1630048534-VOCAB_Acuity_-_9.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385452,
+      "title": "VOCAB Acuity - 8",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645167906-1630048534-VOCAB_Acuity_-_8.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385451,
+      "title": "VOCAB Acuity - 7",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645167906-1630048534-VOCAB_Acuity_-_7.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385450,
+      "title": "VOCAB Acuity - 6",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645167906-1630048534-VOCAB_Acuity_-_6.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385449,
+      "title": "VOCAB Acuity - 5",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645167906-1630048534-VOCAB_Acuity_-_5.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385448,
+      "title": "VOCAB Acuity - 4",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645167906-1630048534-VOCAB_Acuity_-_4.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385447,
+      "title": "VOCAB Acuity - 3",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645167906-1630048534-VOCAB_Acuity_-_3.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385446,
+      "title": "VOCAB Acuity - 2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645167906-1630048534-VOCAB_Acuity_-_2.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385445,
+      "title": "VOCAB Acuity - 1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645167906-1630048534-VOCAB_Acuity_-_1.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385444,
+      "title": "VOCAB Session Set - 84",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645167415-1635133606-VOCAB_SESSION_SET-_84_(II).pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385443,
+      "title": "VOCAB Session Set - 83",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645167415-1634961064-VOCAB_SESSION_SET-_83_(ii).pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385442,
+      "title": "VOCAB Session Set - 82",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645167415-1634874590-VOCAB_SESSION_SET_-82_(ii).pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385441,
+      "title": "VOCAB Session Set - 81",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645167415-1634790919-VOCAB_SESSION_SET_-_81_(II).pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385440,
+      "title": "VOCAB Session Set - 80",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645167415-1634703620-VOCAB_SESSION_SET_-_80_(ii).pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385439,
+      "title": "VOCAB Session Set - 79",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645167415-1634562364-VOCAB_SESSION_SET_-_79_(II).pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385438,
+      "title": "VOCAB Session Set - 78",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645167415-1634117543-VOCAB_SESSION_SET_-78_(II).pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385437,
+      "title": "VOCAB Session Set - 77",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645167415-1634026869-VOCAB_SESSION_SET_-77_(II).pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385436,
+      "title": "VOCAB Session Set - 76",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645167415-1633950185-VOCAB_SESSION_SET_-76_(II).pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385435,
+      "title": "VOCAB Session Set - 75",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645167415-1633792122-VOCAB_SESSION_SET_-75_(ii).pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385434,
+      "title": "VOCAB Session Set - 74",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645167415-1633503302-VOCAB_SESSION_SET_-74_(II).pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385433,
+      "title": "VOCAB Session Set - 73",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645167415-1633115246-VOCAB_SESSION_SET_-73_(II).pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385432,
+      "title": "VOCAB Session Set - 72",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645167415-1632912874-VOCAB_SESSION_SET_-7(II)_(1).pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385431,
+      "title": "VOCAB Session Set - 71",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645167415-1632543811-VOCAB_SESSION_SET_-71_(II).pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385430,
+      "title": "VOCAB Session Set - 70",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645167415-1632395467-VOCAB_SESSION_SET_-70_(ii).pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385429,
+      "title": "VOCAB Session Set - 69",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645167097-1632308557-VOCAB_SESSION_SET_-_69_(II).pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385428,
+      "title": "VOCAB Session Set - 68",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645167097-1632284689-VOCAB_SESSION_SET_-68_(II).pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385427,
+      "title": "VOCAB Session Set - 67",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645167097-1631942189-VOCAB_SESSION_SET_-_67_(II).pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385426,
+      "title": "VOCAB Session Set - 66",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645167097-1631617503-VOCAB_SESSION_SET_-_66_(II).pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385425,
+      "title": "VOCAB Session Set - 65",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645167097-1631417051-VOCAB_SESSION_SET_-_65_(II).pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385424,
+      "title": "VOCAB Session Set - 64",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645167097-1631338136-VOCAB_SESSION_SET_-_64_(II).pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385423,
+      "title": "VOCAB Session Set - 63",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645167097-1631200651-VOCAB_SESSION_SET_-_63_(II).pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385422,
+      "title": "VOCAB Session Set - 62",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645167097-1631175356-VOCAB_SESSION_SET_-_62_(II).pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385421,
+      "title": "VOCAB Session Set - 61",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645167097-1631014177-VOCAB_SESSION_SET_-_61_(II).pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385420,
+      "title": "VOCAB Session Set - 60",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645167097-1630992638-VOCAB_SESSION_SET_-_60_(II).pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385419,
+      "title": "VOCAB Session Set - 59",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645167097-1630759367-VOCAB_SESSION_SET_-_59_(II).pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385418,
+      "title": "VOCAB Session Set - 58",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645167097-1630670259-VOCAB_Session_Set_-_58.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385417,
+      "title": "VOCAB Session Set - 57",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645167097-1630589139-VOCAB_SESSION_SET_-_57_(II).pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385416,
+      "title": "VOCAB Session Set - 56",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645167097-1630485975-VOCAB_SESSION_SET_-_56_(II).pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385415,
+      "title": "VOCAB Session Set - 55",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645167097-1630475848-VOCAB_SESSION_SET_-_55_(II).pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385414,
+      "title": "VOCAB Session Set - 54",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645167097-1630152902-VOCAB_SESSION_SET_-_54_(II).pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385413,
+      "title": "VOCAB Session Set - 53",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645167097-1630152902-VOCAB_SESSION_SET_-_53_(II).pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385412,
+      "title": "VOCAB Session Set - 52",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645167097-1629807873-VOCAB_SESSION_SET_-_52_(II).pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385411,
+      "title": "VOCAB Session Set - 51",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645167097-1629721595-VOCAB_SESSION_SET_-_51_(II).pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385410,
+      "title": "VOCAB Session Set - 50",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645167097-1629559923-VOCAB_Session_Set_-_50.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385409,
+      "title": "VOCAB Session Set - 49",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645166452-1629461490-VOCAB_SESSION_SET_-_49_(II).pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385408,
+      "title": "VOCAB Session Set - 48",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645166452-1629307995-VOCAB_SESSION_SET_-_48_(II).pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385407,
+      "title": "VOCAB Session Set - 47",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645166452-1629093806-VOCAB_SESSION_SET_-_47_(II).pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385406,
+      "title": "VOCAB Session Set - 46",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645166452-1629047505-VOCAB_SESSION_SET_-46_(II).pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385405,
+      "title": "VOCAB Session Set - 45",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645166452-1628859806-VOCAB_SESSION_SET_-45_(II).pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385404,
+      "title": "VOCAB Session Set - 44",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645166452-1628739915-VOCAB_SESSION_SET_-44_(II).pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385403,
+      "title": "VOCAB Session Set - 43",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645166452-1628601718-VOCAB_SESSION_SET_-43_(II).pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385402,
+      "title": "VOCAB Session Set - 42",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645166452-1628510551-VOCAB_SESSION_SET_-42_(II).pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385401,
+      "title": "VOCAB Session Set - 41",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645166452-41.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385400,
+      "title": "VOCAB Session Set - 40",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645166452-40.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385399,
+      "title": "VOCAB Session Set - 39",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645166452-39.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385398,
+      "title": "VOCAB Session Set - 38",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645166452-1627565045-VOCAB_SESSION_SET_-38_-(ii).pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385397,
+      "title": "VOCAB Session Set - 37",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645166452-37___.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385396,
+      "title": "VOCAB Session Set - 36",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645166452-36.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385395,
+      "title": "VOCAB Session Set - 35",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645166452-35.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385394,
+      "title": "VOCAB Session Set - 34",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645166452--34.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385393,
+      "title": "VOCAB Session Set - 33",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645166452--33.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385392,
+      "title": "VOCAB Session Set - 32",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645166452--32.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385391,
+      "title": "VOCAB Session Set - 31",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645166452-31.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385390,
+      "title": "VOCAB Session Set - 30",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645166452-_-30.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385389,
+      "title": "VOCAB Session Set - 29",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645165628-1627536938-VOCAB_SESSION_SET_-29.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385388,
+      "title": "VOCAB Session Set - 28",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645165628-1627536929-VOCAB_SESSION_SET_-28.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385387,
+      "title": "VOCAB Session Set - 27",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645165628-1627536923-VOCAB_SESSION_SET_-27.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385386,
+      "title": "VOCAB Session Set - 26",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645165628-1627536923-VOCAB_SESSION_SET_-26.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385385,
+      "title": "VOCAB Session Set - 25",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645165628-1625552533-VOCAB_SESSION_SET_-25.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385384,
+      "title": "VOCAB Session Set - 24",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645165628-1625552533-VOCAB_SESSION_SET_-24.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385383,
+      "title": "VOCAB Session Set - 23",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645165628-1625552533-VOCAB_SESSION_SET_-23.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385382,
+      "title": "VOCAB Session Set - 22",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645165628-1625552533-VOCAB_SESSION_SET_-22.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385381,
+      "title": "VOCAB Session Set - 21",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645165628-1625552533-VOCAB_SESSION_SET_-21.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385380,
+      "title": "VOCAB Session Set - 20",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645165628-1625547805-VOCAB_SESSION_SET_-20.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385379,
+      "title": "VOCAB Session Set - 19",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645165628-1625547805-VOCAB_SESSION_SET_-19.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385378,
+      "title": "VOCAB Session Set - 18",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645165628-1625547805-VOCAB_SESSION_SET_-18.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385377,
+      "title": "VOCAB Session Set - 17",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645165628-1625547805-VOCAB_SESSION_SET_-17.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385376,
+      "title": "VOCAB Session Set - 16",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645165628-1625547805-VOCAB_SESSION_SET_-16.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385375,
+      "title": "VOCAB Session Set - 15",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645165628-1625547805-VOCAB_SESSION_SET_-15.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385374,
+      "title": "VOCAB Session Set - 14",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645165628-1625547805-VOCAB_SESSION_SET_-14.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385373,
+      "title": "VOCAB Session Set - 13",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645165628-1625547805-VOCAB_SESSION_SET_-13.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385372,
+      "title": "VOCAB Session Set - 12",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645165628-1625547805-VOCAB_SESSION_SET_-12.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385371,
+      "title": "VOCAB Session Set - 11",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645165073-1625547805-VOCAB_SESSION_SET_-11.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385370,
+      "title": "VOCAB Session Set - 10",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645165073-1625547805-VOCAB_SESSION_SET_-10.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385369,
+      "title": "VOCAB Session Set - 9",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645165073-1625547805-VOCAB_SESSION_SET_-_9.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385368,
+      "title": "VOCAB Session Set - 8",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645165073-1625547805-VOCAB_SESSION_SET_-_8.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385367,
+      "title": "VOCAB Session Set - 7",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645165073-1625547805-VOCAB_SESSION_SET_-_7.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385366,
+      "title": "VOCAB Session Set - 6",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645165073-1625547805-VOCAB_SESSION_SET_-_6.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385365,
+      "title": "VOCAB Session Set - 5",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645165073-1625547805-VOCAB_SESSION_SET_-_5.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385364,
+      "title": "VOCAB Session Set - 4",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645165073-1625547805-VOCAB_SESSION_SET_-_4.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385363,
+      "title": "VOCAB Session Set - 3",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645165073-1625547805-VOCAB_SESSION_SET_-_3.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385362,
+      "title": "VOCAB Session Set - 2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645165073-1625547805-VOCAB_SESSION_SET_-_2.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385361,
+      "title": "VOCAB Session Set - 1 ",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1645165073-1625547805-VOCAB_SESSION_SET_-_1_(DIGITAL).pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385360,
+      "title": "Comp-Parajumble-90 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/666bb5a621c4b_Para-Jumbles.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385359,
+      "title": "Comp- CT, Rc & Parajumble -89 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66695e2ed5946_RC + Cloze Test + PQRS Sheet 29.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385358,
+      "title": "Comp-Rc-88 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6666a2eaaa98c_Reading Comprehension.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385357,
+      "title": "Comp- CT, Rc & Parajumble -87 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66626c6be8625_Cloze Test & Unseen Passage Sheet 28.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385356,
+      "title": "Comp- CT, Rc & Parajumble -86 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/665fdecf16609_Cloze Test & Unseen Passage Sheet 27.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385355,
+      "title": "Comp- CT & Rc -85 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/665d7d24624d6_Cloze Test & Reading Comprehension  Sheet 26.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385354,
+      "title": "Comp- CT & Rc -84 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66599145cbebe_Cloze Test & Unseen Passage Sheet 25 (1).pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385353,
+      "title": "Comp-CT & Parajumble-83 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6656eee2adb1b_CLOZE-TEST & Para Jumbles Sheet  24.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385352,
+      "title": "Comp- CT & Rc -82 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/665535e7a3da5_Reading Comprehension & Cloze Test Sheet 23.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385351,
+      "title": "Comp- CT & Rc -81 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/665005aab411f_Cloze Test & Unseen Passage Sheet 23.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385350,
+      "title": "Comp-Rc & CT-80 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6646ff651be48_Reading Comprehension & Cloze Test Sheet 21.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385349,
+      "title": "Comp-Rc & Parajumble-79 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6644240fdcfbf_Reading Comprehension & Para Jumbles Sheet 19.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385348,
+      "title": "Comp-Rc & Parajumble-78 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/663dba30136c3_Reading Comprehension & Para Jumbles Sheet 17.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385347,
+      "title": "Comp-CT & Parajumble-77 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/663c2866e674a_Cloze Test & Para Jumbles Sheet 16.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385346,
+      "title": "Comp-CT & Parajumble-76 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6639828431163_Unseen Passage & Para Jumbles Sheet 15.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385345,
+      "title": "Comp-CT & Parajumble-75 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6633490f3f384_Cloze Test & Para Jumbles Sheet 13.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385344,
+      "title": "Comp-Rc & Parajumble-74 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/662f8bc42aa27_Reading Comprehension & Para Jumbles Sheet 12.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385343,
+      "title": "Comp-CT & Parajumble-73 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6628ce48a6eb2_Cloze Test & Para Jumbles Sheet 11.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385342,
+      "title": "Comp-Rc & Parajumble-72 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/662636ae5e0a9_Reading Comprehension & Para Jumbles Sheet 10.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385341,
+      "title": "Comp-Rc & Parajumble-71 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6622465e6d12e_Reading Comprehension & Para Jumbles Sheet 9.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385340,
+      "title": "Comp-CT& Parajumble-70 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/661cf724711ab_CLOZE-TEST & Para Jumbles Sheet 8.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385339,
+      "title": "Comp-Rc & Parajumble-69 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/661cb3355c2cf_Reading Comprehension & Para Jumbles Sheet 7.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385338,
+      "title": "Comp-CT& Parajumble-68 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6616156b26431_Cloze Test & Para Jumbles Sheet 5.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385337,
+      "title": "Comp-Rc&Parajumble-67 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/660fc2f9edd99_Reading Comprehension & Para Jumbles Sheet 4.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385336,
+      "title": "Comp-Rc & Parajumble-65 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65faa9c089a10_Reading Comprehension & Para Jumbles Sheet 3.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385335,
+      "title": "Comp-Rc & Parajumble-64 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65f808b8e648c_Reading Comprehension & Para Jumbles Sheet 2.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385334,
+      "title": "Comp-CT&PQRS-63 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65eed2cb4e84d_CLOZE-TEST & PQRS.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385333,
+      "title": "Comp-Rc & Parajumble-62 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65ec1f26095e4_Reading Comprehension & Para Jumbles.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385332,
+      "title": "Comp-Cloze-Test-61 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65e835ad8173d_Close test sheet-7.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385331,
+      "title": "Comp-Parajumble-60 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65e1a5ef590f5_PARA JUMBLE.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385330,
+      "title": "Comp-Rc-59 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65dda4e7d9c68_Reading Comprehension Sheet 16.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385329,
+      "title": "Comp-Cloze-Test-58 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65d85986e008d_Cloze Test Sheet-6_Student copy    1.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385328,
+      "title": "Comp-Parajumble-57 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65d70d943a8c9_PARA-JUMBLES SHEET 12.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385327,
+      "title": "Comp-Rc-56 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65d5849aa7558_Reading Comprehension Sheet 15.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385326,
+      "title": "Comp-Cloze-Test-55 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65cf2da090262_Cloze Test Sheet-5_Student copy_ 1.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385325,
+      "title": "Com-Parajumble-54 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65cdc776b4db6_Para-jumbles Sheet-11_Student file.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385324,
+      "title": "Comp-Rc-53 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65c9ef8c9489e_Reading Comprehension Sheet 14.+.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385323,
+      "title": "Comp-Parajumble-52 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65c4983175219_Para-jumble Sheet-10_Student file.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385322,
+      "title": "Comp-Rc-51 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65c1fa6d8b3e0_Reading Comprehension.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385321,
+      "title": "Comp-Rc-50 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65c0bfd301dac_Reading Comprehension_Student file_ final.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385320,
+      "title": "Vc-Fixed-Pre-49 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65bcb33c2a6fe_Fixed Preposition.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385319,
+      "title": "Comp-Parajumble-48 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65bb6fa61c8df_PARAJUMBLES.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385318,
+      "title": "Vc-Id-Ph-47 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65ba0fd217dee_IDOMS AND PHARASES_30.01.24.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385317,
+      "title": "Comp-Rc-46 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65b8bd71283ec_Reading Comprehension.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385316,
+      "title": "Vc-OWS-45 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65b769fa948cd_One Word Substitution.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385315,
+      "title": "Vc-Syn-44 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65b20c5971670_Synonym-2.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385314,
+      "title": "Comp-Cloze-Test-43",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65b0d04ddd883_Cloze-Test Sheet-4.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385313,
+      "title": "Vc- Phrasal Verb-42 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65af715753b68_Phrasal Verb Sheet-1.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385312,
+      "title": "Vc-Anto-41 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65ae3ad9a97ef_Antonym.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385311,
+      "title": "Comp-Parajumble-40 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65aa2792cacd4_Para-Jumbles Sheet 8.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385310,
+      "title": "Comp-Rc-39 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65a8e76acee3b_Reading Comprehension Sheet-12.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385309,
+      "title": "Vc-Id-Ph-38 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65a79e5ab196a_Idioms and Phrases..pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385308,
+      "title": "Vc-OWS -37 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65a64bf1ecedd_One Word Substitution Sheet 13..pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385307,
+      "title": "Vc-Syn-36 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65a4f7dc34264_Synonym.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385306,
+      "title": "Comp-Close Test-35 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65a0fdbd2e419_Close Test.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385305,
+      "title": "Comp-Parajumble-34 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/659d11ae06e10_Para-Jumbles.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385304,
+      "title": "Vc-Id-Ph-33 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/659bc6526e354_Idioms and Phrases-1.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385303,
+      "title": "Comp-Rc-32 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6597d5517a626_Reading Comprehension GREEN+.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385302,
+      "title": "Vc-OWS -31 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6596853ad8d7c_One Word Substitution.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385301,
+      "title": "Comp-Close Test-30 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6595645f7aa94_cloze test sheet 2...pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385300,
+      "title": "Comp-Parajumble-29 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6593dbb37ff44_para-jumble sheet 5.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385299,
+      "title": "Vc-Id-Ph-28 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/659282f770115_Idioms and Phrases sheet 11 (s).pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385298,
+      "title": "Comp-Close Test-27 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/658e8dd3ba9b0_Close Test.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385297,
+      "title": "Vc-OWS-26 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/658d29db68b71_One Word Substitution.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385296,
+      "title": "Comp-Rc-25 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/658bdddaab496_Reading Comprehension Sheet 9 (s).pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385295,
+      "title": "Vc-Id-Ph-24 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/658a98d51fe66_Idioms and Phrases Sheet-10 (s).pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385294,
+      "title": "Comp-Parajumble-23 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/658942568fdee_Para- jumble sheet 3.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385293,
+      "title": "Vc-OWS-22 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/658544af6d3ac_One word Substitution Sheet 9.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385292,
+      "title": "Vc-Id-Ph-21 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6583f20e5dc63_Idioms and Phrases.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385291,
+      "title": "Comp-Rc-20 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65815f410ee11_Reading Comprehension.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385290,
+      "title": "Comp-Parajumble-19 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/658010c5d1727_Para-Jumbles Sheet-2.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385289,
+      "title": "Vc-OWS -18 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/657c13e592824_One word Substitution +.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385288,
+      "title": "Vc-Id-Ph-17 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/657ac2c587119_Idioms and Phrases Sheet-8 (s).pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385287,
+      "title": "Comp-Parajumble-16 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6579742fbd165_Para-Jumbles Sheet-1.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385286,
+      "title": "Comp-Rc-15 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65782646962df_Reading comprehension Sheet-1.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385285,
+      "title": "Vc-Id-Ph-14 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6576c0c8b3f41_IDIOMS AND Phrases (sheet-6) (Student Copy)...pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385284,
+      "title": "Vc-OWS-13 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6576c02e7ffb4_One Word Substitution Sheet-6 (Student Copy).pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385283,
+      "title": "Com-Rc-12 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65718479a9087_Reading Comprehension sheet 6'.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385282,
+      "title": "Vc-Id-Ph-11 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65702b10531cf_One Word Substitution Sheet-5.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385281,
+      "title": "Comp-Rc-10 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/656ef16f86430_Reading Comprehension 5 (Student Copy)...pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385280,
+      "title": "Vc-Id&Ph-09 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/656d965444bae_IDIOMS AND Pharases (sheet-5) (Student Copy)...pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385279,
+      "title": "Vc-OWS-08 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6569a2d3f379c_One Word Substitution (Student Copy).pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385278,
+      "title": "Comp-Rc-07 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6569461fa7c86_Reading Comprehension sheet-3 (Student Copy)...pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385277,
+      "title": "Vc-Id&Ph-06 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/656944b860e2b_Idiom & Phrases Sheet-4.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385276,
+      "title": "Comp-Rc-05 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6566b4a36c61c_Reading Comprehension sheet-2 (Student Copy)...pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385275,
+      "title": "Vc-OWS-04 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6565566987625_IDIOMS AND Pharases (sheet-2) (Student Copy)...pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385274,
+      "title": "Vc-Id&Ph-03 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/656069a25460e_IDIOMS AND Pharases (Student Copy)...pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385273,
+      "title": "Comp-Rc-02 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/656042561ba6d_Reading Comprehension (1).pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385272,
+      "title": "Vc-OWS-01 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/656041922ecf9_One Word (Sheet-1) (Student Copy)...pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385271,
+      "title": "Important Verbs (Regular)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65b0cf8a3613c_Important Verbs (Irregular).pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385270,
+      "title": "Important Verbs (Regular)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65b0cf77335d8_Important Verbs (Regular).pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385269,
+      "title": "Important Vocabulary (Different Places)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65b0cf61b391e_Important Vocabulary (Different Places).pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385268,
+      "title": "Parts of Speech (Important Vocabulary)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65b0cf481bc48_Parts of Speech (Important Vocabulary) (1).pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385247,
+      "title": "One Word Substitution Home Work",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/661e6de9a9dcd_One Word Substitution Home Work -   2 (1).pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385246,
+      "title": "Fixed Preposition",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/661e6ddece202_Fixed Preposition_(S) -  2 (1).pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385245,
+      "title": "Antonyms",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66029e48178ff_ANTONYMS_(Home work-2)_(100+160)-Ans.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385244,
+      "title": "Synonym ‍",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65fc21478541f_SYNONYMS.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385243,
+      "title": "One Word Substitution",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65fc202181093_One Word Substitution (1).pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385242,
+      "title": "Reading Comprehension",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65fc1fa498e9a_Reading Comprehension (1).pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385241,
+      "title": "Para-Jumbles",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65fc20c4a7257_Para jumble Home (1).pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385225,
+      "title": "Phrasal Verb  PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6641d634cb444_Phrasal Verb (1).pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385224,
+      "title": "Determiner",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/661d169bee2da_Determiner.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385223,
+      "title": "Conditional Sentences PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66190dab5c8c4_Conditional.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385221,
+      "title": "Comp-CT& PQRS-66 PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/660bc76126458_CLOZE-TEST & Para Jumbles Sheet 1.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385220,
+      "title": "Reading Comprehension",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66029e8f6263b_Reading compherinsion class work..pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385219,
+      "title": "Para-Jumbles",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66029e7f8d8f6_Para-Jumbles Class work..pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385218,
+      "title": "Cloze Test",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66029e71ab081_CLOZE TEST CLASS WORK.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385217,
+      "title": "One Word Substitution",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65fc1edbc6dc8_One Word Substitution.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385216,
+      "title": "Idioms & Phrases",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65fc1e8a906e1_Idioms & Phrases.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385215,
+      "title": "Synonym & Antonym",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65fc1d8d8ea35_Synonym & Antonym (1).pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385214,
+      "title": "Narration Traditional Pdf",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65a75377eff1a_1627451827-Narration.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385213,
+      "title": "Books Links PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65891604c9173_bOOKL.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385212,
+      "title": "Complete Preposition Pdf",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/657fe0823bbc1_Preposition Sheet-1.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385211,
+      "title": "Comprehension Practice Pdf",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/651e626ba56c9_Comprehension.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385210,
+      "title": "Parajumbles PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6515067c64117_Para-Jumbles.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385209,
+      "title": "Voices Spotting Error PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65150352753aa_Voices Spotting.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385208,
+      "title": "Active & Passive Voices",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6513b0b9ef6cf_Active & Passive Voices.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385207,
+      "title": "Question Tag Pdf -1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6507e83cf0a31_6465b0136332d_English Question Tag.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385206,
+      "title": "Subject Verb Agreement PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64d1c7fb1f5b3_64a65c60046ed_Subject verb agreement spotting error.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385203,
+      "title": "Irregular Verb PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64b8e5e37fb49_Irregular Verb (student).pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385202,
+      "title": "CONFUSING PAIR WORDS STUDENT COPY",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64b8e597098e6_CONFUSING PAIR WORDS STUDENT COPY.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385201,
+      "title": "Adjective Practice PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65d70cfdd6d18_Adjective Sheet-1.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385200,
+      "title": "Pronoun Spotting Error board",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64aba81be2c6b_647ecb1f69db7_Pronoun Spotting Error student copy pdf_compressed.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385199,
+      "title": "PQRS Composite Class PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/649c104301ccb_Parajumble.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385198,
+      "title": "The English Acumen 5th Edition Book Link",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/663deee822351_The English Acumen 5th Edition (1).pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385197,
+      "title": "Syllabus",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65fc106836adb_Syllabus.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385248,
+      "title": "Modal auxiliary",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65fc180514bc4_Modals.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385249,
+      "title": "Phrasal Verb",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65fc17c4a2a66_Phrasal Verb.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385250,
+      "title": "Spelling",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65fc17a2639e9_Spelling.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385251,
+      "title": "Root Words",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65fc1794aa6bf_Root Words.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385252,
+      "title": "Idioms and Phrases",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65fc1f3780d1c_IDIOMS & PHRASES (1).pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385253,
+      "title": "Homonyms",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65fc17655f40e_Homonyms.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385254,
+      "title": "Fixed Preposition",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65fc1753456e6_Fixed Preposition.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385255,
+      "title": "Cloze Test",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65fc1f664a328_CLOZE TEST_compressed.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385256,
+      "title": "Narration",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65fc16a34ecfa_NARRATION.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385257,
+      "title": "Voice",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65fc16887737e_VOICE.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385258,
+      "title": "Tense",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65fc166ab0622_TENSES.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385259,
+      "title": "Subject Verb Agreement",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65fc164a75de6_Subject Verb Agreement.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385260,
+      "title": "Articles",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65fc163fcdab7_ARTICLES.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385261,
+      "title": "Preposition",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65fc16294ed72_PREPOSITION.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385262,
+      "title": "Conjunction",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65fc1612e1271_CONJUNCTION.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385263,
+      "title": "Adverb",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65fc15ff35a00_ADVERB.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385264,
+      "title": "Verb",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65fc15e7b48bf_VERB.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385265,
+      "title": "Adjective",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65fc1a2a84fe1_ADJECTIVE.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385266,
+      "title": "Pronoun",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65fc15b9a960e_Pronoun.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385267,
+      "title": "Noun",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65fc15ab208ec_Noun.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385227,
+      "title": "Confusing Pair Words",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1627452249-Confusing_Pair_Words.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385228,
+      "title": "Miss Spelt",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1627452249-Spelling_Test.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385229,
+      "title": "Verb Advance",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1627452249-Verb_Advance.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385230,
+      "title": "Subject Verb Agreement",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1627452249-Subject_Verb_Agreement.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385231,
+      "title": "Article",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/658e7c21bf871_Article Sheet-1.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385232,
+      "title": "Presposition",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1627451827-Presposition.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385233,
+      "title": "Conjunction",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1627451827-Conjunction.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385235,
+      "title": "Modal Auxiliaries",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65a6091cbd993_Modal Auxiliary.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385236,
+      "title": "Question Tag",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1632114875-Question_Tag.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385237,
+      "title": "Pronoun",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65cb3d6bccd05_Pronoun Sheet......pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385238,
+      "title": "Noun Updated PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/668623934cd82_Noun PDF 1.pdf",
+      "date": "17-Jun-2024"
+    },
+    {
+      "id": 385239,
+      "title": "Narration",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65a6468a22339_Narration sheet-1..pdf",
+      "date": "17-Jun-2024"
+    }
+  ]
+}
