@@ -1,5 +1,5 @@
 {
-  "batch_id": 2726,
+  "batch_id": "2726",
   "topics": [
     {
       "id": 27835,
@@ -77,5 +77,6 @@
       "id": 28526,
       "topicName": "PYQ Paper (6th to 8th)"
     }
-  ]
+  ],
+  "batch_name": "BPSC TRE 4.0 (Primary+Junior)"
 }
