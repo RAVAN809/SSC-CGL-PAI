@@ -1,5 +1,5 @@
 {
-  "batch_id": 2332,
+  "batch_id": "2332",
   "topics": [
     {
       "id": 22960,
@@ -93,5 +93,6 @@
       "id": 29895,
       "topicName": "Bhagwati Sir Maths"
     }
-  ]
+  ],
+  "batch_name": "Offline SSC Spl-01 (2024)"
 }
