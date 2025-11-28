@@ -1,0 +1,1930 @@
+{
+  "batchid": 2852,
+  "topicid": 29185,
+  "classes_total": 82,
+  "classes": [
+    {
+      "title": "Class-85 | Doubt Session",
+      "id": "4440768",
+      "date": "29-Aug-2024 12:45",
+      "video_url": "4440768_0_8892052716609094"
+    },
+    {
+      "title": "Class-84  | Data Sufficiency",
+      "id": "4440766",
+      "date": "27-Aug-2024 12:45",
+      "video_url": "4440766_0_4200003403312131"
+    },
+    {
+      "title": "Class-83 | Data Sufficiency",
+      "id": "4440764",
+      "date": "23-Aug-2024 12:45",
+      "video_url": "4440764_0_9221421579321922"
+    },
+    {
+      "title": "Class-82 | Data Sufficiency",
+      "id": "4440762",
+      "date": "22-Aug-2024 12:45",
+      "video_url": "4440762_0_7170153082227945"
+    },
+    {
+      "title": "Class-81 | Quantity Comparison",
+      "id": "4440760",
+      "date": "21-Aug-2024 12:45",
+      "video_url": "4440760_0_8993044317628821"
+    },
+    {
+      "title": "Class-80 | Logical DI",
+      "id": "4440758",
+      "date": "20-Aug-2024 12:45",
+      "video_url": "4440758_0_6456244076958237"
+    },
+    {
+      "title": "Class-79 | Logical DI",
+      "id": "4440755",
+      "date": "14-Aug-2024 12:45",
+      "video_url": "4440755_0_6389381726488987"
+    },
+    {
+      "title": "Class-78 | Logical DI",
+      "id": "4440753",
+      "date": "13-Aug-2024 12:45",
+      "video_url": "4440753_0_3922450988544031"
+    },
+    {
+      "title": "Class-77 | Logical DI",
+      "id": "4440751",
+      "date": "12-Aug-2024 12:45",
+      "video_url": "4440751_0_3495089708764370"
+    },
+    {
+      "title": "Class-76 | Arithmetic based DI",
+      "id": "4440749",
+      "date": "09-Aug-2024 12:45",
+      "video_url": "4440749_0_7641411139367198"
+    },
+    {
+      "title": "Class-75 | Arithmetic based DI",
+      "id": "4440747",
+      "date": "08-Aug-2024 12:45",
+      "video_url": "4440747_0_1273520288139499"
+    },
+    {
+      "title": "Class-74 | Arithmetic based DI",
+      "id": "4440745",
+      "date": "07-Aug-2024 12:45",
+      "video_url": "4440745_0_5266503480001510"
+    },
+    {
+      "title": "Class-73 | Time Speed and Distance",
+      "id": "4425947",
+      "date": "06-Aug-2024 15:30",
+      "video_url": "4425947_0_9988536532824620"
+    },
+    {
+      "title": "Class-72 | Doubt Session",
+      "id": "4440743",
+      "date": "06-Aug-2024 12:45",
+      "video_url": "4440743_0_6818671348944033"
+    },
+    {
+      "title": "Class-71 | Time Speed and Distance",
+      "id": "4425943",
+      "date": "05-Aug-2024 15:30",
+      "video_url": "4425943_0_9551121924736717"
+    },
+    {
+      "title": "Class-70 | Probability",
+      "id": "4440742",
+      "date": "05-Aug-2024 12:45",
+      "video_url": "4440742_0_1360030858207973"
+    },
+    {
+      "title": "Class-69 | Time Speed and Distance",
+      "id": "4425936",
+      "date": "02-Aug-2024 15:30",
+      "video_url": "4425936_0_7708726938235737"
+    },
+    {
+      "title": "Class-68 | Probability",
+      "id": "4440741",
+      "date": "02-Aug-2024 12:45",
+      "video_url": "4440741_0_7657826826579469"
+    },
+    {
+      "title": "Class-67 | Probability",
+      "id": "4440740",
+      "date": "01-Aug-2024 12:45",
+      "video_url": "4440740_0_6868776528854457"
+    },
+    {
+      "title": "Class-66 | Time Speed and Distance",
+      "id": "4425925",
+      "date": "31-Jul-2024 15:30",
+      "video_url": "4425925_0_3661130131972108"
+    },
+    {
+      "title": "Class-65 | Probability",
+      "id": "4440739",
+      "date": "31-Jul-2024 12:45",
+      "video_url": "4440739_0_1544713118626012"
+    },
+    {
+      "title": "Class-64 | Number System",
+      "id": "4423912",
+      "date": "30-Jul-2024 17:00",
+      "video_url": "4423912_0_9377556267897638"
+    },
+    {
+      "title": "Class-63 | Time Speed and Distance",
+      "id": "4425919",
+      "date": "30-Jul-2024 15:30",
+      "video_url": "4425919_0_6288170526987126"
+    },
+    {
+      "title": "Class-62 | Permutations and Combinations",
+      "id": "4440738",
+      "date": "30-Jul-2024 12:45",
+      "video_url": "4440738_0_7056128814056849"
+    },
+    {
+      "title": "Class-61 | Approximation",
+      "id": "4423909",
+      "date": "29-Jul-2024 17:00",
+      "video_url": "4423909_0_5698474295667855"
+    },
+    {
+      "title": "Class-60 | Time & Work",
+      "id": "4425913",
+      "date": "29-Jul-2024 15:30",
+      "video_url": "4425913_0_5359037260478452"
+    },
+    {
+      "title": "Class-58 | Approximation",
+      "id": "4423907",
+      "date": "26-Jul-2024 17:00",
+      "video_url": "4423907_0_6697362843865582"
+    },
+    {
+      "title": "Class-57 | Time & Work",
+      "id": "4425908",
+      "date": "26-Jul-2024 15:30",
+      "video_url": "4425908_0_6655352345996015"
+    },
+    {
+      "title": "Class-56 | Mensuration",
+      "id": "4440736",
+      "date": "26-Jul-2024 12:45",
+      "video_url": "4440736_0_9105720784214522"
+    },
+    {
+      "title": "Class-55 | Simplification",
+      "id": "4423906",
+      "date": "25-Jul-2024 17:00",
+      "video_url": "4423906_0_2223923229243075"
+    },
+    {
+      "title": "Class-54 | Partnership",
+      "id": "4425904",
+      "date": "25-Jul-2024 15:30",
+      "video_url": "4425904_0_2546100777104891"
+    },
+    {
+      "title": "Class-53 | Mensuration",
+      "id": "4440734",
+      "date": "25-Jul-2024 12:45",
+      "video_url": "4440734_0_7755499794621807"
+    },
+    {
+      "title": "Class-52 | Simplification",
+      "id": "4423903",
+      "date": "24-Jul-2024 17:00",
+      "video_url": "4423903_0_7662209780691230"
+    },
+    {
+      "title": "Class-51 | Partnership",
+      "id": "4425899",
+      "date": "24-Jul-2024 15:30",
+      "video_url": "4425899_0_4054718106253801"
+    },
+    {
+      "title": "Class-50 | Mensuration",
+      "id": "4440733",
+      "date": "24-Jul-2024 12:45",
+      "video_url": "4440733_0_5526663679362601"
+    },
+    {
+      "title": "Class-49 | Arithmetic based DI",
+      "id": "4440732",
+      "date": "23-Jul-2024 12:45",
+      "video_url": "4440732_0_2424363417762342"
+    },
+    {
+      "title": "Class-48 | Simplification",
+      "id": "4423899",
+      "date": "22-Jul-2024 17:00",
+      "video_url": "4423899_0_9545407621114433"
+    },
+    {
+      "title": "Class-47 | Partnership",
+      "id": "4425885",
+      "date": "22-Jul-2024 15:30",
+      "video_url": "4425885_0_4036294450957140"
+    },
+    {
+      "title": "Class-47 | Arithmetic based DI",
+      "id": "4440728",
+      "date": "22-Jul-2024 12:45",
+      "video_url": "4440728_0_4749936451904818"
+    },
+    {
+      "title": "Class-46 | Mixtures and Alligation",
+      "id": "4425879",
+      "date": "19-Jul-2024 15:30",
+      "video_url": "4425879_0_1351608719491049"
+    },
+    {
+      "title": "Class-45 | Arithmetic based DI",
+      "id": "4440725",
+      "date": "19-Jul-2024 12:45",
+      "video_url": "4440725_0_4552249511136053"
+    },
+    {
+      "title": "Class-44 | Mixtures and Alligation",
+      "id": "4425877",
+      "date": "18-Jul-2024 15:30",
+      "video_url": "4425877_0_7062890910151217"
+    },
+    {
+      "title": "Class-43 | Arithmetic based DI",
+      "id": "4440722",
+      "date": "18-Jul-2024 12:45",
+      "video_url": "4440722_0_1353278431426375"
+    },
+    {
+      "title": "Class-42 | Ratio",
+      "id": "4425872",
+      "date": "17-Jul-2024 15:30",
+      "video_url": "4425872_0_1016733972726829"
+    },
+    {
+      "title": "Class-41 | Mixture & Alligation",
+      "id": "4440719",
+      "date": "17-Jul-2024 12:45",
+      "video_url": "4440719_0_9898843676113178"
+    },
+    {
+      "title": "Class-39 | Average",
+      "id": "4425866",
+      "date": "16-Jul-2024 15:30",
+      "video_url": "4425866_0_2296938940004462"
+    },
+    {
+      "title": "Class-38 | Scattered and Bubbles Graph",
+      "id": "4440716",
+      "date": "16-Jul-2024 12:45",
+      "video_url": "4440716_0_2644641557618822"
+    },
+    {
+      "title": "Class-37/ | Ages",
+      "id": "4425862",
+      "date": "15-Jul-2024 17:00",
+      "video_url": "4425862_0_4146085263518863"
+    },
+    {
+      "title": "Class-36 | Age",
+      "id": "4425861",
+      "date": "15-Jul-2024 15:30",
+      "video_url": "4425861_0_2953023123221391"
+    },
+    {
+      "title": "Class-35 | Venn Diagram",
+      "id": "4440713",
+      "date": "15-Jul-2024 12:45",
+      "video_url": "4440713_0_4238115863706207"
+    },
+    {
+      "title": "Class-33 | Ratio",
+      "id": "4425852",
+      "date": "12-Jul-2024 15:30",
+      "video_url": "4425852_0_6609125922682418"
+    },
+    {
+      "title": "Class-34 | Percentage",
+      "id": "4440709",
+      "date": "12-Jul-2024 12:45",
+      "video_url": "4440709_0_3554038980432619"
+    },
+    {
+      "title": "Class-32 | Venn Diagram",
+      "id": "4440703",
+      "date": "11-Jul-2024 15:30",
+      "video_url": "4440703_0_9183630998392535"
+    },
+    {
+      "title": "Class-31 | Percentage",
+      "id": "4440706",
+      "date": "11-Jul-2024 13:00",
+      "video_url": "4440706_0_3973885346889283"
+    },
+    {
+      "title": "Class-30 | Caselet DI",
+      "id": "4440701",
+      "date": "10-Jul-2024 15:30",
+      "video_url": "4440701_0_7366040176305388"
+    },
+    {
+      "title": "Class-29 | Percentage",
+      "id": "4440699",
+      "date": "10-Jul-2024 12:45",
+      "video_url": "4440699_0_2997699952320232"
+    },
+    {
+      "title": "Class-28 | Data Interpretation",
+      "id": "4440700",
+      "date": "09-Jul-2024 15:30",
+      "video_url": "4440700_0_5119614223999647"
+    },
+    {
+      "title": "Class-27 | Data Interpretation",
+      "id": "4440693",
+      "date": "08-Jul-2024 15:30",
+      "video_url": "4440693_0_4114626585531132"
+    },
+    {
+      "title": "Class-26 | Percentage",
+      "id": "4440696",
+      "date": "08-Jul-2024 12:45",
+      "video_url": "4440696_0_4687780264907198"
+    },
+    {
+      "title": "Class-25 | Data Interpretation",
+      "id": "4440692",
+      "date": "06-Jul-2024 12:45",
+      "video_url": "4440692_0_3068986868473145"
+    },
+    {
+      "title": "Class-24 | Data Interpretation",
+      "id": "4440691",
+      "date": "05-Jul-2024 15:30",
+      "video_url": "4440691_0_1661012286910227"
+    },
+    {
+      "title": "Class-23 | Percentage",
+      "id": "4440690",
+      "date": "05-Jul-2024 12:45",
+      "video_url": "4440690_0_4317086989285970"
+    },
+    {
+      "title": "Class-22 | Data Interpretations",
+      "id": "4440684",
+      "date": "04-Jul-2024 15:30",
+      "video_url": "4440684_0_6668430136024663"
+    },
+    {
+      "title": "Class-20 | Simple & Compound Interest",
+      "id": "4440687",
+      "date": "04-Jul-2024 12:45",
+      "video_url": "4440687_0_9842818348566525"
+    },
+    {
+      "title": "Class-19 | Simple & Compound Interest",
+      "id": "4440682",
+      "date": "03-Jul-2024 12:45",
+      "video_url": "4440682_0_7842666119781932"
+    },
+    {
+      "title": "Class-18 | Simple and Compound Interest",
+      "id": "4440678",
+      "date": "02-Jul-2024 15:30",
+      "video_url": "4440678_0_8723786039732370"
+    },
+    {
+      "title": "Class-17 | Simple & Compound Interest",
+      "id": "4440680",
+      "date": "02-Jul-2024 12:45",
+      "video_url": "4440680_0_4633008836674705"
+    },
+    {
+      "title": "Class-16 | Simple and Compound Interest",
+      "id": "4440674",
+      "date": "01-Jul-2024 15:30",
+      "video_url": "4440674_0_1392085124076845"
+    },
+    {
+      "title": "Class-15 | Profit & Loss",
+      "id": "4440676",
+      "date": "01-Jul-2024 12:45",
+      "video_url": "4440676_0_6820651278550630"
+    },
+    {
+      "title": "Class-13 | Profit & Loss",
+      "id": "4440670",
+      "date": "28-Jun-2024 12:45",
+      "video_url": "4440670_0_5299144125258942"
+    },
+    {
+      "title": "Class-12 | Profit & Loss",
+      "id": "4440669",
+      "date": "27-Jun-2024 15:30",
+      "video_url": "4440669_0_4990041218756102"
+    },
+    {
+      "title": "Class-11 | Profit & Loss",
+      "id": "4440667",
+      "date": "26-Jun-2024 15:30",
+      "video_url": "4440667_0_5636679780045328"
+    },
+    {
+      "title": "Class-10 | Percentage",
+      "id": "4440665",
+      "date": "26-Jun-2024 12:45",
+      "video_url": "4440665_0_7215036204006645"
+    },
+    {
+      "title": "Class-09 | Percentage",
+      "id": "4440663",
+      "date": "25-Jun-2024 15:30",
+      "video_url": "4440663_0_7616643214200280"
+    },
+    {
+      "title": "Class-08 | Percentage",
+      "id": "4440661",
+      "date": "25-Jun-2024 12:45",
+      "video_url": "4440661_0_6170237053964258"
+    },
+    {
+      "title": "Class-07 | Percentage",
+      "id": "4440659",
+      "date": "24-Jun-2024 15:30",
+      "video_url": "4440659_0_2275079830136592"
+    },
+    {
+      "title": "Maths | Class-06 | Percentage",
+      "id": "4440657",
+      "date": "24-Jun-2024 12:45",
+      "video_url": "4440657_0_4199379181895402"
+    },
+    {
+      "title": "Maths | Class-05 | Quadratic Equation",
+      "id": "4440656",
+      "date": "22-Jun-2024 11:00",
+      "video_url": "4440656_0_6371540878057154"
+    },
+    {
+      "title": "Maths |Class-04 | Introduction",
+      "id": "4440654",
+      "date": "21-Jun-2024 12:45",
+      "video_url": "4440654_0_2873501098465351"
+    },
+    {
+      "title": "Maths |Class-03 | Number Series",
+      "id": "4440652",
+      "date": "20-Jun-2024 12:45",
+      "video_url": "4440652_0_7865453308837779"
+    },
+    {
+      "title": "Maths |Class-02 | Introduction",
+      "id": "4456179",
+      "date": "19-Jun-2024 12:45",
+      "video_url": "4456179_0_9017659354690701"
+    },
+    {
+      "title": "Maths |Class-01 | Introduction",
+      "id": "4456178",
+      "date": "18-Jun-2024 12:45",
+      "video_url": "4456178_0_5616944783815631"
+    }
+  ],
+  "notes_total": 238,
+  "notes": [
+    {
+      "id": 509297,
+      "title": "Eco | 01 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66fe2f21e629c_1oct_8amcompressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509296,
+      "title": "G.A | 27 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66fbdccedc08d_27sep_7pm.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509295,
+      "title": "G.A | 26 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66f640ea28a00_12.45AM_Class_by_Rashid_Sur_26_Sept.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509294,
+      "title": "G.A | 27 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66f63e996c7b4_27sep_8amcompressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509293,
+      "title": "G.A | 24 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66f39f08d9e20_24sep_7pm.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509292,
+      "title": "G.A | 24 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66f39e2a85d63_24sep_8am.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509291,
+      "title": "G.A | 23 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66f39df72d895_23sep_8am.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509290,
+      "title": "G.A | 20 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66f39dbe50e73_20sep_8am_1.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509289,
+      "title": "G.A | 17 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66ea35ded8ac2_17sep_8am.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509288,
+      "title": "Eco | 10 September Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66dff065a4966_10sep 8am.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509287,
+      "title": "Eco | 09 September Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66dfe3a321e0b_9sep 8am.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509286,
+      "title": "Eco | 06 September Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66dfe1cf4c090_6sep 8am.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509285,
+      "title": "Eco | 05 September Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66dfe15536a2e_8.15AM Class By Rashid Sir 5September_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509284,
+      "title": "Eco | 04 September Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66dfdc827787e_4sep 8am.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509283,
+      "title": "Eco | 03 September Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66d80046f296c_3sep 8am (1).pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509282,
+      "title": "G.A | 02 September Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66d699b44370e_2sep 8am.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509281,
+      "title": "Eco | 30 August Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66d1a3e64bb29_30aug 8am (1).pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509280,
+      "title": "Eco | 23 August Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66cdbf425faaa_23aug 8am.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509279,
+      "title": "Eco | 22 August Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66c81b82d6b29_22aug 8am_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509278,
+      "title": "Eco | 21 August Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66c819b29e64d_21aug 8am (1)_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509277,
+      "title": "Eco | 20 August Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66c43689c15e1_20 Aug 8am_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509276,
+      "title": "Eco | 16 August Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66c432e50aaa4_Rashid Sir 08.15 AM 16-Aug_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509275,
+      "title": "Eco | 13 August Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66bafb4ec45b7_13aug 8am.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509274,
+      "title": "Eco | 12 August Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66baf902d2958_Rashid Sir 08.15 AM 12-Aug.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509273,
+      "title": "Eco | 08 August Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66b5aac9007d0_9aug 8am.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509272,
+      "title": "Eco | 08 Auguat Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66b465e3654fa_8aug 8am.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509271,
+      "title": "Eco | 07 Auguat Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66b4640c10235_7aug 8am.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509270,
+      "title": "Eco | 06 August Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66b2125899254_6aug 8am.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509269,
+      "title": "Eco | 05 Aug Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66b0c4cfbd40b_5aug 8am.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509268,
+      "title": "Eco | 02 Aug Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66ac7d1e2495c_2aug 8am.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509267,
+      "title": "Eco | 01 Aug Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66ac79a4d7642_1aug 8am.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509266,
+      "title": "Eco | ATM | 30 July Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66a9e154e4af4_30july 8am.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509265,
+      "title": "Nomination & Locker Facility",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66a739e7619da_29july 8am.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509264,
+      "title": "Demography of India",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66a73650e1514_26july 8am_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509263,
+      "title": "Foreign Trade",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66a1eda4cc6a2_23july 8am (1)_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509262,
+      "title": "NITI Ayog",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/669f3e396aeea_22july 8am_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509261,
+      "title": "International Organisations",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/669f3d2556ff8_20july 8am_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509260,
+      "title": "Taxation",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/669b1f8084152_19july 8amm_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509259,
+      "title": "Budget",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/669b1daeafa0d_18july 8am_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509258,
+      "title": "Money Supply",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/669886a41be9b_15 July 8am.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509257,
+      "title": "Inflation",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6698857ad0826_20240712091734313.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509256,
+      "title": "National Income",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/669884da1b4ca_11july 8am.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509255,
+      "title": "Banking System-6",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6684e9aa42517_2july 8am_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509254,
+      "title": "Banking System-5",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6684a74c0e2e4_1july 8am.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509253,
+      "title": "Banking System-4",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/667fabc9f35c6_28june 8am_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509252,
+      "title": "Banking System-3",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/667e54f1406bd_8AM Rashid Sir Class 27 June_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509251,
+      "title": "Banking System-2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/667e50a1e8584_26june 8am_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509250,
+      "title": "Banking System-1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/667b6474e9bb2_25june 8am.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509249,
+      "title": "DICGC",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/667a3c126ad26_24june 8am.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509248,
+      "title": "Vartni Digital Board",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66793e23701cb_Vartni Hindi digital board.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509247,
+      "title": "एकार्थी शब्द",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66793de3d05ca_एकार्थी शब्द.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509246,
+      "title": "अनेकार्थी शब्द",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66793dc18d3b0_अनेकार्थी शब्द.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509245,
+      "title": "पर्यायवाची  शब्द",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66793d987cfe3_पर्यायवाची  शब्द.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509244,
+      "title": "विपरीतार्थक शब्द",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66793d6cceb4b_विपरीतार्थक शब्द.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509243,
+      "title": "विलोम शब्द",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66793d4e085bb_विलोम शब्द.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509242,
+      "title": "वर्तनी",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66793d28e2341_वर्तनी (d).pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509241,
+      "title": "विलोम",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/667931d8b8670_विलोम (d).pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509240,
+      "title": "शब्दावली",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/667931ad802d8_SABDAVALI HINDI DIGITAL BOARD.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509239,
+      "title": "Puzzle -2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66ebe78dd624c_PUZZLE_2_PMcompressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509238,
+      "title": "Puzzle-1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66ebe736c46c1_PUZZLES_2PMcompressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509237,
+      "title": "Eco | 13 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66e402b32cf9f_13sep 8am.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509236,
+      "title": "Data Sufficiency | 11 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66e25a5e768d3_2 PM DATA SUFFICIENCY_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509235,
+      "title": "Data Sufficiency-2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66de87c17d4c7_batch 30 and bank clerk special and rrb po clerk at 2 pm DATA SUFFICIENCY_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509234,
+      "title": "Only a few Case in Syllogism",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66de872520b5f_batch 30 31 and bank clerk special and rrb po clerk at 11.30 SYLLOGISM ONLY A FEW CASE_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509233,
+      "title": "Data Sufficiency",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66da9a75b6e59_batch 30 and bank clerk special and rrb po clerk at 2 DATA SUFFICIENCY_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509232,
+      "title": "Condition Codes Based Notes-4",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66da999448aa9_Batch 30 31 and rrb po clerk and bank clerk special CONDITIONS AND CODES BASED QUESTIONS.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509231,
+      "title": "Condition Codes Based Notes-3",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66d8084cdd970_BATCH 30 31 AND RRB PO CLERK AND BANK CLERK SPECIAL at 2 pm CONDITIONS CODES BASED QUESTIONS_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509230,
+      "title": "Condition Codes Based Notes-2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66d807c0d2808_batch 31 30 and rrb po clerk and bank clerk special at 2 pm CONDITIONS CODES BASED QUESTIONS_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509229,
+      "title": "Condition Codes Based Notes-1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66d80681b88be_batch 30 31 and rrb po clerk and bank clerk special CONDITION CODE BASED QUESTION_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509228,
+      "title": "Code based Questions-3",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66d19c559d72c_batch 30 and 31 and rrb po clerk and bank clerk special (1)_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509227,
+      "title": "Code based Questions-2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66d16b5668277_batch 30 and 31 and rrb po clerk and bank clerk special_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509226,
+      "title": "Code based Questions",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66cebe0ee259e_BATCH 30 31 AND RRB PO CLERK AND BWNK CLERK SPECIAL_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509225,
+      "title": "Mix. Question | 21 August Class Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66c821ac98786_batch 30 and 31 and rrb po clerk and bank clerk special at 2 pm on 21 aug_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509224,
+      "title": "Assertion and Reason | 20 August Class Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66c820a0a33fc_batch 30 and 31 and rrb po clerk and bank clerk special at 2 pm on 20th august.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509223,
+      "title": "Argument",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66c456331fa5d_batch 30 and 31 and rrb po clerk and ibps bank clerk special_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509222,
+      "title": "Course of Action",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66c4541fc929a_batch 30 and 31 and rrb po clerk and bank clerk special on 13 august at 2 pm_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509221,
+      "title": "Conclusion",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66c4537712e11_rrb po clerk and bank clerk special and batch 30 and 31 on 12 aug at 2 pm.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509220,
+      "title": "Reas | 09 August Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66b86b04a3e89_2 pm batch 30 and 31 and rrb po clerk and bank clerk special on 9 aug_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509219,
+      "title": "Reas | 08 August Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66b86a61d16f5_batch 30 and 31 and rrb po clerk and bank clerk special on 8 aug. at 2 pm.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509218,
+      "title": "Reas | 07 Auguat Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66b460a6698c7_rrb po clerk and batch 31 and bank clerk special 2 to 3 on 7 aug_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509217,
+      "title": "Reas | 05 August Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66b1b711e05f9_rrb po clerk and ibps clerk crash course and bank clerk special and batch 31_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509216,
+      "title": "Directions | 01 Aug Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66ac71df6e79a_batch 31 and rrb po clerk and bank clerk special and ibps clerk crash_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509215,
+      "title": "Directions | 31 July Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66ab1c3f419e9_batch 31 and ibps rrb po clerk and ibps clerk crash and bank special clerk at 2 on 31st july.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509214,
+      "title": "Blood Relation  | 30 July Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66a9d00ff07be_batch 30 31 and rrb po clerk and bank clerk foundation and ibps clerk crash course on 30th july_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509213,
+      "title": "Blood Relation Class Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66a87dbb91c1d_ilovepdf_merged_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509212,
+      "title": "29 July 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66a775cbd0fe6_2 pm batch blood relation on 29 july_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509211,
+      "title": "26 July 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66a73d728973d_batch 30 and 31 and rrb po clerk and clerk crash course and bank clerk foundation at 2 pm on 26 july.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509210,
+      "title": "25 July 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66a22fd1d1059_2 pm batch 30 and rrb po clerk and ibps clerk crash course and bank clerk foundation batch 25 july_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509209,
+      "title": "24 July 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66a0cec3af635_2 to 3 batch 30 and clerk crash course and clerk foundation and rrb po clerk on 24th_compressed (1).pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509208,
+      "title": "23 July 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/669f9dc794c0d_batch 30 and rrb po clerk and ibps clerk crash course and bank clerk foundation batch on 23 july at 2 pm_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509207,
+      "title": "23 July 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/669f9d5f574fe_rrb po clerk on 23 july at 9.15.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509206,
+      "title": "22 July 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/669f56009ee70_rrb po clerk on 22 july at 9;15_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509205,
+      "title": "22 July 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/669f530a31a2f_batch 30 and rrb po clerk and ibps clerk crash course and bank clerk foundation batch on 22 july at 2 pm_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509204,
+      "title": "19 July 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/669e09b23aa85_sitting arrangements batch 30 and ibps clerk crash course and bank clerk foundation batch and rrb po clerk on 19th july at 2_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509203,
+      "title": "19 July 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/669e08cc1108d_alpha numeric questions batch 30 and rrb po clerk on 19th july at 9.15_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509202,
+      "title": "18 July 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6698f9b54da5b_sitting arrangement batch 30 and ibps rrb po clerk and ibps clerk crash course and bank clerk foundation batch on 18th july at 2 pm_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509201,
+      "title": "18 July 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6698f7675e50d_ALPHABETS batch 29 30 and ibps rrb po clerk on 18th july at 9.15_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509200,
+      "title": "17 July 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6698a8087bc46_reasoning batch 30 and ibps rrb po clerk and ibps clerk crash course and bank clerk foundation batch on 17th july at 2 pm.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509199,
+      "title": "16 July 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6698a5508285a_9.15 reasoning batch 30 and ibps rrb po clerk on 16th july_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509198,
+      "title": "16 July 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6698a0753ad6d_2 pm batch 30 and rrb po clerk and ibps clerk crash course and bank clerk special batch on 16th july_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509197,
+      "title": "15 July 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6695fcc91c7d9_ibps clerk crash course and bank clerk foundation batch on 15 july at 12.45 (1).pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509196,
+      "title": "15 July 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6695fc264e50e_batch 30 and rrb po clerk and bank clerk foundation batch and ibps clerk crash course on 15th july at 2 pm_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509195,
+      "title": "15 July 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6695fbf8d86d0_reasoning batch 30 and ibps rrb po clerk batch on 15th july at 9.15_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509194,
+      "title": "11 July 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6690865769fe9_batch 30 and rrb po clerk and ibps clerk crash course and clerk special foundation batch on 11th july at 2 pm_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509193,
+      "title": "11 July 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6690860151862_28 29 30 and rrb po clerk batch on 11th july at 9.15_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509192,
+      "title": "9 July 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/668de3ac6dd82_2 to 3 reasoning batch on 9th july for clerk special foundation and ibps clerk crash course and rrb po clerk and batch 30_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509191,
+      "title": "8 July 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/668de34f34e91_28 29 30 and ibps rrb po and clerk batch reasoning 9.15 on 8th july_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509190,
+      "title": "Floor and Flat Puzzles",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/668de27c723a1_Floor and Flat Puzzles (PDF).pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509189,
+      "title": "5 July 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/668955589aaaa_2 to 3 ibps clerk crash course AND bank clerk foundation course AND rrb po clerk AND reasoning batch 30 on 5th july_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509188,
+      "title": "5 July 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66895401cb214_28 29 30 and ibps rrb po clerk batch 9.15 am on 5th july_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509187,
+      "title": "2 July 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6685396da5a59_2 to 3 pm on 2nd july for reasoning 28 29 30 batch and ibps rrb target_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509186,
+      "title": "1 July 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6682482780d2a_9 to 10 am reasoning ibps rrb target batch on 1st july_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509185,
+      "title": "28 June 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6682480867674_9 to 10 am ibps rrb target batch on 28th june_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509184,
+      "title": "28 June 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/668247ed20ca5_2 to 3 pm reasoning 28 29 30 and ibps rrb target batch on 28th june_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509183,
+      "title": "27 June 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/668247bde1afc_2 to 3 pm reasoning 28 29 30 and ibps target rrb batch on 27th june_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509182,
+      "title": "27 June 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/667d0cfdd527f_9 to 10 pm reasoning ibps rrb target batch on 27th may_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509181,
+      "title": "26 June 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/667be6d0161f7_2 to 3 pm reasoning batch ibps rrb special target 28 29 30 on 26th june_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509180,
+      "title": "25 June 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/667be6a561bf4_2 to 3 pm reasoning 28 29 30 and ibps rrb target batch on 25th june_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509179,
+      "title": "25 June 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/667b66839f419_9 to 10 am ibps rrb exam batch on 25th june.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509178,
+      "title": "24 June 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/667b665d98a27_2 to 3 pm reasoning batch 28 29 30 and ibps target on 24th june.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509177,
+      "title": "22 June 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66790702888ed_9 to 10 pm target rrb batch on 24th june_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509176,
+      "title": "21 June 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66756868a10b5_9 to 10 am rrb target batch on 21st june_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509175,
+      "title": "20 June 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6675683bf0029_9 to 10 am new target batch on 20th june_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509174,
+      "title": "19 June 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6672717ce19c2_9 to 10 pm batch rrb target 19th june_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509173,
+      "title": "Grammar Practice Type-5",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6715e90f0471a_Grammar_Practice_Type_5compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509172,
+      "title": "Grammar Practice Type-4",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6715e83d035f2_Grammar_Practice_Type_4compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509171,
+      "title": "Grammar Practice Type-3",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6715e74b4f2ae_Grammar_Practice_Type_3compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509170,
+      "title": "Grammar Practice Type-1&2.",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6715e5cf7993d_Grammar_Practice_Type12.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509169,
+      "title": "RC Practice-5",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66c036a857eca_Bank 31 Clerk Special Bank 30 IBPS RRB Target RC Practice 5_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509168,
+      "title": "RC Practice-4",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66c0363a0187a_Bank 31 Clerk Special Bank 30 IBPS RRB Target RC Practice 4_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509167,
+      "title": "RC Practice-3",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66c035b5378b8_Bank 31 Clerk Special Bank 30 IBPS RRB Target RC Practice 3_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509166,
+      "title": "RC Practice-2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66c034ff93104_Bank 31 Clerk Special Bank 30 IBPS RRB Target RC Practice 2_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509165,
+      "title": "RC Practice-1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66b874cd94d03_Bank 31 Clerk Special Bank 30 IBPS RRB Target RC Practice 1_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509164,
+      "title": "Eng | 08 August Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66b481faf092b_IBPS Clerk Crash Course IBPS RRB Grammar Revision 2_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509163,
+      "title": "Eng | 08 August Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66b481b2e387e_Bank 31 Clerk Special Bank 30 IBPS RRB Target RC Tone_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509162,
+      "title": "Grammar Revision",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66b462d9a3700_IBPS Clerk Crash Course IBPS RRB Grammar Revision_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509161,
+      "title": "Eng | 07 Auguat Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66b46193cdf0d_Bank 31 Clerk Special Bank 30 IBPS RRB Target RC Writing Style.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509160,
+      "title": "Eng RC Intro-2 | 02 Aug Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66ac99cd934ad_Bank 31 Clerk Special Bank 30 IBPS RRB Target RC Intro 2_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509159,
+      "title": "Eng RC Intro-1 | 02 Aug Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66ac98ef55fa1_Bank 31 Clerk Special Bank 30 IBPS RRB Target RC Intro_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509158,
+      "title": "Cloze Test-5",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66a8b0375a558_Bank 30 IBPS RRB Cloze Test 5_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509157,
+      "title": "Cloze Test-4",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66a7518e25e24_Bank 30 IBPS RRB Cloze Test 4_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509156,
+      "title": "Cloze Test-3",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66a73b29ca605_Bank 30 IBPS RRB Cloze Test 3_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509155,
+      "title": "Cloze Test-2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66a2102b1bd54_Bank 30 IBPS RRB Cloze Test 2 (1)_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509154,
+      "title": "Cloze Test-1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/669f56d26d527_BANK 30 RRB PO CLOZE TEST 1_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509153,
+      "title": "Parajumbles 2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/669a491581618_Bank Clerk Foundation &IBPS Clerk Crash Course day 9 Parajumbles 2_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509152,
+      "title": "Parajumbles",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/669a48dead7e8_Bank Clerk Foundation &IBPS Clerk Crash Course day 8 Parajumbles_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509151,
+      "title": "Fillers 5",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/669a47d1204c7_Bank 30 RRB PO Fillers 5_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509150,
+      "title": "Parajumbles 3",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/669a43a1e039b_Bank Clerk Foundation &IBPS Clerk Crash Course day 10 Parajumbles 3_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509149,
+      "title": "Fillers 2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/669098edd0369_Bank 30 RRB PO Fillers 2_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509148,
+      "title": "DI-6",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/668de1c7bdf0b_DI 6 notes 3.30_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509147,
+      "title": "Para Completion-2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6689504197f4f_Bank 30 RRB PO Para Completion 2_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509146,
+      "title": "Para Completion-1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66865dbb85df7_Bank 30 RRB PO Para Completion 1_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509145,
+      "title": "Odd One Out-3",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6684fe4d6681f_Bank 30 RRB PO Odd One Out 3_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509144,
+      "title": "PO Odd One Out-1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66826d9304cf9_Bank 30 RRB PO Odd One Out 1_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509143,
+      "title": "Para Jumbles Practice Set-1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/667bdb3b65b1e_IBPS RRB PO Clerk English Para Jumbles Practice Set 1 by Satyendra Sir_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509142,
+      "title": "Parajumbles-5",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/667bd96d308b3_Bank 30 RRB PO Clerk Parajumbles 5_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509141,
+      "title": "Vocab Foundation-2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/667bd87ac43e3_IBPS RRB PO Clerk Vocab Foundation 2_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509140,
+      "title": "Vocab Foundation-1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/667bd75158f04_IBPS RRB PO Clerk Vocab Foundation 1.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509139,
+      "title": "Fillers Practice Set-4",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/667bd5308d464_IBPS RRB PO Clerk English Fillers Practice Set 4 by Satyendra Sir (1)_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509138,
+      "title": "Grammar Foundation-4",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/667bd42a699df_IBPS RRB PO Clerk Grammar Foundation 4 (1)_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509137,
+      "title": "Grammar Foundation-4",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/667bc3870de66_IBPS RRB PO Clerk Grammar Foundation 4 (1)_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509136,
+      "title": "IBPS RRB PO Clerk English Practice Set-3",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6675223337f1e_IBPS RRB PO Clerk English Fillers Practice Set 3 by Satyendra Sir_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509135,
+      "title": "IBPS RRB PO Clerk English Practice Set-2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6675221d681e7_IBPS RRB PO Clerk English Fillers Practice Set 2 by Satyendra Sir_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509134,
+      "title": "Parajumbles-2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6675207b8a9d2_Bank 30 RRB PO Clerk Parajumbles 2_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509133,
+      "title": "Parajumbles-1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6675204b0c394_Bank 30 RRB PO Clerk Parajumbles 1_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509132,
+      "title": "Grammar Foundation-3",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66751fea765c1_IBPS RRB PO Clerk Grammar Foundation 3_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509131,
+      "title": "Grammar Foundation-2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66751fdd5e557_IBPS RRB PO Clerk Grammar Foundation 2_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509130,
+      "title": "IBPS RRB PO Clerk English Practice Set-1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/667170fbbd777_IBPS RRB PO Clerk English Practice Set 1 by Satyendra Sir_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509129,
+      "title": "IBPS RRB PO Clerk Grammar Foundation",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/667170c062672_IBPS RRB PO Clerk Grammar Foundation_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509128,
+      "title": "Doubt Session Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66cec4b6e0457_Doubt Session notes 12.45.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509127,
+      "title": "Data Sufficiency Notes-1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66c84fd4d61b8_Data Sufficiency 1 notes 12.45.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509126,
+      "title": "Maths | 13 August Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66bc6dc1969d2_Ratio 2 notes 5.00 pm_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509125,
+      "title": "Maths | 12 August Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66bb4646c6fa4_Logical DI 2 notes 12.45.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509124,
+      "title": "Arithmetic Based DI-7 | 07 August Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66b45d937d58e_Arithmetic Based DI 7 notes 12.45.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509123,
+      "title": "Arithmetic Based DI-6 | 06 August Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66b45b3024a64_Arithmetic Based DI 6 notes 12.45_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509122,
+      "title": "Doubt Session | 06 August Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66b45a7aa0906_Doubt Session notes 3.30.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509121,
+      "title": "Probability-4 | 05 Aug Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66b1cd72d9e5f_Probability 4 notes 12.45.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509120,
+      "title": "Time Speed & Distance-4 | 05 August Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66b1cccfe3b07_TSD 4 notes 3.30.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509119,
+      "title": "Probability  | 01 Aug Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66ac6a979165b_Probability 2 notes 12.45.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509118,
+      "title": "Probability-1 | 31 July Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66ab1f69bbc23_Probability 1 notes 12.45.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509117,
+      "title": "Time Speed & Distance | 31 July Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66ab1f136f968_TSD 2 notes 3.30_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509116,
+      "title": "PNC-2 | 30 July Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66a9cef46700c_PnC 2 notes 12.45_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509115,
+      "title": "Time Speed & Distance | 30 July Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66a9ce855ee80_TSD 1 notes 3.30_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509114,
+      "title": "Number System | 30 July Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66a9ce3203ca0_Number System notes 5.00_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509113,
+      "title": "PNC Notes-1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66a87cee523d1_PnC 1 notes 12.45_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509112,
+      "title": "Time and Work Notes-3",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66a87ca57b7c6_Time and Work 3 notes 3.30_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509111,
+      "title": "Approximation Notes-2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66a87c228c1f2_Approximation 2 notes 5.00_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509110,
+      "title": "Mensuration Notes-3",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66a49a96b156b_Mensuration 3 notes 12.45_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509109,
+      "title": "Time and Work Notes-2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66a49a4464f7f_Time and Work 2 notes 3.30_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509108,
+      "title": "Approximation Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66a49a01929d3_Approximation notes 5.00_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509107,
+      "title": "Mensuration Notes-2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66a34a9ad64b7_Mensuration 2 notes 12.45_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509106,
+      "title": "Time and Work Notes-1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66a34a5f573b9_Time and Work 1 notes 3.30_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509105,
+      "title": "Simplification Notes-3",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66a34a2c924ef_Simplification 3 notes 5.00_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509104,
+      "title": "Mensuration Notes-1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66a1f2635a3f5_Mensuration 1 notes 12.45_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509103,
+      "title": "Partnership Notes-2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66a1f227d75fa_Partnership 2 notes 3.30_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509102,
+      "title": "Simplification Notes-2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66a1f1d434f68_Simplification 2 notes 5.00_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509101,
+      "title": "Arithmetic Based DI-5",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/669f83a0b5e25_Arithmetic Based DI 5 notes 12.45_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509100,
+      "title": "22 July 2024 Class PNG (12.45 PM)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/669f13694165e_Bank spl.28,29,30 IBPS RRB Maths by AashishSir 12;45 pm 22 July_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509099,
+      "title": "22 July 2024 Class PNG  (3.30PM)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/669f12c79e05d_Ashish.sir[bank.spl.30.IBPS.RRB]22th.july 3;30pm_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509098,
+      "title": "22 July 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/669f126a9b063_Ashish.sir[IBPS.RRB.Bank.spl.31.maths]22th.july 5;00pm_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509097,
+      "title": "Arithmetic Based DI-3",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/669dbcb36494d_Arithmetic Based DI 3 notes 12.45.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509096,
+      "title": "Percentage Calculation Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/669dbbd61621e_Percentage Calculation notes 5.00.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509095,
+      "title": "Mixtures and Alligation 2 Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6699cbded432c_Mixtures and Alligation 2 notes 3.30_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509094,
+      "title": "Arithmetic Based DI 2 Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6699cb7a8423f_Arithmetic Based DI 2 notes 12.45_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509093,
+      "title": "Mixtures and Alligation 1 Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/669883dc4b297_Mixtures and Alligation 1 notes 3.30_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509092,
+      "title": "Average notes 3.30",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66987dae7cdeb_Average notes 3.30_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509091,
+      "title": "Scattered Bubbles Graph Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66987a7946285_Scattered Bubbles Graph notes 12.45_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509090,
+      "title": "Ratio 2 Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6691e36456557_Ratio 2 notes 5.00_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509089,
+      "title": "Ratio 1 Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6691e319290f1_Ratio 1 notes 3.30_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509088,
+      "title": "Venn Diagrams 1 Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6691e2be7e762_Venn Diagrams 1 notes 12.45_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509087,
+      "title": "11 July 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/669099a0394b2_Ashish Sir 01.00 PM 11 July Bank Spl. 28, 29, 30 & IBPS RRB 9PO CLERK).pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509086,
+      "title": "DI 8 Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66908be9b9ce2_DI 8 notes 3.30_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509085,
+      "title": "DI 7 Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/669088e75984e_DI 7 notes 12.45_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509084,
+      "title": "DI-5",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/668cb4aca4185_DI 5 notes 3.30_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509083,
+      "title": "DI-4",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/668cb47bd6e50_DI 4 notes 12.45_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509082,
+      "title": "DI-2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6689529acc476_DI 2 notes 3.30_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509081,
+      "title": "DI-1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/668952798f0b3_DI 1 notes 12.45_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509080,
+      "title": "SI & CI-6",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66868224b6de7_SICI 6 notes 3.30_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509079,
+      "title": "SI & CI-5",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/668681a00129b_SICI 5 notes 12.45_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509078,
+      "title": "SI & CI-4",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66851182a553f_SICI 4 notes 12.45_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509077,
+      "title": "SI & CI-3",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6684ac7383f1c_SICI 3 notes 3.30.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509076,
+      "title": "SI & CI-2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6684ac489756e_SICI 2 notes 12.45.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509075,
+      "title": "SI & CI-1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6684ab208ce09_SICI 1 notes 3.30.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509074,
+      "title": "Profit Loss-5",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6684aab290b16_Profit Loss 5 notes 12.45.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509073,
+      "title": "Profit Loss-4",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/667fadca109d3_Profit Loss 4 notes 3.30_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509072,
+      "title": "Profit Loss-3",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/667fad95190ae_Profit Loss 3 notes 12.45_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509071,
+      "title": "27 June 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/667e597c46ae0_Maths by Ashish Sir 27June (Banking 28,29,30 & IBPS RRB) 3.30PM_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509070,
+      "title": "Profit Loss-1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/667d121c411f0_Profit Loss 1 notes 3.30_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509069,
+      "title": "Percentage-5",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/667d11e44dd2d_Percentage 5 notes 12.45_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509068,
+      "title": "Percentage-4",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/667b61655a7d1_Percentage 4 notes 3.30.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509067,
+      "title": "Percentage-3",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/667b613a7ab93_Percentage 3 notes 12.45.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509066,
+      "title": "Percentage-2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/667a27fc2cbbc_Percentage 2 notes 3.30_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509065,
+      "title": "Percentage-1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/667a2717ebb4d_Percentage 1 notes 12.45.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509064,
+      "title": "Quadratic Equations",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/667913d85e2f1_Quadratic Equations Batch 29 and IBPS RRB Batch Notes_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509063,
+      "title": "Number Series-1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66740725038d5_Number Series 1 Batch 29 and IBPS RRB Batch Notes_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509062,
+      "title": "Percentage Calculation",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6673cab31538f_Percentage Calculation IBPS RRB Batch Notes_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509061,
+      "title": "Maths Intro-2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/667170907d2a1_Maths Intro 2 IBPS RRB Batch Notes_compressed.pdf",
+      "date": "30-Mar-2025"
+    },
+    {
+      "id": 509060,
+      "title": "IBPS PO Syllabus 2024",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6672cf132c7b0_IBPS PO Syllabus 2024.pdf",
+      "date": "30-Mar-2025"
+    }
+  ]
+}
