@@ -1,5 +1,5 @@
 {
-  "batch_id": 2304,
+  "batch_id": "2304",
   "topics": [
     {
       "id": 27083,
@@ -185,5 +185,6 @@
       "id": 32119,
       "topicName": "EMFT (VOD)"
     }
-  ]
+  ],
+  "batch_name": "JE Electrical Engg -04"
 }
