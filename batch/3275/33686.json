@@ -1,0 +1,592 @@
+{
+  "batchid": 3275,
+  "topicid": 33686,
+  "classes_total": 33,
+  "classes": [
+    {
+      "title": "Class-34 | Phy",
+      "id": "4614560",
+      "date": "28-Nov-2025 15:00",
+      "video_url": "4614560_0_6552193742722964"
+    },
+    {
+      "title": "Class-33 | Phy",
+      "id": "4613394",
+      "date": "27-Nov-2025 15:30",
+      "video_url": "4613394_0_2916902384517030"
+    },
+    {
+      "title": "Class-32 | Phy",
+      "id": "4612287",
+      "date": "26-Nov-2025 15:30",
+      "video_url": "4612287_0_3596624571605183"
+    },
+    {
+      "title": "Class-31 | Phy",
+      "id": "4611187",
+      "date": "25-Nov-2025 15:30",
+      "video_url": "4611187_0_3902856194109193"
+    },
+    {
+      "title": "Class-30 | Phy",
+      "id": "4610091",
+      "date": "24-Nov-2025 15:30",
+      "video_url": "4610091_0_6154619621759039"
+    },
+    {
+      "title": "Class-29 | Phy",
+      "id": "4608671",
+      "date": "22-Nov-2025 09:30",
+      "video_url": "4608671_0_6752658799998650"
+    },
+    {
+      "title": "Class-28 | Phy",
+      "id": "4608243",
+      "date": "21-Nov-2025 15:30",
+      "video_url": "4608243_0_3697174805867781"
+    },
+    {
+      "title": "Class-27 | Phy",
+      "id": "4607201",
+      "date": "20-Nov-2025 15:30",
+      "video_url": "4607201_0_9712176710091652"
+    },
+    {
+      "title": "Class-26 | Phy",
+      "id": "4606168",
+      "date": "19-Nov-2025 15:30",
+      "video_url": "4606168_0_4280975773546204"
+    },
+    {
+      "title": "Class-25 | Phy",
+      "id": "4605077",
+      "date": "18-Nov-2025 15:30",
+      "video_url": "4605077_0_9857469892631237"
+    },
+    {
+      "title": "Class - 24 | Phy",
+      "id": "4602474",
+      "date": "15-Nov-2025 08:00",
+      "video_url": "4602474_0_6650230376219736"
+    },
+    {
+      "title": "Class - 22 | Phy",
+      "id": "4601154",
+      "date": "13-Nov-2025 15:30",
+      "video_url": "4601154_0_7686951500648875"
+    },
+    {
+      "title": "Class - 21 | Phy",
+      "id": "4600350",
+      "date": "12-Nov-2025 20:30",
+      "video_url": "4600350_0_1210717154889411"
+    },
+    {
+      "title": "Class - 20 | Phy",
+      "id": "4599306",
+      "date": "11-Nov-2025 20:30",
+      "video_url": "4599306_0_8388665258968484"
+    },
+    {
+      "title": "Class - 19 | Phy",
+      "id": "4597749",
+      "date": "10-Nov-2025 16:00",
+      "video_url": "4597749_0_6258894964964320"
+    },
+    {
+      "title": "Class - 18 | Phy",
+      "id": "4595943",
+      "date": "08-Nov-2025 09:30",
+      "video_url": "4595943_0_2605704298967120"
+    },
+    {
+      "title": "Class - 17 | Phy",
+      "id": "4595423",
+      "date": "07-Nov-2025 15:30",
+      "video_url": "4595423_0_7151948661766042"
+    },
+    {
+      "title": "Class - 16 | Phy",
+      "id": "4594554",
+      "date": "06-Nov-2025 17:30",
+      "video_url": "4594554_0_1777183887957924"
+    },
+    {
+      "title": "Class - 15 | Phy",
+      "id": "4591236",
+      "date": "03-Nov-2025 17:30",
+      "video_url": "4591236_0_3959134258399851"
+    },
+    {
+      "title": "Class - 14 | Phy",
+      "id": "4590265",
+      "date": "02-Nov-2025 09:00",
+      "video_url": "4590265_0_6596454627975928"
+    },
+    {
+      "title": "Class - 13 | Phy | Intrdoduction",
+      "id": "4589660",
+      "date": "01-Nov-2025 08:00",
+      "video_url": "4589660_0_5387830776837477"
+    },
+    {
+      "title": "Class - 12 | Phy | Intrdoduction",
+      "id": "4589411",
+      "date": "31-Oct-2025 17:30",
+      "video_url": "4589411_0_6256105145142604"
+    },
+    {
+      "title": "Class - 11 | Phy | Intrdoduction",
+      "id": "4588376",
+      "date": "30-Oct-2025 17:30",
+      "video_url": "4588376_0_7393974375817082"
+    },
+    {
+      "title": "Class - 10 | Phy | Intrdoduction",
+      "id": "4586190",
+      "date": "28-Oct-2025 17:30",
+      "video_url": "4586190_0_7308559477612693"
+    },
+    {
+      "title": "Class - 09 | Phy | Intrdoduction",
+      "id": "4585203",
+      "date": "27-Oct-2025 17:30",
+      "video_url": "4585203_0_9735741125207188"
+    },
+    {
+      "title": "Class - 08 | Phy | Intrdoduction",
+      "id": "4581093",
+      "date": "17-Oct-2025 17:30",
+      "video_url": "4581093_0_8339278275375167"
+    },
+    {
+      "title": "Class - 07 | Phy | Intrdoduction",
+      "id": "4580172",
+      "date": "16-Oct-2025 17:30",
+      "video_url": "4580172_0_4813609940829062"
+    },
+    {
+      "title": "Class - 06 | Phy | Intrdoduction",
+      "id": "4579147",
+      "date": "15-Oct-2025 17:30",
+      "video_url": "4579147_0_9008297199262095"
+    },
+    {
+      "title": "Class - 07 | Phy | Intrdoduction",
+      "id": "4578084",
+      "date": "14-Oct-2025 17:30",
+      "video_url": "4578084_0_8787814558658706"
+    },
+    {
+      "title": "Class - 06 | Phy | Intrdoduction",
+      "id": "4576907",
+      "date": "13-Oct-2025 17:30",
+      "video_url": "4576907_0_4686794315150798"
+    },
+    {
+      "title": "Class - 05 | Phy | Intrdoduction",
+      "id": "4574873",
+      "date": "10-Oct-2025 19:00",
+      "video_url": "4574873_0_6400674874526118"
+    },
+    {
+      "title": "Class - 04 | Phy | Intrdoduction",
+      "id": "4573465",
+      "date": "09-Oct-2025 19:00",
+      "video_url": "4573465_0_8562243287575293"
+    },
+    {
+      "title": "Class - 03 | Phy | Intrdoduction",
+      "id": "4572289",
+      "date": "08-Oct-2025 19:00",
+      "video_url": "4572289_0_8384991356839199"
+    }
+  ],
+  "notes_total": 64,
+  "notes": [
+    {
+      "id": 744402,
+      "title": "Phy | 27 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6929465f292e8_motion_practice_class_1_compressed.pdf",
+      "date": "28-Nov-2025"
+    },
+    {
+      "id": 743520,
+      "title": "Bio | 27 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6927fb80325d6_27_Nov_DSSSB_bio_class_78_am_compressed.pdf",
+      "date": "27-Nov-2025"
+    },
+    {
+      "id": 742478,
+      "title": "Bio | 25 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6926e1a2b1eff_25_Nov_DSSSB_bio_class_78_am_compressed.pdf",
+      "date": "26-Nov-2025"
+    },
+    {
+      "id": 741261,
+      "title": "Phy | 25 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6926b6259eed7_sources_of_energy_part_2_DSSSB_compressed.pdf",
+      "date": "26-Nov-2025"
+    },
+    {
+      "id": 741250,
+      "title": "Chem | 24 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6926ab6badf24_Notes_24_nov_chem_dsssb_compressed.pdf",
+      "date": "26-Nov-2025"
+    },
+    {
+      "id": 741249,
+      "title": "Phy | 25 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6926ab227c975_sources_of_energy_part_1_DSSSB_compressed.pdf",
+      "date": "26-Nov-2025"
+    },
+    {
+      "id": 736741,
+      "title": "Phy | 20 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/69202b0db3c50_light_6_DSSSB.pdf",
+      "date": "21-Nov-2025"
+    },
+    {
+      "id": 736737,
+      "title": "Chem | 20 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/69202a9cc2dd0_Notes_20nov_chemistry_dsssb_tgt_c.pdf",
+      "date": "21-Nov-2025"
+    },
+    {
+      "id": 736182,
+      "title": "Phy | 20 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/691ec2e6a389e_light_5_DSSSB_compressed.pdf",
+      "date": "20-Nov-2025"
+    },
+    {
+      "id": 736173,
+      "title": "Chem | 19 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/691ec1a981761_Notes_19_nov_dsssb_chemistry_compressed.pdf",
+      "date": "20-Nov-2025"
+    },
+    {
+      "id": 734816,
+      "title": "Phy | 19 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/691d6b67062e1_light_4_DSSSB_compressed.pdf",
+      "date": "19-Nov-2025"
+    },
+    {
+      "id": 734537,
+      "title": "Bio | 18 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/691c653f11af9_18_Nov_DSSSB_bioEmrs_class_78_am_compressed.pdf",
+      "date": "18-Nov-2025"
+    },
+    {
+      "id": 734247,
+      "title": "Chem | 17 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/691c1308698f2_Notes_17nov_dsssb_tgt_chemistry_compressed.pdf",
+      "date": "18-Nov-2025"
+    },
+    {
+      "id": 732704,
+      "title": "Bio | 14 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6916c7a722c5b_14_Nov_DSSSB_bioEmrs_class_78_am_compressed.pdf",
+      "date": "14-Nov-2025"
+    },
+    {
+      "id": 732307,
+      "title": "Chem | 13 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6915b387c27a7_Notes_13nov_dsssb_compressed.pdf",
+      "date": "13-Nov-2025"
+    },
+    {
+      "id": 731585,
+      "title": "Phy | 12 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/69159237b7612_effect_of_current_7_DSSSB_compressed.pdf",
+      "date": "13-Nov-2025"
+    },
+    {
+      "id": 730977,
+      "title": "Chem | 12 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/69144df4d66a1_Notes_12_nov_chemistry_dsssb_n_up_lt_compressed.pdf",
+      "date": "12-Nov-2025"
+    },
+    {
+      "id": 730870,
+      "title": "Phy | 10 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6914341194d1b_effect_of_current_6_DSSSB_compressed.pdf",
+      "date": "12-Nov-2025"
+    },
+    {
+      "id": 730439,
+      "title": "Bio | 12 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/69140bc637eab_12_Nov_DSSSB_bioEmrs_class_78_am_compressed.pdf",
+      "date": "12-Nov-2025"
+    },
+    {
+      "id": 730275,
+      "title": "Chem | 11 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6913191742518_Notes_11_nov_dsssb_periodic_table_compressed.pdf",
+      "date": "11-Nov-2025"
+    },
+    {
+      "id": 730037,
+      "title": "Bio | 10-11 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6912dda116792_ilovepdf_merged_53_compressed.pdf",
+      "date": "11-Nov-2025"
+    },
+    {
+      "id": 729518,
+      "title": "Chem | 10 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6911b72764a09_10_nov_dsssb_periodic_compressed.pdf",
+      "date": "10-Nov-2025"
+    },
+    {
+      "id": 728842,
+      "title": "Bio | 8 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/691168d2d0a79_8_Nov_DSSSB_bio_class_78_am_compressed.pdf",
+      "date": "10-Nov-2025"
+    },
+    {
+      "id": 726220,
+      "title": "Chem | 7 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/690ec8db70e0e_07nov_chemistry_dssb_up_lt_grade_compressed.pdf",
+      "date": "08-Nov-2025"
+    },
+    {
+      "id": 726219,
+      "title": "Phy | 6 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/690ec87c822d7_effect_of_current_3_DSSSB_compressed.pdf",
+      "date": "08-Nov-2025"
+    },
+    {
+      "id": 720230,
+      "title": "Phy | 6 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/690d96871833d_effect_of_current_2_DSSSB_compressed.pdf",
+      "date": "07-Nov-2025"
+    },
+    {
+      "id": 715701,
+      "title": "Bio | 6 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/690c3c110c8d2_6_Nov_DSSSB_bio_class_78_am.pdf",
+      "date": "06-Nov-2025"
+    },
+    {
+      "id": 715212,
+      "title": "Chem | 5 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/690b2c1a03c66_5_nov_dsssb_periodic_table_compressed.pdf",
+      "date": "05-Nov-2025"
+    },
+    {
+      "id": 713394,
+      "title": "Bio | 5 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/690af3c5f3677_5_Nov_DSSSB_bio_class_78_am_compressed.pdf",
+      "date": "05-Nov-2025"
+    },
+    {
+      "id": 713373,
+      "title": "Bio | 4 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/690aee7077157_4_Nov_DSSSB_bio_class_78_am_compressed.pdf",
+      "date": "05-Nov-2025"
+    },
+    {
+      "id": 713329,
+      "title": "Chem | 4 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/690ae98aa4fed_4_nov_up_lt_grade_chemistry_compressed.pdf",
+      "date": "05-Nov-2025"
+    },
+    {
+      "id": 711346,
+      "title": "Phy | 4 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/69098d3b1dc5a_effect_of_current_1_DSSSB_compressed.pdf",
+      "date": "04-Nov-2025"
+    },
+    {
+      "id": 710127,
+      "title": "Phy | 1 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/69084bb8da991_sound_3_DSSSB.pdf",
+      "date": "03-Nov-2025"
+    },
+    {
+      "id": 710125,
+      "title": "Chem | 1 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/69084b769438f_dsssb_chem_1_nov_atomic_structurev.pdf",
+      "date": "03-Nov-2025"
+    },
+    {
+      "id": 710124,
+      "title": "Chem | 31 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/69084b4b5ae73_dsssb_chemistry_31oct.pdf",
+      "date": "03-Nov-2025"
+    },
+    {
+      "id": 709668,
+      "title": "Phy | 31 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/69059d8a5359c_sound_1_DSSSB_compressed.pdf",
+      "date": "01-Nov-2025"
+    },
+    {
+      "id": 708040,
+      "title": "Phy | 31 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6904579f299da_floatation_1_DSSSB.pdf",
+      "date": "31-Oct-2025"
+    },
+    {
+      "id": 707732,
+      "title": "Chem | 28 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/690357111be6c_dsssb_chemistry_hydrogen_spectrum_28oct.pdf",
+      "date": "30-Oct-2025"
+    },
+    {
+      "id": 707731,
+      "title": "Chem | 8 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/690356fde1abb_DSSSB_TGT_CHEM_8OCT_INTRO.pdf",
+      "date": "30-Oct-2025"
+    },
+    {
+      "id": 707726,
+      "title": "Chem | 30 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/690356de15853_DSSSB_TGT_11_OCT_1.pdf",
+      "date": "30-Oct-2025"
+    },
+    {
+      "id": 707641,
+      "title": "Chem | 30 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/69034b3f8e0cd_dsssb_chemistry_30_oct.pdf",
+      "date": "30-Oct-2025"
+    },
+    {
+      "id": 707012,
+      "title": "Bio | 29 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6902ea2536b1f_29_oct_DSSSB_bio_class_78_am.pdf",
+      "date": "30-Oct-2025"
+    },
+    {
+      "id": 706799,
+      "title": "Chem | 29 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6901eca4c1b65_dsssb_chemistry_29_oct.pdf",
+      "date": "29-Oct-2025"
+    },
+    {
+      "id": 706249,
+      "title": "Phy | 28 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6901a097dc40b_work_energy_power_2_DSSSB.pdf",
+      "date": "29-Oct-2025"
+    },
+    {
+      "id": 703653,
+      "title": "Phy | 27 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/69004a44acbeb_work_energy_power_1_DSSSB.pdf",
+      "date": "28-Oct-2025"
+    },
+    {
+      "id": 703650,
+      "title": "Bio | 27 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6900494878c71_27_oct_DSSSB_bio_class_78_am.pdf",
+      "date": "28-Oct-2025"
+    },
+    {
+      "id": 703413,
+      "title": "Chem | 27 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68ff3f1d8c914_dsssb_chemistry_bohr_model_27_oct.pdf",
+      "date": "27-Oct-2025"
+    },
+    {
+      "id": 702327,
+      "title": "Phy | 17 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68fb1a946ff23_gravitation_3_DSSSB.pdf",
+      "date": "24-Oct-2025"
+    },
+    {
+      "id": 702325,
+      "title": "Chem | 17 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68fb1a6b061c8_DSSSB_RUTGERFORD_MODEL_17_OCT_1.pdf",
+      "date": "24-Oct-2025"
+    },
+    {
+      "id": 701852,
+      "title": "Chem | 17 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68f20a79b6e9c_DSSSB_RUTGERFORD_MODEL_17_OCT.pdf",
+      "date": "17-Oct-2025"
+    },
+    {
+      "id": 701277,
+      "title": "Phy | 16 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68f1cf50be032_gravitation_2_DSSSB.pdf",
+      "date": "17-Oct-2025"
+    },
+    {
+      "id": 700926,
+      "title": "Chem | 16 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68f0cceadd06b_dsssb_chemistry_16_oct_compressed.pdf",
+      "date": "16-Oct-2025"
+    },
+    {
+      "id": 700464,
+      "title": "Phy | 15 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68f09c40f3c6e_gravitation_1_DSSSB.pdf",
+      "date": "16-Oct-2025"
+    },
+    {
+      "id": 700082,
+      "title": "Chem | 15 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68ef71a949c5e_DSSSB_CHEMISTRY_15_OCT.pdf",
+      "date": "15-Oct-2025"
+    },
+    {
+      "id": 699908,
+      "title": "Phy | 14 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68ef3bc0b450e_laws_of_motion_2_DSSSB.pdf",
+      "date": "15-Oct-2025"
+    },
+    {
+      "id": 699422,
+      "title": "Chem | 14 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68ee2cb192eb7_DSSSB_MOLW_14_OCT.pdf",
+      "date": "14-Oct-2025"
+    },
+    {
+      "id": 698217,
+      "title": "Phy | 13 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68edf0601d8f9_laws_of_motion_1_DSSSB.pdf",
+      "date": "14-Oct-2025"
+    },
+    {
+      "id": 698213,
+      "title": "Chem | 13 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68edeffe565d0_DSSSB_TGT_11_OCT.pdf",
+      "date": "14-Oct-2025"
+    },
+    {
+      "id": 696220,
+      "title": "Phy | 10 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68e9aaa40b498_motion_5_DSSSB.pdf",
+      "date": "11-Oct-2025"
+    },
+    {
+      "id": 695498,
+      "title": "Phy | 9 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68e8990e65842_motion_4_DSSSB.pdf",
+      "date": "10-Oct-2025"
+    },
+    {
+      "id": 695389,
+      "title": "DSSSB 2025 TGT (Science)  Syllabus",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68e81560b64a5_Dsssb_TGT_Science_Syllabus_2025_s.pdf",
+      "date": "10-Oct-2025"
+    },
+    {
+      "id": 695257,
+      "title": "Chem | 09 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68e7a15006d64_DSSSB_9OCT.pdf",
+      "date": "09-Oct-2025"
+    },
+    {
+      "id": 695255,
+      "title": "Phy | 09 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68e7a07b5facc_motion_3_DSSSB.pdf",
+      "date": "09-Oct-2025"
+    },
+    {
+      "id": 693904,
+      "title": "Phy | 07 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68e5e7de28d3a_motion_2_DSSSB.pdf",
+      "date": "08-Oct-2025"
+    }
+  ]
+}
