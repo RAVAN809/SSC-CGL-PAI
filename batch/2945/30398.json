@@ -1,0 +1,496 @@
+{
+  "batchid": 2945,
+  "topicid": 30398,
+  "classes_total": 51,
+  "classes": [
+    {
+      "title": "Class-53 | Basic Electrical Practice Question | By Rajkumar Sir",
+      "id": "4433117",
+      "date": "12-Dec-2022 16:20",
+      "video_url": "4433117_0_1886480828533557"
+    },
+    {
+      "title": "Class-52 | Basic Electrical Practice Question | By Rajkumar Sir",
+      "id": "4433116",
+      "date": "12-Dec-2022 16:18",
+      "video_url": "4433116_0_9726862208974908"
+    },
+    {
+      "title": "Class-51 | Ques on Nodal Analysis  | By Rajkumar Sir",
+      "id": "4433115",
+      "date": "12-Dec-2022 16:16",
+      "video_url": "4433115_0_8415450061634685"
+    },
+    {
+      "title": "Class-49 | CGS Unit & Effect of Current | By Rajkumar Sir",
+      "id": "4433122",
+      "date": "12-Dec-2022 16:12",
+      "video_url": "4433122_0_2400973215395812"
+    },
+    {
+      "title": "Class-48 | Temperature Cofficient Concept  | By Rajkumar Sir",
+      "id": "4433121",
+      "date": "12-Dec-2022 16:10",
+      "video_url": "4433121_0_7977000546471183"
+    },
+    {
+      "title": "Class-47 | Star TO Delta Conversion | By Rajkumar Sir",
+      "id": "4433120",
+      "date": "12-Dec-2022 16:08",
+      "video_url": "4433120_0_5346338132831809"
+    },
+    {
+      "title": "Class-46 | Basic SI unit & Current Density | By Rajkumar Sir",
+      "id": "4433119",
+      "date": "12-Dec-2022 16:06",
+      "video_url": "4433119_0_8211897494042267"
+    },
+    {
+      "title": "Class-45 | Charge Production | By Rajkumar Sir",
+      "id": "4433118",
+      "date": "12-Dec-2022 16:04",
+      "video_url": "4433118_0_6341694244612506"
+    },
+    {
+      "title": "Class-44 | Energy Density | By Rajkumar Sir",
+      "id": "4433114",
+      "date": "12-Dec-2022 16:02",
+      "video_url": "4433114_0_9594157500621417"
+    },
+    {
+      "title": "Class-43 | Vtg & Electric Field Due to Point Charge | By Rajkumar Sir",
+      "id": "4433113",
+      "date": "12-Dec-2022 16:00",
+      "video_url": "4433113_0_9754315007863762"
+    },
+    {
+      "title": "Class-42 | Spherical & Cylindrical Capacitor | By Rajkumar Sir",
+      "id": "4433112",
+      "date": "12-Dec-2022 15:58",
+      "video_url": "4433112_0_4452653988921721"
+    },
+    {
+      "title": "Class-41 | Basics Of Capacitor | By Rajkumar Sir",
+      "id": "4433111",
+      "date": "12-Dec-2022 15:56",
+      "video_url": "4433111_0_2204139418921874"
+    },
+    {
+      "title": "Class-40 | Perfect Conductor | By Rajkumar Sir",
+      "id": "4433110",
+      "date": "12-Dec-2022 15:54",
+      "video_url": "4433110_0_2138105694174243"
+    },
+    {
+      "title": "Class-39 | Electric Dipole | By Rajkumar Sir",
+      "id": "4433109",
+      "date": "12-Dec-2022 15:52",
+      "video_url": "4433109_0_3422223322620441"
+    },
+    {
+      "title": "CLASS -38 || Resistance Colour Coding || By Rajkumar Sir",
+      "id": "4433125",
+      "date": "12-Dec-2022 15:50",
+      "video_url": "4433125_0_6851529545744572"
+    },
+    {
+      "title": "Class-37 | Uniformly Charged Sphere | By Rajkumar Sir",
+      "id": "4433105",
+      "date": "12-Dec-2022 15:48",
+      "video_url": "4433105_0_1453745346217644"
+    },
+    {
+      "title": "Class-36 | Electric Field Due To Hollow Sphere | By Rajkumar Sir",
+      "id": "4433104",
+      "date": "12-Dec-2022 15:46",
+      "video_url": "4433104_0_8762173830670172"
+    },
+    {
+      "title": "CLASS - 34&35 | Difference Between Electrical And Magnetic Field | BY RAJKUMAR SIR",
+      "id": "4433103",
+      "date": "12-Dec-2022 15:42",
+      "video_url": "4433103_0_2568790250647617"
+    },
+    {
+      "title": "Class-33 | Force Between Two Parallel Wire | By Rajkumar Sir",
+      "id": "4433102",
+      "date": "12-Dec-2022 15:40",
+      "video_url": "4433102_0_1577328123994726"
+    },
+    {
+      "title": "Class-32 | Comparision Between Coulombs force And gravitational Force | By Rajkumar Sir",
+      "id": "4433101",
+      "date": "12-Dec-2022 15:38",
+      "video_url": "4433101_0_3791826503687082"
+    },
+    {
+      "title": "Class-31 | Coulombs Law | By Rajkumar Sir",
+      "id": "4433100",
+      "date": "12-Dec-2022 15:36",
+      "video_url": "4433100_0_8111725018300926"
+    },
+    {
+      "title": "Class-30 | Vtg Division For Capacitor | By Rajkumar Sir",
+      "id": "4433108",
+      "date": "12-Dec-2022 15:34",
+      "video_url": "4433108_0_5313635629758659"
+    },
+    {
+      "title": "Class-29 | Voltage Division Rule  | By Rajkumar Sir",
+      "id": "4433107",
+      "date": "12-Dec-2022 15:32",
+      "video_url": "4433107_0_7952344762120491"
+    },
+    {
+      "title": "Class-28 | Current Division Rule | By Rajkumar Sir",
+      "id": "4433106",
+      "date": "12-Dec-2022 15:30",
+      "video_url": "4433106_0_8314340260005191"
+    },
+    {
+      "title": "Class-27 | Tricky Concept of Bulb | By Rajkumar Sir",
+      "id": "4433124",
+      "date": "12-Dec-2022 14:32",
+      "video_url": "4433124_0_1621828014342517"
+    },
+    {
+      "title": "Class-26 | Tricky Concept of Bulb | By Rajkumar Sir",
+      "id": "4433123",
+      "date": "12-Dec-2022 14:30",
+      "video_url": "4433123_0_5998647267135177"
+    },
+    {
+      "title": "Class-25 | Basic Electricity | Rajkumar Sir",
+      "id": "4433131",
+      "date": "12-Dec-2022 12:30",
+      "video_url": "4433131_0_3573364623533497"
+    },
+    {
+      "title": "Class-24 | Basic Electricity | Rajkumar Sir",
+      "id": "4429785",
+      "date": "09-Dec-2022 12:30",
+      "video_url": "4429785_0_1311883625849385"
+    },
+    {
+      "title": "Class-23 | Basic Electricity | Rajkumar Sir",
+      "id": "4429784",
+      "date": "09-Dec-2022 09:30",
+      "video_url": "4429784_0_8004031698760047"
+    },
+    {
+      "title": "Class-22 | Basic Electricity | Rajkumar Sir",
+      "id": "4433130",
+      "date": "08-Dec-2022 12:30",
+      "video_url": "4433130_0_8697162926746923"
+    },
+    {
+      "title": "Class-21 | Basic Electricity | Rajkumar Sir",
+      "id": "4429783",
+      "date": "08-Dec-2022 09:30",
+      "video_url": "4429783_0_3980278113610960"
+    },
+    {
+      "title": "Class-20 | Basic Electricity | Rajkumar Sir",
+      "id": "4429782",
+      "date": "06-Dec-2022 09:30",
+      "video_url": "4429782_0_8275699523966051"
+    },
+    {
+      "title": "Class-19 | Basic Electricity | Rajkumar Sir",
+      "id": "4433129",
+      "date": "05-Dec-2022 12:30",
+      "video_url": "4433129_0_1395044041188019"
+    },
+    {
+      "title": "Class-18 | Basic Electricity | Rajkumar Sir",
+      "id": "4433128",
+      "date": "03-Dec-2022 17:00",
+      "video_url": "4433128_0_9774315364994053"
+    },
+    {
+      "title": "Class-17 | Basic Electricity | Rajkumar Sir",
+      "id": "4429780",
+      "date": "03-Dec-2022 11:00",
+      "video_url": "4429780_0_8469463697744377"
+    },
+    {
+      "title": "Class-16 | Basic Electricity | Rajkumar Sir",
+      "id": "4429779",
+      "date": "02-Dec-2022 09:30",
+      "video_url": "4429779_0_8522824662348652"
+    },
+    {
+      "title": "Class-15 | Basic Electricity | Rajkumar Sir",
+      "id": "4429778",
+      "date": "01-Dec-2022 09:30",
+      "video_url": "4429778_0_9961523131407113"
+    },
+    {
+      "title": "Class-14 | Basic Electricity | Rajkumar Sir",
+      "id": "4433127",
+      "date": "30-Nov-2022 14:30",
+      "video_url": "4433127_0_3608816159661933"
+    },
+    {
+      "title": "Class-13 | Basic Electricity | Rajkumar Sir",
+      "id": "4429777",
+      "date": "30-Nov-2022 12:30",
+      "video_url": "4429777_0_1788058540654208"
+    },
+    {
+      "title": "Class-12| Basic Electricity | Rajkumar Sir",
+      "id": "4429776",
+      "date": "30-Nov-2022 09:30",
+      "video_url": "4429776_0_2648332636629311"
+    },
+    {
+      "title": "Class-11 | Basic Electricity | Rajkumar Sir",
+      "id": "4429775",
+      "date": "29-Nov-2022 09:30",
+      "video_url": "4429775_0_2318415518848008"
+    },
+    {
+      "title": "Class-10 | Basic Electricity | Rajkumar Sir",
+      "id": "4429774",
+      "date": "28-Nov-2022 09:30",
+      "video_url": "4429774_0_7758403993903908"
+    },
+    {
+      "title": "Class-09 | Basic Electricity | Rajkumar Sir",
+      "id": "4429773",
+      "date": "25-Nov-2022 09:30",
+      "video_url": "4429773_0_9511274864963980"
+    },
+    {
+      "title": "Class-08 | Basic Electricity | Rajkumar Sir",
+      "id": "4429772",
+      "date": "24-Nov-2022 09:30",
+      "video_url": "4429772_0_8356259415078907"
+    },
+    {
+      "title": "Class-07 | Basic Electricity | Rajkumar Sir",
+      "id": "4429771",
+      "date": "23-Nov-2022 09:30",
+      "video_url": "4429771_0_8842619728947752"
+    },
+    {
+      "title": "Class-06 | Basic Electricity | Rajkumar Sir",
+      "id": "4429770",
+      "date": "22-Nov-2022 09:30",
+      "video_url": "4429770_0_9121925272422202"
+    },
+    {
+      "title": "Class-05 | Basic Electricity | Rajkumar Sir",
+      "id": "4429769",
+      "date": "18-Nov-2022 08:30",
+      "video_url": "4429769_0_6330062453037846"
+    },
+    {
+      "title": "Class-04 | Basic Electricity | Rajkumar Sir",
+      "id": "4429768",
+      "date": "17-Nov-2022 08:30",
+      "video_url": "4429768_0_1642230433046123"
+    },
+    {
+      "title": "Class-03 | Basic Electricity | Rajkumar Sir",
+      "id": "4429767",
+      "date": "16-Nov-2022 09:30",
+      "video_url": "4429767_0_4942112890593531"
+    },
+    {
+      "title": "Class-02 | Basic Electricity | Rajkumar Sir",
+      "id": "4429766",
+      "date": "15-Nov-2022 09:30",
+      "video_url": "4429766_0_7639121494783164"
+    },
+    {
+      "title": "Class-01 | Basic Electricity | Rajkumar Sir",
+      "id": "4433126",
+      "date": "14-Nov-2022 08:30",
+      "video_url": "4433126_0_5747081143986890"
+    }
+  ],
+  "notes_total": 30,
+  "notes": [
+    {
+      "id": 699436,
+      "title": "Safety & Health Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6757947704d68_Safety_Health_Notes343038crwill.pdf",
+      "date": "14-Oct-2025"
+    },
+    {
+      "id": 544878,
+      "title": "Earthing Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6801f6f306b55_Earthing_Notescompressed.pdf",
+      "date": "17-May-2025"
+    },
+    {
+      "id": 544876,
+      "title": "illumination Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67d29fc7e5aab_illumination.pdf",
+      "date": "17-May-2025"
+    },
+    {
+      "id": 544875,
+      "title": "SCR",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67c02dc833c95_SCRcompressed.pdf",
+      "date": "17-May-2025"
+    },
+    {
+      "id": 544874,
+      "title": "Digital Part-2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67d29e6c3ca31_Digital_Part_2_1.pdf",
+      "date": "17-May-2025"
+    },
+    {
+      "id": 544873,
+      "title": "Digital Part-1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67d29dfe09632_Digital_Part_1.._1.pdf",
+      "date": "17-May-2025"
+    },
+    {
+      "id": 544872,
+      "title": "Electric Appliances(बैद्युत उपकरण)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67ba09cb63e41_Electric_Appliances_compressed.pdf",
+      "date": "17-May-2025"
+    },
+    {
+      "id": 544871,
+      "title": "Measurement Part 1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67ba0112cb459_Measurement_Part_1.pdf",
+      "date": "17-May-2025"
+    },
+    {
+      "id": 544877,
+      "title": "Amplifier",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67d9353545d78_Amplifier.pdf",
+      "date": "17-May-2025"
+    },
+    {
+      "id": 544870,
+      "title": "FET Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67b9fca8eeb9d_FET_Notescompressed.pdf",
+      "date": "17-May-2025"
+    },
+    {
+      "id": 544869,
+      "title": "BJT",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/659e9850bcf9d_BJT ( ITI)_compressed.pdf",
+      "date": "17-May-2025"
+    },
+    {
+      "id": 544868,
+      "title": "Rectifier ( ITI )",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/658af150bf576_Rectifier ( ITI ).pdf",
+      "date": "17-May-2025"
+    },
+    {
+      "id": 544867,
+      "title": "Diode (ITI)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6548a13aac2a2_Diode (ITI)_compressed.pdf",
+      "date": "17-May-2025"
+    },
+    {
+      "id": 544866,
+      "title": "Semiconductor Basics(ITI)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/653252245d886_Semiconductor Basics(ITI)_compressed.pdf",
+      "date": "17-May-2025"
+    },
+    {
+      "id": 544865,
+      "title": "Electrical Wiring",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67766ffad9003_Electrical_Wiring.pdf",
+      "date": "17-May-2025"
+    },
+    {
+      "id": 544864,
+      "title": "Transmission Notes Part 2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67766f6b33e05_Transmission_Notes_Part_2.pdf",
+      "date": "17-May-2025"
+    },
+    {
+      "id": 544863,
+      "title": "Transmission Notes Part 1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67766eec479a4_Transmission_Notes_Part_1.pdf",
+      "date": "17-May-2025"
+    },
+    {
+      "id": 544862,
+      "title": "Power Plant",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/673c364d90123_Power_Plant.pdf",
+      "date": "17-May-2025"
+    },
+    {
+      "id": 544861,
+      "title": "Relay & Circuit Breaker",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/672b59decb341_Relay_Circuit_Breaker_.pdf",
+      "date": "17-May-2025"
+    },
+    {
+      "id": 544860,
+      "title": "Underground Cable",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6704d7be4030f_Underground_Cable_.pdf",
+      "date": "17-May-2025"
+    },
+    {
+      "id": 544859,
+      "title": "Single Phase Motor Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66f0e4119e933_Single_Phase_Motor_.pdf",
+      "date": "17-May-2025"
+    },
+    {
+      "id": 544855,
+      "title": "Synchronous Machine Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66e4055d60722_Synchronous Machine Notes_compressed.pdf",
+      "date": "17-May-2025"
+    },
+    {
+      "id": 544854,
+      "title": "DC Machine Part-2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66dfd7bd6b711_DC Machine Part 2.pdf",
+      "date": "17-May-2025"
+    },
+    {
+      "id": 544853,
+      "title": "DC Machine Part-1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66dfd6e257515_DC Machine Part 1.pdf",
+      "date": "17-May-2025"
+    },
+    {
+      "id": 544852,
+      "title": "3 Phase Induction Machine",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66bb50bed4fd3_3 Phase Induction Machine _compressed.pdf",
+      "date": "17-May-2025"
+    },
+    {
+      "id": 544858,
+      "title": "Transformer Part-2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66f0e3cfe7bdb_Transformer_Part_2.pdf",
+      "date": "17-May-2025"
+    },
+    {
+      "id": 544857,
+      "title": "Transformer Part-1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66f0e37e4784f_Transformer_Part_1compressed.pdf",
+      "date": "17-May-2025"
+    },
+    {
+      "id": 544856,
+      "title": "Magnet",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66e40976ae526_Magnet Part 1&2_compressed.pdf",
+      "date": "17-May-2025"
+    },
+    {
+      "id": 544851,
+      "title": "Basic Elec( AC ) Complete Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1673263882-Basic_Elec(_AC_)Complete_Notes_(1).pdf",
+      "date": "17-May-2025"
+    },
+    {
+      "id": 544850,
+      "title": "Basic Elect (dc) Complete Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1672988949-Basic_Elect_(dc)_Complete_Notes.pdf",
+      "date": "17-May-2025"
+    }
+  ]
+}
