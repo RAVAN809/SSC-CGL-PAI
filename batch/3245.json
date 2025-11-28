@@ -1,0 +1,54 @@
+{
+  "batch_id": "3245",
+  "topics": [
+    {
+      "id": 33264,
+      "topicName": "Intro"
+    },
+    {
+      "id": 33315,
+      "topicName": "Maths"
+    },
+    {
+      "id": 33316,
+      "topicName": "Reasoning"
+    },
+    {
+      "id": 33317,
+      "topicName": "History"
+    },
+    {
+      "id": 33318,
+      "topicName": "Geography"
+    },
+    {
+      "id": 33319,
+      "topicName": "Polity"
+    },
+    {
+      "id": 33320,
+      "topicName": "Economy"
+    },
+    {
+      "id": 33321,
+      "topicName": "Physics"
+    },
+    {
+      "id": 33322,
+      "topicName": "Chemistry"
+    },
+    {
+      "id": 33323,
+      "topicName": "Biology"
+    },
+    {
+      "id": 33324,
+      "topicName": "Driver Portion"
+    },
+    {
+      "id": 33325,
+      "topicName": "Static GK"
+    }
+  ],
+  "batch_name": "Delhi Police Driver (Target Batch)"
+}
