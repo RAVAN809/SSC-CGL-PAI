@@ -1,5 +1,54 @@
 {
   "batch_id": "2734",
-  "topics": [],
-  "error": "No topics found"
+  "topics": [
+    {
+      "id": 28016,
+      "topicName": "Syllabus"
+    },
+    {
+      "id": 28031,
+      "topicName": "Maths"
+    },
+    {
+      "id": 28033,
+      "topicName": "Reasoning"
+    },
+    {
+      "id": 28034,
+      "topicName": "History"
+    },
+    {
+      "id": 28035,
+      "topicName": "Geography"
+    },
+    {
+      "id": 28036,
+      "topicName": "Polity"
+    },
+    {
+      "id": 28037,
+      "topicName": "Economy"
+    },
+    {
+      "id": 28293,
+      "topicName": "Physics"
+    },
+    {
+      "id": 28342,
+      "topicName": "Chemistry"
+    },
+    {
+      "id": 28343,
+      "topicName": "Biology"
+    },
+    {
+      "id": 28932,
+      "topicName": "Computer"
+    },
+    {
+      "id": 29407,
+      "topicName": "Static GK"
+    }
+  ],
+  "batch_name": "Delhi Police Constable 2025 B-02"
 }
