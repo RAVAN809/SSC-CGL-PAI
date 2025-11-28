@@ -1,0 +1,33 @@
+{
+  "batch_id": 2412,
+  "topics": [
+    {
+      "id": 23881,
+      "topicName": "Live Class PNG"
+    },
+    {
+      "id": 23880,
+      "topicName": "Syllabus"
+    },
+    {
+      "id": 23882,
+      "topicName": "Practice Set"
+    },
+    {
+      "id": 23877,
+      "topicName": "Live"
+    },
+    {
+      "id": 23878,
+      "topicName": "VOD"
+    },
+    {
+      "id": 23879,
+      "topicName": "Bank (VOD)"
+    },
+    {
+      "id": 23883,
+      "topicName": "VOD Class PNG"
+    }
+  ]
+}
