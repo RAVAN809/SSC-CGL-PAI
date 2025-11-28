@@ -1,0 +1,922 @@
+{
+  "batchid": 2774,
+  "topicid": 28537,
+  "classes_total": 42,
+  "classes": [
+    {
+      "title": "Class-51 | CDP | Jean Piaget’s Theory",
+      "id": "4525663",
+      "date": "20-Aug-2025 19:30",
+      "video_url": "4525663_0_1239850760279782"
+    },
+    {
+      "title": "Class-50 | CDP | Jean Piaget’s Theory",
+      "id": "4523348",
+      "date": "18-Aug-2025 19:30",
+      "video_url": "4523348_0_3129885531477026"
+    },
+    {
+      "title": "Class-49 | CDP | Jean Piaget’s Theory",
+      "id": "4520138",
+      "date": "13-Aug-2025 19:30",
+      "video_url": "4520138_0_8435485600997485"
+    },
+    {
+      "title": "Class-48 | CDP | Jean Piaget’s Theory",
+      "id": "4516134",
+      "date": "08-Aug-2025 19:30",
+      "video_url": "4516134_0_5146065669122975"
+    },
+    {
+      "title": "Class-47 | CDP | Jean Piaget’s Theory",
+      "id": "4514406",
+      "date": "06-Aug-2025 19:30",
+      "video_url": "4514406_0_7925827005684183"
+    },
+    {
+      "title": "Class-46 | CDP | Education Commissions",
+      "id": "4501694",
+      "date": "28-Jul-2025 18:00",
+      "video_url": "4501694_0_5361397023870879"
+    },
+    {
+      "title": "Class-45 | CDP | FLN, RTE, ECCE - 2",
+      "id": "4493904",
+      "date": "25-Jul-2025 18:00",
+      "video_url": "4493904_0_9491753671278721"
+    },
+    {
+      "title": "Class-43 | CDP | National Education Policy 2020 - 3",
+      "id": "4486118",
+      "date": "18-Jul-2025 21:00",
+      "video_url": "4486118_0_5370856514649300"
+    },
+    {
+      "title": "Class-41 | CDP | National Education Policy 2020",
+      "id": "4480140",
+      "date": "11-Jul-2025 18:00",
+      "video_url": "4480140_0_5234483633251343"
+    },
+    {
+      "title": "Class-40 | CDP | Leadership",
+      "id": "4475948",
+      "date": "07-Jul-2025 18:00",
+      "video_url": "4475948_0_5931102591083035"
+    },
+    {
+      "title": "Class-36 | CDP | Trial and Error Learning-2",
+      "id": "4442631",
+      "date": "10-Jun-2025 10:08",
+      "video_url": "4442631_0_4998871341282630"
+    },
+    {
+      "title": "Class-35 | CDP | Trial & Error Learning",
+      "id": "4442628",
+      "date": "10-Jun-2025 10:06",
+      "video_url": "4442628_0_6493892897089507"
+    },
+    {
+      "title": "Class-34 | CDP | Operant Conditioning",
+      "id": "4442624",
+      "date": "10-Jun-2025 10:04",
+      "video_url": "4442624_0_2415629507592708"
+    },
+    {
+      "title": "Class-33 | CDP | Classical Conditioning",
+      "id": "4442617",
+      "date": "10-Jun-2025 10:02",
+      "video_url": "4442617_0_7453411750388647"
+    },
+    {
+      "title": "Class-32 | CDP | Diversity",
+      "id": "4451583",
+      "date": "05-Jun-2025 18:00",
+      "video_url": "4451583_0_5198376374265763"
+    },
+    {
+      "title": "Class-31 | CDP | Inclusive Education",
+      "id": "4451581",
+      "date": "04-Jun-2025 18:00",
+      "video_url": "4451581_0_8046051372729652"
+    },
+    {
+      "title": "Class-30 | CDP | Inclusive Education",
+      "id": "4451569",
+      "date": "30-May-2025 18:00",
+      "video_url": "4451569_0_6548074194765485"
+    },
+    {
+      "title": "Class-29 | CDP | Inclusive Education",
+      "id": "4451565",
+      "date": "29-May-2025 18:00",
+      "video_url": "4451565_0_3531343763930097"
+    },
+    {
+      "title": "Class-28 | CDP | Unit Plan",
+      "id": "4451548",
+      "date": "22-May-2025 18:00",
+      "video_url": "4451548_0_9819115516905315"
+    },
+    {
+      "title": "Class-27 | CDP | Unit Plan",
+      "id": "4451543",
+      "date": "21-May-2025 18:00",
+      "video_url": "4451543_0_8264849428035302"
+    },
+    {
+      "title": "Class-26 | CDP | Unit Plan",
+      "id": "4451538",
+      "date": "20-May-2025 18:00",
+      "video_url": "4451538_0_5020535049283286"
+    },
+    {
+      "title": "Class-25 | CDP | Action Research",
+      "id": "4451512",
+      "date": "09-May-2025 18:00",
+      "video_url": "4451512_0_1045330776924656"
+    },
+    {
+      "title": "Class-24 | CDP | Micro Teaching",
+      "id": "4451476",
+      "date": "28-Apr-2025 21:00",
+      "video_url": "4451476_0_6644411499596026"
+    },
+    {
+      "title": "Class-22 | CDP | Continuous & Comprehensive Evaluation(CCE)",
+      "id": "4451451",
+      "date": "18-Apr-2025 18:00",
+      "video_url": "4451451_0_9783443537512462"
+    },
+    {
+      "title": "Class-21 | CDP | Continuous & Comprehensive Evaluation(CCE) (",
+      "id": "4451442",
+      "date": "16-Apr-2025 21:00",
+      "video_url": "4451442_0_4086006205785210"
+    },
+    {
+      "title": "Class-20 | CDP | ICT",
+      "id": "4451435",
+      "date": "14-Apr-2025 21:00",
+      "video_url": "4451435_0_1182774981240231"
+    },
+    {
+      "title": "Class-19 | CDP | Curriculum-2",
+      "id": "4451410",
+      "date": "04-Apr-2025 18:00",
+      "video_url": "4451410_0_2777386323567062"
+    },
+    {
+      "title": "Class-18 | CDP | Curriculum",
+      "id": "4451398",
+      "date": "02-Apr-2025 18:00",
+      "video_url": "4451398_0_6504104926757535"
+    },
+    {
+      "title": "Class-17 | CDP | David Ausubel and Jerome Bruner Theory",
+      "id": "4451387",
+      "date": "28-Mar-2025 18:00",
+      "video_url": "4451387_0_9740090188470177"
+    },
+    {
+      "title": "Class-15 | CDP | Learning",
+      "id": "4451365",
+      "date": "19-Mar-2025 18:00",
+      "video_url": "4451365_0_4386830806256472"
+    },
+    {
+      "title": "Class-14 | CDP | Teaching-Learning Process",
+      "id": "4451357",
+      "date": "17-Mar-2025 18:00",
+      "video_url": "4451357_0_5424049418257821"
+    },
+    {
+      "title": "Class-13 | CDP | Bronfenbrenner’s Ecological Model",
+      "id": "4442653",
+      "date": "12-Mar-2025 21:00",
+      "video_url": "4442653_0_6626088949401006"
+    },
+    {
+      "title": "Class-12 | CDP | Socialisation Process",
+      "id": "4451320",
+      "date": "03-Mar-2025 21:00",
+      "video_url": "4451320_0_7006894717140846"
+    },
+    {
+      "title": "Class-11 | CDP | Developmental Task -2",
+      "id": "4451313",
+      "date": "28-Feb-2025 21:00",
+      "video_url": "4451313_0_7652773885203219"
+    },
+    {
+      "title": "Class-10 | CDP | Developmental Task",
+      "id": "4451295",
+      "date": "24-Feb-2025 18:00",
+      "video_url": "4451295_0_6507155790283175"
+    },
+    {
+      "title": "Class-09 | CDP | Adolescence",
+      "id": "4451291",
+      "date": "21-Feb-2025 18:00",
+      "video_url": "4451291_0_5903743419843990"
+    },
+    {
+      "title": "Class-08 | CDP | Adolescence",
+      "id": "4451283",
+      "date": "19-Feb-2025 18:00",
+      "video_url": "4451283_0_5499383571634782"
+    },
+    {
+      "title": "Class-07 | CDP | Stages of Development",
+      "id": "4451261",
+      "date": "12-Feb-2025 21:00",
+      "video_url": "4451261_0_5500083759329766"
+    },
+    {
+      "title": "Class-06 | CDP | Development",
+      "id": "4451253",
+      "date": "10-Feb-2025 21:00",
+      "video_url": "4451253_0_8105453333364467"
+    },
+    {
+      "title": "Class-05 | CDP | Development",
+      "id": "4451237",
+      "date": "03-Feb-2025 21:00",
+      "video_url": "4451237_0_3210374124432092"
+    },
+    {
+      "title": "Class-03 | CDP | Development",
+      "id": "4451221",
+      "date": "29-Jan-2025 21:00",
+      "video_url": "4451221_0_3861844469484979"
+    },
+    {
+      "title": "Class-01 | CDP",
+      "id": "4451187",
+      "date": "17-Jan-2025 19:00",
+      "video_url": "4451187_0_1887221450962090"
+    }
+  ],
+  "notes_total": 110,
+  "notes": [
+    {
+      "id": 641545,
+      "title": "Jean Piaget",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b13d9102147_Jean_Piaget__compressed.pdf",
+      "date": "29-Aug-2025"
+    },
+    {
+      "id": 633079,
+      "title": "Education Commission",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a3fe076e389_Education_Commission_.pdf",
+      "date": "19-Aug-2025"
+    },
+    {
+      "id": 633076,
+      "title": "Operant Conditioning",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a3fddcddc14_Operant_Conditioning__compressed.pdf",
+      "date": "19-Aug-2025"
+    },
+    {
+      "id": 633073,
+      "title": "Policies (FLN, RTE, ECCE)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a3fd9cd932e_Policies_FLN_RTE_ECCE_compressed.pdf",
+      "date": "19-Aug-2025"
+    },
+    {
+      "id": 614270,
+      "title": "National Education Policy 2020",
+      "url": "https://educp.crwilladmin.com/uploads/class-attachment/lclsys_National_education_policy_2020_1_compressed.pdf",
+      "date": "01-Aug-2025"
+    },
+    {
+      "id": 614251,
+      "title": "Right to Education act 2009",
+      "url": "https://educp.crwilladmin.com/uploads/class-attachment/lclsys_Right_to_education_act_2009__compressed.pdf",
+      "date": "01-Aug-2025"
+    },
+    {
+      "id": 614248,
+      "title": "Operant Conditioning",
+      "url": "https://educp.crwilladmin.com/uploads/class-attachment/lclsys_Operant_Conditioning__compressed.pdf",
+      "date": "01-Aug-2025"
+    },
+    {
+      "id": 607946,
+      "title": "National Education Policy 2020",
+      "url": "https://educp.crwilladmin.com/uploads/class-attachment/lclsys_National_education_policy_2020__compressed.pdf",
+      "date": "27-Jul-2025"
+    },
+    {
+      "id": 595780,
+      "title": "School of Organisation and Leadership",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6874e82e095ba_School_of_Organisation_and_Leadershipcompressed.pdf",
+      "date": "14-Jul-2025"
+    },
+    {
+      "id": 595777,
+      "title": "Inclusive Education (Notes)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6874e7eb3a66e_Inclusive_Education_notescompressed.pdf",
+      "date": "14-Jul-2025"
+    },
+    {
+      "id": 595773,
+      "title": "Classical conditioning (Notes)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6874e7b153ef9_Classical_conditioning_notescompressed.pdf",
+      "date": "14-Jul-2025"
+    },
+    {
+      "id": 595687,
+      "title": "Trial and Error learning theory (Notes)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6874e7750d9f8_Trial_and_Error_learning_theory_notescompressed.pdf",
+      "date": "14-Jul-2025"
+    },
+    {
+      "id": 568935,
+      "title": "Inclusive Education and Diversity",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/684ad51088b1b_Inclusive_Education_and_Diversity_compressed.pdf",
+      "date": "12-Jun-2025"
+    },
+    {
+      "id": 554646,
+      "title": "Unit Plan",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/683822e12e422_Unit_Plan.pdf",
+      "date": "29-May-2025"
+    },
+    {
+      "id": 539929,
+      "title": "Action Research",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6824566d96c77_Action_Research_compressed.pdf",
+      "date": "14-May-2025"
+    },
+    {
+      "id": 538468,
+      "title": "Micro Teaching",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6821acd08e338_Micro_Teaching_.pdf",
+      "date": "12-May-2025"
+    },
+    {
+      "id": 529663,
+      "title": "CCE",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6811e0252cfc2_CCE_for_KVScompressed.pdf",
+      "date": "30-Apr-2025"
+    },
+    {
+      "id": 523094,
+      "title": "Curriculum",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68077a790068b_Curriculum.pdf",
+      "date": "22-Apr-2025"
+    },
+    {
+      "id": 523088,
+      "title": "ICT",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6807794924917_ICT_.pdf",
+      "date": "22-Apr-2025"
+    },
+    {
+      "id": 522582,
+      "title": "KVS Unit 2 Questions",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68072f3dce56d_KVS_Unit_2_Questions.pdf",
+      "date": "22-Apr-2025"
+    },
+    {
+      "id": 522579,
+      "title": "KVS Unit 1 Questions",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68072f1aa1797_KVS_Unit_1_Questions.pdf",
+      "date": "22-Apr-2025"
+    },
+    {
+      "id": 521399,
+      "title": "Curriculum",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68023090875c8_Curriculum.pdf",
+      "date": "18-Apr-2025"
+    },
+    {
+      "id": 518379,
+      "title": "Jerome Bruner",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67f8e08c77d4f_Jerome_Brunercompressed.pdf",
+      "date": "11-Apr-2025"
+    },
+    {
+      "id": 518376,
+      "title": "Learning",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67f8defe857c5_Learning_KVScompressed.pdf",
+      "date": "11-Apr-2025"
+    },
+    {
+      "id": 513161,
+      "title": "Teaching Learning Process",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67ee37602fdaf_Teaching_Learning_Process_.pdf",
+      "date": "03-Apr-2025"
+    },
+    {
+      "id": 513156,
+      "title": "Socialisation",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67ee373c308a1_Socialisation.pdf",
+      "date": "03-Apr-2025"
+    },
+    {
+      "id": 513153,
+      "title": "School of Psychology",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67ee3718457a4_School_of_Psychology_compressed.pdf",
+      "date": "03-Apr-2025"
+    },
+    {
+      "id": 513151,
+      "title": "Brofenbrener",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67ee2ea9902dc_Brofenbrener.pdf",
+      "date": "03-Apr-2025"
+    },
+    {
+      "id": 502532,
+      "title": "Stages of Development",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67d908e01ad88_Stages_of_Development.pdf",
+      "date": "18-Mar-2025"
+    },
+    {
+      "id": 502530,
+      "title": "Socialisation Process",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67e13c9c95778_Socialisation_.pdf",
+      "date": "18-Mar-2025"
+    },
+    {
+      "id": 502528,
+      "title": "Principles of Development",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67d908a4758bd_Principles_of_Development_.pdf",
+      "date": "18-Mar-2025"
+    },
+    {
+      "id": 502526,
+      "title": "Developmental Task",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67d90889cec42_Developmental_Task_.pdf",
+      "date": "18-Mar-2025"
+    },
+    {
+      "id": 497258,
+      "title": "Micro Teaching",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/645dd10ce2a1c_186565Micro Teaching_crwill_compressed.pdf",
+      "date": "04-Mar-2025"
+    },
+    {
+      "id": 497257,
+      "title": "Domains of Development",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6442712585455_224921crwill (1).pdf",
+      "date": "04-Mar-2025"
+    },
+    {
+      "id": 497256,
+      "title": "Bronfenbrenner Theory",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/643d1b7a0c643_Bronfenbrenner Theory_compressed.pdf",
+      "date": "04-Mar-2025"
+    },
+    {
+      "id": 497255,
+      "title": "CDP (Pedagogy) Free Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1669355561-CDP_(Pedagogy)_free_notes_by_Himanshi_Singh.pdf",
+      "date": "04-Mar-2025"
+    },
+    {
+      "id": 497254,
+      "title": "Education Commissions",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1631943628-Education_Commissions.pdf",
+      "date": "04-Mar-2025"
+    },
+    {
+      "id": 497253,
+      "title": "CCE Latest",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1631767419-CCE_Latest_(1).pdf",
+      "date": "04-Mar-2025"
+    },
+    {
+      "id": 497252,
+      "title": "Action Research",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1630706447-Action_Research.pdf",
+      "date": "04-Mar-2025"
+    },
+    {
+      "id": 497251,
+      "title": "NCF CW",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1630561899-NCF_CW.pdf",
+      "date": "04-Mar-2025"
+    },
+    {
+      "id": 497250,
+      "title": "RTE-2009 CW",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1630416419-RTE-2009_CW.pdf",
+      "date": "04-Mar-2025"
+    },
+    {
+      "id": 497249,
+      "title": " Personality Class - 6",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1630416419-Personality_Tests_Class-06.pdf",
+      "date": "04-Mar-2025"
+    },
+    {
+      "id": 497248,
+      "title": "Personality Class - 5",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1630141168-Personality_Class-05.pdf",
+      "date": "04-Mar-2025"
+    },
+    {
+      "id": 497247,
+      "title": "Personality Class - 4",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1630046002-Personality_Class-04.pdf",
+      "date": "04-Mar-2025"
+    },
+    {
+      "id": 497246,
+      "title": "Personality Class - 3",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1629899063-Personality_Class-03.pdf",
+      "date": "04-Mar-2025"
+    },
+    {
+      "id": 497245,
+      "title": "Personality Class - 2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1629899063-Personality_Class-02.pdf",
+      "date": "04-Mar-2025"
+    },
+    {
+      "id": 497244,
+      "title": "Personality Class - 1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1629726360-Personality_Class-01.pdf",
+      "date": "04-Mar-2025"
+    },
+    {
+      "id": 497243,
+      "title": "Teaching Methods Part - 3",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1629722319-Teaching_Methods_Part-03.pdf",
+      "date": "04-Mar-2025"
+    },
+    {
+      "id": 497242,
+      "title": "Teaching Styles and Methods - 2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1629436042-Teaching_Methods_Part-02.pdf",
+      "date": "04-Mar-2025"
+    },
+    {
+      "id": 497241,
+      "title": "Teaching Styles and Methods",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1629262531-Teaching_Styles_and_Methods.pdf",
+      "date": "04-Mar-2025"
+    },
+    {
+      "id": 497240,
+      "title": "Inclusive Education",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1629262531-Inclusive_Education.pdf",
+      "date": "04-Mar-2025"
+    },
+    {
+      "id": 497239,
+      "title": "Intellectual Disability Part-02",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1628304222-Intellectual_Disability_Part-02.pdf",
+      "date": "04-Mar-2025"
+    },
+    {
+      "id": 497238,
+      "title": "Children with Intellectual Disability",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1628174857-Children_with_Intellectual_Disability.pdf",
+      "date": "04-Mar-2025"
+    },
+    {
+      "id": 497237,
+      "title": "Children with Hearing Impairment",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1628174857-Children_with_Hearing_Impairment.pdf",
+      "date": "04-Mar-2025"
+    },
+    {
+      "id": 497236,
+      "title": "Children With Sensory Disabilities",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1628000421-Children_with_Sensory_Disabilities.pdf",
+      "date": "04-Mar-2025"
+    },
+    {
+      "id": 497235,
+      "title": "RPWD Act- 2016 Disabilities",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1627626716-RPWD_Act-2016_Disabilities.pdf",
+      "date": "04-Mar-2025"
+    },
+    {
+      "id": 497234,
+      "title": "4Ps of Creativity &  6 Thinking Hats ",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1627307360-4Ps_of_Creativity_6_Thinking_Hats_.pdf",
+      "date": "04-Mar-2025"
+    },
+    {
+      "id": 497233,
+      "title": "Baqer Mehdi’s & Passi’s Tests of Creativity",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1626788465-Baqer_Mehdi’s_Passi’s_Tests_of_Creativity.pdf",
+      "date": "04-Mar-2025"
+    },
+    {
+      "id": 497232,
+      "title": "Creativity Tests ",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1626764452-Creativity_Tests_CW.pdf",
+      "date": "04-Mar-2025"
+    },
+    {
+      "id": 497231,
+      "title": "Process Of Creativity",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1626350518-(_Process_Of_Creativity.pdf",
+      "date": "04-Mar-2025"
+    },
+    {
+      "id": 497230,
+      "title": "Creativity",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1626240173-Creativity_CW.pdf",
+      "date": "04-Mar-2025"
+    },
+    {
+      "id": 497229,
+      "title": "Intelligence Practice Set ",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1625291658-Intelligence_Practice_Set_.pdf",
+      "date": "04-Mar-2025"
+    },
+    {
+      "id": 497228,
+      "title": "Carroll & Jenson’s Theories of Intelligence",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1625059118-Carroll_Jenson’s_Theories_of_Intelligence.pdf",
+      "date": "04-Mar-2025"
+    },
+    {
+      "id": 497227,
+      "title": "Multiple Intelligence ",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1625051344-Multiple_Intelligence_CW.pdf",
+      "date": "04-Mar-2025"
+    },
+    {
+      "id": 497226,
+      "title": "Intelligence Theories ",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1624425420-Intelligence_Theories_Spl__(2).pdf",
+      "date": "04-Mar-2025"
+    },
+    {
+      "id": 497225,
+      "title": "Intelligence ",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1623944781-Intelligence_Spl__.pdf",
+      "date": "04-Mar-2025"
+    },
+    {
+      "id": 497224,
+      "title": "Doubts",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1623332548.pdf",
+      "date": "04-Mar-2025"
+    },
+    {
+      "id": 497223,
+      "title": "Life Skills",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1623321329-Life_Skills__pdf111111111111111111.pdf",
+      "date": "04-Mar-2025"
+    },
+    {
+      "id": 497222,
+      "title": "Adjustment",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1622557801-Adjustment_CW_pdf1111111111111111.pdf",
+      "date": "04-Mar-2025"
+    },
+    {
+      "id": 497221,
+      "title": "Individual Differences",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1622463521.pdf",
+      "date": "04-Mar-2025"
+    },
+    {
+      "id": 497220,
+      "title": "Motivation",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1622122912.pdf",
+      "date": "04-Mar-2025"
+    },
+    {
+      "id": 497219,
+      "title": "Theories of Motivation",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1622047390.pdf",
+      "date": "04-Mar-2025"
+    },
+    {
+      "id": 497218,
+      "title": "Thinking &  Problem Solving MCQS",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1621435427.pdf",
+      "date": "04-Mar-2025"
+    },
+    {
+      "id": 497217,
+      "title": "Problem Solving",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1621259388.pdf",
+      "date": "04-Mar-2025"
+    },
+    {
+      "id": 497216,
+      "title": "Thinking Problem solving",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1621076447.pdf",
+      "date": "04-Mar-2025"
+    },
+    {
+      "id": 497215,
+      "title": "Learning Chapter Practice-02",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1620727241.pdf",
+      "date": "04-Mar-2025"
+    },
+    {
+      "id": 497214,
+      "title": "Learning Chapter Practice",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1620382692.pdf",
+      "date": "04-Mar-2025"
+    },
+    {
+      "id": 497213,
+      "title": "Factors Affecting Learning",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1620225671.pdf",
+      "date": "04-Mar-2025"
+    },
+    {
+      "id": 497212,
+      "title": "Tolman & Guthrie",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1620136604.pdf",
+      "date": "04-Mar-2025"
+    },
+    {
+      "id": 497211,
+      "title": "Abraham Maslow &  Carl Rogers",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1620055561.pdf",
+      "date": "04-Mar-2025"
+    },
+    {
+      "id": 497210,
+      "title": "Drive Reduction Theory & Kolb’s Theory",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1619773785.pdf",
+      "date": "04-Mar-2025"
+    },
+    {
+      "id": 497209,
+      "title": "Field Theory &  Drive Reduction Theory",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1619703384.pdf",
+      "date": "04-Mar-2025"
+    },
+    {
+      "id": 497208,
+      "title": "David Ausubel &  Jerome Bruner Theory",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1619617747.pdf",
+      "date": "04-Mar-2025"
+    },
+    {
+      "id": 497207,
+      "title": "Gagne's Hierarchy of Learning",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1619513348.pdf",
+      "date": "04-Mar-2025"
+    },
+    {
+      "id": 497206,
+      "title": "Learning Topic",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1618498757.pdf",
+      "date": "04-Mar-2025"
+    },
+    {
+      "id": 497205,
+      "title": "Bandura’s Social Learning Theory",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1618494117.pdf",
+      "date": "04-Mar-2025"
+    },
+    {
+      "id": 497204,
+      "title": "Learning",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1618411890-Learning_Topic.pdf",
+      "date": "04-Mar-2025"
+    },
+    {
+      "id": 497203,
+      "title": "Kohler’s Insightful Learning",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1618235117.pdf",
+      "date": "04-Mar-2025"
+    },
+    {
+      "id": 497202,
+      "title": "Trial and Error Learning",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1617961833.pdf",
+      "date": "04-Mar-2025"
+    },
+    {
+      "id": 497201,
+      "title": "Operant Conditioning",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1617961687.pdf",
+      "date": "04-Mar-2025"
+    },
+    {
+      "id": 497200,
+      "title": "Classical Conditioning",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1617642254.pdf",
+      "date": "04-Mar-2025"
+    },
+    {
+      "id": 497199,
+      "title": "Stages of Development ",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1617640651-Stages_of_Development_PS.pdf",
+      "date": "04-Mar-2025"
+    },
+    {
+      "id": 497198,
+      "title": "Pedagogy Special Batch Class-01",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1617640651-Pedagogy_Special_Batch_Class-01.pdf",
+      "date": "04-Mar-2025"
+    },
+    {
+      "id": 497197,
+      "title": "Theories of development ",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1617640651-Theories_of_development_.pdf",
+      "date": "04-Mar-2025"
+    },
+    {
+      "id": 497196,
+      "title": "Principles of Development",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1617640651-Principles_of_Development.pdf",
+      "date": "04-Mar-2025"
+    },
+    {
+      "id": 497195,
+      "title": "Ecological Model Theory ",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1617640651-Ecological_Model_Theory_PS.pdf",
+      "date": "04-Mar-2025"
+    },
+    {
+      "id": 497194,
+      "title": "Piaget’s Moral Development",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1617640651-Piaget’s_Moral_Development.pdf",
+      "date": "04-Mar-2025"
+    },
+    {
+      "id": 497193,
+      "title": "Teaching-Learning Process",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1617640651-Teaching-Learning_Process.pdf",
+      "date": "04-Mar-2025"
+    },
+    {
+      "id": 497192,
+      "title": "Transfer of Learning",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1617357535.pdf",
+      "date": "04-Mar-2025"
+    },
+    {
+      "id": 497191,
+      "title": "Learning & Learning Curves",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1617270583.pdf",
+      "date": "04-Mar-2025"
+    },
+    {
+      "id": 497190,
+      "title": "Vygotsky Sociocultural Theory",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1616150792-Vygotsky_s_Sociocultural_Theory_(18_Mar).pdf",
+      "date": "04-Mar-2025"
+    },
+    {
+      "id": 497189,
+      "title": "Kohlberg's Theory",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1616155489-Kohlbergs_Theory_(18_Mar).pdf",
+      "date": "04-Mar-2025"
+    },
+    {
+      "id": 497188,
+      "title": "Schools Of Psychology",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1614850788-Schools_of_psychology_(1).pdf",
+      "date": "04-Mar-2025"
+    },
+    {
+      "id": 497187,
+      "title": "Development  ",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1614850788-DEVELOPMENT_.pdf",
+      "date": "04-Mar-2025"
+    },
+    {
+      "id": 497186,
+      "title": "Chapter-01 ",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1614850788-Chapter-01_new.pdf",
+      "date": "04-Mar-2025"
+    },
+    {
+      "id": 497185,
+      "title": "Chapter-02",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1614850788-Chapter-02_new-1.pdf",
+      "date": "04-Mar-2025"
+    },
+    {
+      "id": 497184,
+      "title": "Growth and Development",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1614764098-Growth_and_Development.pdf",
+      "date": "04-Mar-2025"
+    },
+    {
+      "id": 494867,
+      "title": "Domains Development",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67c194a48b5ea_67c037f5d3feaDomainsDevelopment.pdf",
+      "date": "28-Feb-2025"
+    },
+    {
+      "id": 494865,
+      "title": "Growth and Development",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67c194684439c_67c013f09f8d4GrowthandDevelopment.pdf",
+      "date": "28-Feb-2025"
+    },
+    {
+      "id": 494254,
+      "title": "Factor Influencing Development",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67c038a55468b_Factor_Influencing_Development.pdf",
+      "date": "27-Feb-2025"
+    }
+  ]
+}
