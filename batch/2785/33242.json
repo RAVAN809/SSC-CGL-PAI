@@ -1,0 +1,561 @@
+{
+  "batchid": 2785,
+  "topicid": 33242,
+  "classes_total": 92,
+  "classes": [
+    {
+      "title": "Class-34 | Profit And Loss",
+      "id": "4434884",
+      "date": "29-Aug-2024 12:30",
+      "video_url": "4434884_0_6551688489025639"
+    },
+    {
+      "title": "Class-95 | Data Interpretation",
+      "id": "4434882",
+      "date": "22-Aug-2024 11:00",
+      "video_url": "4434882_0_8278141648755208"
+    },
+    {
+      "title": "Class-94 | Data Interpretation",
+      "id": "4434880",
+      "date": "13-Aug-2024 09:00",
+      "video_url": "4434880_0_4883756812893371"
+    },
+    {
+      "title": "Class-92 | Data Interpretation",
+      "id": "4434878",
+      "date": "09-Aug-2024 09:00",
+      "video_url": "4434878_0_9888923894431947"
+    },
+    {
+      "title": "Class-91 | Data Interpretation",
+      "id": "4434876",
+      "date": "02-Aug-2024 09:00",
+      "video_url": "4434876_0_2481600819814467"
+    },
+    {
+      "title": "Class-90 | LCM & HCF",
+      "id": "4434875",
+      "date": "01-Aug-2024 09:00",
+      "video_url": "4434875_0_7416436703971852"
+    },
+    {
+      "title": "Class-89 | LCM & HCF",
+      "id": "4434873",
+      "date": "31-Jul-2024 11:00",
+      "video_url": "4434873_0_1727109129849130"
+    },
+    {
+      "title": "Class-88 | LCM & HCF",
+      "id": "4434870",
+      "date": "30-Jul-2024 11:00",
+      "video_url": "4434870_0_6793452987759485"
+    },
+    {
+      "title": "Class-87 | LCM & HCF",
+      "id": "4434869",
+      "date": "24-Jul-2024 11:00",
+      "video_url": "4434869_0_4881660201422840"
+    },
+    {
+      "title": "Class-86 | LCM & HCF",
+      "id": "4434867",
+      "date": "23-Jul-2024 11:00",
+      "video_url": "4434867_0_7723388150600949"
+    },
+    {
+      "title": "Class-85 | LCM & HCF",
+      "id": "4434864",
+      "date": "22-Jul-2024 16:00",
+      "video_url": "4434864_0_5685842253007029"
+    },
+    {
+      "title": "Class-84 | Average",
+      "id": "4434862",
+      "date": "17-Jul-2024 08:00",
+      "video_url": "4434862_0_6445870429920294"
+    },
+    {
+      "title": "Class-84 | Average",
+      "id": "4434860",
+      "date": "16-Jul-2024 08:00",
+      "video_url": "4434860_0_2060181528742687"
+    },
+    {
+      "title": "Class-83 | Average",
+      "id": "4434858",
+      "date": "12-Jul-2024 08:00",
+      "video_url": "4434858_0_6516585523765956"
+    },
+    {
+      "title": "Class-82 | Average",
+      "id": "4434856",
+      "date": "11-Jul-2024 11:00",
+      "video_url": "4434856_0_3868247748513707"
+    },
+    {
+      "title": "Class-81 | Average",
+      "id": "4434854",
+      "date": "10-Jul-2024 11:00",
+      "video_url": "4434854_0_8808085270546125"
+    },
+    {
+      "title": "Class-80 | Average",
+      "id": "4434852",
+      "date": "09-Jul-2024 21:00",
+      "video_url": "4434852_0_6867208169236312"
+    },
+    {
+      "title": "Class-79 | Average",
+      "id": "4434851",
+      "date": "08-Jul-2024 11:00",
+      "video_url": "4434851_0_7019303170851959"
+    },
+    {
+      "title": "Class-78 | Average",
+      "id": "4434849",
+      "date": "05-Jul-2024 11:00",
+      "video_url": "4434849_0_6567702864208346"
+    },
+    {
+      "title": "Class-77 | Time Speed & Distance",
+      "id": "4434847",
+      "date": "02-Jul-2024 15:00",
+      "video_url": "4434847_0_9200404797285575"
+    },
+    {
+      "title": "Class-76 | Time Speed & Distance",
+      "id": "4434845",
+      "date": "01-Jul-2024 15:00",
+      "video_url": "4434845_0_2842348330864590"
+    },
+    {
+      "title": "Class-74 | Time Speed & Distance",
+      "id": "4434844",
+      "date": "29-Jun-2024 13:30",
+      "video_url": "4434844_0_8765067644541175"
+    },
+    {
+      "title": "Class-73 | Time Speed & Distance",
+      "id": "4434841",
+      "date": "26-Jun-2024 15:00",
+      "video_url": "4434841_0_5551630784359252"
+    },
+    {
+      "title": "Class-72 | Time Speed & Distance",
+      "id": "4434839",
+      "date": "25-Jun-2024 11:00",
+      "video_url": "4434839_0_3240450606193401"
+    },
+    {
+      "title": "Class-71 | Time Speed & Distance",
+      "id": "4434837",
+      "date": "21-Jun-2024 11:00",
+      "video_url": "4434837_0_2140774480269570"
+    },
+    {
+      "title": "Class-70 | Time Speed & Distance",
+      "id": "4434836",
+      "date": "20-Jun-2024 11:00",
+      "video_url": "4434836_0_7790842888120825"
+    },
+    {
+      "title": "Class-69 | Time Speed & Distance",
+      "id": "4434834",
+      "date": "19-Jun-2024 11:00",
+      "video_url": "4434834_0_8759225405550980"
+    },
+    {
+      "title": "Class-68 | Time Speed & Distance",
+      "id": "4434831",
+      "date": "14-Jun-2024 11:00",
+      "video_url": "4434831_0_5645969587444448"
+    },
+    {
+      "title": "Class-67 | Time Speed & Distance",
+      "id": "4434829",
+      "date": "13-Jun-2024 11:00",
+      "video_url": "4434829_0_4738626641044766"
+    },
+    {
+      "title": "Class-66 | Time Speed & Distance",
+      "id": "4434827",
+      "date": "11-Jun-2024 15:00",
+      "video_url": "4434827_0_1102557500819998"
+    },
+    {
+      "title": "Class-65 | Time Speed & Distance",
+      "id": "4434825",
+      "date": "10-Jun-2024 15:00",
+      "video_url": "4434825_0_3066973711284320"
+    },
+    {
+      "title": "Class-64 | Partnership",
+      "id": "4434823",
+      "date": "06-Jun-2024 11:00",
+      "video_url": "4434823_0_7756332904219655"
+    },
+    {
+      "title": "Class-63 | Partnership",
+      "id": "4434821",
+      "date": "04-Jun-2024 11:00",
+      "video_url": "4434821_0_7986934479550699"
+    },
+    {
+      "title": "Class-62 | Partnership",
+      "id": "4434819",
+      "date": "03-Jun-2024 11:00",
+      "video_url": "4434819_0_4420928672104306"
+    },
+    {
+      "title": "Class-61 | Mixture And Alligation",
+      "id": "4434817",
+      "date": "31-May-2024 11:00",
+      "video_url": "4434817_0_7732498118797291"
+    },
+    {
+      "title": "Class-60 | Mixture And Alligation",
+      "id": "4434815",
+      "date": "30-May-2024 11:00",
+      "video_url": "4434815_0_8063064602250621"
+    },
+    {
+      "title": "Class-58 | Mixture And Alligation",
+      "id": "4434812",
+      "date": "24-May-2024 11:00",
+      "video_url": "4434812_0_5574119783922036"
+    },
+    {
+      "title": "Class-57 | Mixture And Alligation",
+      "id": "4434809",
+      "date": "22-May-2024 11:00",
+      "video_url": "4434809_0_5963935948681085"
+    },
+    {
+      "title": "Class-56 | Ratio And Proportion",
+      "id": "4434807",
+      "date": "21-May-2024 11:00",
+      "video_url": "4434807_0_7281817537862836"
+    },
+    {
+      "title": "Class-55 | Ratio And Proportion",
+      "id": "4434805",
+      "date": "20-May-2024 11:00",
+      "video_url": "4434805_0_9687875539611853"
+    },
+    {
+      "title": "Class-54 | Ratio And Proportion",
+      "id": "4434803",
+      "date": "16-May-2024 11:00",
+      "video_url": "4434803_0_1820567653103942"
+    },
+    {
+      "title": "Class-53 | Ratio And Proportion",
+      "id": "4434802",
+      "date": "15-May-2024 11:00",
+      "video_url": "4434802_0_6717321841826145"
+    },
+    {
+      "title": "Class-52 | Ratio And Proportion",
+      "id": "4434800",
+      "date": "14-May-2024 11:00",
+      "video_url": "4434800_0_6611660029228633"
+    },
+    {
+      "title": "Class-51 | Ratio And Proportion",
+      "id": "4434799",
+      "date": "13-May-2024 11:00",
+      "video_url": "4434799_0_1993665089998037"
+    },
+    {
+      "title": "Class-50 | Ratio And Proportion",
+      "id": "4434797",
+      "date": "10-May-2024 11:00",
+      "video_url": "4434797_0_7929558494112856"
+    },
+    {
+      "title": "Class-49 | Ratio And Proportion",
+      "id": "4434795",
+      "date": "09-May-2024 11:00",
+      "video_url": "4434795_0_9911717124004882"
+    },
+    {
+      "title": "Class-48 | Compound Interest",
+      "id": "4434792",
+      "date": "08-May-2024 11:00",
+      "video_url": "4434792_0_8780881900420493"
+    },
+    {
+      "title": "Class-47 | Compound Interest",
+      "id": "4434791",
+      "date": "07-May-2024 11:00",
+      "video_url": "4434791_0_8962701439171016"
+    },
+    {
+      "title": "Class-46 | Compound Interest",
+      "id": "4434789",
+      "date": "06-May-2024 11:00",
+      "video_url": "4434789_0_7535981996924123"
+    },
+    {
+      "title": "Class-45 | Compound Interest",
+      "id": "4434787",
+      "date": "03-May-2024 11:00",
+      "video_url": "4434787_0_4165324261046193"
+    },
+    {
+      "title": "Class-44 | Compound Interest",
+      "id": "4434785",
+      "date": "02-May-2024 11:00",
+      "video_url": "4434785_0_8015694362673967"
+    },
+    {
+      "title": "Class-43 | Compound Interest",
+      "id": "4434784",
+      "date": "01-May-2024 11:00",
+      "video_url": "4434784_0_7593358466294357"
+    },
+    {
+      "title": "Class-42 | Compound Interest",
+      "id": "4434783",
+      "date": "30-Apr-2024 11:00",
+      "video_url": "4434783_0_9224068910828382"
+    },
+    {
+      "title": "Class-41 | Compound Interest",
+      "id": "4434780",
+      "date": "29-Apr-2024 11:00",
+      "video_url": "4434780_0_7017461834228547"
+    },
+    {
+      "title": "Class-40 | Simple Interest",
+      "id": "4434777",
+      "date": "25-Apr-2024 11:00",
+      "video_url": "4434777_0_5004705701863369"
+    },
+    {
+      "title": "Class-39 | Simple Interest",
+      "id": "4434771",
+      "date": "16-Apr-2024 11:00",
+      "video_url": "4434771_0_8677414522991058"
+    },
+    {
+      "title": "Class-38 | Simple Interest",
+      "id": "4434769",
+      "date": "15-Apr-2024 11:00",
+      "video_url": "4434769_0_7574388901896867"
+    },
+    {
+      "title": "Class-37 | Simple Interest",
+      "id": "4434768",
+      "date": "12-Apr-2024 12:00",
+      "video_url": "4434768_0_3776244455949940"
+    },
+    {
+      "title": "Class-36 | Simple Interest",
+      "id": "4434766",
+      "date": "11-Apr-2024 11:00",
+      "video_url": "4434766_0_1745286480581344"
+    },
+    {
+      "title": "Class-35 | Simple Interest",
+      "id": "4434764",
+      "date": "10-Apr-2024 11:00",
+      "video_url": "4434764_0_8925932234349236"
+    },
+    {
+      "title": "Class-34 | Simple Interest",
+      "id": "4434763",
+      "date": "05-Apr-2024 11:00",
+      "video_url": "4434763_0_8537556538471755"
+    },
+    {
+      "title": "Class-33 | Profit And Loss",
+      "id": "4434762",
+      "date": "04-Apr-2024 15:00",
+      "video_url": "4434762_0_3333521181338150"
+    },
+    {
+      "title": "Class-32 | Profit And Loss",
+      "id": "4434761",
+      "date": "04-Apr-2024 11:00",
+      "video_url": "4434761_0_1426714323269126"
+    },
+    {
+      "title": "Class-31 | Profit And Loss",
+      "id": "4434760",
+      "date": "03-Apr-2024 11:00",
+      "video_url": "4434760_0_8255965417281202"
+    },
+    {
+      "title": "Class-30 | Profit And Loss",
+      "id": "4434759",
+      "date": "02-Apr-2024 11:00",
+      "video_url": "4434759_0_8104806806386796"
+    },
+    {
+      "title": "Class-29 | Profit And Loss",
+      "id": "4434758",
+      "date": "01-Apr-2024 15:00",
+      "video_url": "4434758_0_8733975910587538"
+    },
+    {
+      "title": "Class-28 | Profit And Loss",
+      "id": "4434757",
+      "date": "01-Apr-2024 11:00",
+      "video_url": "4434757_0_3601259179888840"
+    },
+    {
+      "title": "Class-27 | Profit And Loss",
+      "id": "4434756",
+      "date": "29-Mar-2024 15:00",
+      "video_url": "4434756_0_9631253189699276"
+    },
+    {
+      "title": "Class-26 | Profit And Loss",
+      "id": "4434755",
+      "date": "29-Mar-2024 11:00",
+      "video_url": "4434755_0_5651007402991391"
+    },
+    {
+      "title": "Class-25 | Profit And Loss",
+      "id": "4434754",
+      "date": "28-Mar-2024 15:00",
+      "video_url": "4434754_0_6111072606295796"
+    },
+    {
+      "title": "Class-24 | Profit And Loss",
+      "id": "4434753",
+      "date": "28-Mar-2024 11:00",
+      "video_url": "4434753_0_3128103721404064"
+    },
+    {
+      "title": "Class-23 | Percentage",
+      "id": "4434752",
+      "date": "27-Mar-2024 10:15",
+      "video_url": "4434752_0_8319542076919735"
+    },
+    {
+      "title": "Class-22 | Percentage",
+      "id": "4434751",
+      "date": "22-Mar-2024 10:15",
+      "video_url": "4434751_0_4094291631565145"
+    },
+    {
+      "title": "Class-21 | Percentage",
+      "id": "4434750",
+      "date": "21-Mar-2024 13:30",
+      "video_url": "4434750_0_6039886152794734"
+    },
+    {
+      "title": "Class-20 | Percentage",
+      "id": "4434749",
+      "date": "20-Mar-2024 10:15",
+      "video_url": "4434749_0_9495222011833734"
+    },
+    {
+      "title": "Class-19 | Percentage",
+      "id": "4434748",
+      "date": "19-Mar-2024 10:15",
+      "video_url": "4434748_0_5645352204359924"
+    },
+    {
+      "title": "Class-18 | Percentage",
+      "id": "4434747",
+      "date": "13-Mar-2024 10:15",
+      "video_url": "4434747_0_4396866159550082"
+    },
+    {
+      "title": "Class-17 | Percentage",
+      "id": "4434746",
+      "date": "12-Mar-2024 10:15",
+      "video_url": "4434746_0_9824593425519185"
+    },
+    {
+      "title": "Class-16 | Percentage",
+      "id": "4434745",
+      "date": "11-Mar-2024 10:15",
+      "video_url": "4434745_0_8959058458784766"
+    },
+    {
+      "title": "Class-15 | Percentage",
+      "id": "4434744",
+      "date": "08-Mar-2024 10:36",
+      "video_url": "4434744_0_4894449286958190"
+    },
+    {
+      "title": "Class-14 | Percentage",
+      "id": "4434743",
+      "date": "07-Mar-2024 10:15",
+      "video_url": "4434743_0_6423524079041436"
+    },
+    {
+      "title": "Class-13 | Percentage",
+      "id": "4434742",
+      "date": "06-Mar-2024 10:15",
+      "video_url": "4434742_0_6962451889615537"
+    },
+    {
+      "title": "Class-12 | Pipes & Cistern",
+      "id": "4434741",
+      "date": "05-Mar-2024 10:15",
+      "video_url": "4434741_0_9926233028970830"
+    },
+    {
+      "title": "Class-11 | Pipes & Cistern",
+      "id": "4434740",
+      "date": "04-Mar-2024 13:30",
+      "video_url": "4434740_0_2422277067923835"
+    },
+    {
+      "title": "Class-10 | Pipes & Cistern",
+      "id": "4434739",
+      "date": "01-Mar-2024 10:15",
+      "video_url": "4434739_0_1814772044841410"
+    },
+    {
+      "title": "Class-07 | Time And Work",
+      "id": "4434738",
+      "date": "26-Feb-2024 14:00",
+      "video_url": "4434738_0_1480250216680507"
+    },
+    {
+      "title": "Class-06 | Time And Work",
+      "id": "4434737",
+      "date": "26-Feb-2024 10:15",
+      "video_url": "4434737_0_7058306589416043"
+    },
+    {
+      "title": "Class-05 | Time And Work",
+      "id": "4434736",
+      "date": "23-Feb-2024 10:15",
+      "video_url": "4434736_0_8315822716387238"
+    },
+    {
+      "title": "Class-04 | Time And Work",
+      "id": "4434735",
+      "date": "22-Feb-2024 10:15",
+      "video_url": "4434735_0_7466126939361304"
+    },
+    {
+      "title": "Class-03 | Time And Work",
+      "id": "4434734",
+      "date": "19-Feb-2024 10:15",
+      "video_url": "4434734_0_4891596210487929"
+    },
+    {
+      "title": "Class-02 | Time And Work",
+      "id": "4434733",
+      "date": "16-Feb-2024 10:15",
+      "video_url": "4434733_0_4661775932874505"
+    },
+    {
+      "title": "Class-01 | Introduction",
+      "id": "4434732",
+      "date": "15-Feb-2024 10:15",
+      "video_url": "4434732_0_9806343269220072"
+    }
+  ],
+  "notes_total": 0,
+  "notes": []
+}
