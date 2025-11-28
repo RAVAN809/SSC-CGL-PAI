@@ -1,0 +1,81 @@
+{
+  "batch_id": 2583,
+  "topics": [
+    {
+      "id": 26140,
+      "topicName": "Live (M, D, H)"
+    },
+    {
+      "id": 26141,
+      "topicName": "Live (Only DM)"
+    },
+    {
+      "id": 26142,
+      "topicName": "Live (Only MMV)"
+    },
+    {
+      "id": 26143,
+      "topicName": "Live (Only HE)"
+    },
+    {
+      "id": 26150,
+      "topicName": "Sheet Metal (M, D, H)"
+    },
+    {
+      "id": 26151,
+      "topicName": "Heat Treatment (M,D,H)"
+    },
+    {
+      "id": 26152,
+      "topicName": "Measuring Tool (M,D,H)"
+    },
+    {
+      "id": 26153,
+      "topicName": "Hand Tools (M,D,H)"
+    },
+    {
+      "id": 26154,
+      "topicName": "Riveting Tool (M,D,H)"
+    },
+    {
+      "id": 26155,
+      "topicName": "Grinding (M,D,H)"
+    },
+    {
+      "id": 26156,
+      "topicName": "Limit, Fit & Tolerance (M,D,H)"
+    },
+    {
+      "id": 26157,
+      "topicName": "Syllabus"
+    },
+    {
+      "id": 26149,
+      "topicName": "Hydraulic & Pneumatic (M, D, H)"
+    },
+    {
+      "id": 26148,
+      "topicName": "Welding (M, D, H)"
+    },
+    {
+      "id": 26144,
+      "topicName": "Safety (M,D,H)"
+    },
+    {
+      "id": 26145,
+      "topicName": "Clutch Gear (M,D,H) "
+    },
+    {
+      "id": 26146,
+      "topicName": "Machining (M, D, H)"
+    },
+    {
+      "id": 26147,
+      "topicName": "Fastner (M, D, H)"
+    },
+    {
+      "id": 26158,
+      "topicName": "Notes"
+    }
+  ]
+}
