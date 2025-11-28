@@ -1,0 +1,676 @@
+{
+  "batchid": 3104,
+  "topicid": 31759,
+  "classes_total": 29,
+  "classes": [
+    {
+      "title": "Class-31 | Medieval History | आधुनिक भारत का इतिहास - 03",
+      "id": "4602647",
+      "date": "15-Nov-2025 10:00",
+      "video_url": "4602647_0_8683608694462083"
+    },
+    {
+      "title": "Class-29 | Medieval History | आधुनिक भारत का इतिहास में ब्रिटिश साम्राज्य की सामाजिक एवं सांस्कृतिक नीतियाँ पर चरणबद्ध चर्चा",
+      "id": "4600649",
+      "date": "13-Nov-2025 10:00",
+      "video_url": "4600649_0_5330941508835558"
+    },
+    {
+      "title": "Class-28 | Medieval History | आधुनिक भारत का इतिहास में ब्रिटिश प्रशासनिक नीतियाँ, चार्टर ऐक्ट, सैन्य व्यवस्था, न्यायिक व्यवस्था पर चर्चा",
+      "id": "4599596",
+      "date": "12-Nov-2025 10:00",
+      "video_url": "4599596_0_5405539861961450"
+    },
+    {
+      "title": "Class-27 | Medieval History | आधुनिक भारत का इतिहास में आधुनिक उधोगिक सीमित विकास के कारण , आर्थिक नीतियाँ पर चर्चा",
+      "id": "4598439",
+      "date": "11-Nov-2025 10:00",
+      "video_url": "4598439_0_2961387488816137"
+    },
+    {
+      "title": "Class-26 | Medieval History | आधुनिक भारत का इतिहास में रैयतवाड़ी व्यवस्था, ददनी प्रथा, ग्रामीण शिल्प उद्धोग का विनाश, धन निकासी का सिद्धांत  पर चर्चा ।",
+      "id": "4597226",
+      "date": "10-Nov-2025 10:00",
+      "video_url": "4597226_0_2435969536541540"
+    },
+    {
+      "title": "Class-25 | Medieval History | आधुनिक भारत का इतिहास में ब्रिटिश की भारत में  वित्तीय पूंजीवाद, भूराजस्व व्यवस्था, रैयतवाड़ी व्यवस्था और महलवाड़ी व्यवस्था पर चर्चा",
+      "id": "4596755",
+      "date": "09-Nov-2025 10:00",
+      "video_url": "4596755_0_5429571903816797"
+    },
+    {
+      "title": "Class-24 | Medieval History | आधुनिक भारत का इतिहास में ब्रिटिश की भारत में आर्थिक नीतियाँ पर चर्चा",
+      "id": "4596011",
+      "date": "08-Nov-2025 10:00",
+      "video_url": "4596011_0_3420885424916542"
+    },
+    {
+      "title": "Class-23 | Medieval History | आधुनिक भारत का इतिहास में ब्रिटिश साम्राज्यवादी नीतियाँ, पर चर्चा",
+      "id": "4594997",
+      "date": "07-Nov-2025 10:00",
+      "video_url": "4594997_0_3099834857672520"
+    },
+    {
+      "title": "Class-22 | Medieval History | आधुनिक भारत का इतिहास में पानीपत में मराठों के असफलता के कारण, अंग्रेजों और मराठों के बिच संघर्ष आदि पर चर्चा",
+      "id": "4593895",
+      "date": "06-Nov-2025 10:00",
+      "video_url": "4593895_0_4230037951503428"
+    },
+    {
+      "title": "Class-21 | Medieval History | आधुनिक भारत का इतिहास में पेशवा बाजीराव-1 का पड़ोसी राज्यों के साथ युद्ध, बालाजी बाजीराव आदि पर चर्चा",
+      "id": "4592834",
+      "date": "05-Nov-2025 10:00",
+      "video_url": "4592834_0_2143879029978246"
+    },
+    {
+      "title": "Class-20 | Medieval History | आधुनिक भारत का इतिहास शिवा जी के बाद मराठा शासकों पर चर्चा",
+      "id": "4591662",
+      "date": "04-Nov-2025 10:00",
+      "video_url": "4591662_0_6883112463967086"
+    },
+    {
+      "title": "Class-19 | Medieval History | आधुनिक भारत का इतिहास शिवा जी के प्रशासन, कर आदि पर पूर्ण चर्चा",
+      "id": "4590727",
+      "date": "03-Nov-2025 10:00",
+      "video_url": "4590727_0_5567677317134936"
+    },
+    {
+      "title": "Class-18 | Medieval History | आधुनिक भारत का इतिहास शिवा जी का परिचय, युद्ध, प्रशासन पर चर्चा",
+      "id": "4589802",
+      "date": "01-Nov-2025 10:00",
+      "video_url": "4589802_0_3219537620274766"
+    },
+    {
+      "title": "Class-17 | Medieval History | आधुनिक भारत का इतिहास मराठा साम्राज्य का उदय, शासक, प्रशासन पर चर्चा",
+      "id": "4588810",
+      "date": "31-Oct-2025 10:00",
+      "video_url": "4588810_0_4172341427122429"
+    },
+    {
+      "title": "Class-16 | Medieval History | आधुनिक भारत का इतिहास आंग्ल सिख युद्ध, सिख साम्राज्य का अंग्रेजी राज्य",
+      "id": "4587632",
+      "date": "30-Oct-2025 10:00",
+      "video_url": "4587632_0_7531144630395020"
+    },
+    {
+      "title": "Class-15 | Medieval History | आधुनिक भारत का इतिहास राजा रंजीत सिंह और अंग्रेजों के बिच संबंध पर चर्चा",
+      "id": "4586742",
+      "date": "29-Oct-2025 10:00",
+      "video_url": "4586742_0_3092591166082353"
+    },
+    {
+      "title": "Class-14 | Medieval History | आधुनिक भारत का इतिहास गुरु गोविंद सिंह, खालसा पंथ, सिख के राजनीतिक शासकों पर चर्चा",
+      "id": "4585653",
+      "date": "28-Oct-2025 10:00",
+      "video_url": "4585653_0_9001192980295929"
+    },
+    {
+      "title": "Class-13 | Medieval History | आधुनिक भारत का इतिहास  आंग्ल-मैसूर युद्ध, सिख गुरुओ और सम्राज्य पर चर्चा",
+      "id": "4584552",
+      "date": "27-Oct-2025 09:00",
+      "video_url": "4584552_0_8792416794719678"
+    },
+    {
+      "title": "Class-12 | Medieval History | आधुनिक भारत का इतिहास मैसूर, हैदराबाद, मराठा के बिच युद्ध पर चर्चा",
+      "id": "4583660",
+      "date": "25-Oct-2025 13:00",
+      "video_url": "4583660_0_7780791956757556"
+    },
+    {
+      "title": "Class-11 | Medieval History | आधुनिक भारत का इतिहास भारत क्षेत्रीय शासकों चर्चा",
+      "id": "4580532",
+      "date": "17-Oct-2025 09:00",
+      "video_url": "4580532_0_6811606446263940"
+    },
+    {
+      "title": "Class-10 | Medieval History | आधुनिक भारत का इतिहास इलाहाबाद की संधि, बंगाल में द्वैध शासन की स्थापना, दुष्परिणाम पर चर्चा",
+      "id": "4579614",
+      "date": "16-Oct-2025 10:00",
+      "video_url": "4579614_0_5461019513298565"
+    },
+    {
+      "title": "Class-09 | Medieval History | आधुनिक भारत का इतिहास अलीनगर की संधि, बंगाल की क्रांति, बंगाल शासकों पर चर्चा",
+      "id": "4578571",
+      "date": "15-Oct-2025 10:00",
+      "video_url": "4578571_0_2802224622105779"
+    },
+    {
+      "title": "Class-07 | Medieval History | फ्रांसीसी कंपनी के भारत मे असफलता के कारण, अंग्रेजों के व्यापारिक और आर्थिक विशेषता पर चर्चा",
+      "id": "4576329",
+      "date": "13-Oct-2025 10:00",
+      "video_url": "4576329_0_3504028887003692"
+    },
+    {
+      "title": "Class-06 | Medieval History | फ्रांस ईस्ट इंडिया कंपनी का भारत आगमन, अंग्रेज-फ्रांसीसी कंपनियों के बीच युद्ध( कर्नाटक युद्ध) पर चर्चा",
+      "id": "4575207",
+      "date": "11-Oct-2025 10:00",
+      "video_url": "4575207_0_8063950708590314"
+    },
+    {
+      "title": "Class-05  | Medieval History | ब्रिटिश ईस्ट इंडिया कंपनी का भारत में प्रेसिडेंसी की स्थापना, स्थानीय शासकों के साथ युद्ध, व्यापार विस्तार पर चर्चा",
+      "id": "4574180",
+      "date": "10-Oct-2025 10:00",
+      "video_url": "4574180_0_9198026660328089"
+    },
+    {
+      "title": "Class-04 | Medieval History | आधुनिक भारत का इतिहास डच कंपनियों का भारत में व्यापार, युद्ध , ब्रिटिश ईस्ट इंडिया कंपनी गठन, भारत आगमन पर चर्चा",
+      "id": "4572737",
+      "date": "09-Oct-2025 10:15",
+      "video_url": "4572737_0_3298224329930980"
+    },
+    {
+      "title": "Class-03 | Medieval History | आधुनिक भारत का इतिहास नीले शांत जल की नीति, पुर्तगाली वायसरायो का परिचय, पुर्तगाली शासन का भारत में पतन, डच कंपनी का आगमन",
+      "id": "4571358",
+      "date": "08-Oct-2025 10:00",
+      "video_url": "4571358_0_2448199950043142"
+    },
+    {
+      "title": "Class-02 | Medieval History | आधुनिक भारत का इतिहास - 02",
+      "id": "4589089",
+      "date": "07-Oct-2025 10:00",
+      "video_url": "4589089_0_7478905284398967"
+    },
+    {
+      "title": "Class-01 | Medieval History | आधुनिक भारत का इतिहास विषय सूची का परिचय",
+      "id": "4568086",
+      "date": "06-Oct-2025 10:00",
+      "video_url": "4568086_0_2994737395231955"
+    }
+  ],
+  "notes_total": 82,
+  "notes": [
+    {
+      "id": 740844,
+      "title": "His | 16 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68f09be979003_shashank_Sir_10am_to12pm_modern_history_16_October_2025.pdf",
+      "date": "16-Oct-2025"
+    },
+    {
+      "id": 740832,
+      "title": "His | 13,14,15 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68f09aa0d22d7_ilovepdf_merged_13_compressed.pdf",
+      "date": "16-Oct-2025"
+    },
+    {
+      "id": 731575,
+      "title": "His | 13 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/69158686e8b74_shashank_Sir_10am_to12pm_modern_history_13_Nov_2025.pdf",
+      "date": "13-Nov-2025"
+    },
+    {
+      "id": 731568,
+      "title": "Eco | 11-12 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/69158648ba11b_ilovepdf_merged_63.pdf",
+      "date": "13-Nov-2025"
+    },
+    {
+      "id": 730738,
+      "title": "His | 11 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/69142a41a725a_shashank_Sir_10am_to12pm_modern_history_12_Nov_2025.pdf",
+      "date": "12-Nov-2025"
+    },
+    {
+      "id": 730181,
+      "title": "Eco | 10 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6912f9d7815a6_CLASS_1_ECONOMICS_BY_DR_DV_SIR_HINDI_BATCHES.pdf",
+      "date": "11-Nov-2025"
+    },
+    {
+      "id": 730152,
+      "title": "His | 10-11 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6912f5a84825d_ilovepdf_merged_57_compressed.pdf",
+      "date": "11-Nov-2025"
+    },
+    {
+      "id": 729029,
+      "title": "His | 6,7,8,9 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/691182c4576a8_ilovepdf_merged_48_compressed.pdf",
+      "date": "10-Nov-2025"
+    },
+    {
+      "id": 713473,
+      "title": "His | 5 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/690af81672523_shashank_Sir_10am_to12pm_modern_history_5_Nov_2025_compressed.pdf",
+      "date": "05-Nov-2025"
+    },
+    {
+      "id": 711649,
+      "title": "His | 4 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6909a12cc64f3_shashank_Sir_10am_to12pm_modern_history_4_Nov_2025.pdf",
+      "date": "04-Nov-2025"
+    },
+    {
+      "id": 710209,
+      "title": "His | 3 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/69085652abaae_shashank_Sir_10am_to12pm_modern_history_3_Nov_2025_compressed.pdf",
+      "date": "03-Nov-2025"
+    },
+    {
+      "id": 710201,
+      "title": "His | 1 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/69085459e4f8e_shashank_Sir_10am_to12pm_modern_history_1_Nov_2025_1_compressed.pdf",
+      "date": "03-Nov-2025"
+    },
+    {
+      "id": 708090,
+      "title": "His | 31 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/69045b738f6a3_shashank_Sir_10am_to12pm_modern_history_31_October_2025_compressed.pdf",
+      "date": "31-Oct-2025"
+    },
+    {
+      "id": 707273,
+      "title": "His | 30 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/690306feda9d6_shashank_Sir_10am_to12pm_modern_history_30_October_2025.pdf",
+      "date": "30-Oct-2025"
+    },
+    {
+      "id": 706379,
+      "title": "His | 29 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6901b8226689d_shashank_Sir_10am_to12pm_modern_history_29_October_2025_compressed.pdf",
+      "date": "29-Oct-2025"
+    },
+    {
+      "id": 705666,
+      "title": "Indian Society | 28 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/69008fe955bf9_Upendra_sir_society_eng_class9.pdf",
+      "date": "28-Oct-2025"
+    },
+    {
+      "id": 705607,
+      "title": "His | 25,27,28 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/69007e5f1979e_ilovepdf_merged_19_compressed.pdf",
+      "date": "28-Oct-2025"
+    },
+    {
+      "id": 694111,
+      "title": "His | 6,7,8 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68e62286f318f_ilovepdf_merged_19_compressed.pdf",
+      "date": "08-Oct-2025"
+    },
+    {
+      "id": 694102,
+      "title": "Eco & Env. | 7-8 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68e621b445291_ilovepdf_merged_18.pdf",
+      "date": "08-Oct-2025"
+    },
+    {
+      "id": 694101,
+      "title": "Eco & Env. | 7-8 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68e621b445291_ilovepdf_merged_18.pdf",
+      "date": "08-Oct-2025"
+    },
+    {
+      "id": 693349,
+      "title": "Pol | 06 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68e4d59ea6382_10071413.pdf",
+      "date": "07-Oct-2025"
+    },
+    {
+      "id": 692188,
+      "title": "Env & Eco | 29 Sept - 3 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68e0ebb517ef2_ilovepdf_merged_13.pdf",
+      "date": "04-Oct-2025"
+    },
+    {
+      "id": 683597,
+      "title": "Indian Society | 26 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68da46ef778be_upendra_sir_society_class_26.pdf",
+      "date": "29-Sep-2025"
+    },
+    {
+      "id": 683590,
+      "title": "Env. & Eco. | 26 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68da46a071645_Env._Eco._Class_37.pdf",
+      "date": "29-Sep-2025"
+    },
+    {
+      "id": 682382,
+      "title": "Indian Society | 25 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68d61ffc199f9_upendra_sir_society_class_25.pdf",
+      "date": "26-Sep-2025"
+    },
+    {
+      "id": 682371,
+      "title": "Env. & Eco. | 25 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68d61f57ae7cb_Env._Eco._Class_36.pdf",
+      "date": "26-Sep-2025"
+    },
+    {
+      "id": 681280,
+      "title": "Indian Society | 24 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68d4cc55ae6c4_upendra_sir_society_class_24.pdf",
+      "date": "25-Sep-2025"
+    },
+    {
+      "id": 681274,
+      "title": "Eco and Env | 18-24 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68d4cbf515035_ilovepdf_merged_3.pdf",
+      "date": "25-Sep-2025"
+    },
+    {
+      "id": 681247,
+      "title": "Indian Society | 23 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68d4cabbaca9c_upendra_sir_society_class_23.pdf",
+      "date": "25-Sep-2025"
+    },
+    {
+      "id": 678368,
+      "title": "Indian Society | 22 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68d0f105c1947_upendra_sir_society_class_22.pdf",
+      "date": "22-Sep-2025"
+    },
+    {
+      "id": 678360,
+      "title": "Pol | 20 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68d0f09603f5c_09201003.pdf",
+      "date": "22-Sep-2025"
+    },
+    {
+      "id": 678353,
+      "title": "Indian Society | 21 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68d0f03f5fcec_upendra_sir_society_class_21.pdf",
+      "date": "22-Sep-2025"
+    },
+    {
+      "id": 675308,
+      "title": "Indian Society Volume-1&2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68cd361f749c9_do.pdf",
+      "date": "19-Sep-2025"
+    },
+    {
+      "id": 674925,
+      "title": "Pol | 16,17,18 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68ccfe721b187_09171004_merged_compressed.pdf",
+      "date": "19-Sep-2025"
+    },
+    {
+      "id": 674633,
+      "title": "Indian society | 18 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68cce741b5c12_upendra_sir_society_class_20.pdf",
+      "date": "19-Sep-2025"
+    },
+    {
+      "id": 674133,
+      "title": "Indian society | 17 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68cbb201245c4_upendra_sir_society_class_19.pdf",
+      "date": "18-Sep-2025"
+    },
+    {
+      "id": 674122,
+      "title": "Indian society | 16 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68cbb1898b15d_upendra_sir_society_class_18.pdf",
+      "date": "18-Sep-2025"
+    },
+    {
+      "id": 674110,
+      "title": "Eco. & Env. | 16 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68cbb1321349f_Env._Eco._Class_29.pdf",
+      "date": "18-Sep-2025"
+    },
+    {
+      "id": 674079,
+      "title": "Eco. & Env. | 14 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68cbb06309785_Env._Eco._Class_28.pdf",
+      "date": "18-Sep-2025"
+    },
+    {
+      "id": 662213,
+      "title": "Env. & Eco. | 12 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68c4f321d51f7_Env._Eco._Class_26.pdf",
+      "date": "13-Sep-2025"
+    },
+    {
+      "id": 661474,
+      "title": "Env. & Eco. | 11 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68c3a3eb0625e_Env._Eco._Class_25.pdf",
+      "date": "12-Sep-2025"
+    },
+    {
+      "id": 661181,
+      "title": "Env. & Eco.| 9-11 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68c2af22eb6b9_ilovepdf_merged_94_compressed.pdf",
+      "date": "11-Sep-2025"
+    },
+    {
+      "id": 661166,
+      "title": "Pol | 9-11 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68c2adbc6e188_09081008_merged_compressed.pdf",
+      "date": "11-Sep-2025"
+    },
+    {
+      "id": 661160,
+      "title": "Indian society | 9 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68c2acef494cf_upendra_sir_society_class_17.pdf",
+      "date": "11-Sep-2025"
+    },
+    {
+      "id": 651784,
+      "title": "Indian society | 06 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68be62a677afc_upendra_sir_society_class_15.pdf",
+      "date": "08-Sep-2025"
+    },
+    {
+      "id": 648565,
+      "title": "Indian society | 05 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68ba78be0bc51_upendra_sir_society_class_14.pdf",
+      "date": "05-Sep-2025"
+    },
+    {
+      "id": 648076,
+      "title": "Indian society | 4 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b928944d002_UpendraSir_society_class_13.pdf",
+      "date": "04-Sep-2025"
+    },
+    {
+      "id": 648070,
+      "title": "Env. & Eco. | 3 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b928375dd3d_Env._Eco._Class_18.pdf",
+      "date": "04-Sep-2025"
+    },
+    {
+      "id": 648063,
+      "title": "Env. & Eco. | 2 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b927b34ea4d_Env._Eco._Class_17.pdf",
+      "date": "04-Sep-2025"
+    },
+    {
+      "id": 647532,
+      "title": "Indian Society | 3 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b7e63b9bf01_UpendraSir_society_class_12.pdf",
+      "date": "03-Sep-2025"
+    },
+    {
+      "id": 645950,
+      "title": "Indian society | 1 Sept | Class png",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b67f3b535ef_UpendraSir_society_class_11.pdf",
+      "date": "02-Sep-2025"
+    },
+    {
+      "id": 645947,
+      "title": "Env. & Eco. | 1 Sept | Class png",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b67e78c370e_Env._Eco._Class_16.pdf",
+      "date": "02-Sep-2025"
+    },
+    {
+      "id": 644851,
+      "title": "Env. & Eco. | 30 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b5613cf000a_Env._Eco._Class_15.pdf",
+      "date": "01-Sep-2025"
+    },
+    {
+      "id": 643471,
+      "title": "Indian Socity | 29 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b292869e00c_UpendraSir_society_class_10.pdf",
+      "date": "30-Aug-2025"
+    },
+    {
+      "id": 643463,
+      "title": "Env. & Eco | 29 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b291d7d0093_Env._Eco._Class_14_compressed.pdf",
+      "date": "30-Aug-2025"
+    },
+    {
+      "id": 643035,
+      "title": "Indian Society | 27 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b170b660b43_UpendraSir_society_class_8.pdf",
+      "date": "29-Aug-2025"
+    },
+    {
+      "id": 642856,
+      "title": "Env. & Eco. | 27 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b149e3afbfb_Env._Eco._Class_12.pdf",
+      "date": "29-Aug-2025"
+    },
+    {
+      "id": 640391,
+      "title": "Indian Society | 26 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68ae93db2b9ad_UpendraSir_society_class_7.pdf",
+      "date": "27-Aug-2025"
+    },
+    {
+      "id": 640383,
+      "title": "Env. & Eco. | 26 Aug | Class PNG-I",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68ae935813113_Env._Eco._Class_11.pdf",
+      "date": "27-Aug-2025"
+    },
+    {
+      "id": 639616,
+      "title": "Indian Society | 25 Aug | Class PNG-I",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68ad56bece0ba_Upendra_sir_indian_society_QA_2025.pdf",
+      "date": "26-Aug-2025"
+    },
+    {
+      "id": 639606,
+      "title": "Env. & Eco. | 25 Aug | Class PNG-I",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68ad565eb05c8__.pdf",
+      "date": "26-Aug-2025"
+    },
+    {
+      "id": 639597,
+      "title": "Env. & Eco. | 25 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68ad56116cda6_Env._Eco._Class_10.pdf",
+      "date": "26-Aug-2025"
+    },
+    {
+      "id": 639295,
+      "title": "Ancient History Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68ac1e3b266ff_Ancient_History_Student_copy_100_BPSC_And_UPPSC.pdf",
+      "date": "25-Aug-2025"
+    },
+    {
+      "id": 638997,
+      "title": "His | 24 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68ac047f4138c_Shashank_Sir_11_am_to_1_pm_24_August20251_compressed.pdf",
+      "date": "25-Aug-2025"
+    },
+    {
+      "id": 638991,
+      "title": "Indian Society | 24 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68ac03ff0ad20_UpendraSir_Essay1.pdf",
+      "date": "25-Aug-2025"
+    },
+    {
+      "id": 638984,
+      "title": "Env & Eco | 23 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68ac03783c544_Env._Eco._Class_9.pdf",
+      "date": "25-Aug-2025"
+    },
+    {
+      "id": 638974,
+      "title": "Geo | 23 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68ac0311a36fa_CW_Lecture_97.pdf",
+      "date": "25-Aug-2025"
+    },
+    {
+      "id": 638966,
+      "title": "Indian Society | 23 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68ac0269242c0_upendra_sir_society_class_6.pdf",
+      "date": "25-Aug-2025"
+    },
+    {
+      "id": 638956,
+      "title": "Env & Eco | 22 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68ac01f976eb7_Env._Eco._Class_8.pdf",
+      "date": "25-Aug-2025"
+    },
+    {
+      "id": 637576,
+      "title": "Indian Society | 22 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a8060f726f5_upendra_sir_indian_society_Cl._5.pdf",
+      "date": "22-Aug-2025"
+    },
+    {
+      "id": 637532,
+      "title": "Env. & Eco. | 21 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a804d95976c_Env._Eco._Class_7.pdf",
+      "date": "22-Aug-2025"
+    },
+    {
+      "id": 633994,
+      "title": "Indian Society | 20 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a55e132214a_upendra_sir_society_class_03.pdf",
+      "date": "20-Aug-2025"
+    },
+    {
+      "id": 633987,
+      "title": "Env and Eco | 20 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a55dabd29a9_Env._and_Eco._Class_5.pdf",
+      "date": "20-Aug-2025"
+    },
+    {
+      "id": 633314,
+      "title": "Indian Society | 18 & 19 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a4133e3dfa7_ilovepdf_merged_68_compressed.pdf",
+      "date": "19-Aug-2025"
+    },
+    {
+      "id": 633304,
+      "title": "Env. & Eco | 18 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a41256b5e08_Env._Eco._Class_4.pdf",
+      "date": "19-Aug-2025"
+    },
+    {
+      "id": 623366,
+      "title": "His | 14 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/689daeff98704_shashank_Sir_11am_to1pm_medieval_history_14_August_2025.pdf",
+      "date": "14-Aug-2025"
+    },
+    {
+      "id": 623359,
+      "title": "Pol | 14 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/689dae704db9a_08141007.pdf",
+      "date": "14-Aug-2025"
+    },
+    {
+      "id": 623054,
+      "title": "Ecology | 14 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/689d7e027fe4a_Env._Eco._Class_2.pdf",
+      "date": "14-Aug-2025"
+    },
+    {
+      "id": 621121,
+      "title": "Pol | 12 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/689acb376b40a_08121009.pdf",
+      "date": "12-Aug-2025"
+    },
+    {
+      "id": 618328,
+      "title": "His | 07 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6894670e00f30_Shasank_Sir_11.00_AM_07Aug_compressed.pdf",
+      "date": "07-Aug-2025"
+    },
+    {
+      "id": 603141,
+      "title": "Geo | 21 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/687e066580d9d_CW_Lecture73.pdf",
+      "date": "21-Jul-2025"
+    },
+    {
+      "id": 603135,
+      "title": "His | 21 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/687e05b23101b_Shashank_Sir_Medieval_21_Julycompressed.pdf",
+      "date": "21-Jul-2025"
+    }
+  ]
+}
