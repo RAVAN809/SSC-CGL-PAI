@@ -1,0 +1,2626 @@
+{
+  "batchid": 2897,
+  "topicid": 29728,
+  "classes_total": 58,
+  "classes": [
+    {
+      "title": "Class-04 | Maths | LCM and HCF",
+      "id": "4483295",
+      "date": "16-Jul-2025 09:30",
+      "video_url": "4483295_0_7680658523845192"
+    },
+    {
+      "title": "Class-03 | Maths | LCM and HCF",
+      "id": "4482223",
+      "date": "15-Jul-2025 09:30",
+      "video_url": "4482223_0_6423513829049796"
+    },
+    {
+      "title": "Class-02 | LCM and HCF",
+      "id": "4481181",
+      "date": "14-Jul-2025 09:30",
+      "video_url": "4481181_0_7083802132891901"
+    },
+    {
+      "title": "Class-01 | LCM and HCF",
+      "id": "4480379",
+      "date": "12-Jul-2025 09:30",
+      "video_url": "4480379_0_4399323130906401"
+    },
+    {
+      "title": "Class-02 | Circular Race",
+      "id": "4479429",
+      "date": "11-Jul-2025 09:30",
+      "video_url": "4479429_0_7735303790864720"
+    },
+    {
+      "title": "Class-01 | Linear Race",
+      "id": "4478372",
+      "date": "10-Jul-2025 09:30",
+      "video_url": "4478372_0_7564531967822300"
+    },
+    {
+      "title": "Class-01 | Boat And Stream",
+      "id": "4477165",
+      "date": "09-Jul-2025 09:30",
+      "video_url": "4477165_0_6283431301939227"
+    },
+    {
+      "title": "Class-09 | Time Speed and Distance",
+      "id": "4476201",
+      "date": "08-Jul-2025 09:30",
+      "video_url": "4476201_0_7608196393468294"
+    },
+    {
+      "title": "Class-03 | Time And Work",
+      "id": "4454315",
+      "date": "21-Jun-2025 09:30",
+      "video_url": "4454315_0_2531265553736798"
+    },
+    {
+      "title": "Class-02 | Time And Work",
+      "id": "4454314",
+      "date": "20-Jun-2025 09:30",
+      "video_url": "4454314_0_4674031537834254"
+    },
+    {
+      "title": "Class-01 | Time And Work",
+      "id": "4454313",
+      "date": "19-Jun-2025 09:30",
+      "video_url": "4454313_0_2762099184713275"
+    },
+    {
+      "title": "Class-05 | Average",
+      "id": "4454311",
+      "date": "18-Jun-2025 09:30",
+      "video_url": "4454311_0_7921532191382928"
+    },
+    {
+      "title": "Class-04 | Average",
+      "id": "4454310",
+      "date": "17-Jun-2025 09:30",
+      "video_url": "4454310_0_8955969362420987"
+    },
+    {
+      "title": "Class-03 | Average",
+      "id": "4454309",
+      "date": "16-Jun-2025 09:30",
+      "video_url": "4454309_0_4172513186282382"
+    },
+    {
+      "title": "Class-02 | Average",
+      "id": "4454308",
+      "date": "14-Jun-2025 09:30",
+      "video_url": "4454308_0_3035563033947905"
+    },
+    {
+      "title": "Class-01 | Average",
+      "id": "4454307",
+      "date": "13-Jun-2025 09:30",
+      "video_url": "4454307_0_3694963662669502"
+    },
+    {
+      "title": "Class-03 | Mixture and Alligation",
+      "id": "4454306",
+      "date": "12-Jun-2025 09:30",
+      "video_url": "4454306_0_4883054467988681"
+    },
+    {
+      "title": "Class-02 | Mixture and Alligation",
+      "id": "4454305",
+      "date": "11-Jun-2025 09:30",
+      "video_url": "4454305_0_7072079861495055"
+    },
+    {
+      "title": "Class-01 | Mixture and Alligation",
+      "id": "4454304",
+      "date": "10-Jun-2025 09:30",
+      "video_url": "4454304_0_6284254676992688"
+    },
+    {
+      "title": "Class-07 | Ratio And Proportion (Partnership)",
+      "id": "4454303",
+      "date": "09-Jun-2025 09:30",
+      "video_url": "4454303_0_6777008554705121"
+    },
+    {
+      "title": "Class-06 | Ratio And Proportion (Age)",
+      "id": "4454302",
+      "date": "07-Jun-2025 09:30",
+      "video_url": "4454302_0_2072506152129037"
+    },
+    {
+      "title": "Class-05 | Ratio And Proportion",
+      "id": "4454301",
+      "date": "06-Jun-2025 09:30",
+      "video_url": "4454301_0_3220656812759590"
+    },
+    {
+      "title": "Class-04 | Ratio And Proportion",
+      "id": "4454300",
+      "date": "05-Jun-2025 09:30",
+      "video_url": "4454300_0_9866936287722917"
+    },
+    {
+      "title": "Class-03 | Ratio And Proportion",
+      "id": "4454299",
+      "date": "04-Jun-2025 09:30",
+      "video_url": "4454299_0_5768947325831541"
+    },
+    {
+      "title": "Class-02 | Ratio And Proportion",
+      "id": "4454298",
+      "date": "03-Jun-2025 09:30",
+      "video_url": "4454298_0_8596475947574793"
+    },
+    {
+      "title": "Class-01 | Ratio And Proportion",
+      "id": "4454297",
+      "date": "02-Jun-2025 09:30",
+      "video_url": "4454297_0_7313888613835249"
+    },
+    {
+      "title": "Class-07 | Profit and Loss (Dishonest)",
+      "id": "4454296",
+      "date": "31-May-2025 09:30",
+      "video_url": "4454296_0_4654136586715260"
+    },
+    {
+      "title": "Class-06 | Profit and Loss (Discount)",
+      "id": "4454295",
+      "date": "30-May-2025 09:30",
+      "video_url": "4454295_0_7450652174959104"
+    },
+    {
+      "title": "Class-05 | Profit and Loss (Discount)",
+      "id": "4454294",
+      "date": "29-May-2025 09:30",
+      "video_url": "4454294_0_5924843819212994"
+    },
+    {
+      "title": "Class-04 | Profit and Loss (Discount)",
+      "id": "4454293",
+      "date": "28-May-2025 09:30",
+      "video_url": "4454293_0_2454996634190258"
+    },
+    {
+      "title": "Class-03 | Profit and Loss",
+      "id": "4454292",
+      "date": "27-May-2025 09:30",
+      "video_url": "4454292_0_8760981427916618"
+    },
+    {
+      "title": "Class-02 | Profit and Loss",
+      "id": "4454291",
+      "date": "26-May-2025 09:30",
+      "video_url": "4454291_0_4228954797299042"
+    },
+    {
+      "title": "Class-01 | Profit and Loss",
+      "id": "4454290",
+      "date": "24-May-2025 09:30",
+      "video_url": "4454290_0_7277499269484421"
+    },
+    {
+      "title": "Class-06 | Simple Interest  (Installment)",
+      "id": "4454289",
+      "date": "23-May-2025 09:30",
+      "video_url": "4454289_0_4545621566728994"
+    },
+    {
+      "title": "Class-04 | Simple Interest",
+      "id": "4454288",
+      "date": "21-May-2025 09:30",
+      "video_url": "4454288_0_7935570843791281"
+    },
+    {
+      "title": "Class-03 | Simple Interest",
+      "id": "4454287",
+      "date": "20-May-2025 09:30",
+      "video_url": "4454287_0_6475002178451948"
+    },
+    {
+      "title": "Class-02 | Simple Interest",
+      "id": "4454286",
+      "date": "19-May-2025 09:30",
+      "video_url": "4454286_0_7246244195065846"
+    },
+    {
+      "title": "Class-01 | Simple Interest",
+      "id": "4454285",
+      "date": "17-May-2025 09:30",
+      "video_url": "4454285_0_8971375442768027"
+    },
+    {
+      "title": "Class-07 | Compound Interest",
+      "id": "4454284",
+      "date": "16-May-2025 09:30",
+      "video_url": "4454284_0_5249751450251311"
+    },
+    {
+      "title": "Class-06 | Compound Interest",
+      "id": "4454283",
+      "date": "15-May-2025 09:30",
+      "video_url": "4454283_0_4068271337256589"
+    },
+    {
+      "title": "Class-05 | Compound Interest",
+      "id": "4454282",
+      "date": "14-May-2025 09:30",
+      "video_url": "4454282_0_4441952391397125"
+    },
+    {
+      "title": "Class-04 | Compound Interest",
+      "id": "4454281",
+      "date": "13-May-2025 09:30",
+      "video_url": "4454281_0_1116096524280195"
+    },
+    {
+      "title": "Class-03 | Compound Interest",
+      "id": "4454280",
+      "date": "12-May-2025 09:30",
+      "video_url": "4454280_0_3736186192023690"
+    },
+    {
+      "title": "Class-02 | Compound Interest",
+      "id": "4488242",
+      "date": "10-May-2025 09:30",
+      "video_url": "4488242_0_2946906689963140"
+    },
+    {
+      "title": "Class-01 | Compound Interest",
+      "id": "4454278",
+      "date": "09-May-2025 09:30",
+      "video_url": "4454278_0_2877344315509694"
+    },
+    {
+      "title": "Class-14 | Percentage",
+      "id": "4454277",
+      "date": "08-May-2025 09:30",
+      "video_url": "4454277_0_7552865376045559"
+    },
+    {
+      "title": "Class-13 | Percentage",
+      "id": "4454276",
+      "date": "07-May-2025 09:30",
+      "video_url": "4454276_0_4515723390951506"
+    },
+    {
+      "title": "Class-12 | Percentage",
+      "id": "4454275",
+      "date": "06-May-2025 09:30",
+      "video_url": "4454275_0_2091849116253716"
+    },
+    {
+      "title": "Class-11 | Percentage",
+      "id": "4454274",
+      "date": "05-May-2025 10:00",
+      "video_url": "4454274_0_8703544694200611"
+    },
+    {
+      "title": "Class-09 | Percentage",
+      "id": "4454273",
+      "date": "30-Apr-2025 09:30",
+      "video_url": "4454273_0_4235382031466989"
+    },
+    {
+      "title": "Class-08 | Percentage",
+      "id": "4454272",
+      "date": "29-Apr-2025 09:30",
+      "video_url": "4454272_0_1669994114144680"
+    },
+    {
+      "title": "Class-07 | Percentage",
+      "id": "4454271",
+      "date": "28-Apr-2025 09:30",
+      "video_url": "4454271_0_2887780815886474"
+    },
+    {
+      "title": "Class-06 | Percentage",
+      "id": "4454270",
+      "date": "26-Apr-2025 09:30",
+      "video_url": "4454270_0_7518869713078135"
+    },
+    {
+      "title": "Class-05 | Percentage",
+      "id": "4454269",
+      "date": "25-Apr-2025 09:30",
+      "video_url": "4454269_0_1317160289925428"
+    },
+    {
+      "title": "Class-04 | Percentage",
+      "id": "4454268",
+      "date": "24-Apr-2025 09:30",
+      "video_url": "4454268_0_3464521827871160"
+    },
+    {
+      "title": "Class-03 | Percentage",
+      "id": "4454267",
+      "date": "23-Apr-2025 09:40",
+      "video_url": "4454267_0_8916266035454113"
+    },
+    {
+      "title": "Class-02 | Percentage",
+      "id": "4454266",
+      "date": "22-Apr-2025 09:30",
+      "video_url": "4454266_0_1209073768251519"
+    },
+    {
+      "title": "Class-01 | Percentage",
+      "id": "4454265",
+      "date": "21-Apr-2025 09:30",
+      "video_url": "4454265_0_5547253238085067"
+    }
+  ],
+  "notes_total": 378,
+  "notes": [
+    {
+      "id": 675272,
+      "title": "Geometry Notes 19-09",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68cd336b1b53c_Geometry_Notes_1909.pdf",
+      "date": "19-Sep-2025"
+    },
+    {
+      "id": 675265,
+      "title": "Geometry Sheet-24",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68cd3332bcccf_Geometry_Sheet24.pdf",
+      "date": "19-Sep-2025"
+    },
+    {
+      "id": 675264,
+      "title": "Geometry 19-09",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68cd3306e24b6_Geometry_1909.pdf",
+      "date": "19-Sep-2025"
+    },
+    {
+      "id": 674362,
+      "title": "Geometry Notes 18-09",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68cbe9d8d2a53_Geometry_Notes_1809.pdf",
+      "date": "18-Sep-2025"
+    },
+    {
+      "id": 674358,
+      "title": "Geometry Sheet-23",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68cbe9aeb5fd7_Geometry_Sheet23.pdf",
+      "date": "18-Sep-2025"
+    },
+    {
+      "id": 674352,
+      "title": "Geometry 18-09",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68cbe98810a87_Geometry_1809.pdf",
+      "date": "18-Sep-2025"
+    },
+    {
+      "id": 673493,
+      "title": "Geometry Notes  16-09",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68c94483c6cc7_Geometry_Notes_1609.pdf",
+      "date": "16-Sep-2025"
+    },
+    {
+      "id": 673489,
+      "title": "Geometry Sheet-22",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68c9445d7c56d_Geometry_Sheet22.pdf",
+      "date": "16-Sep-2025"
+    },
+    {
+      "id": 673485,
+      "title": "Geometry 16-09",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68c94435c8fbf_Geometry_1609.pdf",
+      "date": "16-Sep-2025"
+    },
+    {
+      "id": 666642,
+      "title": "Geometry Notes 15-09",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68c7ebe3e6fe0_Geometry_Notes_1509.pdf",
+      "date": "15-Sep-2025"
+    },
+    {
+      "id": 666636,
+      "title": "Geometry Sheet-21",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68c7ebaaae0e6_Geometry_Sheet21.pdf",
+      "date": "15-Sep-2025"
+    },
+    {
+      "id": 666630,
+      "title": "Geometry 15-09",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68c7eb745b29b_Geometry_1509.pdf",
+      "date": "15-Sep-2025"
+    },
+    {
+      "id": 662617,
+      "title": "Geometry Notes 13-09",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68c55a7e5ffb9_Geometry_Notes_1309.pdf",
+      "date": "13-Sep-2025"
+    },
+    {
+      "id": 662613,
+      "title": "Geometry Sheet-20",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68c55a5442260_Geometry_Sheet20.pdf",
+      "date": "13-Sep-2025"
+    },
+    {
+      "id": 662608,
+      "title": "Geometry 13-09",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68c55a2e18b74_Geometry_1309.pdf",
+      "date": "13-Sep-2025"
+    },
+    {
+      "id": 662012,
+      "title": "Geometry Notes 12-09",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68c40286b3675_Geometry_Notes_1209.pdf",
+      "date": "12-Sep-2025"
+    },
+    {
+      "id": 662008,
+      "title": "Geometry Sheet-19",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68c4025474998_Geometry_Sheet19.pdf",
+      "date": "12-Sep-2025"
+    },
+    {
+      "id": 662004,
+      "title": "Geometry 12-09",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68c4022c8679d_Geometry_1209.pdf",
+      "date": "12-Sep-2025"
+    },
+    {
+      "id": 661221,
+      "title": "Geometry Notes 11-09",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68c2b2b779fec_Geometry_Notes_1109.pdf",
+      "date": "11-Sep-2025"
+    },
+    {
+      "id": 661217,
+      "title": "Geometry Sheet-18",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68c2b290e74a4_Geometry_Sheet18.pdf",
+      "date": "11-Sep-2025"
+    },
+    {
+      "id": 661213,
+      "title": "Geometry 11-09",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68c2b26160e7a_Geometry_1109.pdf",
+      "date": "11-Sep-2025"
+    },
+    {
+      "id": 655268,
+      "title": "Geometry Notes 10-09",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68c15db70812a_Geometry_Notes_1009.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655264,
+      "title": "Geometry Sheet-17",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68c15d7b26f59_Geometry_Sheet17.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655260,
+      "title": "Geometry 10-09",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68c15d4b98305_Geometry_1009.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 653825,
+      "title": "Geometry Notes 09-09",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68c0f7a77c7e5_Geometry_Notes_0909.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 653821,
+      "title": "Geometry Sheet-16",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68c0f77b5f924_Geometry_Sheet16.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 653817,
+      "title": "Geometry 09-09",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68c0f74e8e738_Geometry_0909.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 653275,
+      "title": "Geometry Notes 08-09",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68bfa318b1269_Geometry_Notes_0809.pdf",
+      "date": "09-Sep-2025"
+    },
+    {
+      "id": 653271,
+      "title": "Geometry Sheet-15",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68bfa2f423927_Geometry_Sheet15.pdf",
+      "date": "09-Sep-2025"
+    },
+    {
+      "id": 653267,
+      "title": "Geometry 08-09",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68bfa2ca9a979_Geometry_0809.pdf",
+      "date": "09-Sep-2025"
+    },
+    {
+      "id": 651466,
+      "title": "Geometry Notes 06-09",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68bc1a680f8f9_Geometry_Notes_0609.pdf",
+      "date": "06-Sep-2025"
+    },
+    {
+      "id": 651462,
+      "title": "Geometry Sheet-14",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68bc1a41df0e8_Geometry_Sheet14.pdf",
+      "date": "06-Sep-2025"
+    },
+    {
+      "id": 651458,
+      "title": "Geometry 06-09",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68bc1a1228a2f_Geometry_0609.pdf",
+      "date": "06-Sep-2025"
+    },
+    {
+      "id": 650395,
+      "title": "Geometry Notes 05-09",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68bad592dcc95_Geometry_Notes_0509.pdf",
+      "date": "05-Sep-2025"
+    },
+    {
+      "id": 650391,
+      "title": "Geometry Sheet-13",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68bad56b1f30e_Geometry_Sheet13.pdf",
+      "date": "05-Sep-2025"
+    },
+    {
+      "id": 650386,
+      "title": "Geometry 05-09",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68bad52d4cdee_Geometry_0509.pdf",
+      "date": "05-Sep-2025"
+    },
+    {
+      "id": 648418,
+      "title": "Geometry Notes 04-09",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b9835623a1b_Geometry_Notes_0409.pdf",
+      "date": "04-Sep-2025"
+    },
+    {
+      "id": 648414,
+      "title": "Geometry Sheet-12",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b9832bc269b_Geometry_Sheet12.pdf",
+      "date": "04-Sep-2025"
+    },
+    {
+      "id": 648410,
+      "title": "Geometry 04-09",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b9830780a65_Geometry_0409.pdf",
+      "date": "04-Sep-2025"
+    },
+    {
+      "id": 647783,
+      "title": "Geometry Notes 03-09",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b83034039aa_Geometry_Notes_0309.pdf",
+      "date": "03-Sep-2025"
+    },
+    {
+      "id": 647759,
+      "title": "Geometry Sheet-11",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b82fe6bbb29_Geometry_Sheet11.pdf",
+      "date": "03-Sep-2025"
+    },
+    {
+      "id": 647755,
+      "title": "Geometry 03-09",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b82fb9982dc_Geometry_0309.pdf",
+      "date": "03-Sep-2025"
+    },
+    {
+      "id": 647146,
+      "title": "Geometry Notes 02-09",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b6d270579e5_Geometry_Notes_0209.pdf",
+      "date": "02-Sep-2025"
+    },
+    {
+      "id": 647142,
+      "title": "Geometry Sheet-10",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b6d23daeab3_Geometry_Sheet10.pdf",
+      "date": "02-Sep-2025"
+    },
+    {
+      "id": 647138,
+      "title": "Geometry 02-09",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b6d215ed4d0_Geometry_0209.pdf",
+      "date": "02-Sep-2025"
+    },
+    {
+      "id": 645623,
+      "title": "Geometry Notes 01-09",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b57861b0562_Geometry_Notes_0109.pdf",
+      "date": "01-Sep-2025"
+    },
+    {
+      "id": 645619,
+      "title": "Geometry Sheet-09",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b5782a27cc0_Geometry_Sheet09.pdf",
+      "date": "01-Sep-2025"
+    },
+    {
+      "id": 645615,
+      "title": "Geometry 01-09",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b57800a9a5c_Geometry_0109.pdf",
+      "date": "01-Sep-2025"
+    },
+    {
+      "id": 644014,
+      "title": "Geometry Notes 30-08",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b2e66cde37d_Geometry_Notes_3008.pdf",
+      "date": "30-Aug-2025"
+    },
+    {
+      "id": 644010,
+      "title": "Geometry Sheet-08",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b2e63e56d74_Geometry_Sheet08.pdf",
+      "date": "30-Aug-2025"
+    },
+    {
+      "id": 644006,
+      "title": "Geometry 30-08",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b2e61a29aa4_Geometry_3008.pdf",
+      "date": "30-Aug-2025"
+    },
+    {
+      "id": 643153,
+      "title": "Geometry Notes 29-08",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b195c13e1c1_Geometry_Notes_2908.pdf",
+      "date": "29-Aug-2025"
+    },
+    {
+      "id": 643149,
+      "title": "Geometry Sheet-07",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b195904d85b_Geometry_Sheet07.pdf",
+      "date": "29-Aug-2025"
+    },
+    {
+      "id": 643143,
+      "title": "Geometry 29-08",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b19566c7498_Geometry_2908.pdf",
+      "date": "29-Aug-2025"
+    },
+    {
+      "id": 641271,
+      "title": "Geometry Notes 28-08",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b124b5b839b_Geometry_Notes_2808.pdf",
+      "date": "29-Aug-2025"
+    },
+    {
+      "id": 641267,
+      "title": "Geometry Sheet-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b1248446eb8_Geometry_Sheet06.pdf",
+      "date": "29-Aug-2025"
+    },
+    {
+      "id": 641263,
+      "title": "Geometry 28-08",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b1245bb39c9_Geometry_2808.pdf",
+      "date": "29-Aug-2025"
+    },
+    {
+      "id": 640806,
+      "title": "Geometry Notes 27-08",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68aee426d2192_Geometry_Notes_2708.pdf",
+      "date": "27-Aug-2025"
+    },
+    {
+      "id": 640803,
+      "title": "Geometry Sheet-05",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68aee40091b42_Geometry_Sheet05.pdf",
+      "date": "27-Aug-2025"
+    },
+    {
+      "id": 640800,
+      "title": "Geometry 27-08",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68aee3d09336a_Geometry_2708.pdf",
+      "date": "27-Aug-2025"
+    },
+    {
+      "id": 639915,
+      "title": "Geometry Notes 26-08",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68ad9d354547c_Geometry_Notes_2608.pdf",
+      "date": "26-Aug-2025"
+    },
+    {
+      "id": 639912,
+      "title": "Geometry Sheet-04",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68ad9d130386d_Geometry_Sheet04.pdf",
+      "date": "26-Aug-2025"
+    },
+    {
+      "id": 639909,
+      "title": "Geometry 26-08",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68ad9cf2a29e5_Geometry_2608.pdf",
+      "date": "26-Aug-2025"
+    },
+    {
+      "id": 639458,
+      "title": "Geometry Notes 25-08",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68ac4ddb20e1c_Geometry_Notes_2508.pdf",
+      "date": "25-Aug-2025"
+    },
+    {
+      "id": 639455,
+      "title": "Geometry Sheet-03",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68ac4dae9bfda_Geometry_Sheet03.pdf",
+      "date": "25-Aug-2025"
+    },
+    {
+      "id": 639452,
+      "title": "Geometry 25-08",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68ac4d7c3db86_Geometry_2508.pdf",
+      "date": "25-Aug-2025"
+    },
+    {
+      "id": 638424,
+      "title": "Geometry Notes 23-08",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a9a812ad2ef_Geometry_Notes_2308.pdf",
+      "date": "23-Aug-2025"
+    },
+    {
+      "id": 638421,
+      "title": "Geometry Sheet-02",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a9a7e7e5d7e_Geometry_Sheet02.pdf",
+      "date": "23-Aug-2025"
+    },
+    {
+      "id": 638418,
+      "title": "Geometry 23-08",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a9a7bd1d08e_Geometry_2308.pdf",
+      "date": "23-Aug-2025"
+    },
+    {
+      "id": 637969,
+      "title": "Geometry Notes 22-08",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a856ffcc789_Geometry_Notes_2208.pdf",
+      "date": "22-Aug-2025"
+    },
+    {
+      "id": 637966,
+      "title": "Geometry Sheet-01",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a856d7ea27e_Geometry_Sheet01.pdf",
+      "date": "22-Aug-2025"
+    },
+    {
+      "id": 637963,
+      "title": "Geometry 22-08",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a856b5ae792_Geometry_2208.pdf",
+      "date": "22-Aug-2025"
+    },
+    {
+      "id": 637210,
+      "title": "Quadratic Equation Notes 21-08",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a70c3407f14_Quadratic_Equation_Notes_2108.pdf",
+      "date": "21-Aug-2025"
+    },
+    {
+      "id": 637199,
+      "title": "Quadratic Equation Sheet-14",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a70bae0eb38_Quadratic_Equation_Sheet14.pdf",
+      "date": "21-Aug-2025"
+    },
+    {
+      "id": 637196,
+      "title": "Quadratic Equation 21-08",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a70b717145b_Quadratic_Equation_2108.pdf",
+      "date": "21-Aug-2025"
+    },
+    {
+      "id": 635884,
+      "title": "Quadratic Equation Notes 20-08",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a5b32293825_Quadratic_Equation_Notes_2008.pdf",
+      "date": "20-Aug-2025"
+    },
+    {
+      "id": 635878,
+      "title": "Quadratic Equation Sheet-13",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a5b2ddcb749_Quadratic_Equation_Sheet13.pdf",
+      "date": "20-Aug-2025"
+    },
+    {
+      "id": 635872,
+      "title": "Quadratic Equation  20-08",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a5b29000123_Quadratic_Equation_2008.pdf",
+      "date": "20-Aug-2025"
+    },
+    {
+      "id": 633732,
+      "title": "Polynomial Notes 19-08",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a44718215c9_Polynomial_Notes_1908.pdf",
+      "date": "19-Aug-2025"
+    },
+    {
+      "id": 633726,
+      "title": "Polynomial Sheet-12",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a446dd53010_Polynomial_Sheet12.pdf",
+      "date": "19-Aug-2025"
+    },
+    {
+      "id": 633720,
+      "title": "Polynomial 19-08",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a446a44e549_Polynomial_1908.pdf",
+      "date": "19-Aug-2025"
+    },
+    {
+      "id": 632828,
+      "title": "Algebra Notes 18-08",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a3162a303ed_Algebra_Notes_1808.pdf",
+      "date": "18-Aug-2025"
+    },
+    {
+      "id": 632822,
+      "title": "Algebra Sheet-11",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a315f38b28b_Algebra_Sheet11.pdf",
+      "date": "18-Aug-2025"
+    },
+    {
+      "id": 632816,
+      "title": "Algebra 18-08",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a315baa0f11_Algebra_1808.pdf",
+      "date": "18-Aug-2025"
+    },
+    {
+      "id": 628460,
+      "title": "Algebra Notes 16-08",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a05f64beb1b_Algebra_Notes_1608.pdf",
+      "date": "16-Aug-2025"
+    },
+    {
+      "id": 628454,
+      "title": "Algebra Sheet-10",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a05f1002953_Algebra_Sheet10.pdf",
+      "date": "16-Aug-2025"
+    },
+    {
+      "id": 628448,
+      "title": "Algebra 16-08",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a05ecf6ad2d_Algebra_1608.pdf",
+      "date": "16-Aug-2025"
+    },
+    {
+      "id": 627189,
+      "title": "Algebra Notes 14-08",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/689db7189cf8d_Algebra_Notes_1408.pdf",
+      "date": "14-Aug-2025"
+    },
+    {
+      "id": 627183,
+      "title": "Algebra Sheet-09",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/689db6d9e727f_Algebra_Sheet09.pdf",
+      "date": "14-Aug-2025"
+    },
+    {
+      "id": 627177,
+      "title": "Algebra 14-08",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/689db69ed6bcf_Algebra_1408.pdf",
+      "date": "14-Aug-2025"
+    },
+    {
+      "id": 622707,
+      "title": "Algebra Notes 13-08",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/689c7e89517e0_Algebraic_Identity_Notes_1308.pdf",
+      "date": "13-Aug-2025"
+    },
+    {
+      "id": 622701,
+      "title": "Algebra Sheet-08",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/689c7e4ebace5_Algebra_Sheet08.pdf",
+      "date": "13-Aug-2025"
+    },
+    {
+      "id": 622691,
+      "title": "Algebra Sheet-08",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/689c7de4d5a01_Algebra_Sheet08.pdf",
+      "date": "13-Aug-2025"
+    },
+    {
+      "id": 622681,
+      "title": "Algebra 13-08",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/689c7daf108cb_Algebraic_Identity_1308.pdf",
+      "date": "13-Aug-2025"
+    },
+    {
+      "id": 621762,
+      "title": "Algebra Notes 12-08",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/689b1d4e5c1f3_Algebra_Notes_1208.pdf",
+      "date": "12-Aug-2025"
+    },
+    {
+      "id": 621756,
+      "title": "Algebra Sheet-07",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/689b1d16a2e6d_Algebra_sheet_07.pdf",
+      "date": "12-Aug-2025"
+    },
+    {
+      "id": 621750,
+      "title": "Algebra 12-08",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/689b1ce12217c_Algebra_1208.pdf",
+      "date": "12-Aug-2025"
+    },
+    {
+      "id": 621715,
+      "title": "Algebra Notes 11-08",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/689b14b225599_Algebraic_Result_Notes_Class06.pdf",
+      "date": "12-Aug-2025"
+    },
+    {
+      "id": 621709,
+      "title": "Algebra Sheet-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/689b147bc0018_Algebra_sheet_06.pdf",
+      "date": "12-Aug-2025"
+    },
+    {
+      "id": 621702,
+      "title": "Algebra 11-08",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/689b143eee4c1_Algebraic_Result_Class_06_PNG.pdf",
+      "date": "12-Aug-2025"
+    },
+    {
+      "id": 621695,
+      "title": "Algebra Notes 08-08",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/689b140520113_Algebraic_Result_Notes_Class05.pdf",
+      "date": "12-Aug-2025"
+    },
+    {
+      "id": 621689,
+      "title": "Algebra Sheet-05",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/689b1390a956a_Algebra_Sheet05_1.pdf",
+      "date": "12-Aug-2025"
+    },
+    {
+      "id": 621642,
+      "title": "Algebra 08-08",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/689b135558174_Algebraic_Result_Class05_PNG.pdf",
+      "date": "12-Aug-2025"
+    },
+    {
+      "id": 619162,
+      "title": "Algebra Notes 07-08",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68955adacd4e8_Algebraic_Notes_0708.pdf",
+      "date": "08-Aug-2025"
+    },
+    {
+      "id": 619156,
+      "title": "Algebra Sheet-04",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68955a7cbe9b1_Algebra_Sheet04.pdf",
+      "date": "08-Aug-2025"
+    },
+    {
+      "id": 619150,
+      "title": "Algebra 07-08",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68955a32de410_Algebra_PNG_0708.pdf",
+      "date": "08-Aug-2025"
+    },
+    {
+      "id": 617833,
+      "title": "Algebra Notes 06-08",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68942245d8445_Algebra_Notes_0608.pdf",
+      "date": "07-Aug-2025"
+    },
+    {
+      "id": 617827,
+      "title": "Algebra Sheet-03",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/689421f96a64f_Algebra_Sheet03.pdf",
+      "date": "07-Aug-2025"
+    },
+    {
+      "id": 617821,
+      "title": "Algebra 06-08",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/689421bd38ba2_Algebra_PNG_0608.pdf",
+      "date": "07-Aug-2025"
+    },
+    {
+      "id": 615974,
+      "title": "Algebra Notes 05-08",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6891bd5257eb2_Algebra_Notes_0508.pdf",
+      "date": "05-Aug-2025"
+    },
+    {
+      "id": 615968,
+      "title": "Algebra Sheet-02",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6891bd1d00355_Algebra_Sheet2.pdf",
+      "date": "05-Aug-2025"
+    },
+    {
+      "id": 615940,
+      "title": "Algebra 05-08",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6891bcb5b394a_Algebra_0508.pdf",
+      "date": "05-Aug-2025"
+    },
+    {
+      "id": 615686,
+      "title": "Algebra Notes 04-08",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68909b564bd92_Algebra_Notes_0408.pdf",
+      "date": "04-Aug-2025"
+    },
+    {
+      "id": 615680,
+      "title": "Algebra Sheet-11",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68909b1c7d7a6_Algebra_Sheet11.pdf",
+      "date": "04-Aug-2025"
+    },
+    {
+      "id": 615674,
+      "title": "Algebra 04-08",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68909abc31677_Algebraic_0408.pdf",
+      "date": "04-Aug-2025"
+    },
+    {
+      "id": 615177,
+      "title": "Height and Distance Notes 02-08",
+      "url": "https://educp.crwilladmin.com/uploads/class-attachment/lclsys_Height_and_Distance_Notes_0208.pdf",
+      "date": "02-Aug-2025"
+    },
+    {
+      "id": 615171,
+      "title": "Height Distance sheet-01",
+      "url": "https://educp.crwilladmin.com/uploads/class-attachment/lclsys_Height_Distance_sheet01.pdf",
+      "date": "02-Aug-2025"
+    },
+    {
+      "id": 615165,
+      "title": "Height and Distance PNG 02-08",
+      "url": "https://educp.crwilladmin.com/uploads/class-attachment/lclsys_Height_and_Distance_PNG_0208.pdf",
+      "date": "02-Aug-2025"
+    },
+    {
+      "id": 614688,
+      "title": "Trigonometry Notes 01-08",
+      "url": "https://educp.crwilladmin.com/uploads/class-attachment/lclsys_Trigonometry_Notes_0108.pdf",
+      "date": "01-Aug-2025"
+    },
+    {
+      "id": 614682,
+      "title": "Trigonometry Sheet-04",
+      "url": "https://educp.crwilladmin.com/uploads/class-attachment/lclsys_Trigonometry_Sheet04.pdf",
+      "date": "01-Aug-2025"
+    },
+    {
+      "id": 614676,
+      "title": "Trigonometry 01-08",
+      "url": "https://educp.crwilladmin.com/uploads/class-attachment/lclsys_Trigonometry_0108.pdf",
+      "date": "01-Aug-2025"
+    },
+    {
+      "id": 612637,
+      "title": "Trigonometry Notes 31-07",
+      "url": "https://educp.crwilladmin.com/uploads/class-attachment/lclsys_Trigonometry_Notes_3107.pdf",
+      "date": "31-Jul-2025"
+    },
+    {
+      "id": 612631,
+      "title": "Trigonometry Sheet-03",
+      "url": "https://educp.crwilladmin.com/uploads/class-attachment/lclsys_Trigonometry_Sheet011.pdf",
+      "date": "31-Jul-2025"
+    },
+    {
+      "id": 612625,
+      "title": "Trigonometry 31-07",
+      "url": "https://educp.crwilladmin.com/uploads/class-attachment/lclsys_Trigonometry_3107.pdf",
+      "date": "31-Jul-2025"
+    },
+    {
+      "id": 612093,
+      "title": "Trigonometry Notes 30-07",
+      "url": "https://educp.crwilladmin.com/uploads/class-attachment/lclsys_Trigonometry_Notes_3007.pdf",
+      "date": "30-Jul-2025"
+    },
+    {
+      "id": 612087,
+      "title": "Trigonometry Sheet-02",
+      "url": "https://educp.crwilladmin.com/uploads/class-attachment/lclsys_Trigonometry_Sheet02.pdf",
+      "date": "30-Jul-2025"
+    },
+    {
+      "id": 612081,
+      "title": "Trigonometry 30-07",
+      "url": "https://educp.crwilladmin.com/uploads/class-attachment/lclsys_Trigonometry_PNG_3007.pdf",
+      "date": "30-Jul-2025"
+    },
+    {
+      "id": 611397,
+      "title": "Trigonometry Notes 29-07",
+      "url": "https://educp.crwilladmin.com/uploads/class-attachment/lclsys_Trigonometry_Notes_2907.pdf",
+      "date": "29-Jul-2025"
+    },
+    {
+      "id": 611387,
+      "title": "Trigonometry Sheet-01",
+      "url": "https://educp.crwilladmin.com/uploads/class-attachment/lclsys_Trigonometry_Sheet01.pdf",
+      "date": "29-Jul-2025"
+    },
+    {
+      "id": 611381,
+      "title": "Trigonometry 29-07",
+      "url": "https://educp.crwilladmin.com/uploads/class-attachment/lclsys_Trigonometry_2907.pdf",
+      "date": "29-Jul-2025"
+    },
+    {
+      "id": 610744,
+      "title": "Mensuration 3D Notes 28-07",
+      "url": "https://educp.crwilladmin.com/uploads/class-attachment/lclsys_Mensuration_3D_Notes_2807_sphere.pdf",
+      "date": "28-Jul-2025"
+    },
+    {
+      "id": 610738,
+      "title": "Mensuration Sheet-06",
+      "url": "https://educp.crwilladmin.com/uploads/class-attachment/lclsys_Mensuration_3D_Sheet06.pdf",
+      "date": "28-Jul-2025"
+    },
+    {
+      "id": 610732,
+      "title": "Mensuration 3D 28-07",
+      "url": "https://educp.crwilladmin.com/uploads/class-attachment/lclsys_Mensuration_3D_Sphere.pdf",
+      "date": "28-Jul-2025"
+    },
+    {
+      "id": 608088,
+      "title": "Mensuration 3D Notes 26-07",
+      "url": "https://educp.crwilladmin.com/uploads/class-attachment/lclsys_Mensuration_3D_Notes_2607.pdf",
+      "date": "28-Jul-2025"
+    },
+    {
+      "id": 608082,
+      "title": "Mensuration Sheet-05",
+      "url": "https://educp.crwilladmin.com/uploads/class-attachment/lclsys_Mensuration_3D_Sheet05.pdf",
+      "date": "28-Jul-2025"
+    },
+    {
+      "id": 608076,
+      "title": "Mensuration 3D 26-07",
+      "url": "https://educp.crwilladmin.com/uploads/class-attachment/lclsys_Mensuration_3D_2607.pdf",
+      "date": "28-Jul-2025"
+    },
+    {
+      "id": 605975,
+      "title": "Mensuration 3D Notes 25-07",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/688453a144d86_Mensuration_3D_Notes_2507_Cone.pdf",
+      "date": "26-Jul-2025"
+    },
+    {
+      "id": 605968,
+      "title": "Mensuration Sheet-04",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6884536421e2f_Mensuration_3D_Sheet04.pdf",
+      "date": "26-Jul-2025"
+    },
+    {
+      "id": 605961,
+      "title": "Mensuration 3D 25-07",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6884532dcb4cf_Mensuration_3D_2507_Cone.pdf",
+      "date": "26-Jul-2025"
+    },
+    {
+      "id": 605743,
+      "title": "Mensuration 3D Notes 24-07",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6883023e8ec58_Mensuration_3D_Cylinder_2407.pdf",
+      "date": "25-Jul-2025"
+    },
+    {
+      "id": 605737,
+      "title": "Mensuration Sheet-03",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6883020c19f5a_Mensuration_3D_Cylinder_Sheet03.pdf",
+      "date": "25-Jul-2025"
+    },
+    {
+      "id": 605731,
+      "title": "Mensuration 3D 24-07",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/688301d533fb3_Mensuration_3D_Cylinder.pdf",
+      "date": "25-Jul-2025"
+    },
+    {
+      "id": 605369,
+      "title": "Mensuration 3D Notes 23-07",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6880c4bb303b1_Mensuration_3D_Notes_2307_Cuboid.pdf",
+      "date": "23-Jul-2025"
+    },
+    {
+      "id": 605363,
+      "title": "Mensuration Sheet-02",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6880c47e05bf9_Mensuratin_3D_Sheet02.pdf",
+      "date": "23-Jul-2025"
+    },
+    {
+      "id": 605357,
+      "title": "Mensuration 3D 23-07",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6880c444614b8_Mensuration_3D_2307_Cuboid.pdf",
+      "date": "23-Jul-2025"
+    },
+    {
+      "id": 604586,
+      "title": "Mensuration 2D Notes 22-07",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/687f7f4eefbce_Mensuration_3D_Notes_2207.pdf",
+      "date": "22-Jul-2025"
+    },
+    {
+      "id": 604580,
+      "title": "Mensuration Sheet-01",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/687f7f225cb26_Mensuration_3D_Sheet01.pdf",
+      "date": "22-Jul-2025"
+    },
+    {
+      "id": 604574,
+      "title": "Mensuration 3D 22-07",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/687f7ee98ac1c_Mensuration_3D_2207.pdf",
+      "date": "22-Jul-2025"
+    },
+    {
+      "id": 603537,
+      "title": "Mensuration 2D Notes 21-07",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/687e6a94eed6f_Mensuration_2D_Notes_2107.pdf",
+      "date": "21-Jul-2025"
+    },
+    {
+      "id": 603531,
+      "title": "Mensuration Sheet-01",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/687e6a59ebcc0_Mensuration_Sheet01.pdf",
+      "date": "21-Jul-2025"
+    },
+    {
+      "id": 603525,
+      "title": "Mensuration 2D 21-07",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/687e6a1c57b33_Mensuration_2D_2107.pdf",
+      "date": "21-Jul-2025"
+    },
+    {
+      "id": 602398,
+      "title": "Power Surds Indice Notes 19-07",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/687b78109d225_Power_Surds_Indices_Notes_1907.pdf",
+      "date": "19-Jul-2025"
+    },
+    {
+      "id": 602392,
+      "title": "Power Surds Indices Sheet-03",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/687b77cfb2d94_Power_Surds_Indices_Sheet03.pdf",
+      "date": "19-Jul-2025"
+    },
+    {
+      "id": 602386,
+      "title": "Power Surds Indice 19-07",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/687b778ada61f_Power_Surds_Indices_1907.pdf",
+      "date": "19-Jul-2025"
+    },
+    {
+      "id": 601589,
+      "title": "Power Surds Indice Notes 18-07",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/687a2e612ea70_Power_Surds_Indices_Notes_1806.pdf",
+      "date": "18-Jul-2025"
+    },
+    {
+      "id": 601583,
+      "title": "Power Surds Indices Sheet-02",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/687a2e1345e54_Power_Surds_Indices_Sheet02.pdf",
+      "date": "18-Jul-2025"
+    },
+    {
+      "id": 601577,
+      "title": "Power Surds Indice 18-07",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/687a2ddf6b8d8_Power_Surds_Indices_PNG_1807.pdf",
+      "date": "18-Jul-2025"
+    },
+    {
+      "id": 600974,
+      "title": "Power Surds Indice Notes 17-07",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6878de746f8e3_Power_Surds_Indices_Notes_1707.pdf",
+      "date": "17-Jul-2025"
+    },
+    {
+      "id": 600968,
+      "title": "Power Surds Indices Sheet-01",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6878ddede124c_Power_Surds_Indices_Sheet01.pdf",
+      "date": "17-Jul-2025"
+    },
+    {
+      "id": 600962,
+      "title": "Power Surds Indice 17-07",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6878dda427df6_Power_Surds_Indice_1707.pdf",
+      "date": "17-Jul-2025"
+    },
+    {
+      "id": 600154,
+      "title": "LCM and HCF Notes 16-07",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/687795b92d24d_LCM_and_HCF_Notes_1607.pdf",
+      "date": "16-Jul-2025"
+    },
+    {
+      "id": 600148,
+      "title": "HCF and LCM sheet-04",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/687795815dc04_HCF_and_LCM_sheet04.pdf",
+      "date": "16-Jul-2025"
+    },
+    {
+      "id": 600142,
+      "title": "LCM and HCF 16-07",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68779552b9579_LCM_and_HCH_1607.pdf",
+      "date": "16-Jul-2025"
+    },
+    {
+      "id": 598277,
+      "title": "LCM and HCF Notes 15-07",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68762d2183d53_LCM_and_HCF_Notes_1507.pdf",
+      "date": "15-Jul-2025"
+    },
+    {
+      "id": 598271,
+      "title": "HCF And LCM Sheet-03",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68762ced82106_HCF_LCM_Sheet03.pdf",
+      "date": "15-Jul-2025"
+    },
+    {
+      "id": 598265,
+      "title": "LCM and HCF 15-07",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68762cb35677f_LCM_and_HCF_1507.pdf",
+      "date": "15-Jul-2025"
+    },
+    {
+      "id": 596226,
+      "title": "LCM and HCF Notes 14-07",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6874f63417edf_LCM_and_HCF_Notes_1407.pdf",
+      "date": "14-Jul-2025"
+    },
+    {
+      "id": 596220,
+      "title": "HCF And LCM Sheet-02",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6874f6022cb74_HCF_and_LCM_Sheet02.pdf",
+      "date": "14-Jul-2025"
+    },
+    {
+      "id": 596214,
+      "title": "LCM and HCF 14-07",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6874f5ccd4cfc_LCM_and_HCF_1407.pdf",
+      "date": "14-Jul-2025"
+    },
+    {
+      "id": 593341,
+      "title": "LCM and HCF Notes 12-07",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/687248fb7f61a_LCM_and_HCF_Notes_1207.pdf",
+      "date": "12-Jul-2025"
+    },
+    {
+      "id": 593335,
+      "title": "HCF And LCM Sheet-01",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/687248c560fdf_HCF_And_LCM_sheet01.pdf",
+      "date": "12-Jul-2025"
+    },
+    {
+      "id": 593320,
+      "title": "LCM and HCF 12-07",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6872488f2d29c_LCM_and_HCF_1207.pdf",
+      "date": "12-Jul-2025"
+    },
+    {
+      "id": 592767,
+      "title": "Circular Race Notes 11-07",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6870fc8e0e189_Circular_Race_Notes_1107.pdf",
+      "date": "11-Jul-2025"
+    },
+    {
+      "id": 592754,
+      "title": "Circular Race Sheet-01",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6870fb59bf08b_Circular_Race_Sheet02.pdf",
+      "date": "11-Jul-2025"
+    },
+    {
+      "id": 592727,
+      "title": "Circular Race 11-07",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6870f9e75b88d_Circular_Race_1107.pdf",
+      "date": "11-Jul-2025"
+    },
+    {
+      "id": 592008,
+      "title": "Linear Race Notes 10-07",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/686fa28bbfefa_Linear_Race_Notes_1007.pdf",
+      "date": "10-Jul-2025"
+    },
+    {
+      "id": 591995,
+      "title": "Linear Race Sheet-01",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/686fa1fdd9328_Linear_Race_Sheet01.pdf",
+      "date": "10-Jul-2025"
+    },
+    {
+      "id": 591982,
+      "title": "Linear Race 10-07",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/686fa1880c301_Linear_Race_1007.pdf",
+      "date": "10-Jul-2025"
+    },
+    {
+      "id": 591174,
+      "title": "Boat and Stream Notes 09-07",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/686e59a44f6b4_Boat_and_Stream_Notes_0907.pdf",
+      "date": "09-Jul-2025"
+    },
+    {
+      "id": 591161,
+      "title": "Boat and Stream Sheet-01",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/686e5928ea1e1_Boat_and_Stream_Sheet01.pdf",
+      "date": "09-Jul-2025"
+    },
+    {
+      "id": 591148,
+      "title": "Boat and Stream 09-07",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/686e58b13d896_Boat_and_Stream_0907.pdf",
+      "date": "09-Jul-2025"
+    },
+    {
+      "id": 590358,
+      "title": "Time Speed and Distance Notes 08-07",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/686d08ea78bd4_Time_Speed_Distance_Notes_0807.pdf",
+      "date": "08-Jul-2025"
+    },
+    {
+      "id": 590345,
+      "title": "Time Speed and Distance Sheet-09",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/686d088625e5d_Time_Speed_Distance_Sheet09.pdf",
+      "date": "08-Jul-2025"
+    },
+    {
+      "id": 590332,
+      "title": "Time Speed and Distance 08-07",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/686d080b6081d_Time_Speed_Distance_0807.pdf",
+      "date": "08-Jul-2025"
+    },
+    {
+      "id": 587893,
+      "title": "Time Speed and Distance Notes 07-07",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/686ba8727726f_Time_Speed_Distance_Notes_0707.pdf",
+      "date": "07-Jul-2025"
+    },
+    {
+      "id": 587878,
+      "title": "Time Speed and Distance Sheet-08",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/686ba805f26d8_Time_Speed_Distance_Sheet08.pdf",
+      "date": "07-Jul-2025"
+    },
+    {
+      "id": 587865,
+      "title": "Time Speed and Distance 07-07",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/686ba79ad558e_Time_Speed_Distance_0707.pdf",
+      "date": "07-Jul-2025"
+    },
+    {
+      "id": 587307,
+      "title": "Time Speed and Distance Notes 05-07",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6869080b87ef4_Time_Speed_Distance_Notes_0507.pdf",
+      "date": "05-Jul-2025"
+    },
+    {
+      "id": 587294,
+      "title": "Time Speed and Distance Sheet-07",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68690793d2839_Time_Speed_Distance_Sheet07.pdf",
+      "date": "05-Jul-2025"
+    },
+    {
+      "id": 587281,
+      "title": "Time Speed and Distance 05-07",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/686906f709e8c_Time_Speed_Distance_0507.pdf",
+      "date": "05-Jul-2025"
+    },
+    {
+      "id": 586592,
+      "title": "Time Speed and Distance Notes 04-07",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6867be23a7490_Time_Speed_Distance_Notes_0407.pdf",
+      "date": "04-Jul-2025"
+    },
+    {
+      "id": 586579,
+      "title": "Time Speed and Distance Sheet-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6867bd94d252e_Time_Speed_Distance_Sheet06.pdf",
+      "date": "04-Jul-2025"
+    },
+    {
+      "id": 586566,
+      "title": "Time Speed and Distance 04-07",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6867bd2e779bb_Time_Speed_Distance_0407.pdf",
+      "date": "04-Jul-2025"
+    },
+    {
+      "id": 585309,
+      "title": "Time Speed and Distance Notes 03-07",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68667446cb18c_Time_Speed_Distance_Notes_0307.pdf",
+      "date": "03-Jul-2025"
+    },
+    {
+      "id": 585296,
+      "title": "Time Speed and Distance Sheet-05",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/686673d2ba9e4_Time_Speed_and_Distance_Sheet05.pdf",
+      "date": "03-Jul-2025"
+    },
+    {
+      "id": 584996,
+      "title": "Time Speed and Distance 03-07",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/686673660e2c2_Time_Speed_Distance_0307.pdf",
+      "date": "03-Jul-2025"
+    },
+    {
+      "id": 583644,
+      "title": "Time Speed and Distance Notes 02-07",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/686517cb3fa35_Time_Speed_Distance_Notes_0207.pdf",
+      "date": "02-Jul-2025"
+    },
+    {
+      "id": 583631,
+      "title": "Time Speed and Distance Sheet-04",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/686517475d96c_Time_Speed_Distance_Sheet04.pdf",
+      "date": "02-Jul-2025"
+    },
+    {
+      "id": 583599,
+      "title": "Time Speed and Distance 02-07",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/686516c14d854_Time_Speed_Distance_0207.pdf",
+      "date": "02-Jul-2025"
+    },
+    {
+      "id": 580346,
+      "title": "Time Speed and Distance Notes 30-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/686274d236455_Time_Speed_and_Distance_Notes_3006.pdf",
+      "date": "30-Jun-2025"
+    },
+    {
+      "id": 580333,
+      "title": "Time Speed and Sheet-03",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/686274483b5ac_Time_Speed_and_Distance_Sheet03.pdf",
+      "date": "30-Jun-2025"
+    },
+    {
+      "id": 580320,
+      "title": "Time Speed and Distance 30-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/686273c4973e9_Time_Speed_Distance_3006.pdf",
+      "date": "30-Jun-2025"
+    },
+    {
+      "id": 580109,
+      "title": "Time Speed and Distance Notes 29-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6862597700dc8_Time_Speed_Distance_Notes_2906.pdf",
+      "date": "30-Jun-2025"
+    },
+    {
+      "id": 580096,
+      "title": "Time Speed and Sheet-02",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/686258db49c0c_Time_Speed_Distance_Sheet02.pdf",
+      "date": "30-Jun-2025"
+    },
+    {
+      "id": 580083,
+      "title": "Time Speed and Distance 29-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6862584fb0424_Time_Speed_Distance_2906.pdf",
+      "date": "30-Jun-2025"
+    },
+    {
+      "id": 579731,
+      "title": "Time Speed and Distance Notes 28-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/685fc68bd3ddd_Time_Speed_Distance_Notes_2806.pdf",
+      "date": "28-Jun-2025"
+    },
+    {
+      "id": 579717,
+      "title": "Time Speed and Sheet-01",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/685fc6138066f_Time_Speed_Distance_Sheet01.pdf",
+      "date": "28-Jun-2025"
+    },
+    {
+      "id": 579704,
+      "title": "Time Speed and Distance 28-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/685fc59eeb0b3_Time_Speed_Distance_2806.pdf",
+      "date": "28-Jun-2025"
+    },
+    {
+      "id": 579306,
+      "title": "Time And Work (Pipe And Cistern) Notes  26-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/685d37103ff77_PIPE_AND_CISTERN_Notes_2606.pdf",
+      "date": "26-Jun-2025"
+    },
+    {
+      "id": 579293,
+      "title": "Time And Work Sheet-07",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/685d3681914dd_Pipe_and_Cistern_Sheet07.pdf",
+      "date": "26-Jun-2025"
+    },
+    {
+      "id": 579276,
+      "title": "Time And Work (Pipe And Cistern) 26-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/685d349717f2d_Pipe_and_Cistern_2606.pdf",
+      "date": "26-Jun-2025"
+    },
+    {
+      "id": 578625,
+      "title": "GS Booster Book Amazon Sale Only On 175 Rs.",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/685cec9496c84_GS_booster_link.pdf",
+      "date": "26-Jun-2025"
+    },
+    {
+      "id": 578140,
+      "title": "Time And Work Notes 25-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/685bda138875d_Time_And_Work_Notes_2506.pdf",
+      "date": "25-Jun-2025"
+    },
+    {
+      "id": 578127,
+      "title": "Time And Work Sheet-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/685bd99d24dd7_Time_And_Work_Sheet06.pdf",
+      "date": "25-Jun-2025"
+    },
+    {
+      "id": 578114,
+      "title": "Time And Work 25-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/685bd908395fe_Time_Work_PNG_2506.pdf",
+      "date": "25-Jun-2025"
+    },
+    {
+      "id": 577125,
+      "title": "Time And Work Notes 24-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/685a97c24d6ef_Time_And_Work_Notes_2406.pdf",
+      "date": "24-Jun-2025"
+    },
+    {
+      "id": 577111,
+      "title": "Time And Work Sheet-05",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/685a969cf2694_T_W_sheet_05.pdf",
+      "date": "24-Jun-2025"
+    },
+    {
+      "id": 577099,
+      "title": "Time And Work 24-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/685a957b12756_Time_and_Work_2406.pdf",
+      "date": "24-Jun-2025"
+    },
+    {
+      "id": 575601,
+      "title": "Time And Work Notes 23-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/685945354ba40_TIME_AND_WORK_Notes_2306compressed.pdf",
+      "date": "23-Jun-2025"
+    },
+    {
+      "id": 575573,
+      "title": "Time And Work Sheet-04",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/685942bfc0aa1_T_W_sheet_04.pdf",
+      "date": "23-Jun-2025"
+    },
+    {
+      "id": 575560,
+      "title": "Time And Work 23-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6859424658c90_Time_and_Work_2306.pdf",
+      "date": "23-Jun-2025"
+    },
+    {
+      "id": 575021,
+      "title": "Time And Work Notes 21-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68569c8396a0e_Time_and_Work_Notes_2106.pdf",
+      "date": "21-Jun-2025"
+    },
+    {
+      "id": 575008,
+      "title": "Time And Work Sheet-03",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68569c0aced47_T_W_sheet03compressed.pdf",
+      "date": "21-Jun-2025"
+    },
+    {
+      "id": 574991,
+      "title": "Time And Work 21-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68569b4626083_Time_and_Work_2106.pdf",
+      "date": "21-Jun-2025"
+    },
+    {
+      "id": 574332,
+      "title": "Time And Work Notes 20-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68554a3579efc_Time_and_Work_Notes_2006.pdf",
+      "date": "20-Jun-2025"
+    },
+    {
+      "id": 574309,
+      "title": "Time And Work Sheet-02",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/685549b859542_Time_and_Work_Sheet02.pdf",
+      "date": "20-Jun-2025"
+    },
+    {
+      "id": 574296,
+      "title": "Time And Work 20-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68554943a4dce_Time_And_Work_2006.pdf",
+      "date": "20-Jun-2025"
+    },
+    {
+      "id": 573634,
+      "title": "Time And Work Notes 19-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6853f879c4675_Time_And_Work_Notes_1906.pdf",
+      "date": "19-Jun-2025"
+    },
+    {
+      "id": 573621,
+      "title": "Time And Work Sheet-01",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6853f7e295ea3_T_W_Sheet01.pdf",
+      "date": "19-Jun-2025"
+    },
+    {
+      "id": 573608,
+      "title": "Time And Work 19-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6853f755761c4_Time_And_Work_1906.pdf",
+      "date": "19-Jun-2025"
+    },
+    {
+      "id": 572504,
+      "title": "Average Notes 18-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6852ab11aaeb1_Average_Notes_1806.pdf",
+      "date": "18-Jun-2025"
+    },
+    {
+      "id": 572491,
+      "title": "Average Sheet-05",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/686de586c14e9_Average_sheet_05.pdf",
+      "date": "18-Jun-2025"
+    },
+    {
+      "id": 572478,
+      "title": "Average 18-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6852aa07c5da4_Average_1806.pdf",
+      "date": "18-Jun-2025"
+    },
+    {
+      "id": 571337,
+      "title": "Average Notes 17-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68515ee7aea3f_Average_Notes_1706.pdf",
+      "date": "17-Jun-2025"
+    },
+    {
+      "id": 571324,
+      "title": "Average Sheet-04",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68515e7500719_Average_Sheet04.pdf",
+      "date": "17-Jun-2025"
+    },
+    {
+      "id": 571311,
+      "title": "Average 17-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68515dbe2b222_Average_1706.pdf",
+      "date": "17-Jun-2025"
+    },
+    {
+      "id": 571297,
+      "title": "Average Notes 16-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68515d22c3e9c_AVERAGE_Notes_1606.pdf",
+      "date": "17-Jun-2025"
+    },
+    {
+      "id": 571284,
+      "title": "Average Sheet-03",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68515b75b9a5d_Average_Sheet03.pdf",
+      "date": "17-Jun-2025"
+    },
+    {
+      "id": 571270,
+      "title": "Average 16-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68515a7cdc638_Average_1606.pdf",
+      "date": "17-Jun-2025"
+    },
+    {
+      "id": 569953,
+      "title": "Average Notes 14-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/684d5178d8b8c_AVERAGE_Notes_1406.pdf",
+      "date": "14-Jun-2025"
+    },
+    {
+      "id": 569934,
+      "title": "Average Sheet-02",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/684d50ed763f9_Averge_Sheet02.pdf",
+      "date": "14-Jun-2025"
+    },
+    {
+      "id": 569902,
+      "title": "Average 14-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/684d507f37875_Average_1406.pdf",
+      "date": "14-Jun-2025"
+    },
+    {
+      "id": 569519,
+      "title": "Average Notes 13-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/684c1376690cb_AVERAGE_Notes_1306.pdf",
+      "date": "13-Jun-2025"
+    },
+    {
+      "id": 569506,
+      "title": "Average Sheet-01",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/684c13052ff20_Average_Sheet01.pdf",
+      "date": "13-Jun-2025"
+    },
+    {
+      "id": 569493,
+      "title": "Average 13-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/684c12968ec7d_Average_1306.pdf",
+      "date": "13-Jun-2025"
+    },
+    {
+      "id": 568834,
+      "title": "Mixture And Alligation Notes 12-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/684ac35a5669b_MIXTURE_AND_ALLIAGTION_Notes_1206.pdf",
+      "date": "12-Jun-2025"
+    },
+    {
+      "id": 568821,
+      "title": "Mixture And Alligation Sheet-03",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/684ac2dbb2ae7_Mixture_and_alligation_Sheet03.pdf",
+      "date": "12-Jun-2025"
+    },
+    {
+      "id": 568806,
+      "title": "Mixture And Alligation 12-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/684ac248e10b3_Mixture_and_Alligation_1206.pdf",
+      "date": "12-Jun-2025"
+    },
+    {
+      "id": 567736,
+      "title": "Mixture And Alligation Notes 11-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/684975603472a_MIXTURE_AND_ALLIGATION_Notes.pdf",
+      "date": "11-Jun-2025"
+    },
+    {
+      "id": 567723,
+      "title": "Mixture And Alligation Sheet-01",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/684974d779a76_Mixture_and_Alligation.pdf",
+      "date": "11-Jun-2025"
+    },
+    {
+      "id": 567710,
+      "title": "Mixture And Alligation 11-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68497462d8c23_Mixture_Alligation_PNG_1106.pdf",
+      "date": "11-Jun-2025"
+    },
+    {
+      "id": 566089,
+      "title": "Mixture And Alligation Notes 10-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68481f6ad5b86_Mixture_Alligation_Notes_1006.pdf",
+      "date": "10-Jun-2025"
+    },
+    {
+      "id": 566076,
+      "title": "Mixture And Alligation Sheet-01",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68481ef5da1ec_Mixture_Alligation_Sheet01.pdf",
+      "date": "10-Jun-2025"
+    },
+    {
+      "id": 566045,
+      "title": "Mixture And Alligation 10-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68481e6e630e0_Mixture_Alligation_1006.pdf",
+      "date": "10-Jun-2025"
+    },
+    {
+      "id": 565827,
+      "title": "Ratio And Proportion Notes (Partnership) 09-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/684a7f498d021_Ratio_and_Proporation_Notes_0906.pdf",
+      "date": "09-Jun-2025"
+    },
+    {
+      "id": 565814,
+      "title": "Ratio And Proportion Sheet-07",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/684a7f389e9e5_Patnership_Sheet07.pdf",
+      "date": "09-Jun-2025"
+    },
+    {
+      "id": 565793,
+      "title": "Ratio And Proportion (Partnership) 09-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/684a7f25e1e21_Ratio_and_Proportion_0906.pdf",
+      "date": "09-Jun-2025"
+    },
+    {
+      "id": 564773,
+      "title": "Ratio And Proportion Notes (Age) 07-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68442540309dc_Ratio_And_Proportion_Age_Notes.pdf",
+      "date": "07-Jun-2025"
+    },
+    {
+      "id": 564760,
+      "title": "Ratio And Proportion Sheet-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/684424b444d3c_Ratio_And_Proportion_Sheet06.pdf",
+      "date": "07-Jun-2025"
+    },
+    {
+      "id": 564747,
+      "title": "Ratio And Proportion (Age) 07-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6844243cd44f7_Ratio_And_Proportion_Age.pdf",
+      "date": "07-Jun-2025"
+    },
+    {
+      "id": 564610,
+      "title": "Ratio And Proportion Notes 06-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6842cf92afd1c_Ratio_And_Proportion_Notes_0606.pdf",
+      "date": "06-Jun-2025"
+    },
+    {
+      "id": 564597,
+      "title": "Ratio And Proportion Sheet-05",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6842cef6afc1a_Ratio_And_Proportion_Sheet05.pdf",
+      "date": "06-Jun-2025"
+    },
+    {
+      "id": 564582,
+      "title": "Ratio And Proportion 06-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6842cd2631beb_Ratio_And_Proportion_0606.pdf",
+      "date": "06-Jun-2025"
+    },
+    {
+      "id": 564072,
+      "title": "Ratio And Proportion Notes 05-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68417a0f05ad1_RATIO_PROPORATION_Notes_0506.pdf",
+      "date": "05-Jun-2025"
+    },
+    {
+      "id": 564059,
+      "title": "Ratio And Proportion Sheet-04",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6841796e25b9d_Ratio_and_Proporation_Sheet04.pdf",
+      "date": "05-Jun-2025"
+    },
+    {
+      "id": 564046,
+      "title": "Ratio And Proportion 05-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/684178d85de26_Ratio_And_Proportion_0506.pdf",
+      "date": "05-Jun-2025"
+    },
+    {
+      "id": 562871,
+      "title": "Ratio And Proportion Notes 04-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68402a6b868ce_Ratio_and_Proportion_Notes_0406.pdf",
+      "date": "04-Jun-2025"
+    },
+    {
+      "id": 562858,
+      "title": "Ratio And Proportion Sheet-03",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/684029e578abd_Ratio_Proportion_sheet_03.pdf",
+      "date": "04-Jun-2025"
+    },
+    {
+      "id": 562843,
+      "title": "Ratio And Proportion 04-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6840280e27d19_Ratio_and_Proportion_0406.pdf",
+      "date": "04-Jun-2025"
+    },
+    {
+      "id": 562123,
+      "title": "Ratio And Proportion Notes 03-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/683edc0bbc42c_Ratio_and_proportion_Notes_0306.pdf",
+      "date": "03-Jun-2025"
+    },
+    {
+      "id": 562103,
+      "title": "Ratio And Proportion Sheet-02",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/683edb7c01075_Ratio_Proportion_sheet_02.pdf",
+      "date": "03-Jun-2025"
+    },
+    {
+      "id": 562088,
+      "title": "Ratio And Proportion 03-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/683edaf3b8266_Ratio_And_Proportion_0306.pdf",
+      "date": "03-Jun-2025"
+    },
+    {
+      "id": 561168,
+      "title": "Ratio And Proportion Notes 02-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/683d8302ca59f_Ratio_and_proportion_Notes_0206.pdf",
+      "date": "02-Jun-2025"
+    },
+    {
+      "id": 561155,
+      "title": "Ratio And Proportion Sheet-01",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/683d8248a7bbf_Ratio_And_Proportion_Sheet01.pdf",
+      "date": "02-Jun-2025"
+    },
+    {
+      "id": 561142,
+      "title": "Ratio And Proportion 02-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/683d81c8309da_Ratio_And_Proportion_0206.pdf",
+      "date": "02-Jun-2025"
+    },
+    {
+      "id": 558388,
+      "title": "Profit and Loss (Dishonest) Notes 31-05",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/683af03c5ec70_Profit_And_Loss_Dishonest_Notes_3105.pdf",
+      "date": "31-May-2025"
+    },
+    {
+      "id": 558375,
+      "title": "Profit & Loss sheet-07",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/686b6811c0ca0_Profit_Loss_sheet_07.pdf",
+      "date": "31-May-2025"
+    },
+    {
+      "id": 558362,
+      "title": "Profit and Loss (Dishonest) 31-05",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/683aef4248bbb_Profit_and_Loss_Dishonest_3105.pdf",
+      "date": "31-May-2025"
+    },
+    {
+      "id": 557696,
+      "title": "Profit and Loss (Discount) Notes 30-05",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6839969ea1a68_Profit_and_Loss_Discount_Notes_3005_B01.pdf",
+      "date": "30-May-2025"
+    },
+    {
+      "id": 557683,
+      "title": "Profit and Loss Sheet-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68399600d9414_Profit_and_Loss_Discount_Sheet06_B01.pdf",
+      "date": "30-May-2025"
+    },
+    {
+      "id": 557670,
+      "title": "Profit and Loss (Discount) 30-05",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6839957e810ba_Profit_and_Loss_Discount_3005_B01.pdf",
+      "date": "30-May-2025"
+    },
+    {
+      "id": 554896,
+      "title": "Profit and Loss (Discount) Notes 29-05",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6838434f89f2e_Profit_and_Loss_Discount_Notes_2905.pdf",
+      "date": "29-May-2025"
+    },
+    {
+      "id": 554878,
+      "title": "Profit and Loss Sheet-05",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/683842d23b49e_Profit_and_Loss_Discount_Sheet05.pdf",
+      "date": "29-May-2025"
+    },
+    {
+      "id": 554855,
+      "title": "Profit and Loss (Discount) 29-05",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68384251a2f7d_Profit_and_Loss_Discount2905.pdf",
+      "date": "29-May-2025"
+    },
+    {
+      "id": 554152,
+      "title": "Profit and Loss (Discount) Notes 28-05",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6836fbb35c4ee_Profit_and_Loss_Discount_Notes_2805.pdf",
+      "date": "28-May-2025"
+    },
+    {
+      "id": 554139,
+      "title": "Profit and Loss Sheet-04",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6836fb3750988_Profit_and_Loss_Discount_Sheet04.pdf",
+      "date": "28-May-2025"
+    },
+    {
+      "id": 554126,
+      "title": "Profit and Loss (Discount) 28-05",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6836fab60de2e_Profit_and_Loss_Discount_2805.pdf",
+      "date": "28-May-2025"
+    },
+    {
+      "id": 554000,
+      "title": "Flipkart Book Sale Links PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6836d3e904b9a_Book_Poster_With_Link.pdf",
+      "date": "28-May-2025"
+    },
+    {
+      "id": 553944,
+      "title": "Profit and Loss Notes 27-05",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6835af0e745ff_Profit_and_Loss_Notes_2705.pdf",
+      "date": "27-May-2025"
+    },
+    {
+      "id": 553931,
+      "title": "Profit and Loss Sheet-03",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6835ae962fe8c_Profit_and_Loss_Sheet03.pdf",
+      "date": "27-May-2025"
+    },
+    {
+      "id": 553918,
+      "title": "Profit and Loss 27-05",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6835ae0ee2cee_Profit_and_Loss_png_2705.pdf",
+      "date": "27-May-2025"
+    },
+    {
+      "id": 553138,
+      "title": "Profit and Loss Notes 26-05",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68345bf7be140_Profit_and_Loss_Notes.pdf",
+      "date": "26-May-2025"
+    },
+    {
+      "id": 553125,
+      "title": "Profit and Loss Sheet-02",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68345b7c6ac4e_Profit_Loss_sheet_02.pdf",
+      "date": "26-May-2025"
+    },
+    {
+      "id": 553112,
+      "title": "Profit and Loss 26-05",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68345aede91d5_Profit_and_Loss_2605.pdf",
+      "date": "26-May-2025"
+    },
+    {
+      "id": 551811,
+      "title": "Profit and Loss Notes 24-05",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6831abde0f90b_Profit_and_Loss_Notes_2405.pdf",
+      "date": "24-May-2025"
+    },
+    {
+      "id": 551798,
+      "title": "Profit and Loss Sheet-01",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6831ab5f23f12_Profit_and_Loss_Sheet01.pdf",
+      "date": "24-May-2025"
+    },
+    {
+      "id": 551785,
+      "title": "Profit and Loss 24-05",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6831aa5ddbcf7_Profit_and_Loss_2405.pdf",
+      "date": "24-May-2025"
+    },
+    {
+      "id": 551365,
+      "title": "Simple Interest Notes 23-05",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/683067340e919_SIMPLE_INTEREST_Notes_2305.pdf",
+      "date": "23-May-2025"
+    },
+    {
+      "id": 551352,
+      "title": "Simple Interest Sheet-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/683066bb3f164_SI_sheet_06.pdf",
+      "date": "23-May-2025"
+    },
+    {
+      "id": 551320,
+      "title": "Simple Interest 23-05",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68305f099ddbe_SI_Installment_2305.pdf",
+      "date": "23-May-2025"
+    },
+    {
+      "id": 549921,
+      "title": "Simple Interest Notes 22-05",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/682f107ba19bb_SI_Notes_2205_2.pdf",
+      "date": "22-May-2025"
+    },
+    {
+      "id": 549908,
+      "title": "Simple Interest Sheet-05",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/682f0ff8a437e_SI_Sheet05.pdf",
+      "date": "22-May-2025"
+    },
+    {
+      "id": 549895,
+      "title": "Simple Interest 22-05",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/682f0f668dc5e_SI_2205.pdf",
+      "date": "22-May-2025"
+    },
+    {
+      "id": 549194,
+      "title": "Simple Interest Notes 21-05",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/682dc06d9a197_Simple_Interest_Notes_2105.pdf",
+      "date": "21-May-2025"
+    },
+    {
+      "id": 549181,
+      "title": "Simple Interest Sheet-04",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/682dbff68c57a_SI_sheet_04.pdf",
+      "date": "21-May-2025"
+    },
+    {
+      "id": 549168,
+      "title": "Simple Interest 21-05",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/682dbf817f672_Simple_Interest_2105.pdf",
+      "date": "21-May-2025"
+    },
+    {
+      "id": 548348,
+      "title": "Simple Interest Notes 20-05",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/682c6709a1a2b_SIMPLE_INTEREST_Notes_2005.pdf",
+      "date": "20-May-2025"
+    },
+    {
+      "id": 548335,
+      "title": "Simple Interest Sheet-03",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/682c6664c2b12_SI_sheet_03.pdf",
+      "date": "20-May-2025"
+    },
+    {
+      "id": 548322,
+      "title": "Simple Interest 20-05",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/682c65d6014ed_Simple_Interest_2005.pdf",
+      "date": "20-May-2025"
+    },
+    {
+      "id": 548080,
+      "title": "Simple Interest Notes 19-05",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/682b1ccd85f22_SI.pdf",
+      "date": "19-May-2025"
+    },
+    {
+      "id": 548067,
+      "title": "Simple Interest Sheet-02",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/682b1c4abb7c7_SI_sheet_02.pdf",
+      "date": "19-May-2025"
+    },
+    {
+      "id": 548054,
+      "title": "Simple Interest 19-05",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/682b1bd7da43d_Simple_Interest_Group_D.pdf",
+      "date": "19-May-2025"
+    },
+    {
+      "id": 545060,
+      "title": "Simple Interest Notes 17-05",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68287fa6c294e_Simple_Interest_Notes_1705.pdf",
+      "date": "17-May-2025"
+    },
+    {
+      "id": 545047,
+      "title": "Simple Interest Sheet-01",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68287f2516161_Simple_Interest_Sheet01.pdf",
+      "date": "17-May-2025"
+    },
+    {
+      "id": 545034,
+      "title": "Simple Interest 17-05",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68287ea41633f_Simple_Interest_1705.pdf",
+      "date": "17-May-2025"
+    },
+    {
+      "id": 544639,
+      "title": "Compound Interest  Notes 16-05",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68271f964e1ef_CI_Notes_1605.pdf",
+      "date": "16-May-2025"
+    },
+    {
+      "id": 544626,
+      "title": "Compound Interest Sheet-07",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68271ec6d90e2_CI_07.pdf",
+      "date": "16-May-2025"
+    },
+    {
+      "id": 544613,
+      "title": "Compound Interest 16-05",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68271e2442f4b_Compound_Interest_1605.pdf",
+      "date": "16-May-2025"
+    },
+    {
+      "id": 543462,
+      "title": "Compound Interest Notes 15-05",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6825d20722678_Compound_Interest_Notes_1505_1.pdf",
+      "date": "15-May-2025"
+    },
+    {
+      "id": 543449,
+      "title": "Compound Interest Sheet-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6825d1840d923_CI_Sheet06_1.pdf",
+      "date": "15-May-2025"
+    },
+    {
+      "id": 543430,
+      "title": "Compound Interest 15-05",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6825d0d5b9ef5_Compound_Interest_1505_1.pdf",
+      "date": "15-May-2025"
+    },
+    {
+      "id": 541393,
+      "title": "Compound Interest Notes 14-05",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/682487966df74_CI_Notes_1405_2.pdf",
+      "date": "14-May-2025"
+    },
+    {
+      "id": 541380,
+      "title": "Compound Interest Sheet-05",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/682486f8b85ee_CI_Sheet05_2.pdf",
+      "date": "14-May-2025"
+    },
+    {
+      "id": 541367,
+      "title": "Compound Interest 14-05",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6824866cdacf3_CI_1405_2.pdf",
+      "date": "14-May-2025"
+    },
+    {
+      "id": 539698,
+      "title": "Compound Interest Notes 13-05",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6823327c17f3f_CI_Notes_1305.pdf",
+      "date": "13-May-2025"
+    },
+    {
+      "id": 539681,
+      "title": "Compound Interest Sheet-04",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/682331dfde371_CI_Sheet04.pdf",
+      "date": "13-May-2025"
+    },
+    {
+      "id": 539664,
+      "title": "Compound Interest 13-05",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6823313c40611_CI_1305.pdf",
+      "date": "13-May-2025"
+    },
+    {
+      "id": 538660,
+      "title": "Compound Interest Notes 12-05",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6821dfd8e9f5a_CI_Notes_1205.pdf",
+      "date": "12-May-2025"
+    },
+    {
+      "id": 538643,
+      "title": "Compound Interest Sheet-03",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6821df1fc281e_CI_Sheet03.pdf",
+      "date": "12-May-2025"
+    },
+    {
+      "id": 538626,
+      "title": "Compound Interest 12-05",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6821de7386eed_CI_1205.pdf",
+      "date": "12-May-2025"
+    },
+    {
+      "id": 536991,
+      "title": "Compound Interest Notes 10-05",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/681f330ca5491_CI_Notes_1005.pdf",
+      "date": "10-May-2025"
+    },
+    {
+      "id": 536974,
+      "title": "Compound Interest Sheet-02",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/681f323481bc0_CI_Sheet02.pdf",
+      "date": "10-May-2025"
+    },
+    {
+      "id": 536957,
+      "title": "Compound Interest 10-05",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/681f318b8a95c_CI_1005.pdf",
+      "date": "10-May-2025"
+    },
+    {
+      "id": 535574,
+      "title": "Compound Interest Notes 09-05",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/681deeb0c9e3a_CI_Notes_0905.pdf",
+      "date": "09-May-2025"
+    },
+    {
+      "id": 535557,
+      "title": "Compound Interest Sheet-01",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/681dedbccda78_CI_Sheet01.pdf",
+      "date": "09-May-2025"
+    },
+    {
+      "id": 535540,
+      "title": "Compound Interest 09-05",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/681decf8a6c89_CI_0905.pdf",
+      "date": "09-May-2025"
+    },
+    {
+      "id": 534772,
+      "title": "Percentage Notes 08-05",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/681c989ce3c04_Percentage_Notes_0805_2.pdf",
+      "date": "08-May-2025"
+    },
+    {
+      "id": 534759,
+      "title": "Percentage Sheet-14",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/681c9809ac14d_PERCENTAGE_sheet_14.pdf",
+      "date": "08-May-2025"
+    },
+    {
+      "id": 534746,
+      "title": "Percentage PNG 08-05",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/681c977d660b5_Percentage_0805_1.pdf",
+      "date": "08-May-2025"
+    },
+    {
+      "id": 533883,
+      "title": "Percentage Notes 07-05",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/681b82c880716_Percentage_Notes_0705_1.pdf",
+      "date": "07-May-2025"
+    },
+    {
+      "id": 533870,
+      "title": "Percentage Sheet-13",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/681b8154ebbc6_Percentage_sheet_13.pdf",
+      "date": "07-May-2025"
+    },
+    {
+      "id": 533408,
+      "title": "Percentage PNG 07-05",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/681b61544623d_Percentage_0705_1.pdf",
+      "date": "07-May-2025"
+    },
+    {
+      "id": 533377,
+      "title": "Percentage Notes 06-05",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/681b5f6942782_Percentage_Notes_0605.pdf",
+      "date": "07-May-2025"
+    },
+    {
+      "id": 532784,
+      "title": "Percentage Sheet-12",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6819f2f15a501_Percentage_sheet_12.pdf",
+      "date": "06-May-2025"
+    },
+    {
+      "id": 532754,
+      "title": "Percentage PNG 06-05",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6819f18ba88f4_Percentage_PNG_0605.pdf",
+      "date": "06-May-2025"
+    },
+    {
+      "id": 532255,
+      "title": "Percentage Notes 05-05",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68198eca5fac2_Percentage_Notes_0505.pdf",
+      "date": "06-May-2025"
+    },
+    {
+      "id": 532117,
+      "title": "Percentage Sheet-11",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68189cbb52c73_Percentage_sheet_11.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 532101,
+      "title": "Percentage PNG 05-05",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68189be0403f8_Percentage_PNG_0505.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531536,
+      "title": "Percentage Notes 02-05",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/681846174b732_Percentage_Notes_0205.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531497,
+      "title": "Percentage Sheet-10",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/681841db5dd43_Percentage_sheet_10.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531467,
+      "title": "Percentage PNG 02-05",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68183eb9740b7_percentage_0205compressed.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 530164,
+      "title": "Percentage Notes 30-04",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/681210409d880_Percentage_Notes_3004.pdf",
+      "date": "30-Apr-2025"
+    },
+    {
+      "id": 530151,
+      "title": "Percentage Sheet-09",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68120fb9579a3_Percentage_sheet_09.pdf",
+      "date": "30-Apr-2025"
+    },
+    {
+      "id": 530138,
+      "title": "Percentage PNG 30-04",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68120f2284aea_Percentage_3004.pdf",
+      "date": "30-Apr-2025"
+    },
+    {
+      "id": 528917,
+      "title": "Percentage Notes 29-04",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/681098a3eee3e_Percentage_Notes_2904.pdf",
+      "date": "29-Apr-2025"
+    },
+    {
+      "id": 528863,
+      "title": "Percentage Sheet-08",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6810920f6d920_Percentage_sheet_08.pdf",
+      "date": "29-Apr-2025"
+    },
+    {
+      "id": 528847,
+      "title": "Percentage PNG 29-04",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6810912eca39b_Percentage_PNG.pdf",
+      "date": "29-Apr-2025"
+    },
+    {
+      "id": 528561,
+      "title": "Percentage Notes 28-04",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/680f6b820e219_Percentage_Notes_2804l.pdf",
+      "date": "28-Apr-2025"
+    },
+    {
+      "id": 528548,
+      "title": "Percentage Sheet-07",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/680f6b0a8be1a_Percentage_sheet_07.pdf",
+      "date": "28-Apr-2025"
+    },
+    {
+      "id": 528533,
+      "title": "Percentage PNG 28-04",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/680f6a931d802_Percentage_2804.pdf",
+      "date": "28-Apr-2025"
+    },
+    {
+      "id": 526855,
+      "title": "Percentage Notes 26-04",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/680c9c1ce4cfb_Percenatge_Notes_2604_1.pdf",
+      "date": "26-Apr-2025"
+    },
+    {
+      "id": 526842,
+      "title": "Percentage Sheet-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/680c9b9c082aa_Percentage_sheet_061.pdf",
+      "date": "26-Apr-2025"
+    },
+    {
+      "id": 526829,
+      "title": "Percentage PNG 26-04",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/680c9b09a10a0_Percentage_PNG_2604_1.pdf",
+      "date": "26-Apr-2025"
+    },
+    {
+      "id": 526629,
+      "title": "Percentage Notes 25-04",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/680b7976dde9a_Percenatage_Notes_2504.pdf",
+      "date": "25-Apr-2025"
+    },
+    {
+      "id": 526612,
+      "title": "Percentage Sheet-05",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/680b78999bf88_Percentage_sheet_5.pdf",
+      "date": "25-Apr-2025"
+    },
+    {
+      "id": 526595,
+      "title": "Percentage PNG 25-04",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/680b77b640398_Percentage_2504.pdf",
+      "date": "25-Apr-2025"
+    },
+    {
+      "id": 526099,
+      "title": "Percentage Notes 24-04",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/680a2726c8d50_Percentage_class_Notes_04.pdf",
+      "date": "24-Apr-2025"
+    },
+    {
+      "id": 526082,
+      "title": "Percentage Sheet-04",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/680a268125f1d_Percentage_sheet_04.pdf",
+      "date": "24-Apr-2025"
+    },
+    {
+      "id": 526029,
+      "title": "Percentage PNG 24-04",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/680a20fb09f97_class04_PNG_24_April_Percentage.pdf",
+      "date": "24-Apr-2025"
+    },
+    {
+      "id": 525599,
+      "title": "Percentage Notes 23-04",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6808d5682df8e_Percentage_Class_Notes_2304compressed.pdf",
+      "date": "23-Apr-2025"
+    },
+    {
+      "id": 525557,
+      "title": "Percentage Sheet-03",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6808d26c3628e_Percentage_sheet_03.pdf",
+      "date": "23-Apr-2025"
+    },
+    {
+      "id": 523431,
+      "title": "Percentage PNG 23-04",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6808834d67636_class03_PNG_23_April_Percentage.pdf",
+      "date": "23-Apr-2025"
+    },
+    {
+      "id": 523242,
+      "title": "Percentage Notes 22-04",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/680797b1a0831_Percentage_Notes_2204.pdf",
+      "date": "22-Apr-2025"
+    },
+    {
+      "id": 523216,
+      "title": "Percentage Sheet-02",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/680785b6af47c_Percentage_sheet_02.pdf",
+      "date": "22-Apr-2025"
+    },
+    {
+      "id": 523199,
+      "title": "Percentage PNG 22-04",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6807851e88ea1_Percentage_Class02_PNG.pdf",
+      "date": "22-Apr-2025"
+    },
+    {
+      "id": 522333,
+      "title": "Percentage Notes 21-04",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/680619f01fd14_Percentage_Notes_2104.pdf",
+      "date": "21-Apr-2025"
+    },
+    {
+      "id": 522316,
+      "title": "Percentage Sheet-01",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/680619452bc9f_Percentage_sheet_01.pdf",
+      "date": "21-Apr-2025"
+    },
+    {
+      "id": 522299,
+      "title": "Percentage PNG 21-04",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/680618966b7cb_Percentage_PNG_2104.pdf",
+      "date": "21-Apr-2025"
+    }
+  ]
+}
