@@ -1,0 +1,3376 @@
+{
+  "batchid": 2900,
+  "topicid": 29859,
+  "classes_total": 70,
+  "classes": [
+    {
+      "title": "Class-04 | Mensuration (Recorded)",
+      "id": "4447479",
+      "date": "21-Aug-2025 09:35",
+      "video_url": "4447479_0_3537453644789617"
+    },
+    {
+      "title": "Class-03 | Mensuration (Recorded)",
+      "id": "4447481",
+      "date": "21-Aug-2025 09:32",
+      "video_url": "4447481_0_4015984320247933"
+    },
+    {
+      "title": "Class-02 | Mensuration (Recorded)",
+      "id": "4447480",
+      "date": "21-Aug-2025 09:30",
+      "video_url": "4447480_0_8088362244949459"
+    },
+    {
+      "title": "Class-01 | Maths | Mensuration 2D",
+      "id": "4524800",
+      "date": "20-Aug-2025 09:30",
+      "video_url": "4524800_0_8973975852766104"
+    },
+    {
+      "title": "Class-03 | Maths | DI",
+      "id": "4523596",
+      "date": "19-Aug-2025 09:30",
+      "video_url": "4523596_0_6044206018416810"
+    },
+    {
+      "title": "Class-02 | Maths | DI",
+      "id": "4522651",
+      "date": "18-Aug-2025 09:30",
+      "video_url": "4522651_0_7502166647220711"
+    },
+    {
+      "title": "Class-01 | Maths | DI",
+      "id": "4521748",
+      "date": "16-Aug-2025 09:30",
+      "video_url": "4521748_0_1390140356779016"
+    },
+    {
+      "title": "Class-03 | Maths | Power Surds Indices",
+      "id": "4520319",
+      "date": "14-Aug-2025 09:30",
+      "video_url": "4520319_0_6132647441260169"
+    },
+    {
+      "title": "Class-02 | Maths | Power Surds Indices",
+      "id": "4519019",
+      "date": "13-Aug-2025 09:30",
+      "video_url": "4519019_0_1734774573986146"
+    },
+    {
+      "title": "Class-01 | Maths | Power Surds Indices",
+      "id": "4517665",
+      "date": "12-Aug-2025 09:30",
+      "video_url": "4517665_0_7220054071825219"
+    },
+    {
+      "title": "Class-04 | Maths | LCM and HCF",
+      "id": "4516524",
+      "date": "11-Aug-2025 09:30",
+      "video_url": "4516524_0_2995418916630160"
+    },
+    {
+      "title": "Class-02 | Maths | LCM and HCF",
+      "id": "4514614",
+      "date": "07-Aug-2025 09:30",
+      "video_url": "4514614_0_6107574786965304"
+    },
+    {
+      "title": "Class-01 | Maths | LCM and HCF",
+      "id": "4513579",
+      "date": "06-Aug-2025 09:30",
+      "video_url": "4513579_0_6840429535906517"
+    },
+    {
+      "title": "Class-02 | Maths | Circular Race",
+      "id": "4512600",
+      "date": "05-Aug-2025 09:30",
+      "video_url": "4512600_0_9138649971813757"
+    },
+    {
+      "title": "Class-01 | Maths | Linear Race",
+      "id": "4511680",
+      "date": "04-Aug-2025 09:30",
+      "video_url": "4511680_0_8559426813288382"
+    },
+    {
+      "title": "Class-01 | Maths | Boat and Stream",
+      "id": "4510799",
+      "date": "02-Aug-2025 09:30",
+      "video_url": "4510799_0_3282171688909609"
+    },
+    {
+      "title": "Class-08 | Maths | Time Speed & Distance",
+      "id": "4505987",
+      "date": "01-Aug-2025 09:30",
+      "video_url": "4505987_0_5442435146093050"
+    },
+    {
+      "title": "Class-07 | Maths | Time Speed & Distance",
+      "id": "4504804",
+      "date": "31-Jul-2025 09:30",
+      "video_url": "4504804_0_7147559985909556"
+    },
+    {
+      "title": "Class-06 | Maths | Time Speed & Distance",
+      "id": "4503554",
+      "date": "30-Jul-2025 09:30",
+      "video_url": "4503554_0_6918540488288100"
+    },
+    {
+      "title": "Class-05 | Maths | Time Speed & Distance",
+      "id": "4502453",
+      "date": "29-Jul-2025 09:30",
+      "video_url": "4502453_0_6904384218939490"
+    },
+    {
+      "title": "Class-04 | Maths | Time Speed & Distance",
+      "id": "4495563",
+      "date": "28-Jul-2025 09:30",
+      "video_url": "4495563_0_7970131135028017"
+    },
+    {
+      "title": "Class-03 | Maths | Time Speed & Distance",
+      "id": "4494158",
+      "date": "26-Jul-2025 09:30",
+      "video_url": "4494158_0_5030437893166455"
+    },
+    {
+      "title": "Class-02 | Maths | Time Speed & Distance",
+      "id": "4493099",
+      "date": "25-Jul-2025 09:30",
+      "video_url": "4493099_0_2024120315702034"
+    },
+    {
+      "title": "Class-01 | Maths | Time Speed & Distance",
+      "id": "4491868",
+      "date": "24-Jul-2025 09:30",
+      "video_url": "4491868_0_1740926903745749"
+    },
+    {
+      "title": "Class-07 | Maths | Time And Work (Pipe and Cistern)",
+      "id": "4490124",
+      "date": "23-Jul-2025 09:30",
+      "video_url": "4490124_0_7631219684954632"
+    },
+    {
+      "title": "Class-06 | Maths | Time And Work (Work and Wages)",
+      "id": "4488314",
+      "date": "22-Jul-2025 09:30",
+      "video_url": "4488314_0_2638209541639434"
+    },
+    {
+      "title": "Class-05 | Maths | Time And Work",
+      "id": "4487269",
+      "date": "21-Jul-2025 09:30",
+      "video_url": "4487269_0_7291950582667566"
+    },
+    {
+      "title": "Class-04 | Maths | Time And Work",
+      "id": "4486324",
+      "date": "19-Jul-2025 09:30",
+      "video_url": "4486324_0_3792524394369910"
+    },
+    {
+      "title": "Class-03 | Maths | Time And Work",
+      "id": "4485374",
+      "date": "18-Jul-2025 09:30",
+      "video_url": "4485374_0_9651021649109260"
+    },
+    {
+      "title": "Class-02 | Maths | Time And Work",
+      "id": "4484302",
+      "date": "17-Jul-2025 09:30",
+      "video_url": "4484302_0_8744894846684427"
+    },
+    {
+      "title": "Class-01 | Maths |  Time And Work",
+      "id": "4483273",
+      "date": "16-Jul-2025 09:30",
+      "video_url": "4483273_0_9579881802585452"
+    },
+    {
+      "title": "Class-05 | Maths | Average",
+      "id": "4482247",
+      "date": "15-Jul-2025 09:30",
+      "video_url": "4482247_0_8601967740431624"
+    },
+    {
+      "title": "Maths Revision Booster (Formula Book) | BY Rakesh Sir",
+      "id": "4565836",
+      "date": "14-Jul-2025 17:00",
+      "video_url": "4565836_0_4700782020796770"
+    },
+    {
+      "title": "Class-04 | Average",
+      "id": "4481180",
+      "date": "14-Jul-2025 09:30",
+      "video_url": "4481180_0_9611524539287511"
+    },
+    {
+      "title": "Class-03 | Average",
+      "id": "4480384",
+      "date": "12-Jul-2025 09:30",
+      "video_url": "4480384_0_7063570397487684"
+    },
+    {
+      "title": "Class-02 | Average",
+      "id": "4479428",
+      "date": "11-Jul-2025 09:30",
+      "video_url": "4479428_0_5202420017263784"
+    },
+    {
+      "title": "Class-01 | Average",
+      "id": "4478359",
+      "date": "10-Jul-2025 09:30",
+      "video_url": "4478359_0_4347822749603248"
+    },
+    {
+      "title": "Class-03 | Mixture and Alligation",
+      "id": "4477144",
+      "date": "09-Jul-2025 09:30",
+      "video_url": "4477144_0_5910328230944815"
+    },
+    {
+      "title": "Class-02 | Mixture and Alligation",
+      "id": "4476200",
+      "date": "08-Jul-2025 09:30",
+      "video_url": "4476200_0_6483618540721717"
+    },
+    {
+      "title": "Class-04 | Profit and Loss (Discount)",
+      "id": "4457685",
+      "date": "21-Jun-2025 09:30",
+      "video_url": "4457685_0_9695010264837132"
+    },
+    {
+      "title": "Class-03 | Profit and Loss",
+      "id": "4457684",
+      "date": "20-Jun-2025 09:30",
+      "video_url": "4457684_0_4718517590205226"
+    },
+    {
+      "title": "Class-02 | Profit and Loss",
+      "id": "4457683",
+      "date": "19-Jun-2025 09:30",
+      "video_url": "4457683_0_2686836243793412"
+    },
+    {
+      "title": "Class-01 | Profit and Loss",
+      "id": "4457682",
+      "date": "18-Jun-2025 09:30",
+      "video_url": "4457682_0_2279489801621533"
+    },
+    {
+      "title": "Class-06 | Simple Interest",
+      "id": "4457681",
+      "date": "17-Jun-2025 09:30",
+      "video_url": "4457681_0_6005836110858283"
+    },
+    {
+      "title": "Class-05 | Simple Interest",
+      "id": "4457680",
+      "date": "16-Jun-2025 09:30",
+      "video_url": "4457680_0_9733592247665598"
+    },
+    {
+      "title": "Class-04 | Simple Interest",
+      "id": "4457679",
+      "date": "14-Jun-2025 09:30",
+      "video_url": "4457679_0_8886072160017080"
+    },
+    {
+      "title": "Class-03 | Simple Interest",
+      "id": "4457678",
+      "date": "13-Jun-2025 09:30",
+      "video_url": "4457678_0_6129496109377168"
+    },
+    {
+      "title": "Class-01 | Simple Interest",
+      "id": "4457677",
+      "date": "11-Jun-2025 09:30",
+      "video_url": "4457677_0_9100725550871755"
+    },
+    {
+      "title": "Class-07 | Compound Interest (Pascal)",
+      "id": "4457676",
+      "date": "10-Jun-2025 09:30",
+      "video_url": "4457676_0_5147926336295054"
+    },
+    {
+      "title": "Class-06 | Compound Interest (successive)",
+      "id": "4457675",
+      "date": "09-Jun-2025 09:30",
+      "video_url": "4457675_0_9876603536984757"
+    },
+    {
+      "title": "Class-05 | Compound Interest (successive)",
+      "id": "4457674",
+      "date": "07-Jun-2025 09:30",
+      "video_url": "4457674_0_7853291098211815"
+    },
+    {
+      "title": "Class-04 | Compound Interest (Installment)",
+      "id": "4457673",
+      "date": "06-Jun-2025 09:30",
+      "video_url": "4457673_0_8175992726840140"
+    },
+    {
+      "title": "Class-03 | Compound Interest",
+      "id": "4457671",
+      "date": "05-Jun-2025 09:30",
+      "video_url": "4457671_0_6400507252384645"
+    },
+    {
+      "title": "Class-01 | Compound Interest",
+      "id": "4457666",
+      "date": "03-Jun-2025 09:30",
+      "video_url": "4457666_0_6920240887688019"
+    },
+    {
+      "title": "Class-13 | Percentage",
+      "id": "4457661",
+      "date": "02-Jun-2025 09:30",
+      "video_url": "4457661_0_3505266663126551"
+    },
+    {
+      "title": "Class-12 | Percentage",
+      "id": "4457658",
+      "date": "31-May-2025 09:30",
+      "video_url": "4457658_0_7822434667699978"
+    },
+    {
+      "title": "Class-11 | Percentage",
+      "id": "4457654",
+      "date": "30-May-2025 09:30",
+      "video_url": "4457654_0_2685543911198673"
+    },
+    {
+      "title": "Class-10 | Percentage",
+      "id": "4457651",
+      "date": "29-May-2025 09:30",
+      "video_url": "4457651_0_6148860670134112"
+    },
+    {
+      "title": "Class-08 | Percentage",
+      "id": "4457643",
+      "date": "27-May-2025 09:30",
+      "video_url": "4457643_0_4006265714198429"
+    },
+    {
+      "title": "Class-07 | Percentage",
+      "id": "4457640",
+      "date": "26-May-2025 09:30",
+      "video_url": "4457640_0_9688044527860329"
+    },
+    {
+      "title": "Class-06 | Percentage",
+      "id": "4457635",
+      "date": "24-May-2025 09:30",
+      "video_url": "4457635_0_6352132098180162"
+    },
+    {
+      "title": "Class-05 | Percentage",
+      "id": "4457633",
+      "date": "23-May-2025 09:30",
+      "video_url": "4457633_0_8244074083619444"
+    },
+    {
+      "title": "Class-04 | Percentage",
+      "id": "4457631",
+      "date": "22-May-2025 09:30",
+      "video_url": "4457631_0_5462102694542630"
+    },
+    {
+      "title": "Class-03 | Percentage",
+      "id": "4457628",
+      "date": "21-May-2025 09:30",
+      "video_url": "4457628_0_8487302799129670"
+    },
+    {
+      "title": "Class-02 | Percentage",
+      "id": "4457625",
+      "date": "20-May-2025 09:30",
+      "video_url": "4457625_0_7651886087612074"
+    },
+    {
+      "title": "Class-01 | Percentage",
+      "id": "4457624",
+      "date": "19-May-2025 09:30",
+      "video_url": "4457624_0_5095074662411834"
+    },
+    {
+      "title": "Class-03 | Number Of Digit",
+      "id": "4457618",
+      "date": "14-May-2025 09:30",
+      "video_url": "4457618_0_7779950248340418"
+    },
+    {
+      "title": "Class-02 | Number Of Digit",
+      "id": "4457614",
+      "date": "13-May-2025 09:30",
+      "video_url": "4457614_0_2448743597797717"
+    },
+    {
+      "title": "Class-01 | Number Of Digit",
+      "id": "4457611",
+      "date": "12-May-2025 09:30",
+      "video_url": "4457611_0_6360111517444949"
+    },
+    {
+      "title": "पढ़ाई कैसे करें ? | By Rakesh Sir",
+      "id": "4477702",
+      "date": "06-May-2025 14:02",
+      "video_url": "4477702_0_6905540409085899"
+    }
+  ],
+  "notes_total": 491,
+  "notes": [
+    {
+      "id": 680213,
+      "title": "Climate of Rajasthan Part -04 | Geo | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68d25a133beba_rajasthan_ki_jalvayu_part_4_saflata_batch.pdf",
+      "date": "23-Sep-2025"
+    },
+    {
+      "id": 680201,
+      "title": "Minerals of India Part -04 | Geo | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68d257c3083d0_bharat_ke_kanijn_part_4.pdf",
+      "date": "23-Sep-2025"
+    },
+    {
+      "id": 680190,
+      "title": "Chem | 22 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68d2564307e70_chem_class01_acid_base_salt_22sept.pdf",
+      "date": "23-Sep-2025"
+    },
+    {
+      "id": 678269,
+      "title": "His | 19 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68d0dfc45bdb8_history_192.pdf",
+      "date": "22-Sep-2025"
+    },
+    {
+      "id": 678258,
+      "title": "Climate of Rajasthan Part -03 | Geo | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68d0ded7e2805_rajasthan_ki_jalvayu_part_3_saflata_batch.pdf",
+      "date": "22-Sep-2025"
+    },
+    {
+      "id": 678028,
+      "title": "Climate of Rajasthan Part -03 | Geo | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68d0dbf64c8f8_rajasthan_ki_jalvayu_part_3_saflata_batch.pdf",
+      "date": "22-Sep-2025"
+    },
+    {
+      "id": 678017,
+      "title": "Minerals of India Part -03 | Geo | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68d0db63baa65_bharat_ke_kanijn_part_3.pdf",
+      "date": "22-Sep-2025"
+    },
+    {
+      "id": 677819,
+      "title": "Climate of Rajasthan Part -02 | Geo | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68d0d3367be07_rajasthan_ki_jalvayu_part_2_saflata_batch.pdf",
+      "date": "22-Sep-2025"
+    },
+    {
+      "id": 677804,
+      "title": "Climate of Rajasthan Part -01 | Geo | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68d0d2c133c39_rajasthan_ki_jalvayu_part_1_saflata_batch.pdf",
+      "date": "22-Sep-2025"
+    },
+    {
+      "id": 677793,
+      "title": "Minerals of India Part -02 | Geo | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68d0d2242c168_bharat_ke_kanijn_part_2_compressed.pdf",
+      "date": "22-Sep-2025"
+    },
+    {
+      "id": 677782,
+      "title": "Minerals of India Part -01 | Geo | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68d0d18c851e3_bharat_ke_kanijnpart_1.pdf",
+      "date": "22-Sep-2025"
+    },
+    {
+      "id": 677762,
+      "title": "His | 17 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68d0cff6256c4_history_17.2.pdf",
+      "date": "22-Sep-2025"
+    },
+    {
+      "id": 647998,
+      "title": "Bhotik Pradesh Aravali Pradesh Part -02 | Geo | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b9215eacd1c_bhotik_pradesh_part_aravali_pradesh_part_2_compressed.pdf",
+      "date": "04-Sep-2025"
+    },
+    {
+      "id": 647987,
+      "title": "Bhotik Pradesh Aravali Pradesh Part -01 | Geo | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b920e1a9be9_bhotik_pradesh_part_aravali_pradesh_part_1_compressed.pdf",
+      "date": "04-Sep-2025"
+    },
+    {
+      "id": 647975,
+      "title": "Rajasthan River Part- 07 | Geo | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b91e203e467_rajasthan_rivers_part_7_by_shubham_sir.pdf",
+      "date": "04-Sep-2025"
+    },
+    {
+      "id": 647947,
+      "title": "Indian Soil Part -02 | Geo | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b915651449d_bharat_ki_soil_part_2_compressed.pdf",
+      "date": "04-Sep-2025"
+    },
+    {
+      "id": 647924,
+      "title": "Indian Soil Part -01 | Geo | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b9147b007aa_bharat_ki_soil_part_1.pdf",
+      "date": "04-Sep-2025"
+    },
+    {
+      "id": 644253,
+      "title": "His | 29 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b2eee9d2b1f_29_aug_app.pdf",
+      "date": "30-Aug-2025"
+    },
+    {
+      "id": 644242,
+      "title": "His | 28 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b2ee8c13b88_28_aug_ap_class.pdf",
+      "date": "30-Aug-2025"
+    },
+    {
+      "id": 644231,
+      "title": "His | 26 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b2ee2d4670f_26_aug_app.pdf",
+      "date": "30-Aug-2025"
+    },
+    {
+      "id": 644220,
+      "title": "His | 25 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b2edd178461_25_aug.pdf",
+      "date": "30-Aug-2025"
+    },
+    {
+      "id": 644209,
+      "title": "His | 21 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b2ed7353717_21_aug_ind_history.pdf",
+      "date": "30-Aug-2025"
+    },
+    {
+      "id": 644198,
+      "title": "His | 20 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b2ed077c84c_20_aug_ind_hist.pdf",
+      "date": "30-Aug-2025"
+    },
+    {
+      "id": 644188,
+      "title": "His | 19 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b2eca27a668_19_aug_ind_hist.pdf",
+      "date": "30-Aug-2025"
+    },
+    {
+      "id": 644177,
+      "title": "His | 18 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b2ec51f384a_18_aug_Indian_history.pdf",
+      "date": "30-Aug-2025"
+    },
+    {
+      "id": 644153,
+      "title": "Rajasthan River Part- 05 | Geo | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b2eb8a82a52_rajasthan_rivers_part_5by_shubham_sir.pdf",
+      "date": "30-Aug-2025"
+    },
+    {
+      "id": 644142,
+      "title": "Festivals | His | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b2eb254e672_noteshare1756225682469.pdf",
+      "date": "30-Aug-2025"
+    },
+    {
+      "id": 638508,
+      "title": "Rajasthan River Part- 03 | Geo | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a9b3bdacfdb_rajasthan_rivers_part_3by_shubham_sir.pdf",
+      "date": "23-Aug-2025"
+    },
+    {
+      "id": 638376,
+      "title": "Reas | 22 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a980de4847f_22_aug_logical_arrangement_of_wordspdf.pdf",
+      "date": "23-Aug-2025"
+    },
+    {
+      "id": 637503,
+      "title": "Reas | 20 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a802e3c71dd_20_aug_series_part_2_pdf.pdf",
+      "date": "22-Aug-2025"
+    },
+    {
+      "id": 637485,
+      "title": "His | 20 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a801bc4e0fa_noteshare1755706906123.pdf",
+      "date": "22-Aug-2025"
+    },
+    {
+      "id": 637474,
+      "title": "His | 14 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a800f376168_noteshare1755620631326.pdf",
+      "date": "22-Aug-2025"
+    },
+    {
+      "id": 637463,
+      "title": "His | 13 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a80085ef44b_noteshare1755535343578.pdf",
+      "date": "22-Aug-2025"
+    },
+    {
+      "id": 637452,
+      "title": "Indian Geography Part -02 | Geo | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a7fd73dcee5_saf._bharat_bhugol_1800802025_2_compressed.pdf",
+      "date": "22-Aug-2025"
+    },
+    {
+      "id": 637441,
+      "title": "Indian Geography Part -01 | Geo | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a7fcafb9ab8_saf._bharat_bhugol_1800802025_compressed.pdf",
+      "date": "22-Aug-2025"
+    },
+    {
+      "id": 637430,
+      "title": "Bhotik Pradesh Part -11 | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a7fbd0595b4_bhotik_pradesh_part__compressed.pdf",
+      "date": "22-Aug-2025"
+    },
+    {
+      "id": 637419,
+      "title": "Rajasthan Sichai Pariyojana Part- 02 | Geo | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a7faaf79a44_sichai_pariyojana_end_class.pdf",
+      "date": "22-Aug-2025"
+    },
+    {
+      "id": 637408,
+      "title": "Rajasthan Sichai Pariyojana Part- 01 | Geo | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a7fa2095a71_rajasthan_sichai_pariyojana_compressed.pdf",
+      "date": "22-Aug-2025"
+    },
+    {
+      "id": 637399,
+      "title": "Reas | 19 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a7f926a9e69_19_aug_series_part_1.pdf",
+      "date": "22-Aug-2025"
+    },
+    {
+      "id": 636206,
+      "title": "Mensuration 3D Class-4 Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67b0513e805b8_Mensuration_3D_Class4_Notes.pdf",
+      "date": "21-Aug-2025"
+    },
+    {
+      "id": 636205,
+      "title": "Mensuration sheet-04",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67b0510f9a3e1_Mensuration_sheet04.pdf",
+      "date": "21-Aug-2025"
+    },
+    {
+      "id": 636204,
+      "title": "Mensuration 3D Class-4 PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67b050f010152_Mensuration_3D_Class4_PNG_.pdf",
+      "date": "21-Aug-2025"
+    },
+    {
+      "id": 636203,
+      "title": "Mensuration 3D Class-3 Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67b050cb6beea_Mensuration_3D_Class3_Notes.pdf",
+      "date": "21-Aug-2025"
+    },
+    {
+      "id": 636202,
+      "title": "Mensuration sheet-03",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67b050ab09fc3_Mensuration_sheet03.pdf",
+      "date": "21-Aug-2025"
+    },
+    {
+      "id": 636201,
+      "title": "Mensuration 3D Class-3 PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67b05090ec40f_Mensuration_3D_Class3_PNG.pdf",
+      "date": "21-Aug-2025"
+    },
+    {
+      "id": 636200,
+      "title": "Mensuration 3D Class-2 Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67b0507219870_Mensuration_3D_Class2_Notes.pdf",
+      "date": "21-Aug-2025"
+    },
+    {
+      "id": 636199,
+      "title": "Mensuration sheet-02",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67b0504d48dc2_Mensuration_sheet02.pdf",
+      "date": "21-Aug-2025"
+    },
+    {
+      "id": 636198,
+      "title": "Mensuration 3D Class 2 PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67b05029f2aa1_Mensuration_3D_Class2_PNG.pdf",
+      "date": "21-Aug-2025"
+    },
+    {
+      "id": 635974,
+      "title": "Mensuration Notes 20-08",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a5baba4f92d_Mensuration_Notes_2008.pdf",
+      "date": "20-Aug-2025"
+    },
+    {
+      "id": 635954,
+      "title": "Mensuration 2D Sheet-01",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a5ba4d78481_Mensuration_Sheet01.pdf",
+      "date": "20-Aug-2025"
+    },
+    {
+      "id": 635940,
+      "title": "Mensuration 20-08",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a5b9dc13334_Mensuration_2008.pdf",
+      "date": "20-Aug-2025"
+    },
+    {
+      "id": 633700,
+      "title": "DI Notes 19-08",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a4436a2ccc2_DI_Notes_1908.pdf",
+      "date": "19-Aug-2025"
+    },
+    {
+      "id": 633688,
+      "title": "DI Sheet-03",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a442f870f36_DI_Sheet03.pdf",
+      "date": "19-Aug-2025"
+    },
+    {
+      "id": 633676,
+      "title": "DI 19-08",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a442a2547ba_DI_1908.pdf",
+      "date": "19-Aug-2025"
+    },
+    {
+      "id": 632905,
+      "title": "DI Notes 18-08",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a319ebece78_DI_Notes_1808.pdf",
+      "date": "18-Aug-2025"
+    },
+    {
+      "id": 632888,
+      "title": "DI Sheet-02",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a31928b84cc_DI_Sheet02.pdf",
+      "date": "18-Aug-2025"
+    },
+    {
+      "id": 632874,
+      "title": "DI 18-08",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a318d3816b7_DI_1808.pdf",
+      "date": "18-Aug-2025"
+    },
+    {
+      "id": 628554,
+      "title": "DI Notes 16-08",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a06780b58ba_DI_Notes_1608.pdf",
+      "date": "16-Aug-2025"
+    },
+    {
+      "id": 628542,
+      "title": "DI Sheet-01",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a0672ee97e5_DI_Sheet01.pdf",
+      "date": "16-Aug-2025"
+    },
+    {
+      "id": 628528,
+      "title": "DI 16-08",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a066e236377_DI_1608.pdf",
+      "date": "16-Aug-2025"
+    },
+    {
+      "id": 628275,
+      "title": "Power Surds Indices Notes 14-08",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/689dc4866fb16_Power_Surds_Indices_Notes_1408.pdf",
+      "date": "14-Aug-2025"
+    },
+    {
+      "id": 628261,
+      "title": "Power Surds Indices Sheet-03",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/689dc3fa69a61_Power_Surds_Indices_Sheet03.pdf",
+      "date": "14-Aug-2025"
+    },
+    {
+      "id": 628249,
+      "title": "Power Surds Indices 14-08",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/689dc38d216cc_Power_Surds_Indices_1408.pdf",
+      "date": "14-Aug-2025"
+    },
+    {
+      "id": 623348,
+      "title": "His | 08 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/689da82aad180_noteshare1755020268095.pdf",
+      "date": "14-Aug-2025"
+    },
+    {
+      "id": 623338,
+      "title": "National Movment Part- 01 | History | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/689da1a058b68_national_movment_part_01.pdf",
+      "date": "14-Aug-2025"
+    },
+    {
+      "id": 622922,
+      "title": "Power Surds Indices Notes 13-08",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/689c859bed926_Power_Surds_Indices_Notes_1308.pdf",
+      "date": "13-Aug-2025"
+    },
+    {
+      "id": 622910,
+      "title": "Power Surds Indices Sheet-02",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/689c854abbf68_Power_Surds_Indices_Sheet02.pdf",
+      "date": "13-Aug-2025"
+    },
+    {
+      "id": 622898,
+      "title": "Power Surds Indices 13-08",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/689c84f69b2f7_Power_Surds_Indices_1308.pdf",
+      "date": "13-Aug-2025"
+    },
+    {
+      "id": 622193,
+      "title": "Reas | 12 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/689c3a8d5322c_12_aug_ranking_test_pdf_compressed.pdf",
+      "date": "13-Aug-2025"
+    },
+    {
+      "id": 622188,
+      "title": "Reas | 11 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/689c3a432e1f5_11_aug_missing_terms_reasoning_pdf.pdf",
+      "date": "13-Aug-2025"
+    },
+    {
+      "id": 622183,
+      "title": "Reas | 07 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/689c39ff393b3_7_aug_analytical_reasoning_pdf.pdf",
+      "date": "13-Aug-2025"
+    },
+    {
+      "id": 622178,
+      "title": "Reas | 06 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/689c39ab86911_6_aug_nonverbal_part_3_rajasthan_police_constable.pdf",
+      "date": "13-Aug-2025"
+    },
+    {
+      "id": 622099,
+      "title": "His | 07 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/689c20100b603_7_aug_Indian_hist.pdf",
+      "date": "13-Aug-2025"
+    },
+    {
+      "id": 621894,
+      "title": "Power Surds Indices Notes 12-08",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/689b273623499_Power_Surds_Indices_Notes_1208.pdf",
+      "date": "12-Aug-2025"
+    },
+    {
+      "id": 621868,
+      "title": "Power Surds Indices Sheet-01",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/689b26b942473_Power_Surds_Indices_Sheet01.pdf",
+      "date": "12-Aug-2025"
+    },
+    {
+      "id": 621856,
+      "title": "Power Surds Indices 12-08",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/689b264aca68b_Power_Surds_Indices_1208.pdf",
+      "date": "12-Aug-2025"
+    },
+    {
+      "id": 620814,
+      "title": "HCF And LCM sheet-04",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6899d26b48d16_LCM_and_HCF_Sheet04.pdf",
+      "date": "11-Aug-2025"
+    },
+    {
+      "id": 620802,
+      "title": "LCM and HCF 11-08",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6899d1fa329c5_LCM_and_HCF_1108.pdf",
+      "date": "11-Aug-2025"
+    },
+    {
+      "id": 619723,
+      "title": "LCM and HCF Notes 08-08",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/689984eb7f523_LCM_and_HCF_Notes_0808.pdf",
+      "date": "11-Aug-2025"
+    },
+    {
+      "id": 619708,
+      "title": "HCF And LCM sheet-03",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/689984740c58a_HCF_and_LCM_Sheet03.pdf",
+      "date": "11-Aug-2025"
+    },
+    {
+      "id": 619688,
+      "title": "LCM and HCF 08-08",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68998405b43e3_LCM_and_HCF_0808.pdf",
+      "date": "11-Aug-2025"
+    },
+    {
+      "id": 619223,
+      "title": "LCM and HCF Notes 07-08",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68955eac80610_LCM_and_HCF_Notes_0708.pdf",
+      "date": "08-Aug-2025"
+    },
+    {
+      "id": 619211,
+      "title": "HCF And LCM sheet-02",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68955e4024b59_HCF_and_LCM_Sheet02.pdf",
+      "date": "08-Aug-2025"
+    },
+    {
+      "id": 619199,
+      "title": "LCM and HCF 07-08",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68955dcd043d4_LCM_and_HCF_0708.pdf",
+      "date": "08-Aug-2025"
+    },
+    {
+      "id": 618309,
+      "title": "His | 04 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68945f7e96a57_morya_4_aug.pdf",
+      "date": "07-Aug-2025"
+    },
+    {
+      "id": 618298,
+      "title": "Raj. His | 04 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68945f103d6c2_4_aug_rajasthan_hist_compressed.pdf",
+      "date": "07-Aug-2025"
+    },
+    {
+      "id": 618287,
+      "title": "His | 01 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/689456c205834_marwad_1_aug_compressed.pdf",
+      "date": "07-Aug-2025"
+    },
+    {
+      "id": 618276,
+      "title": "His | 28 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6894565740cef_mahesh_sir_28July.pdf",
+      "date": "07-Aug-2025"
+    },
+    {
+      "id": 618265,
+      "title": "Raj. His | 05 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/689455bb0ddb7_5_aug_rajasthan_history_compressed.pdf",
+      "date": "07-Aug-2025"
+    },
+    {
+      "id": 618254,
+      "title": "His | 05 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/689454fe26761_5aug_indian_hist.pdf",
+      "date": "07-Aug-2025"
+    },
+    {
+      "id": 618243,
+      "title": "Static GK | 05 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6894548b8e915_pdf_nobel_prize_part_3_bharat_ratna_5aug_compressed.pdf",
+      "date": "07-Aug-2025"
+    },
+    {
+      "id": 618232,
+      "title": "His | 04 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/689453f3a56b6_noteshare1754327758020.pdf",
+      "date": "07-Aug-2025"
+    },
+    {
+      "id": 618223,
+      "title": "Non Verbal Part 1&2 | Reas | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6894535236d1c_non_verbal_part_12_pdf.pdf",
+      "date": "07-Aug-2025"
+    },
+    {
+      "id": 618216,
+      "title": "Static GK | 04 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6894523b61eb5_pdf_4aug_part_2_compressed.pdf",
+      "date": "07-Aug-2025"
+    },
+    {
+      "id": 617894,
+      "title": "LCM and HCF Notes 06-08",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6894260bca0c8_LCM_and_HCF_Notes_0608.pdf",
+      "date": "07-Aug-2025"
+    },
+    {
+      "id": 617882,
+      "title": "HCF And LCM sheet-01",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6894259b69b2c_HCF_And_LCM_sheet01.pdf",
+      "date": "07-Aug-2025"
+    },
+    {
+      "id": 617870,
+      "title": "LCM and HCF 06-08",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/689424eed7bbe_LCM_and_HCF_0608.pdf",
+      "date": "07-Aug-2025"
+    },
+    {
+      "id": 616080,
+      "title": "Circular Race Notes 05-08",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6891bfbbd95a6_Circular_Race_Notes_0508.pdf",
+      "date": "05-Aug-2025"
+    },
+    {
+      "id": 616052,
+      "title": "Circular Race Sheet-02",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6891bf6089459_Circular_Race_Sheet02.pdf",
+      "date": "05-Aug-2025"
+    },
+    {
+      "id": 616029,
+      "title": "Circular Race 05-08",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6891bec688caf_Circular_Race_0508.pdf",
+      "date": "05-Aug-2025"
+    },
+    {
+      "id": 615766,
+      "title": "Linear Race Notes 04-08",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6890a4fa54e64_Linear_Race_Notes_0408.pdf",
+      "date": "04-Aug-2025"
+    },
+    {
+      "id": 615754,
+      "title": "Linear Race Sheet-01",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6890a4a645fa8_Linear_Race_Sheet01.pdf",
+      "date": "04-Aug-2025"
+    },
+    {
+      "id": 615725,
+      "title": "Linear Race 04-08",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6890a363dc733_Linear_Race_0408.pdf",
+      "date": "04-Aug-2025"
+    },
+    {
+      "id": 615238,
+      "title": "Boat and Stream Notes 02-08",
+      "url": "https://educp.crwilladmin.com/uploads/class-attachment/lclsys_Boat_and_Stream_Notes_0208.pdf",
+      "date": "02-Aug-2025"
+    },
+    {
+      "id": 615226,
+      "title": "Boat and Stream Sheet-01",
+      "url": "https://educp.crwilladmin.com/uploads/class-attachment/lclsys_Boat_and_Stream_Sheet01.pdf",
+      "date": "02-Aug-2025"
+    },
+    {
+      "id": 615214,
+      "title": "Boat and Stream 02-08",
+      "url": "https://educp.crwilladmin.com/uploads/class-attachment/lclsys_Boat_and_Stream_0208.pdf",
+      "date": "02-Aug-2025"
+    },
+    {
+      "id": 614787,
+      "title": "Time Speed Distance Notes 01-08",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a6be0f227e8_Time_Speed_Distance_Notes_0108.pdf",
+      "date": "01-Aug-2025"
+    },
+    {
+      "id": 614774,
+      "title": "Time Speed Distance Sheet-08",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a6bdfe0673f_Time_Speed_Distance_Sheet08.pdf",
+      "date": "01-Aug-2025"
+    },
+    {
+      "id": 614756,
+      "title": "Time Speed Distance 01-08",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a6bdeed2747_Time_Speed_Distance_0108.pdf",
+      "date": "01-Aug-2025"
+    },
+    {
+      "id": 614583,
+      "title": "His | 31 July | Class PNG",
+      "url": "https://educp.crwilladmin.com/uploads/class-attachment/lclsys_nahargad_jaygad_.pdf",
+      "date": "01-Aug-2025"
+    },
+    {
+      "id": 614573,
+      "title": "Phy | 31 July | Class PNG",
+      "url": "https://educp.crwilladmin.com/uploads/class-attachment/lclsys_Phy14.pdf",
+      "date": "01-Aug-2025"
+    },
+    {
+      "id": 614537,
+      "title": "Location and Extension Notes-01 | Class PNG",
+      "url": "https://educp.crwilladmin.com/uploads/class-attachment/lclsys_rajasthan_si_location_and_extension_part_1.pdf",
+      "date": "01-Aug-2025"
+    },
+    {
+      "id": 614525,
+      "title": "Animal Estate Notes-01 | Class PNG",
+      "url": "https://educp.crwilladmin.com/uploads/class-attachment/lclsys_rajasthan_pashu_sam_pada_part_3.pdf",
+      "date": "01-Aug-2025"
+    },
+    {
+      "id": 614517,
+      "title": "Reas | 31 July | Class PNG",
+      "url": "https://educp.crwilladmin.com/uploads/class-attachment/lclsys_31_july_data_sufficiency_set.pdf",
+      "date": "01-Aug-2025"
+    },
+    {
+      "id": 614510,
+      "title": "National Park Notes-03 | Class PNG",
+      "url": "https://educp.crwilladmin.com/uploads/class-attachment/lclsys_pdf_31july_national_park3_compressed.pdf",
+      "date": "01-Aug-2025"
+    },
+    {
+      "id": 614509,
+      "title": "National Park Notes-03 | Class PNG",
+      "url": "https://educp.crwilladmin.com/uploads/class-attachment/lclsys_pdf_31july_national_park3_compressed.pdf",
+      "date": "01-Aug-2025"
+    },
+    {
+      "id": 612687,
+      "title": "Time Speed Distance Notes 31-07",
+      "url": "https://educp.crwilladmin.com/uploads/class-attachment/lclsys_Time_Speed_Distance_Notes_3107.pdf",
+      "date": "31-Jul-2025"
+    },
+    {
+      "id": 612675,
+      "title": "Time Speed Distance Sheet-07",
+      "url": "https://educp.crwilladmin.com/uploads/class-attachment/lclsys_Time_Speed_Distance_Sheet07.pdf",
+      "date": "31-Jul-2025"
+    },
+    {
+      "id": 612663,
+      "title": "Time Speed Distance 31-07",
+      "url": "https://educp.crwilladmin.com/uploads/class-attachment/lclsys_Time_Speed_Distance_3107.pdf",
+      "date": "31-Jul-2025"
+    },
+    {
+      "id": 612559,
+      "title": "His | 30 July | Class PNG",
+      "url": "https://educp.crwilladmin.com/uploads/class-attachment/lclsys_chitod_durg.pdf",
+      "date": "31-Jul-2025"
+    },
+    {
+      "id": 612551,
+      "title": "Reas | 30 July | Class PNG",
+      "url": "https://educp.crwilladmin.com/uploads/class-attachment/lclsys_30_july_sitting_arrangement_part3_pdf.pdf",
+      "date": "31-Jul-2025"
+    },
+    {
+      "id": 612545,
+      "title": "Phy | 30 July | Class PNG",
+      "url": "https://educp.crwilladmin.com/uploads/class-attachment/lclsys_Phy_13_light.pdf",
+      "date": "31-Jul-2025"
+    },
+    {
+      "id": 612533,
+      "title": "National Park Notes-2 | Class PNG",
+      "url": "https://educp.crwilladmin.com/uploads/class-attachment/lclsys_pdf_30_july_12pdid_national_park_part2_compressed.pdf",
+      "date": "31-Jul-2025"
+    },
+    {
+      "id": 612143,
+      "title": "Time Speed Distance Notes 30-07",
+      "url": "https://educp.crwilladmin.com/uploads/class-attachment/lclsys_Time_Speed_Distance_Notes_3007.pdf",
+      "date": "30-Jul-2025"
+    },
+    {
+      "id": 612131,
+      "title": "Time Speed Distance Sheet-06",
+      "url": "https://educp.crwilladmin.com/uploads/class-attachment/lclsys_Time_Speed_Distance_Sheet06.pdf",
+      "date": "30-Jul-2025"
+    },
+    {
+      "id": 612119,
+      "title": "Time Speed Distance 30-07",
+      "url": "https://educp.crwilladmin.com/uploads/class-attachment/lclsys_Time_Speed_Distance_3007.pdf",
+      "date": "30-Jul-2025"
+    },
+    {
+      "id": 611466,
+      "title": "Time Speed Distance Notes 29-07",
+      "url": "https://educp.crwilladmin.com/uploads/class-attachment/lclsys_Time_Speed_and_Distance_Notes_2907.pdf",
+      "date": "29-Jul-2025"
+    },
+    {
+      "id": 611453,
+      "title": "Time Speed Distance Sheet-05",
+      "url": "https://educp.crwilladmin.com/uploads/class-attachment/lclsys_Time_Speed_Distance_Sheet05.pdf",
+      "date": "29-Jul-2025"
+    },
+    {
+      "id": 611440,
+      "title": "Time Speed Distance 29-07",
+      "url": "https://educp.crwilladmin.com/uploads/class-attachment/lclsys_Time_Speed_Distance_2907.pdf",
+      "date": "29-Jul-2025"
+    },
+    {
+      "id": 610856,
+      "title": "Time Speed Distance Notes 28-07",
+      "url": "https://educp.crwilladmin.com/uploads/class-attachment/lclsys_Time_Speed_Distance_Notes_2807.pdf",
+      "date": "28-Jul-2025"
+    },
+    {
+      "id": 610842,
+      "title": "Time Speed Distance Sheet-04",
+      "url": "https://educp.crwilladmin.com/uploads/class-attachment/lclsys_Time_Speed_Distance_Sheet04.pdf",
+      "date": "28-Jul-2025"
+    },
+    {
+      "id": 610830,
+      "title": "Time Speed Distance 28-07",
+      "url": "https://educp.crwilladmin.com/uploads/class-attachment/lclsys_Time_Speed_Distance_2807.pdf",
+      "date": "28-Jul-2025"
+    },
+    {
+      "id": 608120,
+      "title": "Time Speed Distance Notes 26-07",
+      "url": "https://educp.crwilladmin.com/uploads/class-attachment/lclsys_Time_Speed_and_Distance_Notes_2607.pdf",
+      "date": "28-Jul-2025"
+    },
+    {
+      "id": 608108,
+      "title": "Time Speed Distance Sheet-03",
+      "url": "https://educp.crwilladmin.com/uploads/class-attachment/lclsys_Time_Speed_and_Distance_Sheet03.pdf",
+      "date": "28-Jul-2025"
+    },
+    {
+      "id": 608096,
+      "title": "Time Speed Distance 26-07",
+      "url": "https://educp.crwilladmin.com/uploads/class-attachment/lclsys_Time_Speed_Distance_2607.pdf",
+      "date": "28-Jul-2025"
+    },
+    {
+      "id": 607605,
+      "title": "His | 25 July | Class PNG",
+      "url": "https://educp.crwilladmin.com/uploads/class-attachment/lclsys_bodh.pdf",
+      "date": "27-Jul-2025"
+    },
+    {
+      "id": 607595,
+      "title": "His | 23 July | Class PNG",
+      "url": "https://educp.crwilladmin.com/uploads/class-attachment/lclsys_mewad_23_julay_compressed.pdf",
+      "date": "27-Jul-2025"
+    },
+    {
+      "id": 607581,
+      "title": "Reas | 25 July | Class PNG",
+      "url": "https://educp.crwilladmin.com/uploads/class-attachment/lclsys_25_july_reasoning_sitting_arrangementpart2_pdf.pdf",
+      "date": "27-Jul-2025"
+    },
+    {
+      "id": 607572,
+      "title": "Phy | 24 July | Class PNG",
+      "url": "https://educp.crwilladmin.com/uploads/class-attachment/lclsys_phy12_.pdf",
+      "date": "27-Jul-2025"
+    },
+    {
+      "id": 606046,
+      "title": "Time Speed Distance Notes 25-07",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6884573896af7_Time_Speed_Distance_Notes_2507.pdf",
+      "date": "26-Jul-2025"
+    },
+    {
+      "id": 606032,
+      "title": "Time Speed Distance Sheet-02",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/688456d964125_Time_Speed_Distance_Sheet02.pdf",
+      "date": "26-Jul-2025"
+    },
+    {
+      "id": 606020,
+      "title": "Time Speed Distance 25-07",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/688456810bda7_Time_Speed_Distance_2507.pdf",
+      "date": "26-Jul-2025"
+    },
+    {
+      "id": 605810,
+      "title": "Time Speed Distance Notes 24-07",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6883052ea8866_Time_Speed_Distance_Notes_2407.pdf",
+      "date": "25-Jul-2025"
+    },
+    {
+      "id": 605798,
+      "title": "Time Speed Distance Sheet-01",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/688304d2eede9_Time_Speed_Distance_Sheet01.pdf",
+      "date": "25-Jul-2025"
+    },
+    {
+      "id": 605786,
+      "title": "Time Speed Distance 24-07",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6883048572e8d_Time_Speed_Distance_2407.pdf",
+      "date": "25-Jul-2025"
+    },
+    {
+      "id": 605463,
+      "title": "Time And Work (Pipe & Cistern) Notes 23-07",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6881b71518fde_Time_And_Work_Pipe_And_Cistern_Notes_2307.pdf",
+      "date": "24-Jul-2025"
+    },
+    {
+      "id": 605451,
+      "title": "Time And Work Sheet-07",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6881b69cd83ab_Pipe_and_Cistern_Sheet07.pdf",
+      "date": "24-Jul-2025"
+    },
+    {
+      "id": 605439,
+      "title": "Time And Work (Pipe & Cistern) 23-07",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6881b64107f53_Pipe_and_Cistern_2307.pdf",
+      "date": "24-Jul-2025"
+    },
+    {
+      "id": 604725,
+      "title": "Time And Work (Work and wages) Notes  22-07",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/687f820d30dd8_Time_And_Work_Notes_2207.pdf",
+      "date": "22-Jul-2025"
+    },
+    {
+      "id": 604709,
+      "title": "Time And Work Sheet-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/687f81b041510_Time_And_Work_Sheet06.pdf",
+      "date": "22-Jul-2025"
+    },
+    {
+      "id": 604697,
+      "title": "Time And Work (Work and wages) 22-07",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/687f815c81dc3_Time_Work_PNG_2207.pdf",
+      "date": "22-Jul-2025"
+    },
+    {
+      "id": 604685,
+      "title": "Reas | 22 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/687f814965e91_22julysittingarrangementpart1rajasthanpoliceconstablebatch.pdf",
+      "date": "22-Jul-2025"
+    },
+    {
+      "id": 604680,
+      "title": "Chem | 22 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/687f80e3acc70_chem13.pdf",
+      "date": "22-Jul-2025"
+    },
+    {
+      "id": 603794,
+      "title": "Chemistry Class - 12 & 13 | Hand Written Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/687f313967526_chemistry_class_1213.pdf",
+      "date": "22-Jul-2025"
+    },
+    {
+      "id": 603777,
+      "title": "Rajasthan Minerals Notes-5 | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/687f302ab20cf_rajasthan_ke_minerals_part_5.pdf",
+      "date": "22-Jul-2025"
+    },
+    {
+      "id": 603767,
+      "title": "Rajasthan Minerals Notes-4 | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/687f2fd5da073_20250721195757557compressed.pdf",
+      "date": "22-Jul-2025"
+    },
+    {
+      "id": 603755,
+      "title": "Bharat Location and Extension Part-2 | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/687f2bb508a33_location_and_extension_part_2compressed.pdf",
+      "date": "22-Jul-2025"
+    },
+    {
+      "id": 603739,
+      "title": "His | 21 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/687f2b0f25ec6_mewad_21_julay.pdf",
+      "date": "22-Jul-2025"
+    },
+    {
+      "id": 603724,
+      "title": "Chem | 21 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/687f29e67f0a5_phy12.pdf",
+      "date": "22-Jul-2025"
+    },
+    {
+      "id": 603611,
+      "title": "Time And Work Notes 21-07",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/687e6dc7bb719_Time_and_Work_Notes_2107.pdf",
+      "date": "21-Jul-2025"
+    },
+    {
+      "id": 603599,
+      "title": "Time And Work Sheet-05",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/687e6d59211c1_Time_and_Work_sheet05.pdf",
+      "date": "21-Jul-2025"
+    },
+    {
+      "id": 603587,
+      "title": "Time And Work 21-07",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/687e6ced26093_Time_and_Work_2107.pdf",
+      "date": "21-Jul-2025"
+    },
+    {
+      "id": 602735,
+      "title": "Art and Culture Complete Class | Hand Written Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/687dd7c74e22f_Art_nd_culture_complete_class_pdf11zon.pdf",
+      "date": "21-Jul-2025"
+    },
+    {
+      "id": 602725,
+      "title": "Chemistry Class - 10 | Hand Written Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/687dd41cba27f_chemistry_class_9_10.pdf",
+      "date": "21-Jul-2025"
+    },
+    {
+      "id": 602715,
+      "title": "Physics | 09 July | Hand Written Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/687dd23a72c9b_chemistry_class_92_hrs_class.pdf",
+      "date": "21-Jul-2025"
+    },
+    {
+      "id": 602467,
+      "title": "Time And Work Notes 19-07",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/687b7c5f5a911_Time_and_Work_Notes_1907.pdf",
+      "date": "19-Jul-2025"
+    },
+    {
+      "id": 602455,
+      "title": "Time And Work Sheet-04",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/687b7bf316193_Time_and_Work_Sheet04.pdf",
+      "date": "19-Jul-2025"
+    },
+    {
+      "id": 602443,
+      "title": "Time And Work 19-07",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/687b7ba05849d_Time_and_Work_1907.pdf",
+      "date": "19-Jul-2025"
+    },
+    {
+      "id": 601851,
+      "title": "Phy | 17 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/687a423a7491a_phy11.pdf",
+      "date": "18-Jul-2025"
+    },
+    {
+      "id": 601704,
+      "title": "Time And Work Notes 18-07",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/687a345f44402_Time_and_Work_Notes_1807.pdf",
+      "date": "18-Jul-2025"
+    },
+    {
+      "id": 601692,
+      "title": "Time And Work Sheet-03",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/687a33fc9f8ba_Time_and_Work_Sheet03.pdf",
+      "date": "18-Jul-2025"
+    },
+    {
+      "id": 601680,
+      "title": "Time And Work 18-07",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/687a33a8bb2d4_Time_and_Work_1807.pdf",
+      "date": "18-Jul-2025"
+    },
+    {
+      "id": 601474,
+      "title": "Bharat Location and Extension Part-1 | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/687a1a80adbbd_bharat_location_and_extension_part_1compressed.pdf",
+      "date": "18-Jul-2025"
+    },
+    {
+      "id": 601455,
+      "title": "Rajasthan Minerals Notes-3 | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/687a16cf92dcc_rajasthan_ke_minerals_part_3compressed.pdf",
+      "date": "18-Jul-2025"
+    },
+    {
+      "id": 601045,
+      "title": "Time And Work Notes 17-07",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6878e25d72cb0_Time_and_Work_Notes_1707.pdf",
+      "date": "17-Jul-2025"
+    },
+    {
+      "id": 601033,
+      "title": "Time And Work Sheet-02",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6878e1fe2376a_Time_and_Work_Sheet02.pdf",
+      "date": "17-Jul-2025"
+    },
+    {
+      "id": 601021,
+      "title": "Time And Work 17-07",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6878e18a81b5e_Time_And_Work_1707.pdf",
+      "date": "17-Jul-2025"
+    },
+    {
+      "id": 600911,
+      "title": "Reas | 17 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6878db76ab223_17_july_logical_reasoning_part_1_pdf.pdf",
+      "date": "17-Jul-2025"
+    },
+    {
+      "id": 600607,
+      "title": "Rajasthan Energy Resources Notes-2 | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6878935d8d972_rajasthan_energy_resources_part_2.pdf",
+      "date": "17-Jul-2025"
+    },
+    {
+      "id": 600589,
+      "title": "Rajasthan Minerals Notes-2 | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/687892597fdf0_rajasthan_ke_minerals_part_2.pdf",
+      "date": "17-Jul-2025"
+    },
+    {
+      "id": 600579,
+      "title": "His | 16 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/687891b92df03_sindhu_sabyta_patr_2.pdf",
+      "date": "17-Jul-2025"
+    },
+    {
+      "id": 600551,
+      "title": "His | 15 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6878912fd5de2_sisodiya_vansh_part_1.pdf",
+      "date": "17-Jul-2025"
+    },
+    {
+      "id": 600288,
+      "title": "Time And Work Notes 16-07",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6877994a42705_Time_And_Work_Notes_1607.pdf",
+      "date": "16-Jul-2025"
+    },
+    {
+      "id": 600276,
+      "title": "Time And Work Sheet-01",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68779902809e7_Time_And_Work_Sheet01.pdf",
+      "date": "16-Jul-2025"
+    },
+    {
+      "id": 600264,
+      "title": "Time And Work 16-07",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/687798ad44a1d_Time_And_Work_1607.pdf",
+      "date": "16-Jul-2025"
+    },
+    {
+      "id": 599679,
+      "title": "Rajasthan Energy Resources Notes-1 | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6877462396e34_rajasthan_energy_resources_part_1compressed.pdf",
+      "date": "16-Jul-2025"
+    },
+    {
+      "id": 599668,
+      "title": "Rajasthan Minerals Notes-1 | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/687742fcc38a3_rajasthan_ke_minerals_part_1.pdf",
+      "date": "16-Jul-2025"
+    },
+    {
+      "id": 598356,
+      "title": "Average Notes 15-07",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6876309d37f38_Average_Notes_1507_B03.pdf",
+      "date": "15-Jul-2025"
+    },
+    {
+      "id": 598344,
+      "title": "Average Sheet-05",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6876302017c95_Average_Sheet05.pdf",
+      "date": "15-Jul-2025"
+    },
+    {
+      "id": 598332,
+      "title": "Average 15-07",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68762fc3c2a93_Average_1507_B03.pdf",
+      "date": "15-Jul-2025"
+    },
+    {
+      "id": 598197,
+      "title": "Chem | 14 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68761f01af1b5_chem10.pdf",
+      "date": "15-Jul-2025"
+    },
+    {
+      "id": 597868,
+      "title": "Rajasthan Wild Life Notes | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6875f6c81378b_rajasthan_vanya_jeev_part_13compressed.pdf",
+      "date": "15-Jul-2025"
+    },
+    {
+      "id": 597858,
+      "title": "Rajasthan Udyog Complete Notes | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6875f52ce8be5_rajasthan_ke_udyog_complete_by_shubham_sircompressed.pdf",
+      "date": "15-Jul-2025"
+    },
+    {
+      "id": 597848,
+      "title": "Climate Part -3 | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6875f2ce053f4_jalvayu_topic_part3compressed.pdf",
+      "date": "15-Jul-2025"
+    },
+    {
+      "id": 597838,
+      "title": "His | 14 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6875f0791b8e9_mahesh_sir_class_14_july.pdf",
+      "date": "15-Jul-2025"
+    },
+    {
+      "id": 596564,
+      "title": "Average Notes 14-07",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6874f8421e925_Average_Notes_1407.pdf",
+      "date": "14-Jul-2025"
+    },
+    {
+      "id": 596552,
+      "title": "Average Sheet-04",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6874f7edead2b_Average_Sheet04.pdf",
+      "date": "14-Jul-2025"
+    },
+    {
+      "id": 596540,
+      "title": "Average 14-07",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6874f7a174724_Average_1407.pdf",
+      "date": "14-Jul-2025"
+    },
+    {
+      "id": 595912,
+      "title": "Reas | 14 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6874ea9e19c9f_14_july_series_topic_complete.pdf",
+      "date": "14-Jul-2025"
+    },
+    {
+      "id": 595597,
+      "title": "Bio | 12 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6874e063743d9_12_july_2025_cw_pdf.pdf",
+      "date": "14-Jul-2025"
+    },
+    {
+      "id": 594081,
+      "title": "His | 13 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6874a644ef516_sabhytay_part_2compressed.pdf",
+      "date": "14-Jul-2025"
+    },
+    {
+      "id": 594071,
+      "title": "His | 12 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6874a5d2e9468_rantham_bor_ke_chohan_part1.pdf",
+      "date": "14-Jul-2025"
+    },
+    {
+      "id": 594061,
+      "title": "His | 11 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6874a56f3eff2_jalor_chohan.pdf",
+      "date": "14-Jul-2025"
+    },
+    {
+      "id": 593446,
+      "title": "Average Notes 12-07",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68724c42ae066_AVERAGE_Notes_1207.pdf",
+      "date": "12-Jul-2025"
+    },
+    {
+      "id": 593434,
+      "title": "Average Sheet-03",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68724be4dbe36_Average_Sheet03.pdf",
+      "date": "12-Jul-2025"
+    },
+    {
+      "id": 593420,
+      "title": "Average 12-07",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68724b911c568_Average_1207.pdf",
+      "date": "12-Jul-2025"
+    },
+    {
+      "id": 593373,
+      "title": "His | 10 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/687249f4f23d8_10_julay_kalibnga.pdf",
+      "date": "12-Jul-2025"
+    },
+    {
+      "id": 593357,
+      "title": "His | 09 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68724986aad15_10_julay_chohan_last.pdf",
+      "date": "12-Jul-2025"
+    },
+    {
+      "id": 593330,
+      "title": "Bio | 11 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/687248addf1b4_11_july_2025_cw_pdf.pdf",
+      "date": "12-Jul-2025"
+    },
+    {
+      "id": 593284,
+      "title": "Phy | 10 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/687246decabfe_phy10.pdf",
+      "date": "12-Jul-2025"
+    },
+    {
+      "id": 593271,
+      "title": "Phy | 09 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6872463b35be7_phy09.pdf",
+      "date": "12-Jul-2025"
+    },
+    {
+      "id": 592649,
+      "title": "Average Notes 11-07",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6870f118248ec_AVERAGE_Notes_1107.pdf",
+      "date": "11-Jul-2025"
+    },
+    {
+      "id": 592629,
+      "title": "Average Sheet-02",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6870f0b80098d_Averge_Sheet02.pdf",
+      "date": "11-Jul-2025"
+    },
+    {
+      "id": 592617,
+      "title": "Average 11-07",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6870f03a064bb_Average_1107.pdf",
+      "date": "11-Jul-2025"
+    },
+    {
+      "id": 592097,
+      "title": "Chem | 09 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/686faeec3585e_chem09.pdf",
+      "date": "10-Jul-2025"
+    },
+    {
+      "id": 592055,
+      "title": "Average Notes 10-07",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/686fa3c734c63_Average_Notes_1007.pdf",
+      "date": "10-Jul-2025"
+    },
+    {
+      "id": 592043,
+      "title": "Average Sheet-01",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/686fa36c126f3_Average_Sheet01.pdf",
+      "date": "10-Jul-2025"
+    },
+    {
+      "id": 592031,
+      "title": "Average 10-07",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/686fa319bb5ec_Average_1007.pdf",
+      "date": "10-Jul-2025"
+    },
+    {
+      "id": 591803,
+      "title": "Bio | 09 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/686f8c9df2d6e_9_july_2025_cw_pdf.pdf",
+      "date": "10-Jul-2025"
+    },
+    {
+      "id": 591221,
+      "title": "Mixture and Alligation Notes 09-07",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/686e5c66994c4_Mixture_And_Alligation_Notes_0907.pdf",
+      "date": "09-Jul-2025"
+    },
+    {
+      "id": 591209,
+      "title": "Mixture and Alligation Sheet-03",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/686e5ad664d83_Mixture_And_Alligation_Sheet03.pdf",
+      "date": "09-Jul-2025"
+    },
+    {
+      "id": 591197,
+      "title": "Mixture and Alligation 09-07",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/686e5a733297f_Mixture_And_Alligation_0907.pdf",
+      "date": "09-Jul-2025"
+    },
+    {
+      "id": 590629,
+      "title": "His | 8 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/686e09fa38a4e_chauhan_vansh_part_2.pdf",
+      "date": "09-Jul-2025"
+    },
+    {
+      "id": 590439,
+      "title": "Mixture and Alligation Notes 08-07",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/686d0bb0e19f6_MIXTURE_AND_ALLIGATION_Notes_0807.pdf",
+      "date": "08-Jul-2025"
+    },
+    {
+      "id": 590433,
+      "title": "Bio | 07 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/686d0b8d4cb49_7_july_2025_cw_pdf.pdf",
+      "date": "08-Jul-2025"
+    },
+    {
+      "id": 590417,
+      "title": "Mixture and Alligation Sheet-02",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/686d0b5b900cc_Mixture_And_Alligation_Sheet02.pdf",
+      "date": "08-Jul-2025"
+    },
+    {
+      "id": 590401,
+      "title": "Mixture and Alligation 08-07",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/686d0b0379eed_Mixture_And_Alligation_0807.pdf",
+      "date": "08-Jul-2025"
+    },
+    {
+      "id": 590371,
+      "title": "His | 07 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/686d09b5bf878_chauhan_vansh_part_1_.pdf",
+      "date": "08-Jul-2025"
+    },
+    {
+      "id": 587954,
+      "title": "Mixture and Alligation Notes 07-07",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/686bab876ee9a_Mixture_Alligation_Notes_0707.pdf",
+      "date": "07-Jul-2025"
+    },
+    {
+      "id": 587941,
+      "title": "Mixture and Alligation Sheet-01",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/686bab2ea8aaf_Mixture_and_Alligation_Sheet01.pdf",
+      "date": "07-Jul-2025"
+    },
+    {
+      "id": 587928,
+      "title": "Mixture and Alligation 07-07",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/686baab72a317_Mixture_and_Alligation_0707.pdf",
+      "date": "07-Jul-2025"
+    },
+    {
+      "id": 587433,
+      "title": "Rajasthan History Class | Hand Written Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/686b54e4c7083__careerwill.pdf",
+      "date": "07-Jul-2025"
+    },
+    {
+      "id": 587364,
+      "title": "Ratio and Proportion (Partnership) Notes 05-07",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68690bb795ec1_Ratio_and_Proporation_Notes_0507.pdf",
+      "date": "05-Jul-2025"
+    },
+    {
+      "id": 587352,
+      "title": "Ratio and Proportion Sheet-07",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68690b48ac8b1_Ratio_and_Proportion_Sheet07.pdf",
+      "date": "05-Jul-2025"
+    },
+    {
+      "id": 587340,
+      "title": "Ratio and Proportion (Partnership) 05-07",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68690aef0c890_Ratio_and_Proportion_0507.pdf",
+      "date": "05-Jul-2025"
+    },
+    {
+      "id": 587220,
+      "title": "Phy | 04 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6868f514c2893_phy08compressed.pdf",
+      "date": "05-Jul-2025"
+    },
+    {
+      "id": 587139,
+      "title": "Art and Culture (Class 23 - 26) | Hand Written Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6868e92e36f27_art_nd_culture_class_2236compressed.pdf",
+      "date": "05-Jul-2025"
+    },
+    {
+      "id": 586668,
+      "title": "Ratio and Proportion (Age) Notes  04-07",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6867c2298fd22_Ratio_And_Proportion_Age_Notes_0407_B03.pdf",
+      "date": "04-Jul-2025"
+    },
+    {
+      "id": 586656,
+      "title": "Ratio and Proportion Sheet-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6867c1cbd8dcc_Ratio_And_Proportion_Sheet06_B03.pdf",
+      "date": "04-Jul-2025"
+    },
+    {
+      "id": 586638,
+      "title": "Ratio and Proportion (Age) 04-07",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6867c14b848d5_Ratio_And_Proportion_Age_0407_B03.pdf",
+      "date": "04-Jul-2025"
+    },
+    {
+      "id": 586460,
+      "title": "Phy | 03 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6867b3f425e9d_phy07.pdf",
+      "date": "04-Jul-2025"
+    },
+    {
+      "id": 585556,
+      "title": "Art and Culture (Class 13 - 22) | Hand Written Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6867794c443b0_art_nd_culture_class_13_22compressed.pdf",
+      "date": "04-Jul-2025"
+    },
+    {
+      "id": 585366,
+      "title": "Ratio and Proportion Notes 03-07",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/686676b9550ed_Ratio_And_Proportion_Notes_0307_B03.pdf",
+      "date": "03-Jul-2025"
+    },
+    {
+      "id": 585354,
+      "title": "Ratio and Proportion Sheet-05",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/686676631f45b_Ratio_And_Proportion_Sheet05_B03.pdf",
+      "date": "03-Jul-2025"
+    },
+    {
+      "id": 585342,
+      "title": "Ratio and Proportion 03-07",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6866761063538_Ratio_And_Proportion_0307_B03.pdf",
+      "date": "03-Jul-2025"
+    },
+    {
+      "id": 584079,
+      "title": "His | 02 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68663fc6d8758_ekikarn_last_class.pdf",
+      "date": "03-Jul-2025"
+    },
+    {
+      "id": 583793,
+      "title": "Ratio and Proportion Notes 02-07",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68651e262f15f_Ratio_And_Proportion_Notes_0207_B03.pdf",
+      "date": "02-Jul-2025"
+    },
+    {
+      "id": 583766,
+      "title": "Ratio and Proportion Sheet-04",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68651dc4c2765_Ratio_Proportion_sheet04.pdf",
+      "date": "02-Jul-2025"
+    },
+    {
+      "id": 583760,
+      "title": "Bio | 1 & 2 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68651c8cbed4e_12_july_2025_cw_pdf.pdf",
+      "date": "02-Jul-2025"
+    },
+    {
+      "id": 583740,
+      "title": "Puzzle | 02 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68651a25c8f01_2_july_puzzle_pdf_part_1.pdf",
+      "date": "02-Jul-2025"
+    },
+    {
+      "id": 583726,
+      "title": "Ratio and Proportion 02-07",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68651bd414d01_Ratio_And_Proportion_0207_B03.pdf",
+      "date": "02-Jul-2025"
+    },
+    {
+      "id": 583103,
+      "title": "Chem | 02 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6864fc193916c_chem07.pdf",
+      "date": "02-Jul-2025"
+    },
+    {
+      "id": 582925,
+      "title": "Art and Culture (शैली) | Hand Written Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6864dce632f2e_art_and_culture_.pdf",
+      "date": "02-Jul-2025"
+    },
+    {
+      "id": 582823,
+      "title": "Climate Part -2 | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6864cfb0bf18a_jalvayu_topic_part2compressed.pdf",
+      "date": "02-Jul-2025"
+    },
+    {
+      "id": 582813,
+      "title": "Bhotik Pradesh Part -10 | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6864cf0da6f02_bhotik_pradesh_part_10compressed.pdf",
+      "date": "02-Jul-2025"
+    },
+    {
+      "id": 582803,
+      "title": "His | 01 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6864ce6412607_akikarn_part_1compressed.pdf",
+      "date": "02-Jul-2025"
+    },
+    {
+      "id": 582516,
+      "title": "Chem | 01 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6863c38ec7dbe_chem_06.pdf",
+      "date": "01-Jul-2025"
+    },
+    {
+      "id": 582008,
+      "title": "Physics Hand Written Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6863806e0751f_physics_completecompressed.pdf",
+      "date": "01-Jul-2025"
+    },
+    {
+      "id": 581998,
+      "title": "Chemistry Hand Written Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68637fd4889b1_chemistry_complete.pdf",
+      "date": "01-Jul-2025"
+    },
+    {
+      "id": 581988,
+      "title": "His | 30 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68637f2d40d0c_1857_old_batchcompressed.pdf",
+      "date": "01-Jul-2025"
+    },
+    {
+      "id": 581976,
+      "title": "His | 29 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68637dae522d2_parjamndhn_last_class.pdf",
+      "date": "01-Jul-2025"
+    },
+    {
+      "id": 580967,
+      "title": "Bio | 30 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68627cfe58073_30_june_2025_cw_pdf.pdf",
+      "date": "30-Jun-2025"
+    },
+    {
+      "id": 580899,
+      "title": "Ratio and Proportion Notes 30-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68627729342b4_Ratio_And_Proportion_Notes_3006_B03.pdf",
+      "date": "30-Jun-2025"
+    },
+    {
+      "id": 580409,
+      "title": "Ratio and Proportion Sheet-03",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/686276c745ea0_Ratio_And_Proportion_Sheet03_B03.pdf",
+      "date": "30-Jun-2025"
+    },
+    {
+      "id": 580397,
+      "title": "Ratio and Proportion 30-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68627665bc288_Ratio_and_Proportion_3006_B03.pdf",
+      "date": "30-Jun-2025"
+    },
+    {
+      "id": 580171,
+      "title": "Bio | 28 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/686264523dc2b_28_june_2025_cw_pdf.pdf",
+      "date": "30-Jun-2025"
+    },
+    {
+      "id": 580148,
+      "title": "Chem | 30 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6862633fd45c1_chem05.pdf",
+      "date": "30-Jun-2025"
+    },
+    {
+      "id": 579765,
+      "title": "Ratio and Proportion Notes 28-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/685fc84157aa2_Ratio_And_Proportion_Notes_2806.pdf",
+      "date": "28-Jun-2025"
+    },
+    {
+      "id": 579753,
+      "title": "Ratio and Proportion Sheet-02",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/685fc7d6b5b1e_Ratio_And_Proportion_Sheet02.pdf",
+      "date": "28-Jun-2025"
+    },
+    {
+      "id": 579742,
+      "title": "Ratio and Proportion 28-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/685fc746ec9a2_Ratio_And_Proportion_2806.pdf",
+      "date": "28-Jun-2025"
+    },
+    {
+      "id": 579529,
+      "title": "Maths | 27 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/685f88448e287_simple_interest_27june_patwari_4th_grade_old_batchcompressed.pdf",
+      "date": "28-Jun-2025"
+    },
+    {
+      "id": 579519,
+      "title": "Phy | 27 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/685f870d2e61d_physics_06.pdf",
+      "date": "28-Jun-2025"
+    },
+    {
+      "id": 579369,
+      "title": "Art and Culture | Hand Written Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/685e3d1f824e3_Art_Culture_1825_Done.pdf",
+      "date": "27-Jun-2025"
+    },
+    {
+      "id": 579266,
+      "title": "Ratio and Proportion Notes 26-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/685d312ebe9e7_Ratio_And_Proportion_Notes_2606.pdf",
+      "date": "26-Jun-2025"
+    },
+    {
+      "id": 579254,
+      "title": "Ratio and Proportion Sheet-01",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/685d30d85283b_Ratio_And_Proportion_Sheet01.pdf",
+      "date": "26-Jun-2025"
+    },
+    {
+      "id": 579242,
+      "title": "Ratio and Proportion 26-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/685d307aa51b0_Ratio_And_Proportion_2606.pdf",
+      "date": "26-Jun-2025"
+    },
+    {
+      "id": 579021,
+      "title": "Phy | 25 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/685d08fce4566_phy_05_work_power_energy.pdf",
+      "date": "26-Jun-2025"
+    },
+    {
+      "id": 578651,
+      "title": "Bio | 26 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/685ced1c99037_25_june_2025_cw_pdf.pdf",
+      "date": "26-Jun-2025"
+    },
+    {
+      "id": 578601,
+      "title": "GS Booster Book Amazon Sale Only On 175 Rs.",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/685cebf735cfa_GS_booster_link.pdf",
+      "date": "26-Jun-2025"
+    },
+    {
+      "id": 578533,
+      "title": "Climate Part -1 | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/685ce4e1682b4_jalvayu_topic_part1compressed.pdf",
+      "date": "26-Jun-2025"
+    },
+    {
+      "id": 578522,
+      "title": "Bhotik Pradesh Part -9 | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/685ce3ebe4ba4_bhotik_pradesh_part_9compressed.pdf",
+      "date": "26-Jun-2025"
+    },
+    {
+      "id": 578512,
+      "title": "Pol | 25 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/685ce31f02e25_prajamandal_02.pdf",
+      "date": "26-Jun-2025"
+    },
+    {
+      "id": 578332,
+      "title": "Profit and Loss (Dishonest) Notes 25-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/685be344ec2c9_Profit_and_Loss_Dishonest_Notes_2506.pdf",
+      "date": "25-Jun-2025"
+    },
+    {
+      "id": 578314,
+      "title": "Profit and Loss Sheet-07",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68cd1a0572aab_Profit_Loss_sheet_07.pdf",
+      "date": "25-Jun-2025"
+    },
+    {
+      "id": 578302,
+      "title": "Profit and Loss (Dishonest) 25-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/685be1ee303c6_Profit_and_Loss_Dishonest_2506.pdf",
+      "date": "25-Jun-2025"
+    },
+    {
+      "id": 578081,
+      "title": "Bio | 23 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/685bd75261493_23_june_2025_cw_app_pdf.pdf",
+      "date": "25-Jun-2025"
+    },
+    {
+      "id": 577300,
+      "title": "Pol | 24 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/685b92cdc2077_24_june_prajamandal_01compressed.pdf",
+      "date": "25-Jun-2025"
+    },
+    {
+      "id": 577059,
+      "title": "Profit and Loss Notes 24-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/685a91118d3cf_Profit_and_Loss_Discount_Notes_2406.pdf",
+      "date": "24-Jun-2025"
+    },
+    {
+      "id": 577047,
+      "title": "Profit and Loss Sheet-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/685a9065ac6d8_Profit_and_Loss_Sheet06.pdf",
+      "date": "24-Jun-2025"
+    },
+    {
+      "id": 577035,
+      "title": "Profit and Loss 24-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/685a8f7171e80_Profit_and_Loss_Discount_2406.pdf",
+      "date": "24-Jun-2025"
+    },
+    {
+      "id": 576857,
+      "title": "Che | 24 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/685a742b488ac_chem_04.pdf",
+      "date": "24-Jun-2025"
+    },
+    {
+      "id": 576851,
+      "title": "Maths | 24 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/685a739f42fcd_lcm_hcf_24JUNE_patwari_4th_grade_old.pdf",
+      "date": "24-Jun-2025"
+    },
+    {
+      "id": 575905,
+      "title": "His | 23 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/685a48fe94ad6_Raj_janjati_andholancompressed.pdf",
+      "date": "24-Jun-2025"
+    },
+    {
+      "id": 575704,
+      "title": "Art nd culture class 1 - 12 | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68594c9604021_Art_nd_culture_class_112compressed.pdf",
+      "date": "23-Jun-2025"
+    },
+    {
+      "id": 575453,
+      "title": "Che | 23 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68593df4d1c7a_chem_03.pdf",
+      "date": "23-Jun-2025"
+    },
+    {
+      "id": 575426,
+      "title": "Rajya Marg Part 4 | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68593addc14fa_rajya_marg_part_4compressed.pdf",
+      "date": "23-Jun-2025"
+    },
+    {
+      "id": 575403,
+      "title": "Profit and Loss Notes 23-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68592c5c64293_Profit_and_Loss_Discount_Notes_2306.pdf",
+      "date": "23-Jun-2025"
+    },
+    {
+      "id": 575390,
+      "title": "Profit and Loss Sheet-05",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68592b34b0c9c_Profit_and_Loss_Sheet05.pdf",
+      "date": "23-Jun-2025"
+    },
+    {
+      "id": 575377,
+      "title": "Profit and Loss 23-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68592ad1a8581_Profit_and_Loss_Discount_2306.pdf",
+      "date": "23-Jun-2025"
+    },
+    {
+      "id": 575323,
+      "title": "Population of Rajasthan 3-4 | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68592556c69d0_population_part_3_4_mergedcompressed.pdf",
+      "date": "23-Jun-2025"
+    },
+    {
+      "id": 575286,
+      "title": "Bhotik Pradesh Part 4 - 8 | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/685921e6b459e_bhotik_pradesh_part_4_8_Mergedcompressed.pdf",
+      "date": "23-Jun-2025"
+    },
+    {
+      "id": 575275,
+      "title": "Apda Prabandhan Part - 5 | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68591f736c45a_Apda_Prabandhan_Part_5compressed.pdf",
+      "date": "23-Jun-2025"
+    },
+    {
+      "id": 575074,
+      "title": "Phy | 20 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6856a76b351e8_phy_04.pdf",
+      "date": "21-Jun-2025"
+    },
+    {
+      "id": 574981,
+      "title": "Profit and Loss Notes 21-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68569a212802a_Profit_and_Loss_Discount_Notes_2106.pdf",
+      "date": "21-Jun-2025"
+    },
+    {
+      "id": 574968,
+      "title": "Profit and Loss Sheet-04",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6856998e380f5_Profit_and_Loss_Sheet04.pdf",
+      "date": "21-Jun-2025"
+    },
+    {
+      "id": 574953,
+      "title": "Profit and Loss 21-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6856990fe5227_Profit_and_Loss_Discount_2106.pdf",
+      "date": "21-Jun-2025"
+    },
+    {
+      "id": 574757,
+      "title": "His | 20 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68567bd808cde_kisan_anbolan_patr_2compressed.pdf",
+      "date": "21-Jun-2025"
+    },
+    {
+      "id": 574321,
+      "title": "Bio | 20 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/685549c1a6a21_20_june_2025_cw_pdf.pdf",
+      "date": "20-Jun-2025"
+    },
+    {
+      "id": 574284,
+      "title": "Profit and Loss Notes 20-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6855482433d28_Profit_and_Loss_Notes_2006.pdf",
+      "date": "20-Jun-2025"
+    },
+    {
+      "id": 574271,
+      "title": "Profit and Loss Sheet-03",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/685547c66a64c_Profit_and_Loss_Sheet03.pdf",
+      "date": "20-Jun-2025"
+    },
+    {
+      "id": 574258,
+      "title": "Profit and Loss 20-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6855474e55fa8_Profit_and_Loss_2006.pdf",
+      "date": "20-Jun-2025"
+    },
+    {
+      "id": 574121,
+      "title": "Phy | 19 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68552e1474d1c_phy03.pdf",
+      "date": "20-Jun-2025"
+    },
+    {
+      "id": 573897,
+      "title": "Art and Culture | 19 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68550365525b7_raj._art_and_culture_19_june_2025_hastkalaye_vishnu_sir_all_batch_app.pdf",
+      "date": "20-Jun-2025"
+    },
+    {
+      "id": 573883,
+      "title": "His | 19 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6855023d29669_kisan_andholan_part_1compressed.pdf",
+      "date": "20-Jun-2025"
+    },
+    {
+      "id": 573605,
+      "title": "Profit and Loss Notes 19-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6853f690818ca_Profit_and_Loss_Notes_1906.pdf",
+      "date": "19-Jun-2025"
+    },
+    {
+      "id": 573592,
+      "title": "Profit and Loss Sheet-02",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6853f62d2909c_Profit_and_Loss_Sheet02.pdf",
+      "date": "19-Jun-2025"
+    },
+    {
+      "id": 573579,
+      "title": "Profit and Loss 19-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6853f5c0a1567_Profit_and_Loss_1906.pdf",
+      "date": "19-Jun-2025"
+    },
+    {
+      "id": 573249,
+      "title": "Phy | 18 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6853d01e2f337_physics_class_02_motion.pdf",
+      "date": "19-Jun-2025"
+    },
+    {
+      "id": 572818,
+      "title": "Pol | 19 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6853ab710628b_pklity_19_jue_jila_prashasancompressed.pdf",
+      "date": "19-Jun-2025"
+    },
+    {
+      "id": 572809,
+      "title": "Pol | 18 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6853aaa184020_polity_app_class_18_juncompressed.pdf",
+      "date": "19-Jun-2025"
+    },
+    {
+      "id": 572540,
+      "title": "Bio | 18 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/685394610c1ba_18_june_2025_cw_app_pdf.pdf",
+      "date": "19-Jun-2025"
+    },
+    {
+      "id": 572443,
+      "title": "Profit and Loss Notes 18-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6852a746b83e4_Profit_and_Loss_Notes_1806.pdf",
+      "date": "18-Jun-2025"
+    },
+    {
+      "id": 572430,
+      "title": "Profit and Loss Sheet-01",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6852a6dceaf27_Profit_and_Loss_Sheet01.pdf",
+      "date": "18-Jun-2025"
+    },
+    {
+      "id": 572417,
+      "title": "Profit and Loss 18-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6852a67bf05dd_Profit_and_Loss_1806.pdf",
+      "date": "18-Jun-2025"
+    },
+    {
+      "id": 571497,
+      "title": "Art and Culture | 17 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/685250217054d_raj._art_and_culture_17_june_2025_chitrkala_all_batch_app_vishnu_sir.pdf",
+      "date": "18-Jun-2025"
+    },
+    {
+      "id": 571491,
+      "title": "His | 17 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68524f6a39e0e_1857_last_classcompressed.pdf",
+      "date": "18-Jun-2025"
+    },
+    {
+      "id": 571062,
+      "title": "Simple Interest Notes 17-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6851523675dd2_SIMPLE_INTEREST_Notes_1706.pdf",
+      "date": "17-Jun-2025"
+    },
+    {
+      "id": 571049,
+      "title": "Simple Interest Sheet-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/685151d22ced8_SI_Sheet06.pdf",
+      "date": "17-Jun-2025"
+    },
+    {
+      "id": 571036,
+      "title": "Simple Interest 17-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/685151764280b_SI_1706.pdf",
+      "date": "17-Jun-2025"
+    },
+    {
+      "id": 570882,
+      "title": "Che | 17 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6851347fbf8a6_chem_class_02.pdf",
+      "date": "17-Jun-2025"
+    },
+    {
+      "id": 570861,
+      "title": "Bio | 17 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/685131b880601_17_june_2025_cw_app_cls_pdf.pdf",
+      "date": "17-Jun-2025"
+    },
+    {
+      "id": 570705,
+      "title": "Pol | 17 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6850fe79ab16f_polity_17_june_sansadcompressed.pdf",
+      "date": "17-Jun-2025"
+    },
+    {
+      "id": 570550,
+      "title": "Reas | 16 June | PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68500d485ac6c_16_june_calender_topic_part_1_pdf.pdf",
+      "date": "16-Jun-2025"
+    },
+    {
+      "id": 570495,
+      "title": "Simple Interest Notes 16-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68500479c3785_Simple_Interest_Notes_1606_B03.pdf",
+      "date": "16-Jun-2025"
+    },
+    {
+      "id": 570482,
+      "title": "Simple Interest Sheet-05",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6850041236494_Simple_Interest_Sheet05_B03.pdf",
+      "date": "16-Jun-2025"
+    },
+    {
+      "id": 570469,
+      "title": "Simple Interest 16-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/685003a2f4007_Simple_Interest_1606.pdf",
+      "date": "16-Jun-2025"
+    },
+    {
+      "id": 570336,
+      "title": "Che | 16 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/684fec5ee6e18_chemistry_class_01_physical_and_chemical_change.pdf",
+      "date": "16-Jun-2025"
+    },
+    {
+      "id": 569884,
+      "title": "Simple Interest Notes 14-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/684d4f89dda35_Simple_Interest_Notes_1406_B03.pdf",
+      "date": "14-Jun-2025"
+    },
+    {
+      "id": 569852,
+      "title": "Simple Interest Sheet-04",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/684d4ec1c5435_SI_Sheet04_B03.pdf",
+      "date": "14-Jun-2025"
+    },
+    {
+      "id": 569839,
+      "title": "Simple Interest 14-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/684d4e4e82d5c_Simple_Interest_1406_B03.pdf",
+      "date": "14-Jun-2025"
+    },
+    {
+      "id": 569689,
+      "title": "Bio | 13 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/684d1d4983e01_13_june_2025_cw_app_pdf.pdf",
+      "date": "14-Jun-2025"
+    },
+    {
+      "id": 569468,
+      "title": "Simple Interest Notes 13-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/684c11206ed1a_Simple_Interest_Notes_1306.pdf",
+      "date": "13-Jun-2025"
+    },
+    {
+      "id": 569455,
+      "title": "Simple Interest Sheet-03",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/684c10c8332cd_Simple_Interest_Sheet03.pdf",
+      "date": "13-Jun-2025"
+    },
+    {
+      "id": 569442,
+      "title": "Simple Interest 13-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/684c106fd32c5_Simple_Interest_1306.pdf",
+      "date": "13-Jun-2025"
+    },
+    {
+      "id": 568771,
+      "title": "Simple Interest Notes 12-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/684ab88ebd0c1_SI_Notes_1206_B03.pdf",
+      "date": "12-Jun-2025"
+    },
+    {
+      "id": 568758,
+      "title": "Simple Interest Sheet-02",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/684ab81049598_SI_sheet02_B03.pdf",
+      "date": "12-Jun-2025"
+    },
+    {
+      "id": 568738,
+      "title": "Simple Interest 12-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/684ab77ea241c_Simple_Interest_1206_B03.pdf",
+      "date": "12-Jun-2025"
+    },
+    {
+      "id": 567853,
+      "title": "Pol | 11 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/684a80651e399_polity_sansad_part_2compressed.pdf",
+      "date": "12-Jun-2025"
+    },
+    {
+      "id": 567843,
+      "title": "Art and Culture | 11 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/684a7fb80bc0d_raj_art_and_culture_11_june_2025_chitrkala_vishnu_sir_app_all_batch.pdf",
+      "date": "12-Jun-2025"
+    },
+    {
+      "id": 567692,
+      "title": "Simple Interest Notes 11-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6849736fc1363_Simple_Interest_Notes_1106.pdf",
+      "date": "11-Jun-2025"
+    },
+    {
+      "id": 567679,
+      "title": "Simple Interest Sheet-01",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/684973162a8a2_Simple_Interest_Sheet01.pdf",
+      "date": "11-Jun-2025"
+    },
+    {
+      "id": 567652,
+      "title": "Simple Interest 11-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6849716271f1f_Simple_Interest_1106.pdf",
+      "date": "11-Jun-2025"
+    },
+    {
+      "id": 567058,
+      "title": "Population of Rajasthan 1 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68495fdc21ebb_rajasthan_ki_population_part_1compressed.pdf",
+      "date": "11-Jun-2025"
+    },
+    {
+      "id": 567046,
+      "title": "Pol | 9 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68495e7d3c80a_ilovepdfmerged_1compressed.pdf",
+      "date": "11-Jun-2025"
+    },
+    {
+      "id": 567036,
+      "title": "Pol | 7 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/684958ec84342_polity_yt_presidentmergedcompressed.pdf",
+      "date": "11-Jun-2025"
+    },
+    {
+      "id": 567010,
+      "title": "Art and Culture | 9 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68495648c351f_raj._art_and_culture_9_june_2025_raj._ki_chitrkala_56_6_se_7_app_vishnu_sir.pdf",
+      "date": "11-Jun-2025"
+    },
+    {
+      "id": 566976,
+      "title": "Reas | 9 June | PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/684953d671c79_9_june_reasoning_topic_syllogism_class3.pdf",
+      "date": "11-Jun-2025"
+    },
+    {
+      "id": 566875,
+      "title": "His | 2 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68494e91cbcaa_2_june_berath_v_bagor_sabhya.pdf",
+      "date": "11-Jun-2025"
+    },
+    {
+      "id": 566863,
+      "title": "History Class Hand Written",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68494d1fa7033_DocScanner_08Jun2025_0930_PMcompressed.pdf",
+      "date": "11-Jun-2025"
+    },
+    {
+      "id": 566851,
+      "title": "Geo | 8-10 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68494bde7f591_bhotik_pradesh_part_124compressed.pdf",
+      "date": "11-Jun-2025"
+    },
+    {
+      "id": 566476,
+      "title": "Geo | 6-7 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68493fad69908_6_7_june_bikaner_rajyacompressed.pdf",
+      "date": "11-Jun-2025"
+    },
+    {
+      "id": 566022,
+      "title": "Compound Interest Notes 10-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68481da7bdf1d_Compound_Interest_Notes_1006.pdf",
+      "date": "10-Jun-2025"
+    },
+    {
+      "id": 565996,
+      "title": "Compound Interest Sheet-07",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68481d1ac2beb_Compound_Interest_Sheet07.pdf",
+      "date": "10-Jun-2025"
+    },
+    {
+      "id": 565979,
+      "title": "Compound Interest PNG 10-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68481c93d77a3_Compound_Interest_1006.pdf",
+      "date": "10-Jun-2025"
+    },
+    {
+      "id": 565851,
+      "title": "His | 6 & 7 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6846d465c38b7_6_7_june_bikaner_rajyacompressed.pdf",
+      "date": "09-Jun-2025"
+    },
+    {
+      "id": 565841,
+      "title": "Art and Culture | 5,6 & 7 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6846d2c28e5f2_raj._art_and_culture_7_june_2025_lok_deviya_6_se_7pm_app_class_by_vishnu_sir_567compressed.pdf",
+      "date": "09-Jun-2025"
+    },
+    {
+      "id": 565803,
+      "title": "Reas | 7 June | PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6846d0340c89f_7_june_app_pdf.pdf",
+      "date": "09-Jun-2025"
+    },
+    {
+      "id": 565782,
+      "title": "Reas | 6 June | PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6846cf8f9c8b6_6_june_syllogism_topic_class1_pdf.pdf",
+      "date": "09-Jun-2025"
+    },
+    {
+      "id": 565748,
+      "title": "Compound Interest Sheet-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6846cdd86c24a_CI_Sheet06.pdf",
+      "date": "09-Jun-2025"
+    },
+    {
+      "id": 565731,
+      "title": "Compound Interest 09-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6846cd4789cc3_Compound_Interest_0910.pdf",
+      "date": "09-Jun-2025"
+    },
+    {
+      "id": 564836,
+      "title": "Compound Interest Notes 07-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68442fd2538a0_CI_Notes_0706.pdf",
+      "date": "07-Jun-2025"
+    },
+    {
+      "id": 564819,
+      "title": "Compound Interest Sheet-05",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68442f4e72845_CI_Sheet05.pdf",
+      "date": "07-Jun-2025"
+    },
+    {
+      "id": 564802,
+      "title": "Compound Interest 07-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68442ecc65902_CI_0706.pdf",
+      "date": "07-Jun-2025"
+    },
+    {
+      "id": 564568,
+      "title": "Compound Interest Notes 06-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6842cc0e77096_Compound_Interest_Notes_0606.pdf",
+      "date": "06-Jun-2025"
+    },
+    {
+      "id": 564551,
+      "title": "Compound Interest Sheet-04",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6842cb763cb5c_Compound_Interest_Sheet04.pdf",
+      "date": "06-Jun-2025"
+    },
+    {
+      "id": 564534,
+      "title": "Compound Interest 06-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6842cad7c2918_Compound_Interest_0606.pdf",
+      "date": "06-Jun-2025"
+    },
+    {
+      "id": 564016,
+      "title": "Compound Interest Notes 05-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/684177f43b54c_Compound_Interest_Notes_0506.pdf",
+      "date": "05-Jun-2025"
+    },
+    {
+      "id": 563992,
+      "title": "Compound Interest Sheet-03",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6841776221c12_Compound_Interest_Sheet03.pdf",
+      "date": "05-Jun-2025"
+    },
+    {
+      "id": 563973,
+      "title": "Compound Interest 05-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/684176ccc6caf_Compound_Interest_0506.pdf",
+      "date": "05-Jun-2025"
+    },
+    {
+      "id": 563963,
+      "title": "Art and Culture | 5 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6841766dc830b_ilovepdfmerged_3compressed.pdf",
+      "date": "05-Jun-2025"
+    },
+    {
+      "id": 563957,
+      "title": "Reas | 5 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68417510713e7_class_5.pdf",
+      "date": "05-Jun-2025"
+    },
+    {
+      "id": 562800,
+      "title": "Compound Interest Notes 04-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/684026761587d_Compound_Interest_Notes_0406.pdf",
+      "date": "04-Jun-2025"
+    },
+    {
+      "id": 562766,
+      "title": "Compound Interest PNG 04-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/684025546f678_Compound_Interest_0406.pdf",
+      "date": "04-Jun-2025"
+    },
+    {
+      "id": 562578,
+      "title": "Pol | 3 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/683fe9dcc1b05_ilovepdfmerged_20250604T120057.851compressed.pdf",
+      "date": "04-Jun-2025"
+    },
+    {
+      "id": 562563,
+      "title": "Geo | 3 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/683fe75d59e62_raj_geo_class_5.pdf",
+      "date": "04-Jun-2025"
+    },
+    {
+      "id": 562556,
+      "title": "His | 3 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/683fe6dbced22_3_june_marwad.pdf",
+      "date": "04-Jun-2025"
+    },
+    {
+      "id": 562543,
+      "title": "Art and Culture | 3 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/683fe6453ac65_raj._art_and_culture_3_june_2025_topic_durg_by_vishnu_sir.pdf",
+      "date": "04-Jun-2025"
+    },
+    {
+      "id": 562537,
+      "title": "Reas | 3 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/683fe5bbe8772_3_may_app_pdf_reasoning.pdf",
+      "date": "04-Jun-2025"
+    },
+    {
+      "id": 562071,
+      "title": "Compound Interest Notes 03-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/683eda1717889_Compound_Interest_Notes_0306.pdf",
+      "date": "03-Jun-2025"
+    },
+    {
+      "id": 562054,
+      "title": "Compound Interest Sheet-01",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/683ed97959158_Compound_Interest_Sheet01.pdf",
+      "date": "03-Jun-2025"
+    },
+    {
+      "id": 562037,
+      "title": "Compound Interest PNG 03-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/683ed8cc238bb_Compound_Interest_0306.pdf",
+      "date": "03-Jun-2025"
+    },
+    {
+      "id": 561699,
+      "title": "Reas | 3 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/683e9a272f6c1_class_3_app.pdf",
+      "date": "03-Jun-2025"
+    },
+    {
+      "id": 561130,
+      "title": "Percentage Notes 02-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/683d80e317a50_Percentage_Note_0206.pdf",
+      "date": "02-Jun-2025"
+    },
+    {
+      "id": 561113,
+      "title": "Percentage Sheet-13",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/683d803847353_Percentage_Sheet13.pdf",
+      "date": "02-Jun-2025"
+    },
+    {
+      "id": 561096,
+      "title": "Percentage PNG 02-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/683d7fa86204a_Percentage_0206.pdf",
+      "date": "02-Jun-2025"
+    },
+    {
+      "id": 560772,
+      "title": "Pol | 22 May - 2 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/683d4030bd2a4_POLITY_APP_NEW_BATCH_22_MAY_TO_2_JUNE_DONE.pdf",
+      "date": "02-Jun-2025"
+    },
+    {
+      "id": 560747,
+      "title": "Art and Culture | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/683d3ce988b7e_ilovepdfmerged_20250602T112036.333.pdf",
+      "date": "02-Jun-2025"
+    },
+    {
+      "id": 560735,
+      "title": "Geo Class PNG-2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/683d3b1c4e9c2_raj_geo_class_2compressed.pdf",
+      "date": "02-Jun-2025"
+    },
+    {
+      "id": 558342,
+      "title": "Percentage Notes 31-05",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/683aeae13ba44_Percentage_Notes_3105.pdf",
+      "date": "31-May-2025"
+    },
+    {
+      "id": 558322,
+      "title": "Percentage Sheet-12",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/683aea3059886_Percentage_Sheet12.pdf",
+      "date": "31-May-2025"
+    },
+    {
+      "id": 558302,
+      "title": "Percentage PNG 31-05",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/683ae9888bb82_Percentage_PNG_3105.pdf",
+      "date": "31-May-2025"
+    },
+    {
+      "id": 557646,
+      "title": "Percentage Notes 30-05",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68399372e8312_Percentage_Notes_3005_Group_D03.pdf",
+      "date": "30-May-2025"
+    },
+    {
+      "id": 557627,
+      "title": "Percentage Sheet-11",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/683992f3e35c3_Percentage_sheet_11.pdf",
+      "date": "30-May-2025"
+    },
+    {
+      "id": 557610,
+      "title": "Percentage PNG 30-05",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6839925d9a591_Percentage_3005_Group_D03.pdf",
+      "date": "30-May-2025"
+    },
+    {
+      "id": 554995,
+      "title": "Percentage Notes 29-05",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/683847ce0c6de_Percentage_notes_2905.pdf",
+      "date": "29-May-2025"
+    },
+    {
+      "id": 554977,
+      "title": "Percentage Sheet-10",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6838471084e80_Percentage_Sheet10.pdf",
+      "date": "29-May-2025"
+    },
+    {
+      "id": 554944,
+      "title": "Percentage PNG 29-05",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6838455decd2c_Percentage_PNG_2905.pdf",
+      "date": "29-May-2025"
+    },
+    {
+      "id": 554218,
+      "title": "Percentage Notes 28-05",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6836fe201f187_Percentage_Notes_2805.pdf",
+      "date": "28-May-2025"
+    },
+    {
+      "id": 554198,
+      "title": "Percentage Sheet-09",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6836fd71dc795_Percentage_Sheet09.pdf",
+      "date": "28-May-2025"
+    },
+    {
+      "id": 554178,
+      "title": "Percentage PNG 28-05",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6836fcc117a9e_Percentage_PNG_2805.pdf",
+      "date": "28-May-2025"
+    },
+    {
+      "id": 553905,
+      "title": "Percentage Notes 27-05",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6835ace390dd6_Percentage_Notes_2705.pdf",
+      "date": "27-May-2025"
+    },
+    {
+      "id": 553888,
+      "title": "Percentage Sheet-08",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6835ac2fa46a8_Percentage_Sheet08.pdf",
+      "date": "27-May-2025"
+    },
+    {
+      "id": 553871,
+      "title": "Percentage PNG 27-05",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6835ab749bbb9_Percentage_PNG_2705.pdf",
+      "date": "27-May-2025"
+    },
+    {
+      "id": 553650,
+      "title": "Phy | 19-27 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68358c20c0c6a_PHYSICS_1927_MAY_ALL.pdf",
+      "date": "27-May-2025"
+    },
+    {
+      "id": 552946,
+      "title": "Percentage Notes 26-05",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68344d51209ca_Percentage_Notes_2605.pdf",
+      "date": "26-May-2025"
+    },
+    {
+      "id": 552913,
+      "title": "Percentage Sheet-07",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68344b8ee449b_Percentage_Sheet07.pdf",
+      "date": "26-May-2025"
+    },
+    {
+      "id": 552898,
+      "title": "Percentage PNG 26-05",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68344af1e358a_Percentage_PNG_2605.pdf",
+      "date": "26-May-2025"
+    },
+    {
+      "id": 551865,
+      "title": "Percentage Notes 24-05",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6831ae915b517_Percentage_Notes_2405.pdf",
+      "date": "24-May-2025"
+    },
+    {
+      "id": 551850,
+      "title": "Percentage Sheet-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6831ae14f30c8_Percentage_Sheet06.pdf",
+      "date": "24-May-2025"
+    },
+    {
+      "id": 551835,
+      "title": "Percentage PNG 24-05",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6831ad7834388_Percentage_PNG_2405.pdf",
+      "date": "24-May-2025"
+    },
+    {
+      "id": 551293,
+      "title": "Percentage Notes 23-05",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68305ae211bdf_Percentage_Notes_2305.pdf",
+      "date": "23-May-2025"
+    },
+    {
+      "id": 551275,
+      "title": "Percentage Sheet-05",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68305a514ae8e_Percentage_Sheet05.pdf",
+      "date": "23-May-2025"
+    },
+    {
+      "id": 551257,
+      "title": "Percentage PNG 23-05",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/683059b95ef26_Percentage_PNG_2305.pdf",
+      "date": "23-May-2025"
+    },
+    {
+      "id": 550151,
+      "title": "Arts & Culture | 22 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/683013b2aa77d_05222035.pdf",
+      "date": "23-May-2025"
+    },
+    {
+      "id": 549872,
+      "title": "Percentage Notes 22-05",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/682f0e090aeaa_Percentage_Notes_2205.pdf",
+      "date": "22-May-2025"
+    },
+    {
+      "id": 549839,
+      "title": "Percentage Sheet-04",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/682f0d75cc538_Percentage_Sheet04.pdf",
+      "date": "22-May-2025"
+    },
+    {
+      "id": 549802,
+      "title": "Percentage PNG 22-05",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/682f0bddeb8a7_Percentage_PNG_2205.pdf",
+      "date": "22-May-2025"
+    },
+    {
+      "id": 549146,
+      "title": "Percentage Notes 21-05",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/682dbe958e1e1_Percentage_Notes_2105.pdf",
+      "date": "21-May-2025"
+    },
+    {
+      "id": 549128,
+      "title": "Percentage Sheet-03",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/682dbe070e7a6_Percentage_Sheet03.pdf",
+      "date": "21-May-2025"
+    },
+    {
+      "id": 549110,
+      "title": "Percentage PNG 21-05",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/682dbd15713d0_Percentage_PNG_2105.pdf",
+      "date": "21-May-2025"
+    },
+    {
+      "id": 549064,
+      "title": "History Class Hand Written-(31-45)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/682db9c963cfc_DocScanner_May_21_2025_1619compressed.pdf",
+      "date": "21-May-2025"
+    },
+    {
+      "id": 548913,
+      "title": "Pol | 21 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/682d987edee95_polity_app_21_maycompressed.pdf",
+      "date": "21-May-2025"
+    },
+    {
+      "id": 548906,
+      "title": "Art & Culture | 19 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/682d98282d415_folk_songs_1_1.pdf",
+      "date": "21-May-2025"
+    },
+    {
+      "id": 548887,
+      "title": "His Class Hand Written-(28-32)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/682d96c1b8b22_ilovepdfmerged_38compressed.pdf",
+      "date": "21-May-2025"
+    },
+    {
+      "id": 548305,
+      "title": "Percentage Notes 20-05",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/682c64871fe39_Percentage_Notes_2005.pdf",
+      "date": "20-May-2025"
+    },
+    {
+      "id": 548287,
+      "title": "Percentage Sheet-02",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/682c639f130f6_Percentage_Sheet02.pdf",
+      "date": "20-May-2025"
+    },
+    {
+      "id": 548269,
+      "title": "Percentage PNG 20-05",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/682c6300cf83f_Percentage_PNG_2005.pdf",
+      "date": "20-May-2025"
+    },
+    {
+      "id": 548140,
+      "title": "Percentage Notes 19-05",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/682b1eea89176_Percentage_Notes_1905_54_Batch.pdf",
+      "date": "19-May-2025"
+    },
+    {
+      "id": 548122,
+      "title": "Percentage Sheet-01",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/682b1e62308e1_Percentage_sheet01_54_Batch.pdf",
+      "date": "19-May-2025"
+    },
+    {
+      "id": 548101,
+      "title": "Percentage 19-05",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/682b1dab193ab_Percentage_PNG_190554_Batch.pdf",
+      "date": "19-May-2025"
+    },
+    {
+      "id": 544694,
+      "title": "Pol | 15 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68272a218c9ac_polity_app_class_15_may.pdf",
+      "date": "16-May-2025"
+    },
+    {
+      "id": 543530,
+      "title": "Number of Digit Notes 15-05",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6825d41a53c64_Number_Of_Digit_Notes_1505.pdf",
+      "date": "15-May-2025"
+    },
+    {
+      "id": 543513,
+      "title": "Number of Digit Sheet -04",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6825d38a46de7_Number_Of_Digit_Sheet04.pdf",
+      "date": "15-May-2025"
+    },
+    {
+      "id": 543496,
+      "title": "Number Of Digit 15-05",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6825d2e04f104_Class04_Number_Of_Digit_15_May.pdf",
+      "date": "15-May-2025"
+    },
+    {
+      "id": 543327,
+      "title": "Pol | 14 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6825c8ad60aa4_polity_app_14_maycompressed.pdf",
+      "date": "15-May-2025"
+    },
+    {
+      "id": 543321,
+      "title": "Geo | 12-14 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6825c8011a5b5_ilovepdfmerged_12.pdf",
+      "date": "15-May-2025"
+    },
+    {
+      "id": 543305,
+      "title": "Comp | 14 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6825c6e16a5e1_computer_class_networking_and_internet_app_class_14_may_9am_for_all_rajasthan_examcompressed.pdf",
+      "date": "15-May-2025"
+    },
+    {
+      "id": 541529,
+      "title": "Number of Digit Notes 14-05",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/682568c9bb3d2_Number_of_Digit_Notes_1405.pdf",
+      "date": "15-May-2025"
+    },
+    {
+      "id": 541463,
+      "title": "Number of Digit Sheet -03",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68248a3b50e99_Numbe_of_Digit_Sheet03.pdf",
+      "date": "14-May-2025"
+    },
+    {
+      "id": 541434,
+      "title": "Number Of Digit 14-05",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68248989d1500_Number_Of_Digit_14_May.pdf",
+      "date": "14-May-2025"
+    },
+    {
+      "id": 539755,
+      "title": "Number of Digit Notes 13-05",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6823351de7794_NUMBER_OF_DIGIT_Class_Notes_1305.pdf",
+      "date": "13-May-2025"
+    },
+    {
+      "id": 539739,
+      "title": "Number of Digit Sheet -02",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6823346aaefcf_No._of_Digit_Sheet_02.pdf",
+      "date": "13-May-2025"
+    },
+    {
+      "id": 539721,
+      "title": "Number Of Digit 13-05",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68233386dbd1f_Number_Of_Digit_1305.pdf",
+      "date": "13-May-2025"
+    },
+    {
+      "id": 539371,
+      "title": "Pol | 12 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6822e5d01e45d_polity_app_12_maycompressed.pdf",
+      "date": "13-May-2025"
+    },
+    {
+      "id": 539364,
+      "title": "His | 12 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6822e563ebf04_mevad_12_may.pdf",
+      "date": "13-May-2025"
+    },
+    {
+      "id": 538721,
+      "title": "Number of Digit Notes 12-05",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6821e2064833e_Number_of_Digit_Notes_1205.pdf",
+      "date": "12-May-2025"
+    },
+    {
+      "id": 538701,
+      "title": "Number of Digit Sheet -01",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6821e167c13f3_Number_of_Digit_Sheet_01.pdf",
+      "date": "12-May-2025"
+    },
+    {
+      "id": 538684,
+      "title": "Number Of Digit 12-05",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6821e0b34e820_Number_Of_Digit_1205.pdf",
+      "date": "12-May-2025"
+    },
+    {
+      "id": 538546,
+      "title": "Reas | 7-14 Hand Written Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6821c9bb86fd4_ilovepdfmerged_8compressed.pdf",
+      "date": "12-May-2025"
+    },
+    {
+      "id": 538504,
+      "title": "Reas | 12 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6821b597b0899_12_may_reasoning_app_topic_mathematical_operation_3_and_ranking_test_patwar_and_bstc.pdf",
+      "date": "12-May-2025"
+    },
+    {
+      "id": 537080,
+      "title": "His | 10 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6820072e4f53a_mevad_10_may_class_6_pm.pdf",
+      "date": "11-May-2025"
+    },
+    {
+      "id": 537065,
+      "title": "His | 9 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/681f44054a1e3_mevad_9_may_1compressed.pdf",
+      "date": "10-May-2025"
+    },
+    {
+      "id": 537058,
+      "title": "His | 8 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/681f43d0093e2_mevad_8_may_1mergedcompressed.pdf",
+      "date": "10-May-2025"
+    },
+    {
+      "id": 537050,
+      "title": "His | 6 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/681f42ded1f82_mewad_6_may_1.pdf",
+      "date": "10-May-2025"
+    },
+    {
+      "id": 537043,
+      "title": "His | 5 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/681f428c7257a_mewad_5_may_1.pdf",
+      "date": "10-May-2025"
+    },
+    {
+      "id": 537036,
+      "title": "Mewad Part-3",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/681f42161c855_mewad_part_03guhil_vansh_2.pdf",
+      "date": "10-May-2025"
+    },
+    {
+      "id": 537019,
+      "title": "Sisodiya Vansh Part-1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/681f3f857576f_sisodiya_vansh_part_01_2.pdf",
+      "date": "10-May-2025"
+    },
+    {
+      "id": 534690,
+      "title": "Arts & Culture | 5 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/681c777d3d75d_sant_samprday_4.pdf",
+      "date": "08-May-2025"
+    },
+    {
+      "id": 534683,
+      "title": "Geo | 5 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/681c76fac77f0_56109407626406139499.pdf",
+      "date": "08-May-2025"
+    },
+    {
+      "id": 534676,
+      "title": "Geo | 3 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/681c76b50cfe4_03_may_geo_app_class.pdf",
+      "date": "08-May-2025"
+    },
+    {
+      "id": 531647,
+      "title": "Art & Culture | 3 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68185c4e28c19_sant_sampraday_3.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531638,
+      "title": "Pol | 2-3 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68185b98d717d_ilovepdfmerged_44compressed.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531630,
+      "title": "Geo | 2 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68185a9f0beb5_sisodiya_vansh_part_01.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531623,
+      "title": "Geo Hand Written Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/681859fb81aea_DocScanner_01May2025_2226.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531616,
+      "title": "Geo | 1 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/681859a2a7222_56095666759010882574.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531578,
+      "title": "Art & Culture | 1 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68184eb62c7ee_sant_samprday_2.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 530452,
+      "title": "Pol | 30 April | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/681335ca1cac4_polity_app_30_aprilcompressed.pdf",
+      "date": "01-May-2025"
+    },
+    {
+      "id": 530445,
+      "title": "Geo | 30 April | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/681333d044de8_56093866970145364765.pdf",
+      "date": "01-May-2025"
+    },
+    {
+      "id": 530429,
+      "title": "His Handwritten Notes Class-(17-24)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68133130b0e3a_ilovepdfmerged_24.pdf",
+      "date": "01-May-2025"
+    },
+    {
+      "id": 530424,
+      "title": "Reas Handwritten Notes Class-(1-6)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68132fbfc3de5_ilovepdfmerged_23.pdf",
+      "date": "01-May-2025"
+    },
+    {
+      "id": 530417,
+      "title": "His | 30 April | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/681320cf88319_mevad_part_02_guhil_vansh.pdf",
+      "date": "01-May-2025"
+    },
+    {
+      "id": 529802,
+      "title": "Pol | 27-29 April | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6811edc1355e0_ilovepdfmerged_19compressed.pdf",
+      "date": "30-Apr-2025"
+    },
+    {
+      "id": 529795,
+      "title": "Geo | 29 April | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6811ec7509f1e_56091264331633136960.pdf",
+      "date": "30-Apr-2025"
+    },
+    {
+      "id": 528968,
+      "title": "Reas | 29 April | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68109e614835f_29_April_reasoning_ptetraj_policevdo_topic_alphabet_order.pdf",
+      "date": "29-Apr-2025"
+    },
+    {
+      "id": 568790,
+      "title": "Bio | 12 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/684abeeff0c26_12_june_2025_cw_app_cls_pdf.pdf",
+      "date": "12-Jun-2025"
+    },
+    {
+      "id": 567825,
+      "title": "Bio | 9-11 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/684a7e50a566e_Bio_Raj_911_Merged.pdf",
+      "date": "12-Jun-2025"
+    },
+    {
+      "id": 562526,
+      "title": "Bio | 2-3 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/683fe4fd42eac_ilovepdfmerged_20250604T114458.263compressed.pdf",
+      "date": "04-Jun-2025"
+    },
+    {
+      "id": 560758,
+      "title": "Cell Class PNG-1&2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/683d3ded1fc01_ilovepdfmerged_20250602T112700.631.pdf",
+      "date": "02-Jun-2025"
+    },
+    {
+      "id": 560757,
+      "title": "Cell Class PNG-1&2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/683d3ded1fc01_ilovepdfmerged_20250602T112700.631.pdf",
+      "date": "02-Jun-2025"
+    },
+    {
+      "id": 569677,
+      "title": "Bio | 29 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/684d18163a73a_29_may_2025_cw_pdf.pdf",
+      "date": "14-Jun-2025"
+    },
+    {
+      "id": 553659,
+      "title": "Bio | 16-27 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68358d42276a3_BIO_1627_MAY_ALL.pdf",
+      "date": "27-May-2025"
+    }
+  ]
+}
