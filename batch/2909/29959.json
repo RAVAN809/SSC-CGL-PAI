@@ -1,0 +1,634 @@
+{
+  "batchid": 2909,
+  "topicid": 29959,
+  "classes_total": 43,
+  "classes": [
+    {
+      "title": "Class-76 | Voice",
+      "id": "4553579",
+      "date": "19-Sep-2025 15:00",
+      "video_url": "4553579_0_2179234718435204"
+    },
+    {
+      "title": "Class-75 | Voice",
+      "id": "4549671",
+      "date": "15-Sep-2025 16:30",
+      "video_url": "4549671_0_9642094413869813"
+    },
+    {
+      "title": "Class-74 | Voice",
+      "id": "4547855",
+      "date": "12-Sep-2025 16:00",
+      "video_url": "4547855_0_7602131331713357"
+    },
+    {
+      "title": "Class-73 | Voice",
+      "id": "4546921",
+      "date": "11-Sep-2025 16:00",
+      "video_url": "4546921_0_2235349913458253"
+    },
+    {
+      "title": "Class-72 | Voice",
+      "id": "4545968",
+      "date": "10-Sep-2025 16:00",
+      "video_url": "4545968_0_6354649152868026"
+    },
+    {
+      "title": "Class-71 | Voice",
+      "id": "4544084",
+      "date": "08-Sep-2025 16:00",
+      "video_url": "4544084_0_2042333315867215"
+    },
+    {
+      "title": "Class-70 | Voice",
+      "id": "4541290",
+      "date": "04-Sep-2025 16:15",
+      "video_url": "4541290_0_4376042239702551"
+    },
+    {
+      "title": "Class-69 | Voice",
+      "id": "4533554",
+      "date": "28-Aug-2025 16:00",
+      "video_url": "4533554_0_1515258574920858"
+    },
+    {
+      "title": "Class-68 | Voice",
+      "id": "4532325",
+      "date": "27-Aug-2025 16:00",
+      "video_url": "4532325_0_9159514234517207"
+    },
+    {
+      "title": "Class-67 | Voice",
+      "id": "4531000",
+      "date": "26-Aug-2025 16:00",
+      "video_url": "4531000_0_7367951702295253"
+    },
+    {
+      "title": "Class-66 | Voice",
+      "id": "4529767",
+      "date": "25-Aug-2025 16:00",
+      "video_url": "4529767_0_2821479711385757"
+    },
+    {
+      "title": "Class-65 | Voice",
+      "id": "4527608",
+      "date": "22-Aug-2025 16:00",
+      "video_url": "4527608_0_9816923667644295"
+    },
+    {
+      "title": "Class-64 | Voice",
+      "id": "4526465",
+      "date": "21-Aug-2025 16:00",
+      "video_url": "4526465_0_1571650937805953"
+    },
+    {
+      "title": "Class-63 | Voice",
+      "id": "4525344",
+      "date": "20-Aug-2025 16:00",
+      "video_url": "4525344_0_2787470144492385"
+    },
+    {
+      "title": "Class-62 | Voice",
+      "id": "4524213",
+      "date": "19-Aug-2025 16:00",
+      "video_url": "4524213_0_5698771467667600"
+    },
+    {
+      "title": "Class-61 | Voice",
+      "id": "4519612",
+      "date": "13-Aug-2025 16:00",
+      "video_url": "4519612_0_2192706377583563"
+    },
+    {
+      "title": "Class-60 | Voice",
+      "id": "4517070",
+      "date": "11-Aug-2025 16:00",
+      "video_url": "4517070_0_4838956477768562"
+    },
+    {
+      "title": "Class-59 | Voice",
+      "id": "4515975",
+      "date": "08-Aug-2025 16:00",
+      "video_url": "4515975_0_2601096104466646"
+    },
+    {
+      "title": "Class-58 | Voice",
+      "id": "4515139",
+      "date": "07-Aug-2025 16:00",
+      "video_url": "4515139_0_8963514015519632"
+    },
+    {
+      "title": "Class-57 | Voice",
+      "id": "4514121",
+      "date": "06-Aug-2025 16:00",
+      "video_url": "4514121_0_4825727125018269"
+    },
+    {
+      "title": "Class-56 | Voice",
+      "id": "4513067",
+      "date": "05-Aug-2025 16:00",
+      "video_url": "4513067_0_8398964794681557"
+    },
+    {
+      "title": "Class-55 | Voice",
+      "id": "4506789",
+      "date": "01-Aug-2025 16:00",
+      "video_url": "4506789_0_8126657910417796"
+    },
+    {
+      "title": "Class-54 | Voice",
+      "id": "4505355",
+      "date": "31-Jul-2025 16:00",
+      "video_url": "4505355_0_3464476031725418"
+    },
+    {
+      "title": "Class-53 | Voice",
+      "id": "4504086",
+      "date": "30-Jul-2025 16:00",
+      "video_url": "4504086_0_7238244302191775"
+    },
+    {
+      "title": "Class-52 | Voice",
+      "id": "4503068",
+      "date": "29-Jul-2025 16:00",
+      "video_url": "4503068_0_6005244314408903"
+    },
+    {
+      "title": "Class- 51   |Voice",
+      "id": "4501447",
+      "date": "28-Jul-2025 16:00",
+      "video_url": "4501447_0_2817006943323697"
+    },
+    {
+      "title": "Class-50 | Voice",
+      "id": "4493676",
+      "date": "25-Jul-2025 16:00",
+      "video_url": "4493676_0_9685709902957452"
+    },
+    {
+      "title": "Class-49 | Voice",
+      "id": "4492649",
+      "date": "24-Jul-2025 16:00",
+      "video_url": "4492649_0_5977763362626574"
+    },
+    {
+      "title": "Class-48 | Voice",
+      "id": "4491175",
+      "date": "23-Jul-2025 16:00",
+      "video_url": "4491175_0_7771776880109471"
+    },
+    {
+      "title": "Class-47 | Voice",
+      "id": "4531114",
+      "date": "21-Jul-2025 16:00",
+      "video_url": "4531114_0_9486935868794108"
+    },
+    {
+      "title": "Class-46 | Eng | Conditional Sentences",
+      "id": "4485800",
+      "date": "18-Jul-2025 16:00",
+      "video_url": "4485800_0_3122269944243425"
+    },
+    {
+      "title": "Class-45 | Eng | Conditional Sentences",
+      "id": "4484816",
+      "date": "17-Jul-2025 16:00",
+      "video_url": "4484816_0_2718563361770200"
+    },
+    {
+      "title": "Class-44 | Eng | Conditional Sentences",
+      "id": "4482754",
+      "date": "15-Jul-2025 16:00",
+      "video_url": "4482754_0_4061360686556719"
+    },
+    {
+      "title": "Class-43 | Tense & Time",
+      "id": "4476692",
+      "date": "08-Jul-2025 16:00",
+      "video_url": "4476692_0_7570618590464487"
+    },
+    {
+      "title": "Class-42 | Tense & Time",
+      "id": "4475742",
+      "date": "07-Jul-2025 16:00",
+      "video_url": "4475742_0_1224219065150176"
+    },
+    {
+      "title": "Class-22 | Preposition",
+      "id": "4451579",
+      "date": "04-Jun-2025 16:00",
+      "video_url": "4451579_0_5677459392944220"
+    },
+    {
+      "title": "Class-21 | Preposition",
+      "id": "4451575",
+      "date": "03-Jun-2025 16:00",
+      "video_url": "4451575_0_3104912550426885"
+    },
+    {
+      "title": "Class-20 | Preposition",
+      "id": "4451572",
+      "date": "02-Jun-2025 16:00",
+      "video_url": "4451572_0_8390028312730837"
+    },
+    {
+      "title": "Class-19 | Preposition",
+      "id": "4451563",
+      "date": "29-May-2025 16:00",
+      "video_url": "4451563_0_5491446652475228"
+    },
+    {
+      "title": "Class-18 | Preposition",
+      "id": "4451559",
+      "date": "28-May-2025 16:00",
+      "video_url": "4451559_0_2078843082871668"
+    },
+    {
+      "title": "Class-17 | Preposition",
+      "id": "4451555",
+      "date": "27-May-2025 16:00",
+      "video_url": "4451555_0_9481950505656464"
+    },
+    {
+      "title": "Class-15 | Preposition",
+      "id": "4451549",
+      "date": "23-May-2025 16:00",
+      "video_url": "4451549_0_5466137011998190"
+    },
+    {
+      "title": "Class-14 | Noun",
+      "id": "4451546",
+      "date": "22-May-2025 16:00",
+      "video_url": "4451546_0_6507576636731130"
+    }
+  ],
+  "notes_total": 61,
+  "notes": [
+    {
+      "id": 679174,
+      "title": "Eng | 19 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68d10c9f7c863_Eng_19_Sept_Class_PNG_UPSSSC_PET_2025_English_Spl._PreMains_41English_Spl50_Eng_by_Arun_Gautam_Sir_compressed_11zon.pdf",
+      "date": "22-Sep-2025"
+    },
+    {
+      "id": 673067,
+      "title": "Eng | 15 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68c925ca0cae1_Eng_15_Sept_Class_PNG_UPSSSC_PET_2025_English_Spl._PreMains_41English_Spl50_Eng_by_Arun_Gautam_Sir_compressed.pdf",
+      "date": "16-Sep-2025"
+    },
+    {
+      "id": 662524,
+      "title": "Eng | 12 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68c556456d868_Eng_12_Sept_Class_PNG_Eng_PNG_CTET_2025_Paper1_CTET_2025_Paper2_CTET_2025_Paper12_by_Arun_Sir_5_pm_compressed.pdf",
+      "date": "13-Sep-2025"
+    },
+    {
+      "id": 661975,
+      "title": "Eng | 11 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68c3f9cabef0a_Eng_11_Sept_Class_PNG_Eng_PNG_CTET_2025_Paper1_CTET_2025_Paper2_CTET_2025_Paper12_by_Arun_Sir_5_pm_compressed.pdf",
+      "date": "12-Sep-2025"
+    },
+    {
+      "id": 661968,
+      "title": "Eng | 10 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68c3f94b2a459_Eng_10_Sept_Class_PNG_Eng_PNG_CTET_2025_Paper1_CTET_2025_Paper2_CTET_2025_Paper12_by_Arun_Sir_5_pm_compressed.pdf",
+      "date": "12-Sep-2025"
+    },
+    {
+      "id": 653701,
+      "title": "Eng | 08 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68c002d9d3e27_Eng_8_Sept_Class_PNG_Eng_PNG_CTET_2025_Paper1_CTET_2025_Paper2_CTET_2025_Paper12_by_Arun_Sir_5_pm_compressed.pdf",
+      "date": "09-Sep-2025"
+    },
+    {
+      "id": 643195,
+      "title": "Eng | 28 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b197b186cc2_Eng_28_Aug_Class_PNG_UPSSSC_PET_2025_English_Spl._PreMains_41English_Spl50_Eng_by_Arun_Gautam_Sir_1_compressed.pdf",
+      "date": "29-Aug-2025"
+    },
+    {
+      "id": 641203,
+      "title": "Eng | 27 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68aff0d38a57e_Eng_27_Aug_Class_PNG_UPSSSC_PET_2025_English_Spl._PreMains_41English_Spl50_Eng_by_Arun_Gautam_Sir_1_compressed.pdf",
+      "date": "28-Aug-2025"
+    },
+    {
+      "id": 640549,
+      "title": "Eng | 26 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68aecb7e13afd_Eng_26_Aug_Class_PNG_UPSSSC_PET_2025_English_Spl._PreMains_41English_Spl50_Eng_by_Arun_Gautam_Sir_1_compressed.pdf",
+      "date": "27-Aug-2025"
+    },
+    {
+      "id": 639695,
+      "title": "Eng | 25 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68ad5e7638e5f_Eng_25_Aug_Class_PNG_UPSSSC_PET_2025_English_Spl._PreMains_41English_Spl50_Eng_by_Arun_Gautam_Sir.pdf",
+      "date": "26-Aug-2025"
+    },
+    {
+      "id": 638362,
+      "title": "Eng | 22 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a9796ae430a_Eng_22_Aug_Class_PNG_UPSSSC_PET_2025_BPSC_TRE_4.0_PrimaryJunior1_to_5th_6_to_8th_KVS_2025_PRT_Complete_General_Paper_English_Spl._PreMains_41English_Spl50_Eng_by_Arun_Gautam_Sir_compressed.pdf",
+      "date": "23-Aug-2025"
+    },
+    {
+      "id": 637220,
+      "title": "Eng | 21 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a81b7ed3277_Eng_21_Aug_Class_PNG_UPSSSC_PET_2025_BPSC_TRE_4.0_PrimaryJunior1_to_5th_6_to_8th_KVS_2025_PRT_Complete_General_Paper_English_Spl._PreMains_41English_Spl50_Eng_by_Arun_Gautam_Sir_compressed.pdf",
+      "date": "21-Aug-2025"
+    },
+    {
+      "id": 637209,
+      "title": "Eng | 20 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a70bfe5904e_Eng_20Aug_Class_PNG_CTET_2025_Paper1_CTET_2025_Paper2_CTET_2025_Paper12_by_Arun_Sir_5_pm.pdf",
+      "date": "21-Aug-2025"
+    },
+    {
+      "id": 633969,
+      "title": "Eng | 19 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a55a307eb8e_Eng_19_Aug_Class_PNG_UPSSSC_PET_2025_BPSC_TRE_4.0_PrimaryJunior1_to_5th_6_to_8th_KVS_2025_PRT_Complete_General_Paper_English_Spl._PreMains_41English_Spl50_Eng_by_Arun_Gautam_Sir.pdf",
+      "date": "20-Aug-2025"
+    },
+    {
+      "id": 623017,
+      "title": "Eng | 13 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/689d7beb70062_Eng_13_Aug_Class_PNG_UPSSSC_PET_2025_BPSC_TRE_4.0_PrimaryJunior1_to_5th_6_to_8th_KVS_2025_PRT_Complete_General_Paper_English_Spl._PreMains_41English_Spl50_Eng_by_Arun_Gautam_Sir.pdf",
+      "date": "14-Aug-2025"
+    },
+    {
+      "id": 621523,
+      "title": "Eng | 11 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/689b0186bd069_Eng_11_Aug_Class_PNG_UPSSSC_PET_2025_BPSC_TRE_4.0_PrimaryJunior1_to_5th_6_to_8th_KVS_2025_PRT_Complete_General_Paper_English_Spl._PreMains_41English_Spl50_Eng_by_Arun_Gautam_Sir_11zon.pdf",
+      "date": "12-Aug-2025"
+    },
+    {
+      "id": 619697,
+      "title": "Eng | 08 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/689984131aa0d_Eng_8_Aug_Class_PNG_UPSSSC_PET_2025_BPSC_TRE_4.0_PrimaryJunior1_to_5th_6_to_8th_KVS_2025_PRT_Complete_General_Paper_English_Spl._PreMains_41English_Spl50_Eng_by_Arun_Gautam_Sir_compressed.pdf",
+      "date": "11-Aug-2025"
+    },
+    {
+      "id": 619669,
+      "title": "Eng | 07 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6899834e8bb38_Eng_7_Aug_Class_PNG_UPSSSC_PET_2025_BPSC_TRE_4.0_PrimaryJunior1_to_5th_6_to_8th_KVS_2025_PRT_Complete_General_Paper_English_Spl._PreMains_41English_Spl50_Eng_by_Arun_Gautam_Sir.pdf",
+      "date": "11-Aug-2025"
+    },
+    {
+      "id": 618056,
+      "title": "Eng | 06 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68943d003c9e5_Eng_6_Aug_Class_PNG_UPSSSC_PET_2025_BPSC_TRE_4.0_PrimaryJunior1_to_5th_6_to_8th_KVS_2025_PRT_Complete_General_Paper_English_Spl._PreMains_41English_Spl50_Eng_by_Arun_Gautam_Sir.pdf",
+      "date": "07-Aug-2025"
+    },
+    {
+      "id": 617577,
+      "title": "Eng | 05 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68932b43be98e_Eng_5_Aug_Class_PNG_UPSSSC_PET_2025_BPSC_TRE_4.0_PrimaryJunior_BPSC_TRE_4.0_1_to_5th_BPSC_TRE_4.0_6_to_8th_KVS_2025_PRT_Complete_KVS_2025_General_Paper_English_Spl._PreMains_41English_Spl50_Eng_by_Aru.pdf",
+      "date": "06-Aug-2025"
+    },
+    {
+      "id": 614993,
+      "title": "Eng | 01 Aug | Class PNG",
+      "url": "https://educp.crwilladmin.com/uploads/class-attachment/lclsys_Eng_1_Aug_Class_PNG_UPSSSC_PET_2025_BPSC_TRE_4_0_PrimaryJunior_BPSC_TRE_4_0_1_to_5th_BPSC_TRE_4_0_6_to_8th_KVS_2025_PRT_Complete_KVS_2025_General_Paper_English_Spl__PreMains_41English_Spl50_Eng_by_Aru.pdf",
+      "date": "02-Aug-2025"
+    },
+    {
+      "id": 612454,
+      "title": "Eng | 30 July | Class PNG",
+      "url": "https://educp.crwilladmin.com/uploads/class-attachment/lclsys_Eng_30_July_Class_PNG_UPSSSC_PET_2025_BPSC_TRE_4_0_PrimaryJunior_BPSC_TRE_4_0_1_to_5th_BPSC_TRE_4_0_6_to_8th_KVS_2025_PRT_Complete_KVS_2025_General_Paper_English_Spl__PreMains_41English_Spl50_Eng_by_Aru_c.pdf",
+      "date": "31-Jul-2025"
+    },
+    {
+      "id": 611731,
+      "title": "Eng | 29 July | Class PNG",
+      "url": "https://educp.crwilladmin.com/uploads/class-attachment/lclsys_Eng_29_July_Class_PNG_UPSSSC_PET_2025_BPSC_TRE_4_0_PrimaryJunior_BPSC_TRE_4_0_1_to_5th_BPSC_TRE_4_0_6_to_8th_KVS_2025_PRT_Complete_KVS_2025_General_Paper_English_Spl__PreMains_41English_Spl50_Eng_by_Aru.pdf",
+      "date": "30-Jul-2025"
+    },
+    {
+      "id": 611031,
+      "title": "Eng | 28 July | Class PNG",
+      "url": "https://educp.crwilladmin.com/uploads/class-attachment/lclsys_Eng_28_July_Class_PNG_UPSSSC_PET_2025_BPSC_TRE_4_0_PrimaryJunior_BPSC_TRE_4_0_1_to_5th_BPSC_TRE_4_0_6_to_8th_KVS_2025_PRT_Complete_KVS_2025_General_Paper_English_Spl__PreMains_41English_Spl50_Eng_by_Aru.pdf",
+      "date": "29-Jul-2025"
+    },
+    {
+      "id": 607833,
+      "title": "Eng | 25 July | Class PNG",
+      "url": "https://educp.crwilladmin.com/uploads/class-attachment/lclsys_Eng_25_July_Class_PNG_UPSSSC_PET_2025_BPSC_TRE_4_0_PrimaryJunior_BPSC_TRE_4_0_1_to_5th_BPSC_TRE_4_0_6_to_8th_KVS_2025_PRT_Complete_KVS_2025_General_Paper_English_Spl__PreMains_41English_Spl50_Eng_by_Aru.pdf",
+      "date": "27-Jul-2025"
+    },
+    {
+      "id": 605571,
+      "title": "Eng | 23 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6881cd915a2bb_Eng_23_July_Class_PNG_UPSSSC_PET_2025_BPSC_TRE_4.0_PrimaryJunior_BPSC_TRE_4.0_1_to_5th_BPSC_TRE_4.0_6_to_8th_KVS_2025_PRT_Complete_KVS_2025_General_Paper_English_Spl._PreMains_41English_Spl50_Eng_by_Aru.pdf",
+      "date": "24-Jul-2025"
+    },
+    {
+      "id": 603688,
+      "title": "Eng | 21 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/687f1e322c4b8_Eng_21_July_Class_PNG_UPSSSC_PET_2025_BPSC_TRE_4.0_PrimaryJunior_BPSC_TRE_4.0_1_to_5th_BPSC_TRE_4.0_6_to_8th_KVS_2025_PRT_Complete_KVS_2025_General_Paper_English_Spl._PreMains_41English_Spl50_Eng_by_Aru.pdf",
+      "date": "22-Jul-2025"
+    },
+    {
+      "id": 602014,
+      "title": "Eng | 18 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/687b2546c3227_Eng_18_July_Class_PNG_UPSSSC_PET_2025_BPSC_TRE_4.0_PrimaryJunior_BPSC_TRE_4.0_1_to_5th_BPSC_TRE_4.0_6_to_8th_KVS_2025_PRT_Complete_KVS_2025_General_Paper_English_Spl._PreMains_41English_Spl50_Eng_by_Aruc.pdf",
+      "date": "19-Jul-2025"
+    },
+    {
+      "id": 601345,
+      "title": "Eng | 17 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/687a0b143722b_Eng_17_July_Class_PNG_UPSSSC_PET_2025_BPSC_TRE_4.0_PrimaryJunior_BPSC_TRE_4.0_1_to_5th_BPSC_TRE_4.0_6_to_8th_KVS_2025_PRT_Complete_KVS_2025_General_Paper_English_Spl._PreMains_41English_Spl50_Eng_by_Aru.pdf",
+      "date": "18-Jul-2025"
+    },
+    {
+      "id": 589678,
+      "title": "Eng | 07 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/686ce43d2466e_Eng_7_July_Class_PNG_UPSSSC_PET_2025_BPSC_TRE_4.0_PrimaryJunior_BPSC_TRE_4.0_1_to_5th_BPSC_TRE_4.0_6_to_8th_KVS_2025_PRT_Complete_KVS_2025_General_Paper_English_Spl._PreMains_41English_Spl50_Eng_by_Ar_1.pdf",
+      "date": "08-Jul-2025"
+    },
+    {
+      "id": 585593,
+      "title": "Eng | 03 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68678314549b2_Eng_3_July_Class_PNG_UPSSSC_PET_2025_BPSC_TRE_4.0_PrimaryJunior_BPSC_TRE_4.0_1_to_5th_BPSC_TRE_4.0_6_to_8th_KVS_2025_PRT_Complete_KVS_2025_General_Paper_English_Spl._PreMains_41English_Spl50_Eng_by_Arun_G.pdf",
+      "date": "04-Jul-2025"
+    },
+    {
+      "id": 583999,
+      "title": "Eng | 02 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/686620baeeec7_Eng_2_July_Class_PNG_UPSSSC_PET_2025_BPSC_TRE_4.0_PrimaryJunior_BPSC_TRE_4.0_1_to_5th_BPSC_TRE_4.0_6_to_8th_KVS_2025_PRT_Complete_KVS_2025_General_Paper_English_Spl._PreMains_41English_Spl50_Eng_by_Arun_G.pdf",
+      "date": "03-Jul-2025"
+    },
+    {
+      "id": 582767,
+      "title": "Eng | 01 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6864c8ff0a5b1_Eng_1_July_Class_PNG_UPSSSC_PET_2025_BPSC_TRE_4.0_PrimaryJunior_BPSC_TRE_4.0_1_to_5th_BPSC_TRE_4.0_6_to_8th_KVS_2025_PRT_Complete_KVS_2025_General_Paper_English_Spl._PreMains_41English_Spl50_Eng_by_Arun_G.pdf",
+      "date": "02-Jul-2025"
+    },
+    {
+      "id": 582348,
+      "title": "Eng | 30 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68638ac19427c_Eng_30_June_Class_PNG_UPSSSC_PET_2025_BPSC_TRE_4.0_PrimaryJunior_BPSC_TRE_4.0_1_to_5th_BPSC_TRE_4.0_6_to_8th_KVS_2025_PRT_Complete_KVS_2025_General_Paper_English_Spl._PreMains_41English_Spl50_Eng_by_Arun_G.pdf",
+      "date": "01-Jul-2025"
+    },
+    {
+      "id": 574796,
+      "title": "Eng | 20 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68567f38b1dea_Eng_20June_Class_PNG_UPSSSC_PET_2025_BPSC_TRE_4.0_PrimaryJunior_BPSC_TRE_4.0_1_to_5th_BPSC_TRE_4.0_6_to_8th_KVS_2025_PRT_Complete_KVS_2025_General_Paper_English_Spl._PreMains_41English_Spl50_Eng_by_Arun_Ga.pdf",
+      "date": "21-Jun-2025"
+    },
+    {
+      "id": 573814,
+      "title": "Eng | 19 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6854fc1e702f5_Eng_19_June_Class_PNG_UPSSSC_PET_2025_BPSC_TRE_4.0_PrimaryJunior_BPSC_TRE_4.0_1_to_5th_BPSC_TRE_4.0_6_to_8th_KVS_2025_PRT_Complete_KVS_2025_General_Paper_English_Spl._PreMains_41English_Spl50_Eng_by_Ar_1.pdf",
+      "date": "20-Jun-2025"
+    },
+    {
+      "id": 572591,
+      "title": "Eng | 18 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6853a03d515e3_Eng_18_June_Class_PNG_UPSSSC_PET_2025_BPSC_TRE_4.0_PrimaryJunior_BPSC_TRE_4.0_1_to_5th_BPSC_TRE_4.0_6_to_8th_KVS_2025_PRT_Complete_KVS_2025_General_Paper_English_Spl._PreMains_41English_Spl50_Eng_by_Arun_G.pdf",
+      "date": "19-Jun-2025"
+    },
+    {
+      "id": 571444,
+      "title": "Eng | 16 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68524b9e2bcfc_Eng_16_June_Class_PNG_UPSSSC_PET_2025_BPSC_TRE_4.0_PrimaryJunior_BPSC_TRE_4.0_1_to_5th_BPSC_TRE_4.0_6_to_8th_KVS_2025_PRT_Complete_KVS_2025_General_Paper_English_Spl._PreMains_41English_Spl50_Eng_by_Arun_G.pdf",
+      "date": "18-Jun-2025"
+    },
+    {
+      "id": 569662,
+      "title": "Eng | 13 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/684d135442dea_4pm_arun_sir_eng_13june.pdf",
+      "date": "14-Jun-2025"
+    },
+    {
+      "id": 569056,
+      "title": "Eng | 12 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/684bc117794a0_UPSSSC_BPSC_KVS_4PM_ARUN_SIR_ENG_12JUNE.pdf",
+      "date": "13-Jun-2025"
+    },
+    {
+      "id": 567625,
+      "title": "Eng | 11 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68496fdb13349_Arun_sir_4_pm_11_june.pdf",
+      "date": "11-Jun-2025"
+    },
+    {
+      "id": 564996,
+      "title": "FIX-PREPOSITIONS | PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6846795b0c867_FIXPREPOSITIONS_PNG_1_CAREERWILL.pdf",
+      "date": "09-Jun-2025"
+    },
+    {
+      "id": 562973,
+      "title": "Eng | 4 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68411eea5d93f_Eng_4_June_Class_PNG_UPSSSC_PET_2025_BPSC_TRE_4.0_PrimaryJunior_BPSC_TRE_4.0_1_to_5th_BPSC_TRE_4.0_6_to_8th_KVS_2025_PRT_Complete_KVS_2025_General_Paper_English_Spl._PreMains_41English_Spl50_Eng_by_Arun_Gaut.pdf",
+      "date": "05-Jun-2025"
+    },
+    {
+      "id": 562271,
+      "title": "Eng | 3 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/683fcd2a7ca18_Eng_3_June_Class_PNG_UPSSSC_PET_2025_BPSC_TRE_4.0_PrimaryJunior_BPSC_TRE_4.0_1_to_5th_BPSC_TRE_4.0_6_to_8th_KVS_2025_PRT_Complete_KVS_2025_General_Paper_English_Spl._PreMains_41English_Spl50_Eng_by_Arun_Gaut.pdf",
+      "date": "04-Jun-2025"
+    },
+    {
+      "id": 561749,
+      "title": "Eng | 2 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/683eb01feb3a8_Eng_2_June_Class_PNG_UPSSSC_PET_2025_BPSC_TRE_4.0_PrimaryJunior_BPSC_TRE_4.0_1_to_5th_BPSC_TRE_4.0_6_to_8th_KVS_2025_PRT_Complete_KVS_2025_General_Paper_English_Spl._PreMains_41English_Spl50_Eng_by_Arun_Gaut.pdf",
+      "date": "03-Jun-2025"
+    },
+    {
+      "id": 557047,
+      "title": "Eng | 29 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68395c55d194d_Eng_29_May_Class_PNG_UPSSSC_PET_2025_BPSC_TRE_4.0_PrimaryJunior_BPSC_TRE_4.0_1_to_5th_BPSC_TRE_4.0_6_to_8th_KVS_2025_PRT_Complete_KVS_2025_General_Paper_English_Spl._PreMains_41English_Spl50_Eng_by_Arun_Gau.pdf",
+      "date": "30-May-2025"
+    },
+    {
+      "id": 557034,
+      "title": "Eng | 28 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68395b677bd71_Eng_28_May_Class_PNG_UPSSSC_PET_2025_BPSC_TRE_4.0_PrimaryJunior_BPSC_TRE_4.0_1_to_5th_BPSC_TRE_4.0_6_to_8th_KVS_2025_PRT_Complete_KVS_2025_General_Paper_English_Spl._PreMains_41English_Spl50_Eng_by_Arun_Gau.pdf",
+      "date": "30-May-2025"
+    },
+    {
+      "id": 554668,
+      "title": "Eng | 27 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/683823f42caa0_Eng_27_May_Class_PNG_UPSSSC_PET_2025_BPSC_TRE_4.0_PrimaryJunior_BPSC_TRE_4.0_1_to_5th_BPSC_TRE_4.0_6_to_8th_KVS_2025_PRT_Complete_KVS_2025_General_Paper_English_Spl._PreMains_41English_Spl50_Eng_by_Arun_Gau.pdf",
+      "date": "29-May-2025"
+    },
+    {
+      "id": 553425,
+      "title": "Eng | 26 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68354e57cdcc4_Eng_26_May_Class_PNG_UPSSSC_PET_2025_BPSC_TRE_4.0_PrimaryJunior_BPSC_TRE_4.0_1_to_5th_BPSC_TRE_4.0_6_to_8th_KVS_2025_PRT_Complete_KVS_2025_General_Paper_English_Spl._PreMains_41English_Spl50_Eng_by_Arun_Gau.pdf",
+      "date": "27-May-2025"
+    },
+    {
+      "id": 552056,
+      "title": "Eng | 22-23 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6834095002fae_ilovepdfmerged_58compressed.pdf",
+      "date": "26-May-2025"
+    },
+    {
+      "id": 549486,
+      "title": "Eng | 21 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/682ec419901a6_English_21_May_Class_PNG_English_spl.50_by_Arun_Gautam_Sir_3_pmcompressed.pdf",
+      "date": "22-May-2025"
+    },
+    {
+      "id": 548787,
+      "title": "Eng | 20 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/682d77287ab78_English_20_May_Class_PNG_English_spl.50_by_Arun_Gautam_Sir_3_pm.pdf",
+      "date": "21-May-2025"
+    },
+    {
+      "id": 543692,
+      "title": "Eng | 15 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6826dc81e5109_English_15_May_Class_PNG_English_spl.50_by_Arun_Gautam_Sir_3_pm.pdf",
+      "date": "16-May-2025"
+    },
+    {
+      "id": 539941,
+      "title": "Eng | 13 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/682456f447ef5_English_13_May_Class_PNG_English_spl.50_by_Arun_Gautam_Sir_3_pm.pdf",
+      "date": "14-May-2025"
+    },
+    {
+      "id": 539332,
+      "title": "Eng | 12 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6822e366681be_English_12_May_Class_PNG_English_spl.50_by_Arun_Gautam_Sir_3_pm.pdf",
+      "date": "13-May-2025"
+    },
+    {
+      "id": 538322,
+      "title": "Eng | 8-9 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/682184270deb7_ilovepdfmerged_1compressed.pdf",
+      "date": "12-May-2025"
+    },
+    {
+      "id": 534014,
+      "title": "Eng | 7 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/681c45848aad9_English_7_May_Class_PNG_English_spl.50_by_Arun_Gautam_Sir_5_pm.pdf",
+      "date": "08-May-2025"
+    },
+    {
+      "id": 533004,
+      "title": "Eng | 6 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/681b01b870799_6_May_Class_PNG_English_spl.50_by_Arun_Gautam_Sir_5_pm.pdf",
+      "date": "07-May-2025"
+    },
+    {
+      "id": 532582,
+      "title": "Eng | 5 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6819dbbf3fdf2_5_May_Class_PNG_English_spl.50_by_Arun_Gautam_Sir_5_pm.pdf",
+      "date": "06-May-2025"
+    },
+    {
+      "id": 530981,
+      "title": "Eng | 2 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6815b730d46db_2_May_Class_PNG_English_spl.50_by_Arun_Gautam_Sir_5_pm.pdf",
+      "date": "03-May-2025"
+    },
+    {
+      "id": 530762,
+      "title": "Eng | 1 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6814a18d35bdb_1_May_Class_PNG_English_spl.50_by_Arun_Gautam_Sir_5_pm.pdf",
+      "date": "02-May-2025"
+    }
+  ]
+}
