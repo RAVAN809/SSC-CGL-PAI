@@ -1,0 +1,2632 @@
+{
+  "batchid": 2494,
+  "topicid": 25103,
+  "classes_total": 104,
+  "classes": [
+    {
+      "title": "Class-109 | Data Sufficiency",
+      "id": "4430968",
+      "date": "14-Dec-2023 11:00",
+      "video_url": "4430968_0_3846831489170661"
+    },
+    {
+      "title": "Class-108 | ONLY A FEW",
+      "id": "4430956",
+      "date": "11-Mar-2023 12:39",
+      "video_url": "4430956_0_4232662473755559"
+    },
+    {
+      "title": "Class-107 | SRT MENTAL APTITUDE",
+      "id": "4443077",
+      "date": "11-Mar-2023 11:00",
+      "video_url": "4443077_0_5320009308539474"
+    },
+    {
+      "title": "Class-106 | SRT MENTAL APTITUDE",
+      "id": "4443076",
+      "date": "10-Mar-2023 09:30",
+      "video_url": "4443076_0_9305806840246736"
+    },
+    {
+      "title": "Class-105 | Cause and Effects",
+      "id": "4443075",
+      "date": "03-Mar-2023 08:00",
+      "video_url": "4443075_0_3216682073246807"
+    },
+    {
+      "title": "Class-104 | Assertion And Reason",
+      "id": "4443074",
+      "date": "02-Mar-2023 18:00",
+      "video_url": "4443074_0_6942062410760841"
+    },
+    {
+      "title": "Class-103 | Statements And Arguments",
+      "id": "4443073",
+      "date": "28-Feb-2023 18:00",
+      "video_url": "4443073_0_3483800955566128"
+    },
+    {
+      "title": "Class-102 | Statements And Assumptions + Arguments",
+      "id": "4443072",
+      "date": "27-Feb-2023 18:00",
+      "video_url": "4443072_0_3771181972418407"
+    },
+    {
+      "title": "Class-101 | Statements And Assumptions",
+      "id": "4443071",
+      "date": "25-Feb-2023 09:30",
+      "video_url": "4443071_0_6966053045826544"
+    },
+    {
+      "title": "Class-100 | Statements And Conclusions",
+      "id": "4443070",
+      "date": "24-Feb-2023 18:00",
+      "video_url": "4443070_0_5074288555755850"
+    },
+    {
+      "title": "Class-99 | Statements and Course Of Action",
+      "id": "4443069",
+      "date": "23-Feb-2023 18:00",
+      "video_url": "4443069_0_4619534299474138"
+    },
+    {
+      "title": "Class-98 | Blood Relation",
+      "id": "4443068",
+      "date": "21-Feb-2023 13:00",
+      "video_url": "4443068_0_8327052724475115"
+    },
+    {
+      "title": "Class-97 | Blood Relation",
+      "id": "4443067",
+      "date": "20-Feb-2023 18:00",
+      "video_url": "4443067_0_7463821881194269"
+    },
+    {
+      "title": "Class-96 | Blood Relation",
+      "id": "4443066",
+      "date": "17-Feb-2023 18:00",
+      "video_url": "4443066_0_7827820091966303"
+    },
+    {
+      "title": "Class-95 | Blood Relation",
+      "id": "4443065",
+      "date": "16-Feb-2023 18:00",
+      "video_url": "4443065_0_7596103426626859"
+    },
+    {
+      "title": "Class-94 | Blood Relation",
+      "id": "4443064",
+      "date": "15-Feb-2023 18:00",
+      "video_url": "4443064_0_7203566207162651"
+    },
+    {
+      "title": "Class-93 | Incorrect Clock",
+      "id": "4443063",
+      "date": "14-Feb-2023 18:00",
+      "video_url": "4443063_0_7527669908494072"
+    },
+    {
+      "title": "Class-92 | Incorrect Clock",
+      "id": "4443062",
+      "date": "13-Feb-2023 18:00",
+      "video_url": "4443062_0_9125386032162512"
+    },
+    {
+      "title": "Class-91 | Input Output",
+      "id": "4443061",
+      "date": "12-Feb-2023 09:30",
+      "video_url": "4443061_0_5933659481775436"
+    },
+    {
+      "title": "Class-90 |  Input Output",
+      "id": "4443060",
+      "date": "11-Feb-2023 09:30",
+      "video_url": "4443060_0_8723254504055320"
+    },
+    {
+      "title": "Class-89 | Clock",
+      "id": "4443059",
+      "date": "10-Feb-2023 18:00",
+      "video_url": "4443059_0_1254619440037169"
+    },
+    {
+      "title": "Class-88 | Clock",
+      "id": "4443058",
+      "date": "09-Feb-2023 18:00",
+      "video_url": "4443058_0_2898026876481605"
+    },
+    {
+      "title": "Class-87 | Clock",
+      "id": "4443057",
+      "date": "08-Feb-2023 18:00",
+      "video_url": "4443057_0_7798246664361615"
+    },
+    {
+      "title": "Class-86 | Alphabet Test",
+      "id": "4443056",
+      "date": "07-Feb-2023 09:30",
+      "video_url": "4443056_0_3902877545578499"
+    },
+    {
+      "title": "Class-85 | Alphabet Test",
+      "id": "4443055",
+      "date": "06-Feb-2023 18:00",
+      "video_url": "4443055_0_3394983334541828"
+    },
+    {
+      "title": "Class-84 | Coding Decoding",
+      "id": "4443054",
+      "date": "04-Feb-2023 09:30",
+      "video_url": "4443054_0_8058345984077579"
+    },
+    {
+      "title": "Class-83 | Coding Decoding",
+      "id": "4443053",
+      "date": "03-Feb-2023 18:00",
+      "video_url": "4443053_0_3948518659741104"
+    },
+    {
+      "title": "Class-82 | Coding Decoding",
+      "id": "4443052",
+      "date": "02-Feb-2023 18:00",
+      "video_url": "4443052_0_3124415417446909"
+    },
+    {
+      "title": "Class-81 | Coding Decoding",
+      "id": "4443051",
+      "date": "01-Feb-2023 18:00",
+      "video_url": "4443051_0_2160826868682168"
+    },
+    {
+      "title": "Class-80 | Coding Decoding",
+      "id": "4443050",
+      "date": "31-Jan-2023 18:00",
+      "video_url": "4443050_0_9899937946865556"
+    },
+    {
+      "title": "Class-79 | Coding Decoding",
+      "id": "4443049",
+      "date": "30-Jan-2023 18:00",
+      "video_url": "4443049_0_3183909619839629"
+    },
+    {
+      "title": "Class-78 | Word Arrangements",
+      "id": "4443048",
+      "date": "27-Jan-2023 18:00",
+      "video_url": "4443048_0_3162482735039045"
+    },
+    {
+      "title": "Class-77 | Decision Making",
+      "id": "4443047",
+      "date": "25-Jan-2023 18:00",
+      "video_url": "4443047_0_5717701109514069"
+    },
+    {
+      "title": "Class-76 | Decision Making",
+      "id": "4443046",
+      "date": "24-Jan-2023 08:00",
+      "video_url": "4443046_0_1526295415987096"
+    },
+    {
+      "title": "Class-75 | Classifications",
+      "id": "4443045",
+      "date": "23-Jan-2023 18:00",
+      "video_url": "4443045_0_7061225530697593"
+    },
+    {
+      "title": "Class-74 | Classifications",
+      "id": "4443044",
+      "date": "20-Jan-2023 18:00",
+      "video_url": "4443044_0_8736515541888429"
+    },
+    {
+      "title": "Class-73 | Analogy",
+      "id": "4443043",
+      "date": "19-Jan-2023 18:00",
+      "video_url": "4443043_0_5048898086567160"
+    },
+    {
+      "title": "Class-72 | Analogy",
+      "id": "4443042",
+      "date": "18-Jan-2023 18:00",
+      "video_url": "4443042_0_1691178939195094"
+    },
+    {
+      "title": "Class-71 | Calendar",
+      "id": "4443041",
+      "date": "17-Jan-2023 18:00",
+      "video_url": "4443041_0_8055709091353372"
+    },
+    {
+      "title": "Class-70 | Calendar",
+      "id": "4443040",
+      "date": "16-Jan-2023 18:00",
+      "video_url": "4443040_0_3285210753992287"
+    },
+    {
+      "title": "Class-69 | Calendar",
+      "id": "4443039",
+      "date": "12-Jan-2023 17:30",
+      "video_url": "4443039_0_8880967968802003"
+    },
+    {
+      "title": "Class-68 | Calendar",
+      "id": "4443038",
+      "date": "11-Jan-2023 18:00",
+      "video_url": "4443038_0_1620605558788972"
+    },
+    {
+      "title": "Class-67 | Calendar",
+      "id": "4443037",
+      "date": "10-Jan-2023 18:00",
+      "video_url": "4443037_0_7096709444973955"
+    },
+    {
+      "title": "Class-66 | Calendar",
+      "id": "4443036",
+      "date": "09-Jan-2023 18:00",
+      "video_url": "4443036_0_2776480800395084"
+    },
+    {
+      "title": "Class-65 | Syllogism",
+      "id": "4443035",
+      "date": "06-Jan-2023 18:00",
+      "video_url": "4443035_0_8019341870333600"
+    },
+    {
+      "title": "Class-64 | Syllogism",
+      "id": "4443034",
+      "date": "05-Jan-2023 18:00",
+      "video_url": "4443034_0_6837571004165849"
+    },
+    {
+      "title": "Class-61 | Syllogism",
+      "id": "4443033",
+      "date": "02-Jan-2023 18:00",
+      "video_url": "4443033_0_9614385113952254"
+    },
+    {
+      "title": "Class-60 | Ages",
+      "id": "4443032",
+      "date": "30-Dec-2022 18:00",
+      "video_url": "4443032_0_8591703090405019"
+    },
+    {
+      "title": "Class-59 | Number Ranking And Comparison",
+      "id": "4443031",
+      "date": "29-Dec-2022 18:00",
+      "video_url": "4443031_0_9538055832939276"
+    },
+    {
+      "title": "Class-58 | Number Ranking And Comparison",
+      "id": "4443030",
+      "date": "28-Dec-2022 18:00",
+      "video_url": "4443030_0_5944080745899711"
+    },
+    {
+      "title": "Class-57 | Number Ranking And Comparison",
+      "id": "4443029",
+      "date": "27-Dec-2022 18:00",
+      "video_url": "4443029_0_5883781641476570"
+    },
+    {
+      "title": "Class-56 | Number Ranking And Comparison",
+      "id": "4443028",
+      "date": "26-Dec-2022 18:00",
+      "video_url": "4443028_0_2370893896971289"
+    },
+    {
+      "title": "Class-55 | Number Ranking And Comparison",
+      "id": "4443027",
+      "date": "23-Dec-2022 18:00",
+      "video_url": "4443027_0_2259145636135602"
+    },
+    {
+      "title": "Class-54 | CASELET DI",
+      "id": "4443026",
+      "date": "22-Dec-2022 18:00",
+      "video_url": "4443026_0_1177074444670400"
+    },
+    {
+      "title": "Class-53 | CASELET DI",
+      "id": "4443025",
+      "date": "21-Dec-2022 18:00",
+      "video_url": "4443025_0_5303452444988017"
+    },
+    {
+      "title": "Class-52 | Logical Venn Diagram",
+      "id": "4443024",
+      "date": "20-Dec-2022 18:00",
+      "video_url": "4443024_0_9269606857232655"
+    },
+    {
+      "title": "Class-51 | Cuboid & Logical Venn Diagram",
+      "id": "4443023",
+      "date": "16-Dec-2022 18:00",
+      "video_url": "4443023_0_3040071461108850"
+    },
+    {
+      "title": "Class-50 | Cuboid",
+      "id": "4443022",
+      "date": "15-Dec-2022 18:00",
+      "video_url": "4443022_0_8337642913589718"
+    },
+    {
+      "title": "Class-49 | Cube",
+      "id": "4443021",
+      "date": "14-Dec-2022 17:30",
+      "video_url": "4443021_0_2212750662412759"
+    },
+    {
+      "title": "Class-48 | Cube",
+      "id": "4443020",
+      "date": "13-Dec-2022 09:30",
+      "video_url": "4443020_0_5410130132791759"
+    },
+    {
+      "title": "Class-47 | DICE",
+      "id": "4443019",
+      "date": "12-Dec-2022 09:30",
+      "video_url": "4443019_0_5119825019459664"
+    },
+    {
+      "title": "Class-46 | DICE",
+      "id": "4443018",
+      "date": "09-Dec-2022 09:30",
+      "video_url": "4443018_0_5415327067977091"
+    },
+    {
+      "title": "Class-45 | DICE",
+      "id": "4443017",
+      "date": "08-Dec-2022 09:30",
+      "video_url": "4443017_0_6982851143260433"
+    },
+    {
+      "title": "Class-44 | DICE",
+      "id": "4443016",
+      "date": "07-Dec-2022 09:30",
+      "video_url": "4443016_0_2109259593535487"
+    },
+    {
+      "title": "Class-43 | Missing Numbers & Matrix",
+      "id": "4443015",
+      "date": "06-Dec-2022 09:30",
+      "video_url": "4443015_0_8242211083979030"
+    },
+    {
+      "title": "Class-42 | Missing Numbers & Matrix",
+      "id": "4443014",
+      "date": "05-Dec-2022 09:30",
+      "video_url": "4443014_0_9518075882469891"
+    },
+    {
+      "title": "Class-41 | Series",
+      "id": "4443013",
+      "date": "02-Dec-2022 09:30",
+      "video_url": "4443013_0_4885139748153966"
+    },
+    {
+      "title": "Class-40 | Series",
+      "id": "4443012",
+      "date": "01-Dec-2022 09:30",
+      "video_url": "4443012_0_5207577508803033"
+    },
+    {
+      "title": "Class-38 | Series",
+      "id": "4443011",
+      "date": "29-Nov-2022 09:30",
+      "video_url": "4443011_0_8747846759040233"
+    },
+    {
+      "title": "Class-37 | Series",
+      "id": "4443010",
+      "date": "28-Nov-2022 09:30",
+      "video_url": "4443010_0_2104873668484565"
+    },
+    {
+      "title": "Class-36 | Series",
+      "id": "4443009",
+      "date": "25-Nov-2022 09:30",
+      "video_url": "4443009_0_2399785049780981"
+    },
+    {
+      "title": "Class-35 | SRT MENTAL APTITUDE",
+      "id": "4443008",
+      "date": "24-Nov-2022 09:30",
+      "video_url": "4443008_0_7129386073022512"
+    },
+    {
+      "title": "Class-34 |  Puzzles",
+      "id": "4443007",
+      "date": "23-Nov-2022 09:30",
+      "video_url": "4443007_0_2451878732924353"
+    },
+    {
+      "title": "Class-33 |  Puzzles",
+      "id": "4443006",
+      "date": "22-Nov-2022 09:30",
+      "video_url": "4443006_0_7195471493244567"
+    },
+    {
+      "title": "Class-32 | Seating Arrangements + Puzzles",
+      "id": "4443005",
+      "date": "21-Nov-2022 09:30",
+      "video_url": "4443005_0_5360894696301564"
+    },
+    {
+      "title": "Class-31 | Seating Arrangements",
+      "id": "4443004",
+      "date": "19-Nov-2022 09:30",
+      "video_url": "4443004_0_3698692319603719"
+    },
+    {
+      "title": "Class-30 | Seating Arrangements",
+      "id": "4443003",
+      "date": "18-Nov-2022 09:30",
+      "video_url": "4443003_0_3722244826658884"
+    },
+    {
+      "title": "Class-29 | Seating Arrangements",
+      "id": "4443002",
+      "date": "17-Nov-2022 09:30",
+      "video_url": "4443002_0_6172618685141968"
+    },
+    {
+      "title": "Class-28 | Seating Arrangements",
+      "id": "4443001",
+      "date": "16-Nov-2022 09:30",
+      "video_url": "4443001_0_3464072622499413"
+    },
+    {
+      "title": "Class-27 | Direction",
+      "id": "4443000",
+      "date": "15-Nov-2022 09:30",
+      "video_url": "4443000_0_7220617539485508"
+    },
+    {
+      "title": "Class-26 | Direction",
+      "id": "4442999",
+      "date": "14-Nov-2022 08:00",
+      "video_url": "4442999_0_7116063943037513"
+    },
+    {
+      "title": "Class-24 | Direction",
+      "id": "4442998",
+      "date": "10-Nov-2022 08:00",
+      "video_url": "4442998_0_7745152392918122"
+    },
+    {
+      "title": "Class-23 | Distance and Direction",
+      "id": "4442997",
+      "date": "09-Nov-2022 08:00",
+      "video_url": "4442997_0_7188113522463708"
+    },
+    {
+      "title": "Class-22 | Distance and Direction",
+      "id": "4442996",
+      "date": "08-Nov-2022 08:00",
+      "video_url": "4442996_0_4999137592973957"
+    },
+    {
+      "title": "Class-21 | Figure Matrix",
+      "id": "4442995",
+      "date": "07-Nov-2022 08:00",
+      "video_url": "4442995_0_5709771004668966"
+    },
+    {
+      "title": "Class-20 | Figure Formation",
+      "id": "4442994",
+      "date": "05-Nov-2022 08:00",
+      "video_url": "4442994_0_5192318719703538"
+    },
+    {
+      "title": "Class-19 |  SERIES  (Non Verbal)",
+      "id": "4442993",
+      "date": "03-Nov-2022 08:00",
+      "video_url": "4442993_0_6839006812199394"
+    },
+    {
+      "title": "Class-18 | Dot Situation Grouping of Identical Figures",
+      "id": "4442992",
+      "date": "02-Nov-2022 08:00",
+      "video_url": "4442992_0_5533605441932602"
+    },
+    {
+      "title": "Class-17 | Pattern Completion  Paper Cutting and Folding",
+      "id": "4442991",
+      "date": "01-Nov-2022 08:00",
+      "video_url": "4442991_0_5128385125982527"
+    },
+    {
+      "title": "Class-16 | Pattern Completion  Paper Cutting and Folding",
+      "id": "4442990",
+      "date": "31-Oct-2022 08:00",
+      "video_url": "4442990_0_9493082375470433"
+    },
+    {
+      "title": "Class-15 | Embeded Figures",
+      "id": "4442989",
+      "date": "29-Oct-2022 08:00",
+      "video_url": "4442989_0_4111837711395842"
+    },
+    {
+      "title": "Class-14 | Mirror and water Images",
+      "id": "4442988",
+      "date": "28-Oct-2022 08:00",
+      "video_url": "4442988_0_8366767802674173"
+    },
+    {
+      "title": "Class-13 |  Mathematical Operations",
+      "id": "4442987",
+      "date": "27-Oct-2022 09:30",
+      "video_url": "4442987_0_6826191907929367"
+    },
+    {
+      "title": "Class-12 |  Mathematical Operations",
+      "id": "4442986",
+      "date": "21-Oct-2022 09:30",
+      "video_url": "4442986_0_3664821410505821"
+    },
+    {
+      "title": "Class-11 | Inequality + Mathematical Operations",
+      "id": "4442985",
+      "date": "20-Oct-2022 09:30",
+      "video_url": "4442985_0_4279989002597459"
+    },
+    {
+      "title": "Class-10| Inequality",
+      "id": "4442984",
+      "date": "19-Oct-2022 09:30",
+      "video_url": "4442984_0_4830164309947663"
+    },
+    {
+      "title": "Class-09 | Inequality",
+      "id": "4442983",
+      "date": "18-Oct-2022 09:30",
+      "video_url": "4442983_0_8768081415517095"
+    },
+    {
+      "title": "Class-08 | Inequality",
+      "id": "4442982",
+      "date": "17-Oct-2022 17:00",
+      "video_url": "4442982_0_7038594004411825"
+    },
+    {
+      "title": "Reas | Class-07 | Counting of Figures",
+      "id": "4442981",
+      "date": "14-Oct-2022 08:00",
+      "video_url": "4442981_0_2880052138487212"
+    },
+    {
+      "title": "Class-06 | Counting of Figures",
+      "id": "4442980",
+      "date": "13-Oct-2022 08:00",
+      "video_url": "4442980_0_8512792825358711"
+    },
+    {
+      "title": "Class-05 | Counting of Figures",
+      "id": "4442979",
+      "date": "12-Oct-2022 08:00",
+      "video_url": "4442979_0_7120028064956705"
+    },
+    {
+      "title": "Class-03 | Counting of Figures",
+      "id": "4442978",
+      "date": "10-Oct-2022 09:30",
+      "video_url": "4442978_0_4018329238945041"
+    },
+    {
+      "title": "Class-02 | Counting of Figures",
+      "id": "4442977",
+      "date": "08-Oct-2022 09:30",
+      "video_url": "4442977_0_2846959394727735"
+    },
+    {
+      "title": "Class-01 | Introduction",
+      "id": "4442976",
+      "date": "07-Oct-2022 09:30",
+      "video_url": "4442976_0_1398433345883127"
+    }
+  ],
+  "notes_total": 333,
+  "notes": [
+    {
+      "id": 539575,
+      "title": "Last Doubt Class | 13 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68232764911ec_Arun_Sir_4Pm_13May.pdf",
+      "date": "13-May-2025"
+    },
+    {
+      "id": 498238,
+      "title": "Only A Few + Calendar | 6 March | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67ca7987b108e_Arun_Sir_Reas_02.30_PM_06March_2025compressed.pdf",
+      "date": "07-Mar-2025"
+    },
+    {
+      "id": 497719,
+      "title": "Odd One Out / Classification | 5 March | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67c926cd581fc_Arun_Sir_Reas_02.30_PM_05Marchcompressed.pdf",
+      "date": "06-Mar-2025"
+    },
+    {
+      "id": 497406,
+      "title": "Odd One Out / Classification | 4 March | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67c6d67161c78_Arun_Sir_Reas_02.30_PM_04Marchcompressed.pdf",
+      "date": "04-Mar-2025"
+    },
+    {
+      "id": 496046,
+      "title": "Odd One Out / Classification | 3 March | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67c58aae17391_Arun_Sir_Reas_02.30_PM_03March_2025_1compressed.pdf",
+      "date": "03-Mar-2025"
+    },
+    {
+      "id": 494836,
+      "title": "Counting of Figures | 28 Feb | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67c18f0e9b9c9_Arun_Sir_Reas_02.30_PM_28_Feb_2025.pdf",
+      "date": "28-Feb-2025"
+    },
+    {
+      "id": 494466,
+      "title": "Counting of Figures | 27 Feb | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67c11db4a4623_Arun_Sir_Reas_02.30_PM_27_Feb_2025.pdf",
+      "date": "28-Feb-2025"
+    },
+    {
+      "id": 493819,
+      "title": "Counting of Figures | 26 Feb | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67c0008f41b22_Arun_Sir_Reas_02.30_PM_26_Feb.pdf",
+      "date": "27-Feb-2025"
+    },
+    {
+      "id": 492939,
+      "title": "Counting of Figures | 25 Feb | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67be9d26051d9_Arun_Sir_Reas_02.30_PM_25_Feb.pdf",
+      "date": "26-Feb-2025"
+    },
+    {
+      "id": 492490,
+      "title": "Counting of Figures | 24 Feb | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67bcc3fc98adc_Arun_Sir_Reas_02.30_PM_24_Feb_1.pdf",
+      "date": "25-Feb-2025"
+    },
+    {
+      "id": 490356,
+      "title": "Syllogism | 20 Feb | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67b6c2d30e737_Arun_Sir_Reas_08.00_AM_20_Febcompressed.pdf",
+      "date": "20-Feb-2025"
+    },
+    {
+      "id": 490184,
+      "title": "Syllogism | 19 Feb | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67b5bb0bae407_Arun_Sir_Reas_02.30_PM_19_Febcompressed.pdf",
+      "date": "19-Feb-2025"
+    },
+    {
+      "id": 489926,
+      "title": "Syllogism | 18 Feb | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67b470a31f32c_Arun_Sir_Reas_02.30_PM_18_Feb_1compressed.pdf",
+      "date": "18-Feb-2025"
+    },
+    {
+      "id": 489625,
+      "title": "Syllogism | 17 Feb | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67b3c22899579_Arun_Sir_Reas_02.30_PM_17_Febcompressed.pdf",
+      "date": "18-Feb-2025"
+    },
+    {
+      "id": 484549,
+      "title": "Syllogism | 14 Feb | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67b02a09023c2_Reas_230_PMcompressed.pdf",
+      "date": "15-Feb-2025"
+    },
+    {
+      "id": 483926,
+      "title": "Syllogism | 13 Feb | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67ae958da4f75_Arun_Sir_Reas_02.30_PM_13_Febcompressed.pdf",
+      "date": "14-Feb-2025"
+    },
+    {
+      "id": 483528,
+      "title": "Syllogism | 12 Feb | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67ac8c817ae06_Arun_Sir_Reas_02.30_PM_12_Febcompressed.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 482586,
+      "title": "Syllogism | 11 Feb | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67ab29e66c142_Arun_Sir_Reas_02.30_PM_11_Febcompressed.pdf",
+      "date": "11-Feb-2025"
+    },
+    {
+      "id": 482209,
+      "title": "Blood Relation",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67aa1a1ee7499_Blood_Relation_SC.pdf",
+      "date": "10-Feb-2025"
+    },
+    {
+      "id": 480622,
+      "title": "Blood Relation | 7 Feb | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67a8818e01ea0_Arun_Sir_Reas_04_PM_7_Febcompressed.pdf",
+      "date": "09-Feb-2025"
+    },
+    {
+      "id": 478741,
+      "title": "Blood Relation | 6 Feb | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67a5a7909aaa7_Arun_Sir_Reas_02.30_PM_6_Febcompressed.pdf",
+      "date": "07-Feb-2025"
+    },
+    {
+      "id": 477965,
+      "title": "Blood Relation | 4 Feb | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67a459b2cb3bf_Arun_Sir_Reas_02.30_PM_4_Feb_2025_1compressed.pdf",
+      "date": "06-Feb-2025"
+    },
+    {
+      "id": 476903,
+      "title": "Blood Relation | 3 Feb | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67a09d28d46f0_Arun_Sir_Reas_02.30_PM_3_Feb_2025compressed.pdf",
+      "date": "03-Feb-2025"
+    },
+    {
+      "id": 476755,
+      "title": "Blood Relation | 1 Feb | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67a08997249b5_Arun_Sir_Reas_08.00_AM_1_Feb_2025compressed_1.pdf",
+      "date": "03-Feb-2025"
+    },
+    {
+      "id": 475933,
+      "title": "Alphabet Test | 31 Jan | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/679d748c5b9ff_Arun_Sir_Reas_02.30_PM_31Jan_2025compressed.pdf",
+      "date": "01-Feb-2025"
+    },
+    {
+      "id": 475475,
+      "title": "Alphabet Test | 30 Jan | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/679c79dee89bf_Arun_Sir_Reas_02.30PM_30Jan_2025compressed.pdf",
+      "date": "31-Jan-2025"
+    },
+    {
+      "id": 473864,
+      "title": "Alphabet Test | 29 Jan | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/679a0f9629e80_Arun_Sir_Reas_02.30_PM_29Jancompressed.pdf",
+      "date": "29-Jan-2025"
+    },
+    {
+      "id": 473145,
+      "title": "Alphabet Test | 27 Jan | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/679778e26c5cc_Arun_Sir_Reas_02.30PM_27Jan_2025compressed.pdf",
+      "date": "27-Jan-2025"
+    },
+    {
+      "id": 472632,
+      "title": "Alphabet Test | 24 Jan | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67932748328e7_Arun_Sir_Reas_08.00_AM_24Jan_2025compressed.pdf",
+      "date": "24-Jan-2025"
+    },
+    {
+      "id": 472474,
+      "title": "Alphabet Test | 23 Jan | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6792f9fa9aa3b_Reas_Arun_Sir_230_PM_23_Jancompressed.pdf",
+      "date": "24-Jan-2025"
+    },
+    {
+      "id": 472320,
+      "title": "Coding & Decoding | 22 Jan | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6790df7975968_Arun_Sir_Reas_0230Pm_22Jan_2025compressed.pdf",
+      "date": "22-Jan-2025"
+    },
+    {
+      "id": 471991,
+      "title": "Coding & Decoding | 21 Jan | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/678f7ee05e429_Arun_Sir_Reas_02Pm_21Jan_2025compressed.pdf",
+      "date": "21-Jan-2025"
+    },
+    {
+      "id": 471518,
+      "title": "Coding & Decoding | 20 Jan | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/678e32d2978fd_Reas_230_PM_20_Jan_Arun_Sircompressed.pdf",
+      "date": "20-Jan-2025"
+    },
+    {
+      "id": 470267,
+      "title": "Coding & Decoding | 17 Jan | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/678a31071bfa1_Arun_Sir_Reas_02.30_PM_17Jancompressed.pdf",
+      "date": "17-Jan-2025"
+    },
+    {
+      "id": 469809,
+      "title": "Coding & Decoding | 16 Jan | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6788e0e88fa00_Arun_Sir_Reas_02.30_PM_16Jan_1compressed.pdf",
+      "date": "16-Jan-2025"
+    },
+    {
+      "id": 468794,
+      "title": "Coding & Decoding | 15 Jan | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6787955c7ce1d_Arun_Sir_Reas_02Pm_15Jan_2025.pdf",
+      "date": "15-Jan-2025"
+    },
+    {
+      "id": 468410,
+      "title": "Coding & Decoding | 13 Jan | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/678758577d34e_20250113131142710.pdf",
+      "date": "15-Jan-2025"
+    },
+    {
+      "id": 466725,
+      "title": "Coding & Decoding | 10 Jan | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67820b308a611_Arun_Sir_Reas_02.30_PM_10Jan.pdf",
+      "date": "11-Jan-2025"
+    },
+    {
+      "id": 465791,
+      "title": "Coding & Decoding | 09 Jan | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6780e6ff757db_Arun_Sir_Reas_02.30_PM_9Jan.pdf",
+      "date": "10-Jan-2025"
+    },
+    {
+      "id": 463847,
+      "title": "Intro | 08 Jan | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/677e588b2ab07_Arun_Sir_Reas_02.30_PM_08Jan_2025.pdf",
+      "date": "08-Jan-2025"
+    },
+    {
+      "id": 463730,
+      "title": "Clock | 7 Jan | Class PNG (4PM)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/677e065f9b44e_Arun_Sir_Reas_04_PM_07Jancompressed.pdf",
+      "date": "08-Jan-2025"
+    },
+    {
+      "id": 463722,
+      "title": "Clock | 7 Jan | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/677e058648a9b_Arun_Sir_Reas_New_Batch_02.30_PM_07Novcompressed.pdf",
+      "date": "08-Jan-2025"
+    },
+    {
+      "id": 463369,
+      "title": "Clock | 6 Jan | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/677bc0eb85748_Arun_Sir_Reas_02.30_PM_6Jancompressed.pdf",
+      "date": "06-Jan-2025"
+    },
+    {
+      "id": 462558,
+      "title": "Clock | 4 Jan | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/677b73e41e99d_Arun_Sir_Reas_09.00_AM_04Jan_2025.pdf",
+      "date": "06-Jan-2025"
+    },
+    {
+      "id": 462148,
+      "title": "Clock | 3 Jan | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6777d13165225_Arun_Sir_Reas_02.30_PM_03_Jancompressed.pdf",
+      "date": "03-Jan-2025"
+    },
+    {
+      "id": 461320,
+      "title": "Clock | 2 Jan | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67776381018a9_Reas_230_PM_02_Jan_Arun_Sir.pdf",
+      "date": "03-Jan-2025"
+    },
+    {
+      "id": 461078,
+      "title": "Clock | 31 Dec | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/677634d11b6f7_Reas_230_PM_31_Dec_Arun_Sir.pdf",
+      "date": "02-Jan-2025"
+    },
+    {
+      "id": 460795,
+      "title": "Clock | 30 Dec | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/677395c38d699_Reas_230_PM_30_Dec_Arun_Sir.pdf",
+      "date": "31-Dec-2024"
+    },
+    {
+      "id": 460372,
+      "title": "Missing Number And Matrix | 28 Dec | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67721aa8ebccd_Arun_Sir_Reas_08.00_AM_28Deccompressed.pdf",
+      "date": "30-Dec-2024"
+    },
+    {
+      "id": 460363,
+      "title": "Missing Number And Matrix | 27 Dec | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/677219b6c0735_Reas_230_PM_27_Dec_Arun_Sircompressed.pdf",
+      "date": "30-Dec-2024"
+    },
+    {
+      "id": 460124,
+      "title": "Decision Making | 26 Dec | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/676e477833a60_Reas_230_PM_26_Dec_Arun_Sircompressed.pdf",
+      "date": "27-Dec-2024"
+    },
+    {
+      "id": 459976,
+      "title": "Decision Making | 25 Dec | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/676ce79799d3c_Reas_230_PM_25_Dec_Arun_Sircompressed.pdf",
+      "date": "26-Dec-2024"
+    },
+    {
+      "id": 458912,
+      "title": "Decision Making | 24 Dec | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/676aeba31fe5e_Reas_230_PM_24_Dec_Arun_Sir.pdf",
+      "date": "24-Dec-2024"
+    },
+    {
+      "id": 456767,
+      "title": "Decision Making | 23 Dec | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/676a4c7653401_Reas_230_PM_23Dec_Arun_Sircompressed.pdf",
+      "date": "24-Dec-2024"
+    },
+    {
+      "id": 456441,
+      "title": "Mathematical Operations | 20 Dec | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6768e75b272f7_Arun_Sir_Reas_14.30_PM_20Deccompressedcompressed.pdf",
+      "date": "23-Dec-2024"
+    },
+    {
+      "id": 455640,
+      "title": "Mathematical Operations  | 19 Dec | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6764d82c9da1a_Arun_Sir_Reas_14.30_PM_19Deccompressed.pdf",
+      "date": "20-Dec-2024"
+    },
+    {
+      "id": 455566,
+      "title": "Venn Diagram | 18 Dec | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/676307ab37375_Arun_Sir_Reas_14.30_PM_18Dec.pdf",
+      "date": "18-Dec-2024"
+    },
+    {
+      "id": 455401,
+      "title": "Venn Diagram | 17 Dec | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67625ea6d5eff_Arun_Sir_Reas_14.30_PM_17Deccompressed.pdf",
+      "date": "18-Dec-2024"
+    },
+    {
+      "id": 455221,
+      "title": "16 Dec 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6761145563aae_Reas_SPL_Arun_Sir_16_Dec_230_PMcompressed.pdf",
+      "date": "17-Dec-2024"
+    },
+    {
+      "id": 454710,
+      "title": "Venn Diagram | 14 Dec | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/675d382c2a861_Arun_Sir_Reas_09.30_AM_14Deccompressed.pdf",
+      "date": "14-Dec-2024"
+    },
+    {
+      "id": 454265,
+      "title": "Ranking and Comparison Test | 12 Dec | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/675bb86b1aa2f_Reas_SPL_Arun_Sir_12_Dec_230_PMcompressed.pdf",
+      "date": "13-Dec-2024"
+    },
+    {
+      "id": 454158,
+      "title": "Ranking and Comparison Test | 11 Dec | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/675a81e2878af_Arun_Sir_Reas_2.30_PM_11Deccompressed.pdf",
+      "date": "12-Dec-2024"
+    },
+    {
+      "id": 452512,
+      "title": "Ranking and Comparison Test | 10 Dec | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/675827a4b2329_Reas_230_PM_10_Dec_Arun_Sircompressed_1compressed.pdf",
+      "date": "10-Dec-2024"
+    },
+    {
+      "id": 452164,
+      "title": "Ranking and Comparison Test | 9 Dec | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/675793b8b611c_Reas_230_PM_9_Dec_Arun_Sircompressed.pdf",
+      "date": "10-Dec-2024"
+    },
+    {
+      "id": 452156,
+      "title": "Ranking and Comparison Test | 7 Dec | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67579310e01d6_Arun_Sir_Reas_2.30_PM_07Deccompressed.pdf",
+      "date": "10-Dec-2024"
+    },
+    {
+      "id": 451932,
+      "title": "Analogy | 6 Dec | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6753e6d0eb603_Arun_Sir_Reas_14.30_PM_06Deccompressed.pdf",
+      "date": "07-Dec-2024"
+    },
+    {
+      "id": 451028,
+      "title": "Analogy | 4 Dec | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6750507f4b937_Arun_Sir_Reas_14.30_PM_04Deccompressed.pdf",
+      "date": "04-Dec-2024"
+    },
+    {
+      "id": 450317,
+      "title": "Analogy | 2 Dec | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/674d5ced32c04_Arun_Sir_Reas_09.30_AM_02Deccompressed.pdf",
+      "date": "02-Dec-2024"
+    },
+    {
+      "id": 450305,
+      "title": "Analogy | 30 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/674d559e0027a_Arun_Sir_Reas_08.30_AM_30Novcompressed.pdf",
+      "date": "02-Dec-2024"
+    },
+    {
+      "id": 450200,
+      "title": "Series | 29 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6749b78647b9e_Arun_Sir_Reas_02.30_PM_29Novcompressed.pdf",
+      "date": "29-Nov-2024"
+    },
+    {
+      "id": 449404,
+      "title": "Series | 27 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6749196d18aca_Arun_Sir_Reas_02.30_PM_27Novcompressed.pdf",
+      "date": "29-Nov-2024"
+    },
+    {
+      "id": 449353,
+      "title": "Series | 28 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/674911b84f960_Arun_Sir_Reas_02.30_PM_28Novcompressed.pdf",
+      "date": "29-Nov-2024"
+    },
+    {
+      "id": 449042,
+      "title": "Series | 26 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6746aefd8e2e8_Arun_Sir_Reas_02.30_PM_26Novcompressed.pdf",
+      "date": "27-Nov-2024"
+    },
+    {
+      "id": 448839,
+      "title": "Series | 25 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67454b8279660_Arun_Sir_Reas_02.30_AM_25Novcompressed.pdf",
+      "date": "26-Nov-2024"
+    },
+    {
+      "id": 448654,
+      "title": "Series | 23 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6741613f483c7_Arun_Sir_Reas_09.00_AM_23Novcompressed.pdf",
+      "date": "23-Nov-2024"
+    },
+    {
+      "id": 448354,
+      "title": "Series | 21 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/673f1f19c9866_Arun_Sir_Reas_02.30_PM_21Novcompressed.pdf",
+      "date": "21-Nov-2024"
+    },
+    {
+      "id": 448130,
+      "title": "Series | 20 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/673dd09a0844e_Arun_Sir_Reas_02.30_AM_20Novcompressed.pdf",
+      "date": "20-Nov-2024"
+    },
+    {
+      "id": 445547,
+      "title": "Direction | 15 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6738345775769_Arun_Sir_Reas_02.30_PM_15Novcompressed.pdf",
+      "date": "16-Nov-2024"
+    },
+    {
+      "id": 445290,
+      "title": "Direction | 14 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6736d34994937_Arun_Sir_Reas_02.30_PM_14Novcompressed.pdf",
+      "date": "15-Nov-2024"
+    },
+    {
+      "id": 445069,
+      "title": "Analogy and Classification | 13 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/673487e46e365_Arun_Sir_Reas_02.30_PM_13Novcompressed.pdf",
+      "date": "13-Nov-2024"
+    },
+    {
+      "id": 444954,
+      "title": "Direction | 12 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67342afe3c2fd_Arun_Sir_Reas_02.30_PM_12Novcompressed.pdf",
+      "date": "13-Nov-2024"
+    },
+    {
+      "id": 444948,
+      "title": "Analogy and Classification | 12 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/673429cfb0f83_Arun_Sir_Reas_4_PM_12Novcompressed.pdf",
+      "date": "13-Nov-2024"
+    },
+    {
+      "id": 444618,
+      "title": "Direction | 11 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6732e85b31e1a_Arun_Sir_Reas_02.30_PM_11Novcompressed.pdf",
+      "date": "12-Nov-2024"
+    },
+    {
+      "id": 444612,
+      "title": "Analogy and Classification | 11 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6732e7dc3f97d_Arun_Sir_Reas_04_PM_11Novcompressed.pdf",
+      "date": "12-Nov-2024"
+    },
+    {
+      "id": 444432,
+      "title": "Analogy and Classification | 08 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67316a7454674_Arun_Sir_Reas_4_PM_08Novcompressed.pdf",
+      "date": "11-Nov-2024"
+    },
+    {
+      "id": 444425,
+      "title": "Direction | 08 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67316a0e53593_Arun_Sir_Reas_02.30_PM_08Novcompressed.pdf",
+      "date": "11-Nov-2024"
+    },
+    {
+      "id": 443388,
+      "title": "Dot Situation | 07 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/672d7e4e58ebf_Arun_Sir_Reas_04_PM_07Novcompressed.pdf",
+      "date": "08-Nov-2024"
+    },
+    {
+      "id": 443115,
+      "title": "Non Verbal Series | 05 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/672b304feb359_Arun_Sir_Reas_02.30_PM_05Novcompressed.pdf",
+      "date": "06-Nov-2024"
+    },
+    {
+      "id": 443108,
+      "title": "Non Verbal Series | 04 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/672b2fd0184eb_Arun_Sir_04Nov_02.30_PMcompressed.pdf",
+      "date": "06-Nov-2024"
+    },
+    {
+      "id": 441070,
+      "title": "Paper Cutting and Folding | 25 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/671b7b68891b0_Reas_230_PM_25_OCTcompressed.pdf",
+      "date": "25-Oct-2024"
+    },
+    {
+      "id": 440986,
+      "title": "Embedded Figure + Pattern Completion | 24 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/671b04e10d366_Reas_230_PM_24_OCTcompressed.pdf",
+      "date": "25-Oct-2024"
+    },
+    {
+      "id": 440709,
+      "title": "Mirror and Water Image | 23 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6718e0d394921_Reas_230_PM_23_OCTcompressed.pdf",
+      "date": "23-Oct-2024"
+    },
+    {
+      "id": 440540,
+      "title": "Mirror and Water Image | 22 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67178c69a4e12_Reas_230_PM_22_OCTcompressed.pdf",
+      "date": "22-Oct-2024"
+    },
+    {
+      "id": 440372,
+      "title": "Mirror and Water Image | 21 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/671643c5aae1c_Reas_230_PM_21_OCT.pdf",
+      "date": "21-Oct-2024"
+    },
+    {
+      "id": 439962,
+      "title": "Inequality | 17 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6710f8628afa0_Arun_Sir_Reas_09.30_AM_17Oct.pdf",
+      "date": "17-Oct-2024"
+    },
+    {
+      "id": 438092,
+      "title": "Inequality | 16 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/670fd704c7305_Reas_230_PM_16_OCTcompressed.pdf",
+      "date": "16-Oct-2024"
+    },
+    {
+      "id": 437962,
+      "title": "Inequality | 15 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/670f3448baa28_Reas_230_PM_14_OCTcompressed.pdf",
+      "date": "16-Oct-2024"
+    },
+    {
+      "id": 437501,
+      "title": "Inequality Practice Sheet",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/670cc435524da_Inequality.pdf",
+      "date": "14-Oct-2024"
+    },
+    {
+      "id": 437490,
+      "title": "Inequality | 11 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/670cc0610d39c_Reas_230_PM_11_Octcompressed.pdf",
+      "date": "14-Oct-2024"
+    },
+    {
+      "id": 437145,
+      "title": "Inequality | 10 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6707bd4fdddff_Reas_230_PM_9_Octcompressed.pdf",
+      "date": "10-Oct-2024"
+    },
+    {
+      "id": 436982,
+      "title": "Inequality | 09 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6706749cdccd4_2.30_Pm_Arun_Sir_09_Octcompressed.pdf",
+      "date": "09-Oct-2024"
+    },
+    {
+      "id": 436329,
+      "title": "SSC CGL PRE 2024 (All Shifts) Test",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6704bdc68dbd5_SSCCGLPRE2024Arun_Sir_Reasoning_All_Shiftscompressed.pdf",
+      "date": "08-Oct-2024"
+    },
+    {
+      "id": 425756,
+      "title": "Statement and Assumptions Practice Sheet",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66e011ae286e5_Statement and Assumptions-(Student copy)_ 02Sep.pdf",
+      "date": "10-Sep-2024"
+    },
+    {
+      "id": 425746,
+      "title": "Statement and Courses of Action Practice Sheet",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66e0113405843_Statement and Courses of action- (Student copy)_02Sep.pdf",
+      "date": "10-Sep-2024"
+    },
+    {
+      "id": 424351,
+      "title": "Statement and Assumptions Hand Written Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66dee4044ce5b_STATEMENT AND ASSUMPTIONS-compressed.pdf",
+      "date": "09-Sep-2024"
+    },
+    {
+      "id": 424341,
+      "title": "Statement and Argument Hand Written Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66dee39c01012_STATEMENT AND ARGUMENTS-compressed.pdf",
+      "date": "09-Sep-2024"
+    },
+    {
+      "id": 424331,
+      "title": "Assertion and Reason Hand Written Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66dee337b45a2_ASSERTION AND REASON-compressed.pdf",
+      "date": "09-Sep-2024"
+    },
+    {
+      "id": 424321,
+      "title": "Statement And Course Of Action Hand Written Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66dee288e9e1a_STATEMENT AND COURSES OF ACTION-compressed.pdf",
+      "date": "09-Sep-2024"
+    },
+    {
+      "id": 424312,
+      "title": "Statement and Conclusion Hand Written Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66dee2070b7cb_STATEMENT AND CONCLUSION-compressed.pdf",
+      "date": "09-Sep-2024"
+    },
+    {
+      "id": 418551,
+      "title": "Calendar Hand Written Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66cda1fe951e3_CALENDAR-compressed (1).pdf",
+      "date": "27-Aug-2024"
+    },
+    {
+      "id": 412157,
+      "title": "Blood Relations Hand Written Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66b9a099b05ea_BLOOD RELATIONS-compressed.pdf",
+      "date": "12-Aug-2024"
+    },
+    {
+      "id": 412148,
+      "title": "Counting of figures Hand Written Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66b99f872ab0b_COUNTING OF FIGURE-compressed.pdf",
+      "date": "12-Aug-2024"
+    },
+    {
+      "id": 410091,
+      "title": "Incorrect Clock Hand Written Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66a88664c5f8b_INCORRECT CLOCK-compressed.pdf",
+      "date": "30-Jul-2024"
+    },
+    {
+      "id": 410090,
+      "title": "Syllogism Hand Written Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66a885f8aa8d6_SYLLOGISM-compressed.pdf",
+      "date": "30-Jul-2024"
+    },
+    {
+      "id": 410089,
+      "title": "Clock PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/669f716d68e57_CLOCK-compressed (1).pdf",
+      "date": "23-Jul-2024"
+    },
+    {
+      "id": 410088,
+      "title": "ALPHABET TEST",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6699f4977e434_ALPHABET TEST _240716_213444 (1)_compressed.pdf",
+      "date": "19-Jul-2024"
+    },
+    {
+      "id": 410087,
+      "title": "DECISION MAKING PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6694964a787e1_DECISION MAKING _240527_142436_compressed.pdf",
+      "date": "15-Jul-2024"
+    },
+    {
+      "id": 410086,
+      "title": "MATHEMATICAL OPERATION PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/669495db80325_MATHEMATICAL OPERATION _240608_090111_compressed.pdf",
+      "date": "15-Jul-2024"
+    },
+    {
+      "id": 410085,
+      "title": "CODING-DECODING PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66949579c3484_CODING-DECODING _240630_151121_compressed.pdf",
+      "date": "15-Jul-2024"
+    },
+    {
+      "id": 410084,
+      "title": "WORLD ARRANGEMENTS LOGICAL SEQUENCE",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66949447f2378_WORLD ARRANGEMENTS LOGICAL SEQUENCE_240621_132858_compressed.pdf",
+      "date": "15-Jul-2024"
+    },
+    {
+      "id": 410083,
+      "title": "Classification Hand Written Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66753d7bda9f6_CLASSIFICATION-compressed.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 410082,
+      "title": "Anology Hand Written Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66753cf70d2c8_ANOLOGY-compressed.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 410081,
+      "title": "Syllogism Hand Written Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66753c8f92d12_SYLLOGISM-compressed.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 410080,
+      "title": "Comparison Test Hand Written Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66629edd6305b_COMPARISON TEST (DONE).pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 410079,
+      "title": "Number & Ranking Hand Written Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66629e644d1c3_NUMBER, RANKING & COMPARISON (DONE).pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 410078,
+      "title": "Missing Number & Matrix",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6659771802035_MISSING NUMBER & MATRIX (1)_compressed.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 410077,
+      "title": "Dice Hand Written Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/665471ef409f1_DICE (1)_compressed.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 410076,
+      "title": "Cube and Cubiod Hand Written Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6654716ff250e_CUBE_compressed.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 409991,
+      "title": "Direction",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6617cf9c89691_Direction.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 409990,
+      "title": "Syllogism Updated",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65fc0d573e224_SYLLOGISM.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 409989,
+      "title": "Blood Relation",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65deebf5b79b3_Blood Relation[1]_compressed.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 409988,
+      "title": "Coding & Decoding Practice Sheet",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65a0114a7b81d_Coding & Decoding (1) (1).pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 409987,
+      "title": "Ranking",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6576f1de984b1_RANKING.pmd.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 409986,
+      "title": "Question based on Diagram ",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/654d97d91d78c_Question based on Diagram Student Copy - 50.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 409985,
+      "title": "Coding Decoding ",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/653f073c1acf9_Coding Decoding Student-2.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 409984,
+      "title": "Syllogism New",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6538d4d7a13be_SYLLOGISM_NEW.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 409983,
+      "title": "Number Series (Updated)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6538d4d6ee71d_Number Series.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 409982,
+      "title": "Statement and Conclusion (Updated)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6538d484a6933_Statement and conclusion student copy.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 409981,
+      "title": "Classification (Updated)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6538d4842e905_Classification ( odd one out ).pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 409980,
+      "title": "Word Formation (Updated)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6538d440c9d22_Word Formation.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 409979,
+      "title": "Assumptions (Updated)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6538d43fce88b_Assumptions Student copy...pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 409978,
+      "title": "Statement and Argument (Updated)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6538d40f021f9_statement and argument student copy pdf.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 409977,
+      "title": "Syllogism (Updated)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6538d40de06d8_SYLLOGISM-2.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 409976,
+      "title": "Venn diagram (Updated)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6538d3bb0f518_Venn diagram Student..pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 409975,
+      "title": "Mathematical Operation (Updated)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6538d3ba8e89b_Mathematical Operation0.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 409974,
+      "title": "Alphabet Test",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6538d3b9d7744_ALPHABET TEST.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 409973,
+      "title": "Clock (Updated)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6538d35289fb7_258536Clock  Student File_crwill-1.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 409972,
+      "title": "Statement & Assumption (Updated)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6538d35131dd0_258573Statement & Assumption_crwill.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 409971,
+      "title": "Course of Action (Updated)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6538d2dc681c3_258574Course of Action_crwill.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 409970,
+      "title": "Basics of Reasoning (Updated)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6538d2dbd3e80_Basics of Reasoning.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 409969,
+      "title": "Blood-Relation (Updated)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6538d2db2221a_Blood-relation  mains (Student copy.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 409968,
+      "title": "inequality",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/652cfd7d93f56_Inequality.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 409967,
+      "title": "Cube & Cuboid",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/663c610a16592_cube & cuboid.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 409966,
+      "title": "Course of Action",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/663c60f4895c4_course of action.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 409965,
+      "title": "Coding Decoding",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/663c60e02aa8a_coding decoding.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 409964,
+      "title": "Clock",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/663c60b37a8e2_Clock.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 409963,
+      "title": "Classification",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/663c60a383951_Classification.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 409962,
+      "title": "Cause and Effect",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/663c60971ce51_cause  and effect.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 409961,
+      "title": "Caslet DI",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/663c60856af73_Caslet DI.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 409960,
+      "title": "Calendar",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/663c607b52846_calendar.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 409959,
+      "title": "Assertion and Reason",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/663c606d2577b_assertion and reason.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 409958,
+      "title": "Analogy",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/663c605b97c89_analogy.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 409957,
+      "title": "Syllogism",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/663c6048ac205_syllogism.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 409956,
+      "title": "Situation Reaction",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/663c6037d3903_situation reaction 01.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 409955,
+      "title": "Ranking",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/663c601740159_ranking.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 409954,
+      "title": "Puzzle",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/663c5fe807db5_puzzle (1).pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 409953,
+      "title": "Missing Number",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/663c5fd2db959_missing number.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 409952,
+      "title": "Logical Venn Diagram",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/663c5fb73aa2f_logical venn diagram.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 409951,
+      "title": "Inquality",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/663c5f9aa3287_inquality.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 409950,
+      "title": "Input and Output",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/663c5f63767de_input and output.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 409949,
+      "title": "Incorrect Clock",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/663c5f4d21df4_incorrect clock.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 409948,
+      "title": "Direction",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/663c5f1533ac1_Direction ].pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 409947,
+      "title": "Dice",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/663c5f06b9634_Dice.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 409946,
+      "title": "Decision Making",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/663c5ef875d06_decision making 01.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 409945,
+      "title": "Data Suffiency",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/663c5ee0379ab_data suffiency.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 409944,
+      "title": "Statment Consclustions",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/663b4dceaf62c_statment consclustions.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 409943,
+      "title": "Statement Assumption-2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/663b4dadc1dce_statement - assumption.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 409942,
+      "title": "Statement Assumption-1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/663b4d7616323_statement assumption 01.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 409941,
+      "title": "Statement Arguments-2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/663b4d46aa471_Statement Arguments.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 409940,
+      "title": "Statement Arguments-1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/663b4d14c9d43_statement arguments 01.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 409939,
+      "title": "Word Arrangment-1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/663b4cea5be64_word arrangment  01.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 409938,
+      "title": "Seating Arrangement",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/663b4cb8ee070_seating arrangement.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 409937,
+      "title": "Number Series-2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/663b4c92105e2_number series.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 409936,
+      "title": "Number Series-1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/663b4c78c0cb4_number series  01.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 409935,
+      "title": "Comparison Test",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/663b4c4a0745b_comparison test.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 409934,
+      "title": "Alphabet Test",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/663b4c20de639_alphabet test.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 409933,
+      "title": "Alphabet Series",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/663b4bff1556d_Alphabet series.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 409932,
+      "title": "Blood Relation",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/663b4be1ac10d_blood relation.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 409931,
+      "title": "Word Arrangment",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/663b4bb33bebd_word arrangment.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 436792,
+      "title": "Inequality | 08 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67050cd38af5f_Reas_230_PM_8_Octcompressed.pdf",
+      "date": "08-Oct-2024"
+    },
+    {
+      "id": 426754,
+      "title": "Reasoning Full Syllabus",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66e170917fe07_Reasoning_Syllabus[1].pdf",
+      "date": "11-Sep-2024"
+    },
+    {
+      "id": 436107,
+      "title": "Direction | 04 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67037d73c03f4_Arun_Sir_04Oct_03.00_PMcompressed.pdf",
+      "date": "07-Oct-2024"
+    },
+    {
+      "id": 426755,
+      "title": "SSC Syllabus",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66e17076babbc_SSC syllabus.pdf",
+      "date": "11-Sep-2024"
+    },
+    {
+      "id": 436962,
+      "title": "Direction | 07 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67065ed0bec67_67037e9d61a16ArunSir07Oct08.00AM.pdf",
+      "date": "09-Oct-2024"
+    },
+    {
+      "id": 426756,
+      "title": "Railway Syllabus",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66e170ac29f91_railway.pdf",
+      "date": "11-Sep-2024"
+    },
+    {
+      "id": 436961,
+      "title": "Direction | 03 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67065e9cc19c7_66fe2e1977cc3ArunSir03Oct08.00AMcompressed.pdf",
+      "date": "09-Oct-2024"
+    },
+    {
+      "id": 426757,
+      "title": "UPSC CSAT Syllabus",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66e17168285f8_upssc syll.pdf",
+      "date": "11-Sep-2024"
+    },
+    {
+      "id": 409992,
+      "title": "Odd One Out Answer key",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64b8ca08ac416_Odd One Out Student Copy answer key final.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 435578,
+      "title": "Direction | 02 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66fe2da0eea81_2oct_reas_class_by_arun_sircompressed.pdf",
+      "date": "03-Oct-2024"
+    },
+    {
+      "id": 426758,
+      "title": "UP Police Syllabus",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66e17135d1d75_up police.pdf",
+      "date": "11-Sep-2024"
+    },
+    {
+      "id": 409993,
+      "title": "Analogy",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64b8c9c871a59_ANALOGY file.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 435888,
+      "title": "Direction | 01 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66fe6bd81e9d3_66fbd825b8b1fArunSirReas.08.00AM01Octcompressed.pdf",
+      "date": "03-Oct-2024"
+    },
+    {
+      "id": 426759,
+      "title": "DSSSB Syllabus",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66e170db96e12_dsssb.pdf",
+      "date": "11-Sep-2024"
+    },
+    {
+      "id": 435883,
+      "title": "Direction | 30 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66fe6b962f865_66fa386f5cc01ArunSirReas.08.00AM30Sepcompressed.pdf",
+      "date": "03-Oct-2024"
+    },
+    {
+      "id": 426760,
+      "title": "BPSC Teaching Syllabus",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66e170fec9708_bpsc teaching.pdf",
+      "date": "11-Sep-2024"
+    },
+    {
+      "id": 432673,
+      "title": "Dice | 27 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66fa43fd908d1_Arun_Sir_Reasoning_08.00_AM_17Sepcompressed.pdf",
+      "date": "30-Sep-2024"
+    },
+    {
+      "id": 432653,
+      "title": "Input-Output | 27 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66fa371c7ca3d_3PM_Reas_27_Sepcompressed.pdf",
+      "date": "30-Sep-2024"
+    },
+    {
+      "id": 432370,
+      "title": "Cube & Cuboid | 27 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66f66d2ca92b9_Arun_Sir_Reas._08.00_AM_27Sepcompressed.pdf",
+      "date": "27-Sep-2024"
+    },
+    {
+      "id": 432222,
+      "title": "Input-Output | 26 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66f54f5fe9d99_3PM_Reascompressed.pdf",
+      "date": "26-Sep-2024"
+    },
+    {
+      "id": 432123,
+      "title": "Cube & Cuboid | 26 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66f52cf8b7726_Arun_Sir_Reas._08.00_AM_26Sepcompressed.pdf",
+      "date": "26-Sep-2024"
+    },
+    {
+      "id": 431395,
+      "title": "Input-Output | 25 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66f3f49aa0b2a_Reas_3_PM_25_Sepcompressed.pdf",
+      "date": "25-Sep-2024"
+    },
+    {
+      "id": 431194,
+      "title": "Cube & Cuboid | 25 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66f3d152c88c0_Arun_Sir_Reas._08.00_AM_25Sepcompressed.pdf",
+      "date": "25-Sep-2024"
+    },
+    {
+      "id": 430980,
+      "title": "Puzzle | 24 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66f29fc706501_Reas_3_PM_Arun_Sircompressed.pdf",
+      "date": "24-Sep-2024"
+    },
+    {
+      "id": 430974,
+      "title": "Cube & Cuboid | 24 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66f29ee1dfbc6_Arun_Sir_Reasoning_08.00_AM_24Sep_1compressed.pdf",
+      "date": "24-Sep-2024"
+    },
+    {
+      "id": 430096,
+      "title": "Cube & Cuboid | 23 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66f0e61c34ce5_Arun_Sir_Reasoning_08.00_AM_23Sepcompressed.pdf",
+      "date": "23-Sep-2024"
+    },
+    {
+      "id": 429907,
+      "title": "Puzzle | 20 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66ee4caa4f616_Reasoning_20_Sep_3_PMcompressed.pdf",
+      "date": "21-Sep-2024"
+    },
+    {
+      "id": 409994,
+      "title": "Basics of Reasoning",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64a3a9e0a791b_Basics of Reasoning.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 429598,
+      "title": "Dice | 20 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66ed284312d14_Arun_Sir_Reasoning_08.00_AM_20Sepcompressed.pdf",
+      "date": "20-Sep-2024"
+    },
+    {
+      "id": 429544,
+      "title": "Seating Arrangment | 19 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66ece9ffed9ec_Reasoning19_Sep_3_PMcompressed.pdf",
+      "date": "20-Sep-2024"
+    },
+    {
+      "id": 429539,
+      "title": "Seating Arrangment | 18 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66ece9af3f8ea_18_Sept_03pmcompressed.pdf",
+      "date": "20-Sep-2024"
+    },
+    {
+      "id": 429530,
+      "title": "Dice | 19 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66ece831927dc_Arun_Sir_Reasoning_08.00_AM_19Sepcompressed.pdf",
+      "date": "20-Sep-2024"
+    },
+    {
+      "id": 428816,
+      "title": "Dice | 18 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66ea5bb07325c_Arun_Sir_Reasoning_08.00_AM_18Sepcompressed.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 428723,
+      "title": "Seating Arrangement | 17 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66ea316e46962_17_SEPT_03.00pmcompressed.pdf",
+      "date": "18-Sep-2024"
+    },
+    {
+      "id": 427205,
+      "title": "Seating Arrangement | 13 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66e3ce0206269_13 SEPT 09.30 AM_compressed.pdf",
+      "date": "13-Sep-2024"
+    },
+    {
+      "id": 427199,
+      "title": "Dice | 13 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66e3cd0cd0b64_13 SEPT 8AM.pdf",
+      "date": "13-Sep-2024"
+    },
+    {
+      "id": 427191,
+      "title": "Dice  | 12 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66e3c8fc46bf6_12 SEPT 8am_compressed.pdf",
+      "date": "13-Sep-2024"
+    },
+    {
+      "id": 409995,
+      "title": "Comparison Test",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/649435caa3851_REASONING ,COMPARISON STUDENT COPY+.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 427156,
+      "title": "Seating Arrangement | 12 Sept |Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66e3a5b59539e_12 SEPT 03.30pm_compressed.pdf",
+      "date": "13-Sep-2024"
+    },
+    {
+      "id": 426847,
+      "title": "Seating Arrangement | 11 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66e183e2a6321_11 SEPT 3pm_compressed.pdf",
+      "date": "11-Sep-2024"
+    },
+    {
+      "id": 426681,
+      "title": "Dice | 11 September Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66e126236f878_11 SEPT 8am.pdf",
+      "date": "11-Sep-2024"
+    },
+    {
+      "id": 426126,
+      "title": "Seating Arrangemen | 10 September Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66e033abbdfc6_Arun Sir Reasoning 03.00 PM 10 Sep_compressed.pdf",
+      "date": "10-Sep-2024"
+    },
+    {
+      "id": 409996,
+      "title": "Statement and Conclusion Syllogism Previous Year Questions",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/648ffc7cbc00d_Statement and Conclusion Syllogism Previous Year Questions.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 426123,
+      "title": "Seating Arrangemen | 10 September Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66e033abbdfc6_Arun Sir Reasoning 03.00 PM 10 Sep_compressed.pdf",
+      "date": "10-Sep-2024"
+    },
+    {
+      "id": 424451,
+      "title": "Reas | Dice | 10 September Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66dfd11423305_10 SEPT 8am.pdf",
+      "date": "10-Sep-2024"
+    },
+    {
+      "id": 424447,
+      "title": "Reas | Situation Reaction Test | 09 September Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66dfc7249f64b_20240909162854081_compressed.pdf",
+      "date": "10-Sep-2024"
+    },
+    {
+      "id": 424405,
+      "title": "Reas | Seating Arrangement | 09 September Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66dee820ee174_20240909162854081_compressed.pdf",
+      "date": "09-Sep-2024"
+    },
+    {
+      "id": 423439,
+      "title": "Reas | Situation Reaction Test | 05 September Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66da953a3cb9f_Arun Sir Reasoning 03.00 PM 5 Sep.pdf",
+      "date": "06-Sep-2024"
+    },
+    {
+      "id": 409997,
+      "title": "Ranking Previous Year Sheet",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64883c6c6aaa7_Ranking Arrangement Student copy...pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 423267,
+      "title": "Reas | Situation Reaction Test | 04 September Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66d84d1c62b7d_Arun Sir Reasoning 03.00 PM 4 Sep_compressed.pdf",
+      "date": "04-Sep-2024"
+    },
+    {
+      "id": 409999,
+      "title": "Direction ",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/642fa5799c13a_Direction Student Copy..pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 422498,
+      "title": "Reas | Statement And Argument | 03 September  Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66d7c678288da_Arun Sir Reasoning 03.00 PM 3 Sep_compressed.pdf",
+      "date": "04-Sep-2024"
+    },
+    {
+      "id": 410000,
+      "title": "Counting Of Figure ",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/641ae6d6c31c9_Counting Of Figure Student_compressed.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 420515,
+      "title": "Reas | Statement And Argument | 31 August Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66d55caaba057_Arun Sir Reasoning 09.30 AM 31 Aug_compressed.pdf",
+      "date": "02-Sep-2024"
+    },
+    {
+      "id": 410001,
+      "title": "Mathametical Reasoning ",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6414443cc8292_Mathametical Reasoning student copy_compressed.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 419155,
+      "title": "Reas | Statement, Assumptions and Conclusions | 30 August Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66d1a8866ee7a_30 Aug 03 Pm_compressed.pdf",
+      "date": "30-Aug-2024"
+    },
+    {
+      "id": 410002,
+      "title": "Assumptions ",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1677479360-Assumptions_Student_copy___compressed.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 419026,
+      "title": "Reas |  Statement, Assumptions and Conclusions | 29 August Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66d126e035862_29 aug 5 pm_compressed.pdf",
+      "date": "30-Aug-2024"
+    },
+    {
+      "id": 410003,
+      "title": " Decision Making (New)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1674801227-Decision_Making_(1).pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 418834,
+      "title": "Statement And Course Of Action | 28 August Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66cf01b107320_Arun Sir Reasoning 03.00 PM 28 Aug_compressed.pdf",
+      "date": "28-Aug-2024"
+    },
+    {
+      "id": 410004,
+      "title": "Analogy Previous Year Questions",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1674191525-Analogy_Previous_Year_Questions.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 418576,
+      "title": "Statement And Course Of Action | 27 August Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66cdbdbe012d5_27 Aug 03 Pm_compressed.pdf",
+      "date": "27-Aug-2024"
+    },
+    {
+      "id": 410005,
+      "title": "Odd One Out ",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1674041600-Odd_One_Out_Student_Copy_answer_key_final.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 418429,
+      "title": "Statement And Course Of Action | 24 August Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66cd496610ff4_Arun Sir Reasoning 03.00 PM 24 Aug_compressed.pdf",
+      "date": "27-Aug-2024"
+    },
+    {
+      "id": 410006,
+      "title": "Analogy",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1674041600-ANALOGY_file.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 418302,
+      "title": "Statement And Course Of Action | 23 August Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66c94fd46f6a8_23 Aug 03 Pm_compressed.pdf",
+      "date": "24-Aug-2024"
+    },
+    {
+      "id": 417734,
+      "title": "Reas | Calendar | 21 August Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66c5cbf55072f_21 Aug 03 Pm_compressed.pdf",
+      "date": "21-Aug-2024"
+    },
+    {
+      "id": 416279,
+      "title": "Reas | Calendar | 20  August Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66c4782e350da_20 Aug 03 Pm.pdf",
+      "date": "20-Aug-2024"
+    },
+    {
+      "id": 409998,
+      "title": "Ranking ",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64821edd1dd13_258563Ranking_crwill.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 416275,
+      "title": "Reas | Calendar | 16 August Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66c4639248ea9_66c02d71c8d2a_16 Aug 2.45pm (1)_compressed.pdf",
+      "date": "20-Aug-2024"
+    },
+    {
+      "id": 413958,
+      "title": "Reas | Calendar | 13 August Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66bb524477710_Arun Sir Reasoning 3 PM 13 Aug_compressed.pdf",
+      "date": "13-Aug-2024"
+    },
+    {
+      "id": 413395,
+      "title": "Reas | Calender | 12 August Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66bacb376649e_12 Aug 03 Pm.pdf",
+      "date": "13-Aug-2024"
+    },
+    {
+      "id": 411745,
+      "title": "Calendar | 09 August Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66b6ff6732e22_09 Aug 03Pm_compressed.pdf",
+      "date": "10-Aug-2024"
+    },
+    {
+      "id": 411451,
+      "title": "Calendar | 08 August Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66b4a72a40cc1_08 Aug 03Pm_compressed.pdf",
+      "date": "08-Aug-2024"
+    },
+    {
+      "id": 411290,
+      "title": "Introducation | 07 August Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66b455fd5d36f_Reas Arun Sir 3 PM 7 Aug_compressed.pdf",
+      "date": "08-Aug-2024"
+    },
+    {
+      "id": 410007,
+      "title": "Calendar",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1674017536-1673940478-CALENDAR_F_(1).pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 410008,
+      "title": "Updated Syllogism",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1672720524-updated_syllogism.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 410009,
+      "title": "Dices & Cubes Previous Year Questions (SSC All Exams)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1670556757-Dices_Cubes_Previous_Year_Questions_(SSC_All_Exams).pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 410010,
+      "title": "Causes and Effects-1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1665146719-Causes_and_Effects-1.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 410011,
+      "title": "Figure Matrix",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1651816925-Figure_Matrix_compressed.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 410012,
+      "title": "Matrix Figure",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1651816925-Matrix_Figure_compressed.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 410013,
+      "title": "Analogy & Classification",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1651816925-Analogy_Classfication_compressed.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 410014,
+      "title": "Dot Situation - 2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1651643863-Dot_Situation_-_2.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 410015,
+      "title": "DOT Position - 1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1651643863-DOT_Position_-_1.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 410016,
+      "title": "Figure Formation",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1651556935-Figure_Formation_compressed.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 410017,
+      "title": "Statement and Conclusion Syllogism Previous Year Questions",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1649338295-Statement_and_Conclusion_Syllogism_Previous_Year_Questions_compressed.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 410018,
+      "title": "Statement and Conclusions Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1649338295-STATEMENT_CONCLUSION_(BOARD_FILE)_compressed.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 410019,
+      "title": "Assertion and Reason ",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1649338295-ASSERTION_AND_REASON_HINDI_compressed.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 410020,
+      "title": "28 March 2022 PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1648456284-28_march_9_30am_compressed.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 410021,
+      "title": "SSC 25 Sample Paper and 66 Set Link",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1646890054-ssc_25_sample_paper_and_66_set_compressed.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 410022,
+      "title": "Study Material Reasoning",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1646124996-study_material_reasoning.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 410023,
+      "title": "Syllogism Part - II (PDF) ",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1642658623-SYLLOGISM_PART-II_(PDF).pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 410024,
+      "title": "Syllogism Questions Only a Few Type Part - 1 ",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1642658623-syllogism-questions-only-a-few-type-part-1.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 410025,
+      "title": "Syllogism (Updated)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1642491991-updated_syllogism.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 410026,
+      "title": "Age Previous Year Questions (SSC All Exams) ",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1640671348-Age_Previous_Year_Questions_(SSC_All_Exams)_(1).pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 410027,
+      "title": "Counting of Figures Previous Year Questions (SSC All Exams)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1637137200-Counting_of_Figures_Previous_Year_Questions_(SSC_All_Exams)_unlocked.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 410028,
+      "title": "Statement & Conclusion",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1632289627-statement_conclusion__Arun_Kumar_unlocked.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 410029,
+      "title": " Alphabet  Test (Student File)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1631253240-ALPHABET_TEST_(student_file).pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 410030,
+      "title": "Clock  Student File",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1631174768-CLOCK_STUDENT_FILE_(1).pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 410031,
+      "title": "Coding Decoding Class Question PDF ",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1628770610-CODING_DECODING_CLASS_QUESTION_PDF.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 410032,
+      "title": "Venn Diagram Previous Year Questions ( SSC All Exams)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1626938536-Venn_Diagram_Previous_Year_Questions_(_SSC_All_Exams).pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 410033,
+      "title": "CGL19 Reasoning Combind Chapterwise By Arun Sir",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1625637090-CGL19_REASONING_COMBINED_CHAPTERWISE_BY_ARUN_SIR.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 410034,
+      "title": "Mathematical Operations Corrected",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1627463225-Mathematical_operations_corrected.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 410035,
+      "title": "Analogy (Figure Based)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1624533110-Analogy_Classification_Figure_Based.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 410036,
+      "title": "Classification",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1624533110-Classification.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 410037,
+      "title": "Figure Based Series",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1624533110-Figure_Based_Series.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 410038,
+      "title": "Pattern Completion",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1624533110-Pattern_Completion.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 410039,
+      "title": "Embeded Figure Series",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1624533110-Embeded_Figure_Series.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 410040,
+      "title": "Paper Folding",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1624533110-Paper_Folding.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 410041,
+      "title": "Paper Cutting",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1624533110-Paper_Cutting.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 410042,
+      "title": "Mirror & Water Images",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1624533110-Mirror_Water_Images.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 410043,
+      "title": "Counting of Figures Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1624533110-Counting_of_Figures_Notes.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 410044,
+      "title": "Counting of Figures Que",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1624533110-Counting_of_Figures_Que.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 410045,
+      "title": "Dot Position",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1624533110-Dot_Position.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 410046,
+      "title": "Grouping of Identical Figures",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1624533110-Grouping_of_Identical_Figures.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 410047,
+      "title": "Assertion and Reason (English)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1625637090-Assertion_and_Reason_(English).pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 410048,
+      "title": "Assertion & Reason Hindi",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1625637090-ASSERTION_AND_REASON_HINDI.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 410049,
+      "title": " Sylloism - Part - II",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1625490054-SYLLOGISM_PART-II_(PDF)__.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 410050,
+      "title": "Sylloism -4 - ENG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1625490054-Sylloism_-4_-_ENG.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 410051,
+      "title": "Sylloism -3",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1625490054-Sylloism_-3.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 410052,
+      "title": "Sylloism -2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1625490054-Sylloism_-2.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 410053,
+      "title": "Syllogism-1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1625490054-Syllogism-1.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 410054,
+      "title": "Input & Output",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1624532665-Input_Output.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 410055,
+      "title": "Cause & Effects",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1624532665-Cause_Effects.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 410056,
+      "title": "Statement & Argument",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1624532665-Statement_Argument.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 410057,
+      "title": "Ranking",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1624532224-Ranking.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 410058,
+      "title": "Cube & Cuboid",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1624532224-Cube_Cuboid.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 410059,
+      "title": "Dice",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1624532224-Dice.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 410060,
+      "title": "Caselet DI",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1624532224-Caselet_DI.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 410061,
+      "title": "Logical Venn Diagram",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1624532224-Logical_Venn_Diagram.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 410062,
+      "title": "InEquality",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1624532224-InEquality.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 410063,
+      "title": "Missing Number Series",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1624532224-Missing_Number_Series.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 410064,
+      "title": "Missing Number Puzzle",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1624532224-Missing_Number_Puzzle.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 410065,
+      "title": "Analogy or Relationship",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1624532224-Analogy_or_Relationship.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 410066,
+      "title": "Clock",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1624532224-Clock.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 410067,
+      "title": "Statement & Assumption",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1624532665-Statement_Assumption.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 410068,
+      "title": "Course of Action",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1624532665-Course_of_Action.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 410069,
+      "title": "Syllogism Part-1 Eng",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1624532224-Syllogism_Part-1_Eng.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 410070,
+      "title": "Data Sufficiency",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1624532224-Data_Sufficiency.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 410071,
+      "title": "Decision Making",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1624532224-Decision_Making.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 410072,
+      "title": "Puzzle",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1624532717-Puzzle.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 410073,
+      "title": "Sitting Arrangement",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1624532224-Sitting_Arrangement.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 410074,
+      "title": "Coding & Decoding",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1624532224-Coding_Decoding.pdf",
+      "date": "02-Jul-2024"
+    },
+    {
+      "id": 410075,
+      "title": "Blood Relations",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1624532224-Blood_Relations.pdf",
+      "date": "02-Jul-2024"
+    }
+  ]
+}
