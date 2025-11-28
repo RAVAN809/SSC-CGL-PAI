@@ -1,0 +1,705 @@
+{
+  "batchid": 2785,
+  "topicid": 28484,
+  "classes_total": 116,
+  "classes": [
+    {
+      "title": "Class-117 | Situation Reaction Test",
+      "id": "4437548",
+      "date": "09-Sep-2024 12:00",
+      "video_url": "4437548_0_4996817893920470"
+    },
+    {
+      "title": "Class-117 | Situation Reaction Test",
+      "id": "4437547",
+      "date": "06-Sep-2024 15:00",
+      "video_url": "4437547_0_7664657316536180"
+    },
+    {
+      "title": "Class-116 | Situation Reaction Test",
+      "id": "4437546",
+      "date": "05-Sep-2024 15:00",
+      "video_url": "4437546_0_5930608331887912"
+    },
+    {
+      "title": "Class-115 | Situation Reaction Test",
+      "id": "4437545",
+      "date": "04-Sep-2024 15:00",
+      "video_url": "4437545_0_8808611026633678"
+    },
+    {
+      "title": "Class-114 | Statement And Argument",
+      "id": "4437544",
+      "date": "03-Sep-2024 15:00",
+      "video_url": "4437544_0_2547518508706329"
+    },
+    {
+      "title": "Class-113 | Statement And Argument",
+      "id": "4437543",
+      "date": "31-Aug-2024 09:30",
+      "video_url": "4437543_0_3633259409613595"
+    },
+    {
+      "title": "Class-112 | Statement, Assumptions and Conclusions",
+      "id": "4437542",
+      "date": "30-Aug-2024 15:00",
+      "video_url": "4437542_0_2718706517540279"
+    },
+    {
+      "title": "Class-111 | Statement, Assumptions and Conclusions",
+      "id": "4437541",
+      "date": "29-Aug-2024 17:00",
+      "video_url": "4437541_0_1890344094245418"
+    },
+    {
+      "title": "Class-110 | Statement and Assumptions",
+      "id": "4437540",
+      "date": "28-Aug-2024 15:00",
+      "video_url": "4437540_0_9596617026838101"
+    },
+    {
+      "title": "Class-109 | Statement and Assumptions",
+      "id": "4437539",
+      "date": "27-Aug-2024 15:00",
+      "video_url": "4437539_0_4392220911288521"
+    },
+    {
+      "title": "Class-108 | Statement And Course Of Action",
+      "id": "4437538",
+      "date": "24-Aug-2024 15:00",
+      "video_url": "4437538_0_7316279585409437"
+    },
+    {
+      "title": "Class-107 | Statement And Course Of Action",
+      "id": "4437537",
+      "date": "23-Aug-2024 15:00",
+      "video_url": "4437537_0_9584439373425871"
+    },
+    {
+      "title": "Class-106 | Calendar",
+      "id": "4437536",
+      "date": "21-Aug-2024 15:00",
+      "video_url": "4437536_0_8361912641613001"
+    },
+    {
+      "title": "Class-105 | Calendar",
+      "id": "4437535",
+      "date": "20-Aug-2024 15:00",
+      "video_url": "4437535_0_2095218076000679"
+    },
+    {
+      "title": "Class-104 | Calendar",
+      "id": "4437534",
+      "date": "16-Aug-2024 14:45",
+      "video_url": "4437534_0_8421582584519710"
+    },
+    {
+      "title": "Class-103 | Calendar",
+      "id": "4437533",
+      "date": "13-Aug-2024 15:00",
+      "video_url": "4437533_0_5549076894651999"
+    },
+    {
+      "title": "Class-102 | Calendar",
+      "id": "4437532",
+      "date": "12-Aug-2024 15:00",
+      "video_url": "4437532_0_3507895975698387"
+    },
+    {
+      "title": "Class-101 | Calendar",
+      "id": "4437531",
+      "date": "09-Aug-2024 15:00",
+      "video_url": "4437531_0_8797065761180096"
+    },
+    {
+      "title": "Class-100 | Calendar",
+      "id": "4437530",
+      "date": "08-Aug-2024 15:00",
+      "video_url": "4437530_0_2407285231453865"
+    },
+    {
+      "title": "Class-99 | Counting Of Figures",
+      "id": "4437529",
+      "date": "06-Aug-2024 15:15",
+      "video_url": "4437529_0_4696095788643814"
+    },
+    {
+      "title": "Class-98 | Counting Of Figures",
+      "id": "4437528",
+      "date": "05-Aug-2024 15:00",
+      "video_url": "4437528_0_9606294869336804"
+    },
+    {
+      "title": "Class-97 | Counting Of Figures",
+      "id": "4437527",
+      "date": "02-Aug-2024 15:00",
+      "video_url": "4437527_0_1745613046016891"
+    },
+    {
+      "title": "Class-96 | Counting Of Figures",
+      "id": "4437526",
+      "date": "01-Aug-2024 15:15",
+      "video_url": "4437526_0_2396545318478188"
+    },
+    {
+      "title": "Class-95 | Counting Of Figures",
+      "id": "4437525",
+      "date": "31-Jul-2024 15:00",
+      "video_url": "4437525_0_6391643001423190"
+    },
+    {
+      "title": "Class-94 | Blood Relation + Counting Of Figures",
+      "id": "4437524",
+      "date": "30-Jul-2024 15:00",
+      "video_url": "4437524_0_8549199867420359"
+    },
+    {
+      "title": "Class-93 | Blood Relation",
+      "id": "4437523",
+      "date": "29-Jul-2024 11:00",
+      "video_url": "4437523_0_6963397360867131"
+    },
+    {
+      "title": "Class-92 | Blood Relation",
+      "id": "4437522",
+      "date": "27-Jul-2024 11:00",
+      "video_url": "4437522_0_6622854347262464"
+    },
+    {
+      "title": "Class-91 | Blood Relation",
+      "id": "4437521",
+      "date": "26-Jul-2024 15:00",
+      "video_url": "4437521_0_9573785682116406"
+    },
+    {
+      "title": "Class-90 | Blood Relation",
+      "id": "4437520",
+      "date": "25-Jul-2024 15:00",
+      "video_url": "4437520_0_6360392090299726"
+    },
+    {
+      "title": "Class-89 | Blood Relation",
+      "id": "4437519",
+      "date": "24-Jul-2024 06:30",
+      "video_url": "4437519_0_2167091746955435"
+    },
+    {
+      "title": "Class-88 | Syllogism (Only A Few)",
+      "id": "4434422",
+      "date": "23-Jul-2024 06:30",
+      "video_url": "4434422_0_6249158141337367"
+    },
+    {
+      "title": "Class-87 | Syllogism (Only A Few)",
+      "id": "4434421",
+      "date": "22-Jul-2024 06:30",
+      "video_url": "4434421_0_5719169592132256"
+    },
+    {
+      "title": "Class-86 | Syllogism (Only A Few)",
+      "id": "4434420",
+      "date": "17-Jul-2024 12:00",
+      "video_url": "4434420_0_4014436974852423"
+    },
+    {
+      "title": "Class-85 | Incorrect Clock",
+      "id": "4434419",
+      "date": "16-Jul-2024 06:30",
+      "video_url": "4434419_0_3450777240746574"
+    },
+    {
+      "title": "Class-84 | Incorrect Clock",
+      "id": "4434418",
+      "date": "15-Jul-2024 06:30",
+      "video_url": "4434418_0_3550851816201373"
+    },
+    {
+      "title": "Class-83 | Incorrect Clock",
+      "id": "4434417",
+      "date": "12-Jul-2024 06:30",
+      "video_url": "4434417_0_4404379760185339"
+    },
+    {
+      "title": "Class-82 | Clock",
+      "id": "4434416",
+      "date": "11-Jul-2024 06:30",
+      "video_url": "4434416_0_9694037564683817"
+    },
+    {
+      "title": "Class-81 | Clock",
+      "id": "4434415",
+      "date": "10-Jul-2024 06:30",
+      "video_url": "4434415_0_9042457114680030"
+    },
+    {
+      "title": "Class-80 | Clock",
+      "id": "4434414",
+      "date": "09-Jul-2024 06:30",
+      "video_url": "4434414_0_7697393566332954"
+    },
+    {
+      "title": "Class-79 | Clock",
+      "id": "4434413",
+      "date": "05-Jul-2024 06:30",
+      "video_url": "4434413_0_3788442223071059"
+    },
+    {
+      "title": "Class-78 | Alphabet Test",
+      "id": "4434412",
+      "date": "04-Jul-2024 06:30",
+      "video_url": "4434412_0_5349120322767445"
+    },
+    {
+      "title": "Class-77 | Alphabet Test",
+      "id": "4434411",
+      "date": "03-Jul-2024 06:30",
+      "video_url": "4434411_0_6650897821672433"
+    },
+    {
+      "title": "Class-76 | Alphabet Test",
+      "id": "4434410",
+      "date": "02-Jul-2024 06:30",
+      "video_url": "4434410_0_8355521614462026"
+    },
+    {
+      "title": "Class-75 | Alphabet Test",
+      "id": "4434409",
+      "date": "01-Jul-2024 06:30",
+      "video_url": "4434409_0_1570406298280278"
+    },
+    {
+      "title": "Class-74 | Coding Decoding",
+      "id": "4434408",
+      "date": "28-Jun-2024 06:30",
+      "video_url": "4434408_0_2905671624395903"
+    },
+    {
+      "title": "Class-73 | Coding Decoding",
+      "id": "4434407",
+      "date": "27-Jun-2024 06:30",
+      "video_url": "4434407_0_8508979655067309"
+    },
+    {
+      "title": "Class-72 | Coding Decoding",
+      "id": "4434406",
+      "date": "26-Jun-2024 06:30",
+      "video_url": "4434406_0_8522898830886450"
+    },
+    {
+      "title": "Class-71 | Coding Decoding",
+      "id": "4434405",
+      "date": "25-Jun-2024 06:30",
+      "video_url": "4434405_0_4239357060044192"
+    },
+    {
+      "title": "Class-70 | Coding Decoding",
+      "id": "4434404",
+      "date": "24-Jun-2024 06:30",
+      "video_url": "4434404_0_4707995041393526"
+    },
+    {
+      "title": "Class-69 | Coding Decoding",
+      "id": "4434403",
+      "date": "21-Jun-2024 06:30",
+      "video_url": "4434403_0_4708521932693504"
+    },
+    {
+      "title": "Class-68 | Coding Decoding",
+      "id": "4434402",
+      "date": "20-Jun-2024 06:30",
+      "video_url": "4434402_0_1109778869465197"
+    },
+    {
+      "title": "Class-66 | Word Arrangement / Logical Sequence",
+      "id": "4432294",
+      "date": "19-Jun-2024 06:30",
+      "video_url": "4432294_0_6348731614033969"
+    },
+    {
+      "title": "Class-65 | Odd One Out / Classification",
+      "id": "4432293",
+      "date": "18-Jun-2024 13:00",
+      "video_url": "4432293_0_2100081869590232"
+    },
+    {
+      "title": "Class-64 | Odd One Out / Classification",
+      "id": "4432289",
+      "date": "13-Jun-2024 13:00",
+      "video_url": "4432289_0_6771358497704690"
+    },
+    {
+      "title": "Class-63 | Analogy",
+      "id": "4432287",
+      "date": "12-Jun-2024 13:00",
+      "video_url": "4432287_0_3898772837172072"
+    },
+    {
+      "title": "Class-62 | Analogy",
+      "id": "4432284",
+      "date": "11-Jun-2024 13:00",
+      "video_url": "4432284_0_1010711586310382"
+    },
+    {
+      "title": "Class-61 | Mathematical Operations",
+      "id": "4432281",
+      "date": "06-Jun-2024 13:00",
+      "video_url": "4432281_0_5627807836690498"
+    },
+    {
+      "title": "Class-60 | Mathematical Operations",
+      "id": "4432280",
+      "date": "06-Jun-2024 06:30",
+      "video_url": "4432280_0_7638683022756775"
+    },
+    {
+      "title": "Class-59 | Number, Ranking And Comparison",
+      "id": "4432279",
+      "date": "04-Jun-2024 06:30",
+      "video_url": "4432279_0_4842320634387148"
+    },
+    {
+      "title": "Class-58 | Number, Ranking And Comparison",
+      "id": "4432278",
+      "date": "03-Jun-2024 06:30",
+      "video_url": "4432278_0_3001653717089528"
+    },
+    {
+      "title": "Class-57 | Number, Ranking And Comparison",
+      "id": "4431089",
+      "date": "31-May-2024 06:30",
+      "video_url": "4431089_0_4502737286040394"
+    },
+    {
+      "title": "Class-56 | Number, Ranking And Comparison",
+      "id": "4431088",
+      "date": "30-May-2024 06:30",
+      "video_url": "4431088_0_9858331362007852"
+    },
+    {
+      "title": "Class-55 | Number, Ranking And Comparison",
+      "id": "4431087",
+      "date": "29-May-2024 06:30",
+      "video_url": "4431087_0_3656532587409321"
+    },
+    {
+      "title": "Class-54 | Missing Number And Matrix",
+      "id": "4431086",
+      "date": "28-May-2024 06:30",
+      "video_url": "4431086_0_8310600169532835"
+    },
+    {
+      "title": "Class-53 | Decision Making",
+      "id": "4431085",
+      "date": "27-May-2024 06:30",
+      "video_url": "4431085_0_2755826699181854"
+    },
+    {
+      "title": "Class-52 | Decision Making",
+      "id": "4431084",
+      "date": "24-May-2024 06:30",
+      "video_url": "4431084_0_1367676321484529"
+    },
+    {
+      "title": "Class-51 | Cube And Cuboid",
+      "id": "4431083",
+      "date": "22-May-2024 07:30",
+      "video_url": "4431083_0_3128385796199999"
+    },
+    {
+      "title": "Class-50 | Cube And Cuboid",
+      "id": "4431082",
+      "date": "20-May-2024 10:00",
+      "video_url": "4431082_0_5693676553982135"
+    },
+    {
+      "title": "Class-49 | Cube And Cuboid",
+      "id": "4431081",
+      "date": "17-May-2024 10:00",
+      "video_url": "4431081_0_5135377065274337"
+    },
+    {
+      "title": "Class-48 | Dice + Cube",
+      "id": "4431080",
+      "date": "16-May-2024 10:00",
+      "video_url": "4431080_0_3589763058307567"
+    },
+    {
+      "title": "Class-47 | Dice",
+      "id": "4431079",
+      "date": "15-May-2024 10:00",
+      "video_url": "4431079_0_8709511076695089"
+    },
+    {
+      "title": "Class-46 | Dice",
+      "id": "4431078",
+      "date": "14-May-2024 10:00",
+      "video_url": "4431078_0_6692783058837906"
+    },
+    {
+      "title": "Class-45 | Dice",
+      "id": "4431077",
+      "date": "13-May-2024 10:00",
+      "video_url": "4431077_0_2134512866774340"
+    },
+    {
+      "title": "Class-44 | Dice",
+      "id": "4431076",
+      "date": "10-May-2024 10:00",
+      "video_url": "4431076_0_9940031574359847"
+    },
+    {
+      "title": "Class-43 | Dice",
+      "id": "4431075",
+      "date": "09-May-2024 10:00",
+      "video_url": "4431075_0_5547946079928822"
+    },
+    {
+      "title": "Class -42 | Dice",
+      "id": "4431074",
+      "date": "08-May-2024 10:00",
+      "video_url": "4431074_0_1017725688029003"
+    },
+    {
+      "title": "Class -41 | Alphabet Series",
+      "id": "4431073",
+      "date": "07-May-2024 10:00",
+      "video_url": "4431073_0_7992418945196986"
+    },
+    {
+      "title": "Class -40 | Alphabet Series",
+      "id": "4431072",
+      "date": "06-May-2024 10:00",
+      "video_url": "4431072_0_7620668513860320"
+    },
+    {
+      "title": "Class -39 | Alphabet Series",
+      "id": "4431071",
+      "date": "04-May-2024 09:00",
+      "video_url": "4431071_0_2073475794898735"
+    },
+    {
+      "title": "Class -38 | Number Series",
+      "id": "4431067",
+      "date": "03-May-2024 10:00",
+      "video_url": "4431067_0_7650233689187342"
+    },
+    {
+      "title": "Class -37 | Number Series",
+      "id": "4431066",
+      "date": "02-May-2024 10:00",
+      "video_url": "4431066_0_5462653995735743"
+    },
+    {
+      "title": "Class -36 | Logical Venn Diagram (Caselet DI)",
+      "id": "4431065",
+      "date": "01-May-2024 10:00",
+      "video_url": "4431065_0_7004881763034950"
+    },
+    {
+      "title": "Class -35 | Logical Venn Diagram (Caselet DI)",
+      "id": "4431064",
+      "date": "30-Apr-2024 08:00",
+      "video_url": "4431064_0_7781353262662978"
+    },
+    {
+      "title": "Class -34 | Logical Venn Diagram",
+      "id": "4431063",
+      "date": "29-Apr-2024 08:00",
+      "video_url": "4431063_0_5641721727970072"
+    },
+    {
+      "title": "Class -33 | Logical Venn Diagram",
+      "id": "4431062",
+      "date": "25-Apr-2024 08:00",
+      "video_url": "4431062_0_3312114823016095"
+    },
+    {
+      "title": "Class -32 | Input Output",
+      "id": "4431061",
+      "date": "24-Apr-2024 08:00",
+      "video_url": "4431061_0_7956182977120326"
+    },
+    {
+      "title": "Class -31 | Input Output",
+      "id": "4431060",
+      "date": "19-Apr-2024 08:00",
+      "video_url": "4431060_0_2320622851275576"
+    },
+    {
+      "title": "Class -30 | Input Output",
+      "id": "4431059",
+      "date": "18-Apr-2024 08:00",
+      "video_url": "4431059_0_2262280544420765"
+    },
+    {
+      "title": "Class -29 | Seating Arrangement And Puzzles",
+      "id": "4431058",
+      "date": "17-Apr-2024 08:00",
+      "video_url": "4431058_0_8489697147706672"
+    },
+    {
+      "title": "Class -28 | Seating Arrangement And Puzzles",
+      "id": "4431057",
+      "date": "16-Apr-2024 08:00",
+      "video_url": "4431057_0_8469600176956302"
+    },
+    {
+      "title": "Class -27 | Seating Arrangement And Puzzles",
+      "id": "4431056",
+      "date": "15-Apr-2024 08:00",
+      "video_url": "4431056_0_6778159769121164"
+    },
+    {
+      "title": "Class -26 | Seating Arrangement And Puzzles",
+      "id": "4431055",
+      "date": "12-Apr-2024 08:00",
+      "video_url": "4431055_0_1030034039206717"
+    },
+    {
+      "title": "Class -25 | Seating Arrangement And Puzzles",
+      "id": "4431054",
+      "date": "11-Apr-2024 08:00",
+      "video_url": "4431054_0_3380398255512430"
+    },
+    {
+      "title": "Class -23 | Seating Arrangement And Puzzles",
+      "id": "4431053",
+      "date": "09-Apr-2024 08:00",
+      "video_url": "4431053_0_6093382858720998"
+    },
+    {
+      "title": "Class -22 | Seating Arrangement And Puzzles",
+      "id": "4431052",
+      "date": "08-Apr-2024 08:00",
+      "video_url": "4431052_0_7291377894157470"
+    },
+    {
+      "title": "Class -21 | Inequalities",
+      "id": "4431051",
+      "date": "05-Apr-2024 11:00",
+      "video_url": "4431051_0_2934641350044656"
+    },
+    {
+      "title": "Class -20 | Inequalities",
+      "id": "4431050",
+      "date": "04-Apr-2024 08:00",
+      "video_url": "4431050_0_3522964062501775"
+    },
+    {
+      "title": "Class -19 | Inequalities",
+      "id": "4431049",
+      "date": "03-Apr-2024 08:00",
+      "video_url": "4431049_0_9992765459540339"
+    },
+    {
+      "title": "Class -18 | Direction",
+      "id": "4431048",
+      "date": "02-Apr-2024 08:00",
+      "video_url": "4431048_0_7958107642697124"
+    },
+    {
+      "title": "Class -17 | Direction",
+      "id": "4431047",
+      "date": "01-Apr-2024 08:00",
+      "video_url": "4431047_0_7234205981453394"
+    },
+    {
+      "title": "Class -16 | Direction",
+      "id": "4431046",
+      "date": "29-Mar-2024 08:00",
+      "video_url": "4431046_0_2733761063004304"
+    },
+    {
+      "title": "Class -15 | Direction",
+      "id": "4431045",
+      "date": "28-Mar-2024 08:00",
+      "video_url": "4431045_0_6504876176218096"
+    },
+    {
+      "title": "Class -14 | Direction",
+      "id": "4431044",
+      "date": "27-Mar-2024 08:00",
+      "video_url": "4431044_0_1278984961777448"
+    },
+    {
+      "title": "Class-13 | Direction",
+      "id": "4437518",
+      "date": "26-Mar-2024 09:30",
+      "video_url": "4437518_0_3994787697877650"
+    },
+    {
+      "title": "Class-12 | Direction",
+      "id": "4437517",
+      "date": "22-Mar-2024 09:30",
+      "video_url": "4437517_0_4844197236253975"
+    },
+    {
+      "title": "Class-11 | Only A Few Type (Banking)",
+      "id": "4437516",
+      "date": "21-Mar-2024 09:30",
+      "video_url": "4437516_0_1942373371423990"
+    },
+    {
+      "title": "Class-10 | Only A Few Type (Banking)",
+      "id": "4437515",
+      "date": "20-Mar-2024 09:30",
+      "video_url": "4437515_0_6205009295288297"
+    },
+    {
+      "title": "Class-09 | Reverse Syllog + Missing Statement + Premises",
+      "id": "4437514",
+      "date": "19-Mar-2024 09:30",
+      "video_url": "4437514_0_4975406829607326"
+    },
+    {
+      "title": "Class-08 | Syllogism Based On Possibility",
+      "id": "4437513",
+      "date": "18-Mar-2024 09:30",
+      "video_url": "4437513_0_2524882217362020"
+    },
+    {
+      "title": "Class-07 | Syllogism Based On Possibility",
+      "id": "4437512",
+      "date": "15-Mar-2024 09:30",
+      "video_url": "4437512_0_1930744433362007"
+    },
+    {
+      "title": "Class-06 | Syllogism Based On Possibility",
+      "id": "4437511",
+      "date": "14-Mar-2024 09:30",
+      "video_url": "4437511_0_1918965896864550"
+    },
+    {
+      "title": "Class-05 | Syllogism by 100/50 Method",
+      "id": "4437510",
+      "date": "13-Mar-2024 09:30",
+      "video_url": "4437510_0_2579376038333120"
+    },
+    {
+      "title": "Class-04 | Syllogism by 100/50 Method",
+      "id": "4437508",
+      "date": "12-Mar-2024 09:30",
+      "video_url": "4437508_0_1411370284705234"
+    },
+    {
+      "title": "Class-03 | Syllogism by 100/50 Method",
+      "id": "4437507",
+      "date": "11-Mar-2024 09:30",
+      "video_url": "4437507_0_5917129139235089"
+    },
+    {
+      "title": "Class-02 | Syllogism by 100/50 Method",
+      "id": "4437506",
+      "date": "08-Mar-2024 09:30",
+      "video_url": "4437506_0_4770018059865772"
+    },
+    {
+      "title": "Class-01 | Syllogism by 100/50 Method | Arun Sir",
+      "id": "4437505",
+      "date": "07-Mar-2024 09:30",
+      "video_url": "4437505_0_6097480361091369"
+    }
+  ],
+  "notes_total": 0,
+  "notes": []
+}
