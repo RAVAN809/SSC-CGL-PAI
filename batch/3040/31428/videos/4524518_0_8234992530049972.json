@@ -1,0 +1,16 @@
+{
+  "status": true,
+  "message": "Link view.",
+  "data": {
+    "link": {
+      "file_url": "https://d14v4v80cpjht7.cloudfront.net/file_library/videos/vod_non_drm_ios/4524518/1755617173_6568410382719963/1755617090883_810715707893098100_video_VOD.m3u8",
+      "ad_enable": false,
+      "player_params": "",
+      "token": "",
+      "trick_play_settings": "",
+      "is_vr_video": 0,
+      "live_status": 0
+    }
+  },
+  "error": []
+}
