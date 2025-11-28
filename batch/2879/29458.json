@@ -1,0 +1,388 @@
+{
+  "batchid": 2879,
+  "topicid": 29458,
+  "classes_total": 9,
+  "classes": [
+    {
+      "title": "Class-99 | Eng | Mock Test",
+      "id": "4487311",
+      "date": "21-Jul-2025 10:00",
+      "video_url": "4487311_0_7289542951322776"
+    },
+    {
+      "title": "Class-63 | Eng | Mock Test",
+      "id": "4485364",
+      "date": "18-Jul-2025 10:00",
+      "video_url": "4485364_0_4383215712530324"
+    },
+    {
+      "title": "Class-62  | Eng | Mock Test",
+      "id": "4484315",
+      "date": "17-Jul-2025 10:00",
+      "video_url": "4484315_0_1393732858543282"
+    },
+    {
+      "title": "Class-61 | Eng | Mock Test",
+      "id": "4483297",
+      "date": "16-Jul-2025 10:00",
+      "video_url": "4483297_0_4183380474275693"
+    },
+    {
+      "title": "Class-60 | Eng | Mock Test",
+      "id": "4482304",
+      "date": "15-Jul-2025 10:00",
+      "video_url": "4482304_0_2681190017708594"
+    },
+    {
+      "title": "Class-59 | Eng | Article",
+      "id": "4479469",
+      "date": "11-Jul-2025 10:00",
+      "video_url": "4479469_0_1839315419328570"
+    },
+    {
+      "title": "Class-58 | Eng | Article",
+      "id": "4478413",
+      "date": "10-Jul-2025 10:00",
+      "video_url": "4478413_0_7798726260685182"
+    },
+    {
+      "title": "Class-57 | Eng | Adverb",
+      "id": "4478576",
+      "date": "09-Jul-2025 10:00",
+      "video_url": "4478576_0_6351089236870492"
+    },
+    {
+      "title": "Class-56 | Eng | Adverb",
+      "id": "4476252",
+      "date": "08-Jul-2025 10:00",
+      "video_url": "4476252_0_1306115904001371"
+    }
+  ],
+  "notes_total": 54,
+  "notes": [
+    {
+      "id": 603115,
+      "title": "Eng | 21 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/687dfffd3dae7_Eng_21th.july_Class.pngEnglish_Spl45_English_Practice_Winner_Series1000amcompressed.pdf",
+      "date": "21-Jul-2025"
+    },
+    {
+      "id": 601770,
+      "title": "Eng | 18 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/687a3b60f139f_Eng_18th.july_Class.pngEnglish_Spl45_English_Practice_Winner_Series1000amcompressed.pdf",
+      "date": "18-Jul-2025"
+    },
+    {
+      "id": 600839,
+      "title": "Eng | 17 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6878b7462b7d9_Eng_17th.july_Class.pngEnglish_Spl45_English_Practice_Winner_Series1000amcompressed.pdf",
+      "date": "17-Jul-2025"
+    },
+    {
+      "id": 599965,
+      "title": "Eng | 16 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6877816852d6d_Eng_16th.july_Class.pngEnglish_Spl45_English_Practice_Winner_Series1000amcompressed.pdf",
+      "date": "16-Jul-2025"
+    },
+    {
+      "id": 598122,
+      "title": "Eng | 15 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/687619b1e8da6_Eng_15th.july_Class.pngEnglish_Spl45_English_Practice_Winner_Series1000am_DONE.pdf",
+      "date": "15-Jul-2025"
+    },
+    {
+      "id": 592726,
+      "title": "Eng | 11 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6870f913a08b7_Eng_11th.july_Class.pngEnglish_Spl45_English_Practice_Winner_Series1000amcompressed.pdf",
+      "date": "11-Jul-2025"
+    },
+    {
+      "id": 591775,
+      "title": "Eng | 10 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/686f890a3a77b_Eng_10th.july_Class.pngEnglish_Spl45_English_Practice_Winner_Series1000am.pdf",
+      "date": "10-Jul-2025"
+    },
+    {
+      "id": 590695,
+      "title": "Eng | 9 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/686e12674f678_Eng_9th.july_Class.pngEnglish_Spl45_English_Practice_Winner_Series1000amcompressed.pdf",
+      "date": "09-Jul-2025"
+    },
+    {
+      "id": 589803,
+      "title": "Eng | 08 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/686cf0081828e_Eng_8th.july_Class.pngEnglish_Spl45_English_Practice_Winner_Series1000amcompressed.pdf",
+      "date": "08-Jul-2025"
+    },
+    {
+      "id": 587751,
+      "title": "Eng | 07 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/686b8de9e26c7_Eng_7th.july_Class.png.lish_Spl45_English_Practice_Winner_Series1000amcompressed.pdf",
+      "date": "07-Jul-2025"
+    },
+    {
+      "id": 584107,
+      "title": "Eng | 3 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6866520dcd21b_Eng_3th.july_Class.pnglish_Spl45_English_Practice_Winner_Series1000amcompressed.pdf",
+      "date": "03-Jul-2025"
+    },
+    {
+      "id": 582919,
+      "title": "Eng | 02 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6864dc0b046fd_Eng_2th.july_Class.pnglish_Spl45_English_Practice_Winner_Series1000amcompressed.pdf",
+      "date": "02-Jul-2025"
+    },
+    {
+      "id": 582540,
+      "title": "Eng | 01 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6863c665df13c_Eng_1st.july_Class.png_English_Practice_Winner_Series1000amcompressed.pdf",
+      "date": "01-Jul-2025"
+    },
+    {
+      "id": 580073,
+      "title": "Eng | 30 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/686251d97ac14_Eng_30th.June_English_Practice_Winner_SeriesIB_SA.MTS_2025SSC_CHSL.MTS_2025_B02Bihar_Police_Constable_2025_Delhi_Pol.2025_HCMAWO_B02_Delhi_Police_2025_Sarthi_Batch_English_Spl45_SSC_GD_2026_Tar_1.pdf",
+      "date": "30-Jun-2025"
+    },
+    {
+      "id": 577578,
+      "title": "Eng | 25 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/685bbc1e368d6_Eng_25thEnglish_Practice_Winner_SeriesIB_SA.MTS_2025SSC_CHSL.MTS_2025_B02Bihar_Police_Constable_2025_Delhi_Pol.2025_HCMAWO_B02_Delhi_Police_2025_Sarthi_Batch_English_Spl45_SSC_GD_2026_Target_Bat_1.pdf",
+      "date": "25-Jun-2025"
+    },
+    {
+      "id": 575237,
+      "title": "Eng | 23 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6858f982b73c5_Eng_123th.may_class.pngEnglish_Practice_Winner_Series_New_Batch_Free_1000amcompressed.pdf",
+      "date": "23-Jun-2025"
+    },
+    {
+      "id": 573468,
+      "title": "Eng | 19 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6853d8fe6fbe7_Eng_19th.may_class.pngEnglish_Practice_Winner_Series_New_Batch_Free_1000amcompressed.pdf",
+      "date": "19-Jun-2025"
+    },
+    {
+      "id": 571994,
+      "title": "Eng | 18 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/685281a5dd653_Eng_18th.may_class.pngEnglish_Practice_Winner_Series_New_Batch_Free_1000amcompressed.pdf",
+      "date": "18-Jun-2025"
+    },
+    {
+      "id": 570738,
+      "title": "English | 17 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68510bf1a918f_Eng_17th.may_class.pngEnglish_Practice_Winner_Series_New_Batch_Free_1000amcompressed.pdf",
+      "date": "17-Jun-2025"
+    },
+    {
+      "id": 570288,
+      "title": "Eng | 16 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/684fc25837227_Eng_16th.may_class.pngEnglish_Practice_Winner_Series_New_Batch_Free_1000amcompressed.pdf",
+      "date": "16-Jun-2025"
+    },
+    {
+      "id": 567789,
+      "title": "Eng | 12 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/684a74593bbce_Eng_12th.may_class.pngEnglish_Practice_Winner_Series_New_Batch_Free_1000amcompressed.pdf",
+      "date": "12-Jun-2025"
+    },
+    {
+      "id": 566309,
+      "title": "Eng | 11 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68492d2e5988d_Eng_11th.may_class.pngEnglish_Practice_Winner_Series_New_Batch_Free_1000amcompressed.pdf",
+      "date": "11-Jun-2025"
+    },
+    {
+      "id": 566117,
+      "title": "Eng | 10 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68482415bbe26_Eng_10th.may_class.pngEnglish_Practice_Winner_Series_New_Batch_Free_1000amcompressed.pdf",
+      "date": "10-Jun-2025"
+    },
+    {
+      "id": 565053,
+      "title": "Eng | 9 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68468a4e553e3_Eng_9th.june_class.pngEnglish_Practice_Winner_Series_New_Batch_Free_1000amcompressed.pdf",
+      "date": "09-Jun-2025"
+    },
+    {
+      "id": 563799,
+      "title": "Eng | 5 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/684144c65885c_Eng_5th.may_class.pngEnglish_Practice_Winner_Series_New_Batch_Free_1000amcompressed.pdf",
+      "date": "05-Jun-2025"
+    },
+    {
+      "id": 562604,
+      "title": "Eng | 4 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/683fedabd7a80_Eng_4th.may_class.pngEnglish_Practice_Winner_Series_New_Batch_Free_1000amcompressed.pdf",
+      "date": "04-Jun-2025"
+    },
+    {
+      "id": 561722,
+      "title": "Eng | 3 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/683ea2518cb5c_Eng_3th.may_class.pngEnglish_Practice_Winner_Series_New_Batch_Free_1000amcompressed.pdf",
+      "date": "03-Jun-2025"
+    },
+    {
+      "id": 561708,
+      "title": "Eng | 2 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/683ea16fb6be3_Eng_2th.June_class.pngEnglish_Practice_Winner_Series_New_Batch_Free_900am.pdf",
+      "date": "03-Jun-2025"
+    },
+    {
+      "id": 555722,
+      "title": "Eng | 29 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6839443d53c14_Eng_29th.may_class.pngEnglish_Practice_Winner_Series_New_Batch_Free_200pmcompressed.pdf",
+      "date": "30-May-2025"
+    },
+    {
+      "id": 554498,
+      "title": "Eng | 28 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6838020fcacaa_Eng_28th.may_class.pngEnglish_Practice_Winner_Series_New_Batch_Free_900am.pdf",
+      "date": "29-May-2025"
+    },
+    {
+      "id": 553522,
+      "title": "Eng | 27 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68355b01b4dc2_Eng_27th.may_class.pngEnglish_Practice_Winner_Series_New_Batch_Free_900amcompressed.pdf",
+      "date": "27-May-2025"
+    },
+    {
+      "id": 552013,
+      "title": "Eng | 26 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6833fba2ad19d_Eng_26th.may_class.pngEnglish_Practice_Winner_Series_New_Batch_Free_900amcompressed.pdf",
+      "date": "26-May-2025"
+    },
+    {
+      "id": 549989,
+      "title": "Eng | 23 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/683000c65c634_Eng_23th.may_class.pngEnglish_Practice_Winner_Series_New_Batch_Free_900amcompressed.pdf",
+      "date": "23-May-2025"
+    },
+    {
+      "id": 549256,
+      "title": "Eng | 22 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/682ead594d1d2_Eng_22th.may_class.pngEnglish_Practice_Winner_Series_New_Batch_Free_900amcompressed.pdf",
+      "date": "22-May-2025"
+    },
+    {
+      "id": 549204,
+      "title": "Eng | 21 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/682dc4f967fec_Eng_21th.may_class.pngEnglish_Practice_Winner_Series_New_Batch_Free_900amcompressed.pdf",
+      "date": "21-May-2025"
+    },
+    {
+      "id": 548583,
+      "title": "Eng | 20 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/682d5af92b8c6_Eng_20_th.may_class.pngEnglish_Practice_Winner_Series_New_Batch_Free_900amcompressed.pdf",
+      "date": "21-May-2025"
+    },
+    {
+      "id": 545204,
+      "title": "Eng | 19 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/682acf4b56f43_Eng_19th.may_class.pngEnglish_Practice_Winner_Series_New_Batch_Free_900am.pdf",
+      "date": "19-May-2025"
+    },
+    {
+      "id": 543785,
+      "title": "Eng | 16 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6826fa585c9bd_Eng_16th.may_class.pngEnglish_Practice_Winner_Series_New_Batch_Free_900amcompressed.pdf",
+      "date": "16-May-2025"
+    },
+    {
+      "id": 542531,
+      "title": "Eng | 15 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6825ae3d142cb_Eng_15th.may_class.pngEnglish_Practice_Winner_Series_New_Batch_Free_900am.pdf",
+      "date": "15-May-2025"
+    },
+    {
+      "id": 539796,
+      "title": "Eng  | 14 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/682440bf47fcb_Eng_14th.may_class.pngEnglish_Practice_Winner_Series_New_Batch_Free_900amcompressed.pdf",
+      "date": "14-May-2025"
+    },
+    {
+      "id": 539260,
+      "title": "Eng | 13 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6822d9fc0f668_VERB_AGREEMENT_PRACTICE_BATCH_FILR_BY_INDERJEET_SIRcompressed.pdf",
+      "date": "13-May-2025"
+    },
+    {
+      "id": 535222,
+      "title": "Eng | 9 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/681d9e9c61417_Eng_9th.may_class.pngEnglish_Practice_Winner_Series_New_Batch_Free_900amcompressed.pdf",
+      "date": "09-May-2025"
+    },
+    {
+      "id": 535211,
+      "title": "Eng | 8 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/681d9dc39a909_Eng_8th.may_class.pngEnglish_Practice_Winner_Series_New_Batch_Free_900am.pdf",
+      "date": "09-May-2025"
+    },
+    {
+      "id": 533087,
+      "title": "Eng | 7 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/681b09010c020_Eng_7th.may_class.pngEnglish_Practice_Winner_Series_New_Batch_Free_900amcompressed.pdf",
+      "date": "07-May-2025"
+    },
+    {
+      "id": 532486,
+      "title": "Eng | 6 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6819ae17ea512_Eng_6th.may_class.pngEnglish_Practice_Winner_Series_New_Batch_Free_900amcompressed.pdf",
+      "date": "06-May-2025"
+    },
+    {
+      "id": 531562,
+      "title": "Voice Practice",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/681849a351634_VoicePracticeBatch_11140250505075418.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 530396,
+      "title": "Eng | 1 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6813193a37f6c_Eng_1th.may_class.pngEnglish_Practice_Winner_Series_New_Batch_Free_900amcompressed.pdf",
+      "date": "01-May-2025"
+    },
+    {
+      "id": 529767,
+      "title": "Eng | 30  April | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6811e9bd7d86c_Eng_30th.april_class.pngEnglish_Practice_Winner_Series_New_Batch_Free_900amcompressed.pdf",
+      "date": "30-Apr-2025"
+    },
+    {
+      "id": 528938,
+      "title": "Eng | 29 April | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68109b06b5c00_Eng_29th.april_ONE_WORD_SUB.class.pngEnglish_Practice_Winner_Series_New_Batch_Free_900am.pdf",
+      "date": "29-Apr-2025"
+    },
+    {
+      "id": 526342,
+      "title": "Eng | 25 April | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/680b3345ef5ac_Eng_25th.april_ONE_WORD_SUB.class.pngEnglish_Practice_Winner_Series_New_Batch_Free_900am_done.pdf",
+      "date": "25-Apr-2025"
+    },
+    {
+      "id": 525925,
+      "title": "Eng | 24 April | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6809fc50b2980_Eng_24th.april_class.pngEnglish_Practice_Winner_Series_New_Batch_Free_900am.pdf",
+      "date": "24-Apr-2025"
+    },
+    {
+      "id": 523422,
+      "title": "Eng | 23 April | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/680882e53e2f8_Eng_23th.april_class.pngEnglish_Practice_Winner_Series_New_Batch_Free_900amcompressed.pdf",
+      "date": "23-Apr-2025"
+    },
+    {
+      "id": 522858,
+      "title": "Eng | 21-22 April | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/680765800afe8_ilovepdfmerged_17compressed.pdf",
+      "date": "22-Apr-2025"
+    },
+    {
+      "id": 522846,
+      "title": "Eng | 18 April | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68076418016e9_Eng_18th.april_class.pngEnglish_Practice_Winner_Series_New_Batch_Free_900amcompressed.pdf",
+      "date": "22-Apr-2025"
+    }
+  ]
+}
