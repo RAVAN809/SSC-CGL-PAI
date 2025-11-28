@@ -1,0 +1,1792 @@
+{
+  "batchid": 2742,
+  "topicid": 28171,
+  "classes_total": 140,
+  "classes": [
+    {
+      "title": "Class-143 | Number Theory",
+      "id": "4422875",
+      "date": "20-May-2025 19:00",
+      "video_url": "4422875_0_8886950787423274"
+    },
+    {
+      "title": "Class-142 | Matrices and Determinants",
+      "id": "4422874",
+      "date": "13-May-2025 19:00",
+      "video_url": "4422874_0_2994505085551862"
+    },
+    {
+      "title": "Class-141 | Matrices and Determinants",
+      "id": "4422873",
+      "date": "06-May-2025 19:00",
+      "video_url": "4422873_0_6071339731621173"
+    },
+    {
+      "title": "Class-140 | Matrices and Determinants",
+      "id": "4422872",
+      "date": "17-Apr-2025 19:00",
+      "video_url": "4422872_0_9169164083943257"
+    },
+    {
+      "title": "Class-139 | Matrices and Determinants",
+      "id": "4422871",
+      "date": "15-Apr-2025 19:00",
+      "video_url": "4422871_0_9905560433513513"
+    },
+    {
+      "title": "Class-138 | Mensuration",
+      "id": "4422870",
+      "date": "10-Apr-2025 19:00",
+      "video_url": "4422870_0_2163287649622265"
+    },
+    {
+      "title": "Class-137 | Geometry",
+      "id": "4422869",
+      "date": "08-Apr-2025 19:00",
+      "video_url": "4422869_0_3962057696292461"
+    },
+    {
+      "title": "Class-136 | Geometry",
+      "id": "4422868",
+      "date": "25-Mar-2025 19:00",
+      "video_url": "4422868_0_6394104015173594"
+    },
+    {
+      "title": "Class-135 | Geometry",
+      "id": "4422867",
+      "date": "24-Mar-2025 16:00",
+      "video_url": "4422867_0_3475650416266610"
+    },
+    {
+      "title": "Class-134 | Geometry",
+      "id": "4422866",
+      "date": "18-Mar-2025 16:00",
+      "video_url": "4422866_0_6662552193744632"
+    },
+    {
+      "title": "Class-133 | Geometry",
+      "id": "4422865",
+      "date": "17-Mar-2025 19:00",
+      "video_url": "4422865_0_7080886991272738"
+    },
+    {
+      "title": "Class-132 | Geometry",
+      "id": "4422864",
+      "date": "13-Mar-2025 16:00",
+      "video_url": "4422864_0_2987859888515131"
+    },
+    {
+      "title": "Class-131 | Geometry",
+      "id": "4422863",
+      "date": "12-Mar-2025 16:00",
+      "video_url": "4422863_0_1542848208261384"
+    },
+    {
+      "title": "Class-130 | Geometry",
+      "id": "4422862",
+      "date": "07-Mar-2025 16:00",
+      "video_url": "4422862_0_5534074450826395"
+    },
+    {
+      "title": "Class-129 | 3D Geometry",
+      "id": "4422861",
+      "date": "06-Mar-2025 16:00",
+      "video_url": "4422861_0_5447724830640577"
+    },
+    {
+      "title": "Class-128 | 3D Geometry",
+      "id": "4422860",
+      "date": "28-Feb-2025 16:00",
+      "video_url": "4422860_0_2987637006191181"
+    },
+    {
+      "title": "Class-127 | Vectors",
+      "id": "4422859",
+      "date": "26-Feb-2025 16:00",
+      "video_url": "4422859_0_8334318834538308"
+    },
+    {
+      "title": "Class-126 | Vectors",
+      "id": "4422858",
+      "date": "25-Feb-2025 16:00",
+      "video_url": "4422858_0_1272887570716809"
+    },
+    {
+      "title": "Class-125 | Vectors",
+      "id": "4422857",
+      "date": "21-Feb-2025 16:00",
+      "video_url": "4422857_0_7710567893180888"
+    },
+    {
+      "title": "Class-124 | Vectors",
+      "id": "4422856",
+      "date": "20-Feb-2025 16:00",
+      "video_url": "4422856_0_1176166812289437"
+    },
+    {
+      "title": "Class-123 | Vectors",
+      "id": "4422855",
+      "date": "18-Feb-2025 16:00",
+      "video_url": "4422855_0_6449823367389467"
+    },
+    {
+      "title": "Class-122 | Sequence and Series",
+      "id": "4422854",
+      "date": "17-Feb-2025 19:00",
+      "video_url": "4422854_0_9718304224921076"
+    },
+    {
+      "title": "Class-121 | Sequence and Series",
+      "id": "4422853",
+      "date": "14-Feb-2025 16:30",
+      "video_url": "4422853_0_9491056668092915"
+    },
+    {
+      "title": "Class-120 | Sequence and Series",
+      "id": "4422852",
+      "date": "13-Feb-2025 16:00",
+      "video_url": "4422852_0_6107935552432282"
+    },
+    {
+      "title": "Class-119 | Sequence and Series",
+      "id": "4422851",
+      "date": "12-Feb-2025 16:00",
+      "video_url": "4422851_0_6325192356033419"
+    },
+    {
+      "title": "Class-118 | Sequence and Series",
+      "id": "4442327",
+      "date": "06-Feb-2025 16:15",
+      "video_url": "4442327_0_7431304775241194"
+    },
+    {
+      "title": "Class-117 | Binomial Theorem",
+      "id": "4422850",
+      "date": "04-Feb-2025 16:00",
+      "video_url": "4422850_0_6271769536152702"
+    },
+    {
+      "title": "Class-116 | Binomial Theorem",
+      "id": "4422849",
+      "date": "03-Feb-2025 16:00",
+      "video_url": "4422849_0_3683815985972439"
+    },
+    {
+      "title": "Class-115 | Binomial Theorem",
+      "id": "4422848",
+      "date": "28-Jan-2025 16:00",
+      "video_url": "4422848_0_5831966760293139"
+    },
+    {
+      "title": "Class-114 | Complex Number",
+      "id": "4422847",
+      "date": "23-Jan-2025 16:00",
+      "video_url": "4422847_0_4714824094358723"
+    },
+    {
+      "title": "Class-113 | Complex Number",
+      "id": "4422846",
+      "date": "22-Jan-2025 16:00",
+      "video_url": "4422846_0_2604324788508293"
+    },
+    {
+      "title": "Class-112 | Complex Number",
+      "id": "4422845",
+      "date": "17-Jan-2025 16:00",
+      "video_url": "4422845_0_7052992356897864"
+    },
+    {
+      "title": "Class-111 | Complex Number",
+      "id": "4422844",
+      "date": "16-Jan-2025 16:00",
+      "video_url": "4422844_0_5267890142893370"
+    },
+    {
+      "title": "Class-110 | Complex Number",
+      "id": "4422843",
+      "date": "15-Jan-2025 16:10",
+      "video_url": "4422843_0_1778304645146502"
+    },
+    {
+      "title": "Class-109 | Complex Number",
+      "id": "4422842",
+      "date": "13-Jan-2025 16:00",
+      "video_url": "4422842_0_4421636548747196"
+    },
+    {
+      "title": "Class-108 | Complex Number",
+      "id": "4422841",
+      "date": "10-Jan-2025 16:00",
+      "video_url": "4422841_0_3903009066819846"
+    },
+    {
+      "title": "Class-107 | Quadratic Equations",
+      "id": "4422840",
+      "date": "09-Jan-2025 16:00",
+      "video_url": "4422840_0_6234323649430730"
+    },
+    {
+      "title": "Class-106 | Quadratic Equations",
+      "id": "4422839",
+      "date": "08-Jan-2025 16:00",
+      "video_url": "4422839_0_3459103078611021"
+    },
+    {
+      "title": "Class-105 | Quadratic Equations",
+      "id": "4422838",
+      "date": "07-Jan-2025 16:00",
+      "video_url": "4422838_0_4648815212662185"
+    },
+    {
+      "title": "Class-104 | Quadratic Equations",
+      "id": "4422837",
+      "date": "06-Jan-2025 19:00",
+      "video_url": "4422837_0_5448017925001590"
+    },
+    {
+      "title": "Class-103 | Hyperbola",
+      "id": "4442326",
+      "date": "03-Jan-2025 16:00",
+      "video_url": "4442326_0_5354104483382951"
+    },
+    {
+      "title": "Class-102 | Hyperbola",
+      "id": "4442325",
+      "date": "02-Jan-2025 16:00",
+      "video_url": "4442325_0_9787374862091465"
+    },
+    {
+      "title": "Class-101 | Hyperbola",
+      "id": "4422836",
+      "date": "30-Dec-2024 16:00",
+      "video_url": "4422836_0_3130559099123767"
+    },
+    {
+      "title": "Class-100 |  Ellipse",
+      "id": "4422835",
+      "date": "27-Dec-2024 16:00",
+      "video_url": "4422835_0_2415352098113227"
+    },
+    {
+      "title": "Class-99 |  Ellipse",
+      "id": "4422834",
+      "date": "25-Dec-2024 16:00",
+      "video_url": "4422834_0_1347389126697518"
+    },
+    {
+      "title": "Class-98 |  Ellipse",
+      "id": "4422833",
+      "date": "24-Dec-2024 16:00",
+      "video_url": "4422833_0_9946206681228513"
+    },
+    {
+      "title": "Class-97 |  Ellipse",
+      "id": "4422832",
+      "date": "23-Dec-2024 16:00",
+      "video_url": "4422832_0_8180750065104059"
+    },
+    {
+      "title": "Class-96 | Parabola",
+      "id": "4422831",
+      "date": "19-Dec-2024 16:00",
+      "video_url": "4422831_0_5836316591124508"
+    },
+    {
+      "title": "Class-95 | Parabola",
+      "id": "4422830",
+      "date": "18-Dec-2024 16:00",
+      "video_url": "4422830_0_1004982931862786"
+    },
+    {
+      "title": "Class-94 | Parabola",
+      "id": "4422829",
+      "date": "16-Dec-2024 18:00",
+      "video_url": "4422829_0_5411247060433835"
+    },
+    {
+      "title": "Class-93 | Parabola",
+      "id": "4422828",
+      "date": "13-Dec-2024 16:00",
+      "video_url": "4422828_0_1987829800979480"
+    },
+    {
+      "title": "Class-91 | Parabola",
+      "id": "4422827",
+      "date": "10-Dec-2024 16:00",
+      "video_url": "4422827_0_4253644460060189"
+    },
+    {
+      "title": "Class-90 | Circles",
+      "id": "4422826",
+      "date": "06-Dec-2024 16:00",
+      "video_url": "4422826_0_7781278587424500"
+    },
+    {
+      "title": "Class-89 | Circles",
+      "id": "4422825",
+      "date": "05-Dec-2024 16:00",
+      "video_url": "4422825_0_7384340858396662"
+    },
+    {
+      "title": "Class-88 | Circles",
+      "id": "4422824",
+      "date": "04-Dec-2024 16:00",
+      "video_url": "4422824_0_8868788920957121"
+    },
+    {
+      "title": "Class-87 | Circles",
+      "id": "4422823",
+      "date": "03-Dec-2024 16:00",
+      "video_url": "4422823_0_5416551761168023"
+    },
+    {
+      "title": "Class-86 | Circles",
+      "id": "4422822",
+      "date": "02-Dec-2024 16:00",
+      "video_url": "4422822_0_2309083505009864"
+    },
+    {
+      "title": "Class-85 | Straight Lines",
+      "id": "4422821",
+      "date": "29-Nov-2024 16:00",
+      "video_url": "4422821_0_1882561106399532"
+    },
+    {
+      "title": "Class-84 | Straight Lines",
+      "id": "4422820",
+      "date": "28-Nov-2024 16:00",
+      "video_url": "4422820_0_6615029852935653"
+    },
+    {
+      "title": "Class-83 | Straight Lines",
+      "id": "4422819",
+      "date": "27-Nov-2024 16:00",
+      "video_url": "4422819_0_9061977318100224"
+    },
+    {
+      "title": "Class-82 | Straight Lines",
+      "id": "4422818",
+      "date": "26-Nov-2024 16:00",
+      "video_url": "4422818_0_1936976471838536"
+    },
+    {
+      "title": "Class-81 | Straight Lines",
+      "id": "4422817",
+      "date": "25-Nov-2024 16:00",
+      "video_url": "4422817_0_9907043943102264"
+    },
+    {
+      "title": "Class-80 | Straight Lines",
+      "id": "4422816",
+      "date": "22-Nov-2024 16:15",
+      "video_url": "4422816_0_3647108582199600"
+    },
+    {
+      "title": "Class-79 | Probability",
+      "id": "4422815",
+      "date": "21-Nov-2024 16:00",
+      "video_url": "4422815_0_2583863525708378"
+    },
+    {
+      "title": "Class-78 | Probability",
+      "id": "4422814",
+      "date": "20-Nov-2024 16:00",
+      "video_url": "4422814_0_6462577945593044"
+    },
+    {
+      "title": "Class-77 | Probability",
+      "id": "4422813",
+      "date": "18-Nov-2024 16:00",
+      "video_url": "4422813_0_9132207548930109"
+    },
+    {
+      "title": "Class-76 | Doubt Class",
+      "id": "4422812",
+      "date": "15-Nov-2024 16:00",
+      "video_url": "4422812_0_5997404252005969"
+    },
+    {
+      "title": "Class-75 | Permutations & Combinations",
+      "id": "4422811",
+      "date": "14-Nov-2024 16:00",
+      "video_url": "4422811_0_2496411874964664"
+    },
+    {
+      "title": "Class-74 | Permutations & Combinations",
+      "id": "4422810",
+      "date": "13-Nov-2024 16:00",
+      "video_url": "4422810_0_1232920783566064"
+    },
+    {
+      "title": "Class-73 | Permutations & Combinations",
+      "id": "4422809",
+      "date": "12-Nov-2024 16:00",
+      "video_url": "4422809_0_3015532118212070"
+    },
+    {
+      "title": "Class-72 | Permutations & Combinations",
+      "id": "4442324",
+      "date": "11-Nov-2024 16:00",
+      "video_url": "4442324_0_6978257157371595"
+    },
+    {
+      "title": "Class-71 | Permutations & Combinations",
+      "id": "4422808",
+      "date": "08-Nov-2024 16:00",
+      "video_url": "4422808_0_2978580375030917"
+    },
+    {
+      "title": "Class-70 | Permutations & Combinations",
+      "id": "4422807",
+      "date": "07-Nov-2024 16:00",
+      "video_url": "4422807_0_2076213034859179"
+    },
+    {
+      "title": "Class-69 | Permutations & Combinations",
+      "id": "4422806",
+      "date": "06-Nov-2024 16:00",
+      "video_url": "4422806_0_8334312189786826"
+    },
+    {
+      "title": "Class-68 | Differential Equation",
+      "id": "4422805",
+      "date": "26-Oct-2024 18:00",
+      "video_url": "4422805_0_4608247844593703"
+    },
+    {
+      "title": "Class-67 | Differential Equation",
+      "id": "4422804",
+      "date": "25-Oct-2024 18:00",
+      "video_url": "4422804_0_3376030539602637"
+    },
+    {
+      "title": "Class-66 | Differential Equation",
+      "id": "4422803",
+      "date": "24-Oct-2024 16:00",
+      "video_url": "4422803_0_4630773500659702"
+    },
+    {
+      "title": "Class-65 | Differential Equation",
+      "id": "4422802",
+      "date": "23-Oct-2024 18:00",
+      "video_url": "4422802_0_5747008580207619"
+    },
+    {
+      "title": "Class-64 | Applications Of Integral",
+      "id": "4422801",
+      "date": "22-Oct-2024 16:00",
+      "video_url": "4422801_0_3791152298080020"
+    },
+    {
+      "title": "Class-63 | Applications Of Integral",
+      "id": "4442323",
+      "date": "21-Oct-2024 16:00",
+      "video_url": "4442323_0_8711452187007799"
+    },
+    {
+      "title": "Class-62 | Doubt Class",
+      "id": "4422800",
+      "date": "18-Oct-2024 16:00",
+      "video_url": "4422800_0_5016920484978258"
+    },
+    {
+      "title": "Class-61 | Definite Integration",
+      "id": "4422799",
+      "date": "17-Oct-2024 16:00",
+      "video_url": "4422799_0_2626595995519274"
+    },
+    {
+      "title": "Class-60 | Definite Integration",
+      "id": "4422798",
+      "date": "16-Oct-2024 16:00",
+      "video_url": "4422798_0_6120758451812146"
+    },
+    {
+      "title": "Class-59 | Definite Integration",
+      "id": "4422797",
+      "date": "15-Oct-2024 18:00",
+      "video_url": "4422797_0_8661531267429555"
+    },
+    {
+      "title": "Class-58 | Definite Integration",
+      "id": "4422796",
+      "date": "14-Oct-2024 16:00",
+      "video_url": "4422796_0_2173875290669061"
+    },
+    {
+      "title": "Class-57 | Doubt Class",
+      "id": "4422795",
+      "date": "11-Oct-2024 16:00",
+      "video_url": "4422795_0_2473069831344725"
+    },
+    {
+      "title": "Class-56 | Indefinite Integration",
+      "id": "4422794",
+      "date": "10-Oct-2024 16:00",
+      "video_url": "4422794_0_5678260181200613"
+    },
+    {
+      "title": "Class-55 | Indefinite Integration",
+      "id": "4422793",
+      "date": "09-Oct-2024 16:00",
+      "video_url": "4422793_0_3524843803813424"
+    },
+    {
+      "title": "Class-54 | Indefinite Integration",
+      "id": "4422792",
+      "date": "08-Oct-2024 16:00",
+      "video_url": "4422792_0_5295597436867115"
+    },
+    {
+      "title": "Class-53 | Indefinite Integration",
+      "id": "4422791",
+      "date": "07-Oct-2024 16:00",
+      "video_url": "4422791_0_5221345233621043"
+    },
+    {
+      "title": "Class-52 | Doubt Class",
+      "id": "4422790",
+      "date": "04-Oct-2024 16:00",
+      "video_url": "4422790_0_3275963464476233"
+    },
+    {
+      "title": "Class-51 | Indefinite Integration",
+      "id": "4422789",
+      "date": "03-Oct-2024 18:00",
+      "video_url": "4422789_0_7902319777809813"
+    },
+    {
+      "title": "Class-50 | Indefinite Integration",
+      "id": "4422788",
+      "date": "01-Oct-2024 16:00",
+      "video_url": "4422788_0_9869389755580757"
+    },
+    {
+      "title": "Class-49 | Indefinite Integration",
+      "id": "4422787",
+      "date": "30-Sep-2024 16:00",
+      "video_url": "4422787_0_5895384361396382"
+    },
+    {
+      "title": "Class-48 | Doubt Class",
+      "id": "4422786",
+      "date": "27-Sep-2024 16:00",
+      "video_url": "4422786_0_1278385905597007"
+    },
+    {
+      "title": "Class-47 | AOD",
+      "id": "4422785",
+      "date": "26-Sep-2024 16:00",
+      "video_url": "4422785_0_5260298787798991"
+    },
+    {
+      "title": "Class-46 | AOD",
+      "id": "4422784",
+      "date": "25-Sep-2024 16:00",
+      "video_url": "4422784_0_8032882024257565"
+    },
+    {
+      "title": "Class-45 | AOD",
+      "id": "4422783",
+      "date": "24-Sep-2024 16:00",
+      "video_url": "4422783_0_4279487126571971"
+    },
+    {
+      "title": "Class-44 | AOD",
+      "id": "4422782",
+      "date": "23-Sep-2024 16:00",
+      "video_url": "4422782_0_1450952613006259"
+    },
+    {
+      "title": "Class-43 | AOD",
+      "id": "4422781",
+      "date": "19-Sep-2024 16:00",
+      "video_url": "4422781_0_8865024600498586"
+    },
+    {
+      "title": "Class-41 | AOD",
+      "id": "4422780",
+      "date": "17-Sep-2024 16:00",
+      "video_url": "4422780_0_3235391208805206"
+    },
+    {
+      "title": "Class-40 | AOD",
+      "id": "4422779",
+      "date": "16-Sep-2024 16:00",
+      "video_url": "4422779_0_6184959352400158"
+    },
+    {
+      "title": "Class-39 | AOD",
+      "id": "4422778",
+      "date": "13-Sep-2024 16:00",
+      "video_url": "4422778_0_1771790401380697"
+    },
+    {
+      "title": "Class-38 | AOD",
+      "id": "4422777",
+      "date": "12-Sep-2024 16:00",
+      "video_url": "4422777_0_3975769909915306"
+    },
+    {
+      "title": "Class-37 | AOD",
+      "id": "4422776",
+      "date": "11-Sep-2024 16:00",
+      "video_url": "4422776_0_1678583555514922"
+    },
+    {
+      "title": "Class-36 | MOD",
+      "id": "4422342",
+      "date": "06-Sep-2024 17:00",
+      "video_url": "4422342_0_4335605038862287"
+    },
+    {
+      "title": "Class-35 | MOD",
+      "id": "4422341",
+      "date": "05-Sep-2024 16:00",
+      "video_url": "4422341_0_5022850179858536"
+    },
+    {
+      "title": "Class-34 | Differentiability",
+      "id": "4422340",
+      "date": "04-Sep-2024 16:00",
+      "video_url": "4422340_0_1395162747651571"
+    },
+    {
+      "title": "Class-33 | Differentiability",
+      "id": "4442322",
+      "date": "03-Sep-2024 16:00",
+      "video_url": "4442322_0_7490895419900672"
+    },
+    {
+      "title": "Class-32 | Continuity",
+      "id": "4422339",
+      "date": "02-Sep-2024 16:00",
+      "video_url": "4422339_0_4494574161126993"
+    },
+    {
+      "title": "Class-31 | Continuity",
+      "id": "4422338",
+      "date": "30-Aug-2024 16:00",
+      "video_url": "4422338_0_5847431559796774"
+    },
+    {
+      "title": "Class-30 | Limits",
+      "id": "4422337",
+      "date": "28-Aug-2024 16:00",
+      "video_url": "4422337_0_1788294857970535"
+    },
+    {
+      "title": "Class-29 | Limits",
+      "id": "4422336",
+      "date": "27-Aug-2024 16:00",
+      "video_url": "4422336_0_3128976836799676"
+    },
+    {
+      "title": "Class-28 | Limits",
+      "id": "4422335",
+      "date": "22-Aug-2024 18:00",
+      "video_url": "4422335_0_9827727266467357"
+    },
+    {
+      "title": "Class-27 | Limits",
+      "id": "4422334",
+      "date": "21-Aug-2024 16:00",
+      "video_url": "4422334_0_2774358114819646"
+    },
+    {
+      "title": "Class-26 | Limits",
+      "id": "4422333",
+      "date": "20-Aug-2024 16:00",
+      "video_url": "4422333_0_8611767556350831"
+    },
+    {
+      "title": "Class-25 | ITF",
+      "id": "4422332",
+      "date": "14-Aug-2024 16:00",
+      "video_url": "4422332_0_9568158489362170"
+    },
+    {
+      "title": "Class-24 | ITF",
+      "id": "4422331",
+      "date": "13-Aug-2024 16:00",
+      "video_url": "4422331_0_7267354958631643"
+    },
+    {
+      "title": "Class-23 | ITF",
+      "id": "4422330",
+      "date": "12-Aug-2024 16:00",
+      "video_url": "4422330_0_3659111364057366"
+    },
+    {
+      "title": "Class-22 | Trigonometric Functions",
+      "id": "4422329",
+      "date": "07-Aug-2024 16:00",
+      "video_url": "4422329_0_3756751325951710"
+    },
+    {
+      "title": "Class-20 | Trigonometric Functions",
+      "id": "4422328",
+      "date": "05-Aug-2024 16:00",
+      "video_url": "4422328_0_8909856616063765"
+    },
+    {
+      "title": "Class-19 | Trigonometric Functions",
+      "id": "4422327",
+      "date": "02-Aug-2024 16:00",
+      "video_url": "4422327_0_1969444387376851"
+    },
+    {
+      "title": "Class-18 | Trigonometric Functions",
+      "id": "4422326",
+      "date": "01-Aug-2024 16:00",
+      "video_url": "4422326_0_7138879625543379"
+    },
+    {
+      "title": "Class-16 | Trigonometric Functions",
+      "id": "4422325",
+      "date": "31-Jul-2024 16:00",
+      "video_url": "4422325_0_1398015609529997"
+    },
+    {
+      "title": "Class-15 | Relations & Functions",
+      "id": "4422324",
+      "date": "30-Jul-2024 16:00",
+      "video_url": "4422324_0_3766385967762860"
+    },
+    {
+      "title": "Class-14 | Relations & Functions",
+      "id": "4422323",
+      "date": "29-Jul-2024 16:00",
+      "video_url": "4422323_0_3828747499539984"
+    },
+    {
+      "title": "Class-13 | Relations & Functions",
+      "id": "4422322",
+      "date": "26-Jul-2024 16:00",
+      "video_url": "4422322_0_1991268867352388"
+    },
+    {
+      "title": "Class-12 | Relations & Functions",
+      "id": "4422321",
+      "date": "25-Jul-2024 16:00",
+      "video_url": "4422321_0_4827990130072553"
+    },
+    {
+      "title": "Class-11 | Relations & Functions",
+      "id": "4422320",
+      "date": "24-Jul-2024 16:00",
+      "video_url": "4422320_0_3078797575828614"
+    },
+    {
+      "title": "Class-10 | Relations & Functions",
+      "id": "4422319",
+      "date": "23-Jul-2024 16:00",
+      "video_url": "4422319_0_6225586524832304"
+    },
+    {
+      "title": "Class-09 | Relations & Functions",
+      "id": "4422318",
+      "date": "22-Jul-2024 16:00",
+      "video_url": "4422318_0_6206459220376512"
+    },
+    {
+      "title": "Class-08 | Relations & Functions",
+      "id": "4422317",
+      "date": "19-Jul-2024 16:00",
+      "video_url": "4422317_0_8436936143266027"
+    },
+    {
+      "title": "Class-07 | Relations & Functions",
+      "id": "4422316",
+      "date": "18-Jul-2024 16:00",
+      "video_url": "4422316_0_6440661353902887"
+    },
+    {
+      "title": "Class-06 | Relations & Functions",
+      "id": "4422315",
+      "date": "17-Jul-2024 16:00",
+      "video_url": "4422315_0_7396582016523935"
+    },
+    {
+      "title": "Class-05 | Relations & Functions",
+      "id": "4422314",
+      "date": "16-Jul-2024 16:00",
+      "video_url": "4422314_0_4912778931464526"
+    },
+    {
+      "title": "Class-04 | Relations & Functions",
+      "id": "4422313",
+      "date": "15-Jul-2024 16:00",
+      "video_url": "4422313_0_5446208886155047"
+    },
+    {
+      "title": "Class-04 | Relations & Functions",
+      "id": "4422312",
+      "date": "12-Jul-2024 16:00",
+      "video_url": "4422312_0_3989325682851976"
+    },
+    {
+      "title": "Class-03 | Relations & Functions",
+      "id": "4422311",
+      "date": "11-Jul-2024 16:00",
+      "video_url": "4422311_0_6984719672963146"
+    },
+    {
+      "title": "Class-02 | Sets",
+      "id": "4422310",
+      "date": "10-Jul-2024 16:00",
+      "video_url": "4422310_0_9160769431752724"
+    },
+    {
+      "title": "Class-01 | Sets",
+      "id": "4422309",
+      "date": "09-Jul-2024 16:00",
+      "video_url": "4422309_0_2506457152352975"
+    }
+  ],
+  "notes_total": 157,
+  "notes": [
+    {
+      "id": 548566,
+      "title": "Number Theory | 20 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/682d5909b8f1d_Maths_20th_May_Class_PNG_Maths_TGTPGT_LiveVOD_B01_Maths_TGTPGT_LiveVOD_B02_0700pm.pdf",
+      "date": "21-May-2025"
+    },
+    {
+      "id": 539886,
+      "title": "Matrices and Determinants | 13 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/682447e3491ec_Maths_13th_May_Class_PNG_Maths_TGTPGT_LiveVOD_B01_Maths_TGTPGT_LiveVOD_B02_0700pm.pdf",
+      "date": "14-May-2025"
+    },
+    {
+      "id": 532968,
+      "title": "Matrices and Determinants | 6 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/681afbc886bf4_Maths_6th_May_Class_PNG_Maths_TGTPGT_LiveVOD_B01_Maths_TGTPGT_LiveVOD_B02_0700pm.pdf",
+      "date": "07-May-2025"
+    },
+    {
+      "id": 522073,
+      "title": "Matrices and Determinants | 17 April | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6803966814e19_Maths_17th_April_Class_PNG_Maths_TGTPGT_LiveVOD_B01_Maths_TGTPGT_LiveVOD_B02_0700pm.pdf",
+      "date": "19-Apr-2025"
+    },
+    {
+      "id": 520453,
+      "title": "Matrices and Determinants | 15 April | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6800634ba5157_Maths_15th_April_Class_PNG_Maths_TGTPGT_LiveVOD_B01_Maths_TGTPGT_LiveVOD_B02_0700pm.pdf",
+      "date": "17-Apr-2025"
+    },
+    {
+      "id": 517866,
+      "title": "Mensuration | 10 April | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67f86c278bada_Maths_10th_April_Class_PNG_Maths_TGTPGT_LiveVOD_B01_Maths_TGTPGT_LiveVOD_B02_0700pm_1.pdf",
+      "date": "11-Apr-2025"
+    },
+    {
+      "id": 516568,
+      "title": "Geometry | 8 April | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67f58186ca644_Maths_8th_April_Class_PNG_Maths_TGTPGT_LiveVOD_B01_Maths_TGTPGT_LiveVOD_B020700pm_1.pdf",
+      "date": "09-Apr-2025"
+    },
+    {
+      "id": 483190,
+      "title": "Binomial Theorem | 28 Jan | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67ac715424a62_67a056f4b172etgtmath4pm.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 478805,
+      "title": "Maths | 6 Feb | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67a5ab0c9a2f2_TGT_Maths_Shubham_Sir_06_Feb_4_PM.pdf",
+      "date": "07-Feb-2025"
+    },
+    {
+      "id": 507736,
+      "title": "Geometry | 25 March | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67e3c5c61fb7b_TGT_MATHS_Shubham_Sir_7_March_4_PM.pdf",
+      "date": "26-Mar-2025"
+    },
+    {
+      "id": 506500,
+      "title": "Geometry | 24 March | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67e235df4f25f_Math_24_March_Class_PNG_Maths_TGTPGT_LiveVOD_B01_02_Shubham_Bansal_Sir_04.00_PM.pdf",
+      "date": "25-Mar-2025"
+    },
+    {
+      "id": 503150,
+      "title": "Geometry | 18 March | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67da69ec6e775_TGT_MATHS_PraShubham_Sir_5_30_PM_18_March_1.pdf",
+      "date": "19-Mar-2025"
+    },
+    {
+      "id": 502774,
+      "title": "Geometry | 17 March | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67d9599f60c7d_18_March_7PM_Shubham_Sir.pdf",
+      "date": "18-Mar-2025"
+    },
+    {
+      "id": 501811,
+      "title": "Geometry | 13 March | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67d7bf12124c8_13March_04Pm_SHUBHAM_SIR.pdf",
+      "date": "17-Mar-2025"
+    },
+    {
+      "id": 502778,
+      "title": "Geometry | 12 March | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67d95a170e0e2_4PM.pdf",
+      "date": "18-Mar-2025"
+    },
+    {
+      "id": 511123,
+      "title": "Geometry | 7 March | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67eba8f7e1986_TGT_MATHS_Shubham_Sir_7_March_4_PM.pdf",
+      "date": "01-Apr-2025"
+    },
+    {
+      "id": 507733,
+      "title": "3D Geometry | 6 March | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67e3c56f02d22_Maths_4_pm_Shubham_Banshal_Sir_6_March_1.pdf",
+      "date": "26-Mar-2025"
+    },
+    {
+      "id": 495141,
+      "title": "3D Geometry | 28 Feb | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67c2a81e5faa4_TGT_Maths_Shubham_Sir_28_Feb_4_PM.pdf",
+      "date": "01-Mar-2025"
+    },
+    {
+      "id": 494781,
+      "title": "Vectors (Practice Sheet)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67c174438748f_Vectors_Practice_Sheet.pdf",
+      "date": "28-Feb-2025"
+    },
+    {
+      "id": 493927,
+      "title": "Vectors | 26 Feb | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67c0144350a65_TGT_Maths_Shubham_Sir_26_Feb_4_PM.pdf",
+      "date": "27-Feb-2025"
+    },
+    {
+      "id": 493133,
+      "title": "Vectors | 25 Feb | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67bea65fb9678_TGT_Maths_Shubham_Sir_25_Feb_4_PM.pdf",
+      "date": "26-Feb-2025"
+    },
+    {
+      "id": 491759,
+      "title": "Vectors | 21 Feb | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67b86aed91ec8_TGT_Maths_Shubham_Sir_21_Feb_4_PM.pdf",
+      "date": "21-Feb-2025"
+    },
+    {
+      "id": 491747,
+      "title": "Sequence & Series (Practice Sheet)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67b868bcd86e2_Sequence_Series_Practice_Sheet.pdf",
+      "date": "21-Feb-2025"
+    },
+    {
+      "id": 491528,
+      "title": "Vectors | 20 Feb | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67b81faa03c87_TGT_Maths_Shubham_Sir_20_Feb_4_PM.pdf",
+      "date": "21-Feb-2025"
+    },
+    {
+      "id": 489959,
+      "title": "Vectors | 18 Feb | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67b4738512bb5_TGT_Maths_Shubham_Sir_18_Feb_4_PM.pdf",
+      "date": "18-Feb-2025"
+    },
+    {
+      "id": 489576,
+      "title": "Sequences and Series | 17 Feb | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67b3bc73c65eb_TGT_Maths_Shubham_Sir_17_Feb_4_PM.pdf",
+      "date": "18-Feb-2025"
+    },
+    {
+      "id": 484620,
+      "title": "Sequences and Series | 14 Feb | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67b02f278d64c_TGT_Maths_Shubham_Sir_14_Feb_4_PM.pdf",
+      "date": "15-Feb-2025"
+    },
+    {
+      "id": 483897,
+      "title": "Sequences and Series | 13 Feb | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67ae8d58946ba_TGT_Maths_Shubham_Sir_13_Feb_4_PM.pdf",
+      "date": "14-Feb-2025"
+    },
+    {
+      "id": 483892,
+      "title": "Binomial Theorem Practice Sheet",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67ae8c64d138a_Binomial_Theorem_Practice_Sheet.pdf",
+      "date": "14-Feb-2025"
+    },
+    {
+      "id": 483890,
+      "title": "Complex Number Practice Sheet",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67ae8c45b9617_Complex_Number_Practice_Sheet.pdf",
+      "date": "14-Feb-2025"
+    },
+    {
+      "id": 483669,
+      "title": "Sequences and Series | 12 Feb | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67ad67dda3c11_TGT_Maths_Shubham_Sir_12_Feb_4_PM.pdf",
+      "date": "13-Feb-2025"
+    },
+    {
+      "id": 495198,
+      "title": "Sequences and Series | 6 Feb | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67c2c270b6d6c_TGT_Maths_Shubham_Sir_06_Feb_4_PM_1.pdf",
+      "date": "01-Mar-2025"
+    },
+    {
+      "id": 489552,
+      "title": "Binomial Theorem | 4 Feb | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67b31fde68c97_TGT_Maths_Practice_Shubham_Sir_4_Feb_530_PM_1.pdf",
+      "date": "17-Feb-2025"
+    },
+    {
+      "id": 483564,
+      "title": "Binomial Theorem  | 3 Feb | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67ac8e3675175_3_Feb_Class_PNG_Math_spl._TGT_PGT_by_Shubham_Bansal_Sir_4_pm.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483396,
+      "title": "Quadratic Equation (Practice Sheet)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/678757624d8fc_Quadratic_Equation_Practice_Sheet.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483383,
+      "title": "Binomial Theorem | 28 Jan | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67ac715424a62_67a056f4b172etgtmath4pm.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483382,
+      "title": "Complex Number | 23 Jan | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67932489a9e29_TGT_Maths_Shubham_Sir_23_Jan_4_PM.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483381,
+      "title": "Complex Number | 22 Jan | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6791c9de4306a_TGT_Maths_Shubham_Sir_22_Jan_4_PM.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483380,
+      "title": "Complex Number | 17 Jan | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/678b2665e1bd6_TGT_MATHS_Shubham_Sir_17_Jan_04_PM.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483379,
+      "title": "Complex Number | 16 Jan | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/678a3784a3469_TGT_MATHS_Shubham_Sir_16Jan_04PM.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483378,
+      "title": "Complex Number | 15 Jan | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6788bf159f4ab_TGT_Maths_Shubham_Sir_15_Jan_4PM.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483377,
+      "title": "Complex Number | 13 Jan | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6785258fdeafa_TGT_Maths_Shubham_Sir_13_Jan_4PMcompressed.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483376,
+      "title": "Complex Number | 10 Jan | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67820d57a90d9_TGT_Maths_Shubham_Sir_10Jan_4PM.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483375,
+      "title": "Quadratic Equations  | 09 Jan | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6780eb6b87558_Maths_Spl._9th.jan_Class_png_TGT.PGT_LiveVOD_400pm.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483374,
+      "title": "Quadratic Equations | 08 Jan | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/677f55b62aceb_TGT_MATHS_Shubham_Sir_8_Jan_4_PM.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483373,
+      "title": "Quadratic Equations | 7 Jan | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/677e08435c359_TGT_Maths_07_Jan_04_PM_Shubham_Sir.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483371,
+      "title": "Quadratic Equations | 06 Jan | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/677ca1a2b6921_TGT_Maths_06_Jan_07_PM_Shubham_Sir.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483370,
+      "title": "Hyperbola | 03 Jan | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6778b687406f2_TGT_Maths_Shubham_Sir_03Jan_4PM.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483372,
+      "title": "Hyperbola | 02 Jan | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/677d163f0172f_TGT_Maths_By_Shubham_Sir_2_Jan.pdf.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483369,
+      "title": "Hyperbola | 30 Dec | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/677397b1888d9_Maths_30_Dec_Class_PNG_Maths_Spl._TGTPGT_LiveVOD_0400_PM.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483368,
+      "title": "Ellipse | 27 Dec | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67721dbd20aaf_TGT_Maths_27_Dec_4PM_Shubham_Sir.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483367,
+      "title": "Ellipse | 25 Dec | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/676ce638530cf_tgt_kath_25dec.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483366,
+      "title": "Ellipse | 24 Dec | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/676b8661530d9_TGT_Maths_24_Dec_4PM_Shubham_Sir.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483365,
+      "title": "Ellipse |  23 Dec | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/676af4f382918_TGT_Maths_23_Dec_4PM_Shubham_Sir.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483364,
+      "title": "Conic Sections Practice Sheet",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/676a3bf7a916b_Conic_Sections_Practice_Sheet.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483395,
+      "title": "Circles Practice Sheet",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/676950be9ef5b_Circles_Practice_Sheet.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483363,
+      "title": "Parabola | 19 Dec | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6764ed22acc6e_TGT_Maths_19_Dec_4PM_Shubham_Sir.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483362,
+      "title": "Parabola | 18 Dec | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6764ec5304f06_TGT_Maths_18_Dec_4PM_Shubham_Sir.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483361,
+      "title": "Parabola | 16 Dec | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/676248319dd69_TGT_Maths_Shubham_Sir_16_Dec_4PM.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483360,
+      "title": "Parabola | 12 Dec | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/675d235f7580e_tgt_math_12_dec.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483359,
+      "title": "Parabola | 13 Dec | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/675d22a5a7ec6_TGT_Maths_13_Dec_4PM_Shubham_Sir.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483358,
+      "title": "Parabola | 10 Dec | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/675911217b93a_TGT_Maths_Shubham_Sir_9_DEC_4PM.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483357,
+      "title": "Circles | 6 Dec | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67540a062109b_TGT_MATHS_Shubham_Sir_6_DEC_4_PM.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483356,
+      "title": "Circles | 04 Dec | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67516d0605759_4_dec_by_Shubham_Sir_04pm.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483355,
+      "title": "Circles | 03 Dec | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/674fd41078a72_3_dec_by_Shubham_Sir_04pm.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483354,
+      "title": "Circles | 02 Dec | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/674e823a7b8fd_TGT_MATHS_Shubham_Sir_2_DEC4_PM.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483394,
+      "title": "Straight Lines Practice Sheet",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/674da111d82da_Straight_Lines.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483353,
+      "title": "Straight Lines | 29 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/674a8f44d8356_29Nov_Maths_Spl._TGTPGT_by_Shubham_sir_4pm.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483393,
+      "title": "Probability Practice Sheet",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6749b7d368542_Probability_Practice_Sheet.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483352,
+      "title": "Straight Lines | 28 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67493d5be6825_27_Nov_4Pm_by_Shubham_sir.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483351,
+      "title": "Straight Lines | 27 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6747eaf994149_TGT_MATHS_Shubham_Sir_4_PM_27_NOV.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483350,
+      "title": "Straight Lines | 26 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6745b3602f9bc_tgt_math_26_nov.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483349,
+      "title": "Straight Lines | 25 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67455372ae1bd_TGT_MATHS_Shubham_Sir_25_Nov_4_PM.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483348,
+      "title": "Straight Lines | 22 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67414e06c7339_22_Nov_by_Shubham_Sir_04pm.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483347,
+      "title": "Probability | 21 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/673ffba0a3632_21_Nov_By_Shubham_Sir_04Pm.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483392,
+      "title": "Permutations & Combinations  (Practice Sheet)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/673dcc9492778_permutations_combinations_Practice_Sheet_1.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483346,
+      "title": "Probability | 18 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/673c129ea0db1_18Nov_Maths_Spl._TGTPGT_by_Shubham_sir_4pm.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483345,
+      "title": "Doubt Class | 15 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67382a16c7d2d_TGT_MATHS_Shubham_Sir_15_Nov_4_PM.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483344,
+      "title": "Permutations & Combinations | 14 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6736b553dda8a_Maths_spl_TGT_by_Shubham_Sir_4_pm_14_Nov.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483343,
+      "title": "Permutations & Combinations | 13 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67356ad581f46_TGT_Maths_Shubham_Sir_13_Nov_4PM.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483342,
+      "title": "Permutations & Combinations | 12 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6734207d6c975_Maths_12_Nov_Class_PNG_Math_Spl_TGTPGT_0400_PMcompressed.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483341,
+      "title": "Permutations & Combinations | 11 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6732bd61f0b22_Maths_11_Nov_Class_PNG_Math_Spl_TGTPGT_0400_PM.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483340,
+      "title": "Permutations & Combinations | 07 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/672d717ebf450_Maths_7th_Nov_Class_PNG_Math_Spl_TGTPGT_0400_PM.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483339,
+      "title": "Permutations & Combinations | 06 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/672c2288b22aa_Maths_6th_Nov_Class_PNG_Math_Spl_TGTPGT_0400_PM.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483338,
+      "title": "Differential Equation | 26 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/672863df36b78_Maths_26_Oct_Class_PNG_Math_Spl_TGTPGT_06.00_PMcompressed.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483337,
+      "title": "Differential Equation | 25 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/671c65145621b_Maths_25_Oct_Class_PNG_Math_Spl_TGTPGT_0600_PMcompressed.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483336,
+      "title": "Differential Equation | 24 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/671b067b69c3f_Maths_24_Oct_Class_PNG_Math_Spl_TGTPGT_4.00_PM.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483335,
+      "title": "Differential Equation | 23 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6719ae65df05a_Maths_23_Oct_Class_PNG_Math_Spl_TGTPGT_0600_PM.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483391,
+      "title": "Differential Equation (Practice Sheet)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/671919d95cce2_Differential_Equation_Practice_Sheet.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483334,
+      "title": "Applications Of Integral | 22 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67185402145f7_Maths_spl_TGT_by_Shubham_Sir_4_pm_22_October.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483333,
+      "title": "Applications Of Integral | 21 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67171ad14d58b_Maths_21Oct_Class_PNG_Math_Spl_TGTPGT_4.00_PM.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483332,
+      "title": "Definite Integration | 18 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/671366450ad63_Maths_18th_Oct_Class_PNG_Math_Spl_TGTPGT_4.00_PM.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483331,
+      "title": "Definite Integration | 17 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6711cfc057e40_Maths_17th_Oct_Class_PNG_Math_Spl_TGTPGT_4.00_PM.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483330,
+      "title": "Definite Integration | 16 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/671084fbbae69_Maths_16th_Oct_Class_PNG_Math_Spl_TGTPGT_4.00_PM.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483329,
+      "title": "Definite Integration | 15 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/670f3f8405148_Maths_15th_Oct_Class_PNG_Math_Spl_TGTPGT_0600_PM.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483328,
+      "title": "Definite Integration | 14 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/670dceefa98a4_TGT_Maths_Shubham_Sir_4_PM_14_Oct.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483327,
+      "title": "Indefinite Integration | 10 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/670889d6cdaa2_Maths_10th_Oct_Class_PNG_Math_Spl_TGTPGT_4.00_PM.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483326,
+      "title": "Indefinite Integration | 09 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/670737bdc3df6_Maths_9th_Oct_Class_PNG_Math_Spl_TGTPGT_4.00_PM.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483390,
+      "title": "Integral Calculus Practice Sheet",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/670672cf12726_Integral_Calculus_Practice_Sheet.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483325,
+      "title": "Indefinite Integration | 07 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6704ccc8cb468_Maths_7th_Oct_Class_PNG_Math_Spl_TGTPGT_4.00_PM.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483324,
+      "title": "Doubt Class | 04 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6700abb2e2e3b_Maths_4_Oct_Class_PNG_Math_Spl_TGTPGT_400_pm.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483323,
+      "title": "Indefinite Integration | 01 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66fdfcb1a0da1_Maths_1st_Oct_Class_PNG_Math_Spl_TGTPGT_400_pm.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483322,
+      "title": "Indefinite Integration | 30 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66fb79b242b01_Maths_30_Sept_Class_PNG_Math_Spl_TGTPGT_400_pm.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483321,
+      "title": "Doubt Class | 27 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66f76a0670d11_Maths_27_Sept_Class_PNG_Math_Spl_TGTPGT_400_pm.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483320,
+      "title": "AOD | 26 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66f610fd1fe3a_Maths_26_Sept_Class_PNG_Math_Spl_TGTPGT_4.00pm.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483389,
+      "title": "Application Of Derivatives Practice Sheet",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66f5342d4328b_Application_Of_Derivatives_Practice_Sheet.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483319,
+      "title": "AOD | 25 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66f4cfb9c9f91_Maths_25_Sept_Class_PNG_Math_Spl_TGTPGT_400_pm.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483318,
+      "title": "AOD | 24 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66f36bb15278d_Maths_spl_TGT_by_Shubham_Bansal_Sir_4_pm_24_September.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483317,
+      "title": "AOD | 23 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66f26b8e592d8_Maths_23_Sept_Class_PNG_Math_Spl_TGTPGT_400_pm.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483316,
+      "title": "AOD | 19 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66ecda39f34cd_Maths_19_Sept_Class_PNG_Math_Spl_TGTPGT_400_pm.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483315,
+      "title": "AOD | 18 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66eb92f638fe1_Maths_18_Sept_Class_PNG_Math_Spl_TGTPGT_400_pm.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483314,
+      "title": "AOD | 17 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66ea42482c47d_Maths_17_Sept_Class_PNG_Math_Spl_TGTPGT_4.00pm.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483313,
+      "title": "AOD | 16 Sept | Class Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66e8edbe9a482_Maths_16_Sept_Class_PNG_Math_Spl_TGTPGT_4.00pm.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483312,
+      "title": "AOD | 13 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66e4f06b9f3d2_Maths_13_Sept_Class_PNG_Math_Spl_TGTPGT_4.00pm.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483311,
+      "title": "AOD | 12 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66e3bb84368da_Maths 12 Sept Class PNG ( Math Spl TGT,PGT) 4.00pm.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483310,
+      "title": "AOD | 11 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66e2534076160_Maths 11 Sept Class PNG ( Math Spl TGT,PGT) 4.00pm.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483388,
+      "title": "Method Of Differentiation Practice Sheet",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66e173340503c_Method Of Differentiation (Practice Sheet).pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483387,
+      "title": "Limits, Continuity & Differentiability Practice Sheet",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66de89ce8f416_Limits, Continuity & Differentiability (Practice Sheet-1).pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483309,
+      "title": "MOD | 6 September Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66dbcde1088a8_Maths 6 Sept Class PNG ( Math Spl TGT,PGT) 5.00pm.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483308,
+      "title": "MOD | 05 September Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66da888717c35_Maths 5 Sept Class PNG ( Math Spl TGT,PGT) 4.00pm.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483307,
+      "title": "Differentiability | 04 September Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66d910d52d876_Maths 4 Sept Class PNG ( Math Spl TGT,PGT) 4.00pm.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483306,
+      "title": "Differentiability | 03 September Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66d7c27428e9a_Maths 3 Sept Class PNG ( Math Spl TGT,PGT) 4.00pm.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483305,
+      "title": "Continuity | 02 September Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66d66db9d9c28_Maths 2 Sept Class PNG ( Math Spl TGT,PGT) 4.00pm.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483304,
+      "title": "Continuity | 30 August Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66d2831b5720d_30th.aug class png [Maths Spl. (TGT.PGT) (Live+VOD).pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483303,
+      "title": "Limits | 28 August Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66cfef5e2ce11_28th.aug class png [Maths Spl. (TGT.PGT) (Live+VOD).pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483302,
+      "title": "Limits | 27 August Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66ce8e6082e8a_27th.aug class png[Maths Spl. (TGT.PGT) (Live+VOD).pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483386,
+      "title": "Inverse Trigonometric Functions Practice Sheet",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66cd9ca039882_Inverse Trigonometric Functions (Practice Sheet).pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483301,
+      "title": "Limits | 22 August Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66c7ee4bd24a4_22th.aug class png [Maths Spl. (TGT.PGT) (Live+VOD).pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483385,
+      "title": "Trigonometric Functions Practice Sheet",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66c6fadee5890_Trigonometric Functions (Practice Sheet).pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483300,
+      "title": "Limits | 21 August Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66c5e6d071886_Math 21 Aug Class PNG Maths Spl. (TGT,PGT)_compressed.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483299,
+      "title": "Limits | 20 August Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66c49ff1ce086_20th.aug class png [Maths Spl. (TGT.PGT) (Live+VOD).pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483298,
+      "title": "ITF | 14 August Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66beaf0d2abdc_14th.aug class png [Maths Spl. (TGT.PGT) (Live+VOD).pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483297,
+      "title": "ITF | 13 August Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66bc390a0df98_13th.aug class png [Maths Spl. (TGT.PGT) (Live+VOD).pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483296,
+      "title": "ITF  | 12 August Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66bac4b1cef72_Math 12 Aug Class PNG Maths Spl. (TGT,PGT).pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483295,
+      "title": "Trigonometric Functions | 07 August Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66b44d31decf8_Maths Spl. 7th.aug class png[(TGT.PGT) (Live+VOD).pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483294,
+      "title": "Trigonometric Functions | 06 August Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66b2de8264334_6th.aug class png [Maths Spl. (TGT.PGT) (Live+VOD)_compressed.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483293,
+      "title": "Trigonometric Functions | 05 August Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66b196a697abf_5th.aug class png [Maths Spl. (TGT.PGT) (Live+VOD).pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483292,
+      "title": "Trigonometric Functions | 02 August Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66ad8cec049f9_2th.aug class png [Maths Spl. (TGT.PGT) (Live+VOD).pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483291,
+      "title": "Trigonometric Functions | 01 August Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66ac3c37ed636_1st.aug class png [Maths Spl. (TGT.PGT) (Live+VOD).pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483290,
+      "title": "Trigonometric Functions | 31 July  Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66aaf8d0dc56b_31th july Maths Spl. (TGT.PGT) (Live+VOD)_compressed.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483289,
+      "title": "Relations & Functions  | 30 July 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66aaf0a73a9a5_Math 30 July Class PNG Maths Spl. (TGT,PGT)_compressed.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483288,
+      "title": "29 July 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66a8506af293f_shubham.bansal.sir[maths.spl.tgt.pgt]29th.july 4;00pm.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483287,
+      "title": "26 July 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66a44ad6734ac_shubam.bansal.sir[maths.spl.TGT.PGT]26th.july 4;00pm.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483286,
+      "title": "25 July 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66a32340093f0_shubam.bansal.sir[maths.spl.TGT.PGT]25th.july 4;00pm.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483285,
+      "title": "24 July 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66a1aa16204f1_shubam.bansal.sir[maths.spl.TGT.PGT]24th.july.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483283,
+      "title": "23 July 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66a05dc48c855_shubam.bansal.sir[maths.spl.TGT.PGT]22th.july.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483284,
+      "title": "22 July 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66a0da42252f5_shubam.bansal.sir[maths.spl.TGT.PGT]22th.july.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483282,
+      "title": "19 July 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/669b27e22a534_shubam.bansal.sir[maths.spl.TGT.PGT]19th.july.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483281,
+      "title": "18 July 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6699c35399cf6_shubam.bansal.sir[maths.spl]18th.july.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483280,
+      "title": "17 July 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6698738dd8897_shubham.bansal.sir[maths.spl.tgt.pgt]17th.july 4;00pm.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483279,
+      "title": "16 July 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66971fe6399c7_shubham.bansal.sir[maths.spl.tgt.pgt]16th.july 4;00pm.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483278,
+      "title": "15 July 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6695f8006811d_shubham.bansal.sir[maths.spl.tgt.pgt]15th.july 4;00pm.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483384,
+      "title": "Sets, Relations & Functions Practice Sheet",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66adbcfe5d559_669b6f4a03359_Sets, Relations & Functions (Practice Sheet) (1) (1).pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483277,
+      "title": "12 July 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6691d5cc1e8ef_shubham.bansal.sir[maths.spl.tgt.pgt]12th.july 4;00pm.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483276,
+      "title": "11 July 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66909abd92634_shubham.bansal.sir[maths.spl.tgt.pgt]11th.july 4;00pm.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483275,
+      "title": "10 July 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/668f413ed25c4_shubham.bansal.sir[maths.spl.tgt.pgt]10th.july 4;00pm.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 483274,
+      "title": "9 July 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/668df0f04990c_shubham.bansal.sir[maths.spl.tgt.pgt]9th.july 4;00pm_compressed.pdf",
+      "date": "12-Feb-2025"
+    }
+  ]
+}
