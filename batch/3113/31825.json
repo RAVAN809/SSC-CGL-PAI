@@ -1,0 +1,1564 @@
+{
+  "batchid": 3113,
+  "topicid": 31825,
+  "classes_total": 64,
+  "classes": [
+    {
+      "title": "Class-09 | Simple Interest Part -9",
+      "id": "4614123",
+      "date": "28-Nov-2025 10:00",
+      "video_url": "4614123_0_3143979701867526"
+    },
+    {
+      "title": "Class-08 | Simple Interest Part -8",
+      "id": "4612916",
+      "date": "27-Nov-2025 10:30",
+      "video_url": "4612916_0_6968132466760572"
+    },
+    {
+      "title": "Class-07 | Simple Interest Part -7",
+      "id": "4611927",
+      "date": "26-Nov-2025 10:30",
+      "video_url": "4611927_0_2673214028392011"
+    },
+    {
+      "title": "Class-06 | Simple Interest Part -6",
+      "id": "4610693",
+      "date": "25-Nov-2025 10:00",
+      "video_url": "4610693_0_7229994609752885"
+    },
+    {
+      "title": "Class-05 | Simple Interest Part -5",
+      "id": "4609625",
+      "date": "24-Nov-2025 10:00",
+      "video_url": "4609625_0_5126245595710374"
+    },
+    {
+      "title": "Class-15 | Profit and Loss Part-15",
+      "id": "4607392",
+      "date": "20-Nov-2025 18:00",
+      "video_url": "4607392_0_9245672643163055"
+    },
+    {
+      "title": "Class-03 | Simple Interest Part -3",
+      "id": "4606778",
+      "date": "20-Nov-2025 10:00",
+      "video_url": "4606778_0_1062527135103570"
+    },
+    {
+      "title": "Class-02 | Simple Interest Part -2",
+      "id": "4605728",
+      "date": "19-Nov-2025 10:00",
+      "video_url": "4605728_0_4246362078686692"
+    },
+    {
+      "title": "Class - 01 | Simple Interest Part -1",
+      "id": "4603568",
+      "date": "17-Nov-2025 10:00",
+      "video_url": "4603568_0_3821584271431810"
+    },
+    {
+      "title": "Class - 13 | Profit and Loss Part-13",
+      "id": "4600611",
+      "date": "13-Nov-2025 10:00",
+      "video_url": "4600611_0_8272576664236626"
+    },
+    {
+      "title": "Class - 12 | Profit and Loss Part-12",
+      "id": "4599592",
+      "date": "12-Nov-2025 10:00",
+      "video_url": "4599592_0_3893727646284934"
+    },
+    {
+      "title": "Class - 11 | Profit and Loss Part-11",
+      "id": "4598383",
+      "date": "11-Nov-2025 10:00",
+      "video_url": "4598383_0_6946071358647003"
+    },
+    {
+      "title": "Class - 10 | Profit and Loss Part-10",
+      "id": "4597184",
+      "date": "10-Nov-2025 10:00",
+      "video_url": "4597184_0_2882021337345709"
+    },
+    {
+      "title": "Class - 09 | Profit and Loss Part-9",
+      "id": "4594955",
+      "date": "07-Nov-2025 10:00",
+      "video_url": "4594955_0_2788269719437142"
+    },
+    {
+      "title": "Class - 08 | Profit and Loss Part-8",
+      "id": "4593798",
+      "date": "06-Nov-2025 10:00",
+      "video_url": "4593798_0_2526062135070045"
+    },
+    {
+      "title": "Class - 07 | Profit and Loss Part-7",
+      "id": "4592828",
+      "date": "05-Nov-2025 10:30",
+      "video_url": "4592828_0_8996303397316261"
+    },
+    {
+      "title": "Class - 06 | Profit and Loss Part-6",
+      "id": "4591635",
+      "date": "04-Nov-2025 10:00",
+      "video_url": "4591635_0_1374222874852641"
+    },
+    {
+      "title": "Class - 05 | Profit and Loss Part-5",
+      "id": "4588773",
+      "date": "31-Oct-2025 10:00",
+      "video_url": "4588773_0_8747048208481680"
+    },
+    {
+      "title": "Class - 04 | Profit and Loss Part-4",
+      "id": "4587621",
+      "date": "30-Oct-2025 10:00",
+      "video_url": "4587621_0_6400292335488203"
+    },
+    {
+      "title": "Class - 03 | Profit and Loss Part-3",
+      "id": "4586701",
+      "date": "29-Oct-2025 09:30",
+      "video_url": "4586701_0_5157023831296401"
+    },
+    {
+      "title": "Class - 02 | Profit and Loss Part-2",
+      "id": "4585635",
+      "date": "28-Oct-2025 10:00",
+      "video_url": "4585635_0_8673488819331503"
+    },
+    {
+      "title": "Class - 01 | Profit and Loss Part-1",
+      "id": "4584580",
+      "date": "27-Oct-2025 10:00",
+      "video_url": "4584580_0_8841789651103991"
+    },
+    {
+      "title": "Class-14 | Time, Speed, and Distance Part-14(Race)",
+      "id": "4580574",
+      "date": "17-Oct-2025 10:30",
+      "video_url": "4580574_0_9264151260674907"
+    },
+    {
+      "title": "Class-13 | Time, Speed, and Distance Part-13 (Race)",
+      "id": "4579590",
+      "date": "16-Oct-2025 10:00",
+      "video_url": "4579590_0_8797632218984802"
+    },
+    {
+      "title": "Class-12| Time, Speed, and Distance Part-12",
+      "id": "4577323",
+      "date": "14-Oct-2025 10:00",
+      "video_url": "4577323_0_3846926229486202"
+    },
+    {
+      "title": "Class-11 | Time, Speed, and Distance Part-11",
+      "id": "4576954",
+      "date": "13-Oct-2025 18:00",
+      "video_url": "4576954_0_3522566362965602"
+    },
+    {
+      "title": "Class-10 | Time, Speed, and Distance Part-2",
+      "id": "4576345",
+      "date": "13-Oct-2025 10:00",
+      "video_url": "4576345_0_8035865986926868"
+    },
+    {
+      "title": "Class-09 | Time, Speed, and Distance Part-2",
+      "id": "4575185",
+      "date": "11-Oct-2025 10:00",
+      "video_url": "4575185_0_4418650942119905"
+    },
+    {
+      "title": "Class - 11 | Average Part-11",
+      "id": "4574827",
+      "date": "10-Oct-2025 18:00",
+      "video_url": "4574827_0_5782808555868100"
+    },
+    {
+      "title": "Class-08 | Time, Speed, and Distance Part-2",
+      "id": "4574116",
+      "date": "10-Oct-2025 10:00",
+      "video_url": "4574116_0_7150638346754991"
+    },
+    {
+      "title": "Class-07 | Time, Speed, and Distance Part-2",
+      "id": "4572692",
+      "date": "09-Oct-2025 10:00",
+      "video_url": "4572692_0_5503426702959320"
+    },
+    {
+      "title": "Class-06 | Time, Speed, and Distance Part-2",
+      "id": "4571285",
+      "date": "08-Oct-2025 10:00",
+      "video_url": "4571285_0_8682561988792194"
+    },
+    {
+      "title": "Class-05 | Time, Speed, and Distance Part-2",
+      "id": "4569985",
+      "date": "07-Oct-2025 10:00",
+      "video_url": "4569985_0_4593025812004086"
+    },
+    {
+      "title": "Class-04 | Time, Speed, and Distance Part-2",
+      "id": "4568004",
+      "date": "06-Oct-2025 10:00",
+      "video_url": "4568004_0_8038739667377995"
+    },
+    {
+      "title": "Class-03 | Time, Speed, and Distance Part-2",
+      "id": "4565650",
+      "date": "03-Oct-2025 10:15",
+      "video_url": "4565650_0_9289596830304389"
+    },
+    {
+      "title": "Class-02 | Time, Speed, and Distance Part-2",
+      "id": "4564094",
+      "date": "01-Oct-2025 10:00",
+      "video_url": "4564094_0_2528292447639356"
+    },
+    {
+      "title": "Class-01 | Time, Speed, and Distance Part-1",
+      "id": "4563006",
+      "date": "30-Sep-2025 10:00",
+      "video_url": "4563006_0_1784607015686090"
+    },
+    {
+      "title": "Class-05 | Simplification part-5",
+      "id": "4560032",
+      "date": "26-Sep-2025 10:30",
+      "video_url": "4560032_0_3511038393798269"
+    },
+    {
+      "title": "Class-04 | Simplification part-4",
+      "id": "4558838",
+      "date": "25-Sep-2025 10:00",
+      "video_url": "4558838_0_1998216563124074"
+    },
+    {
+      "title": "Class-03 | Simplification part-3",
+      "id": "4557405",
+      "date": "24-Sep-2025 10:00",
+      "video_url": "4557405_0_6494788498591735"
+    },
+    {
+      "title": "Class-02 | Simplification part-2",
+      "id": "4556299",
+      "date": "23-Sep-2025 10:00",
+      "video_url": "4556299_0_2142349847053232"
+    },
+    {
+      "title": "Class - 10 | Average Part-10",
+      "id": "4555849",
+      "date": "22-Sep-2025 18:00",
+      "video_url": "4555849_0_1639331261040440"
+    },
+    {
+      "title": "Class-01 | Simplification part-1",
+      "id": "4555255",
+      "date": "22-Sep-2025 10:00",
+      "video_url": "4555255_0_1301269785236411"
+    },
+    {
+      "title": "Class-09 | Average Part-9",
+      "id": "4553264",
+      "date": "19-Sep-2025 10:00",
+      "video_url": "4553264_0_7067726727968855"
+    },
+    {
+      "title": "Class-08 | Average Part-8",
+      "id": "4552920",
+      "date": "18-Sep-2025 18:00",
+      "video_url": "4552920_0_9866253761565887"
+    },
+    {
+      "title": "Class-07 | Average Part-7",
+      "id": "4549896",
+      "date": "15-Sep-2025 18:00",
+      "video_url": "4549896_0_9915591436051868"
+    },
+    {
+      "title": "Class-06 | Average Part-6",
+      "id": "4548289",
+      "date": "13-Sep-2025 10:00",
+      "video_url": "4548289_0_8354589769692833"
+    },
+    {
+      "title": "Class-05 | Average Part-5",
+      "id": "4546551",
+      "date": "11-Sep-2025 10:00",
+      "video_url": "4546551_0_4520720556062125"
+    },
+    {
+      "title": "Class-04 | Average Part-4",
+      "id": "4545551",
+      "date": "10-Sep-2025 10:00",
+      "video_url": "4545551_0_5641267107784195"
+    },
+    {
+      "title": "Class-03 | Average Part-3",
+      "id": "4544639",
+      "date": "09-Sep-2025 10:00",
+      "video_url": "4544639_0_6696059656050635"
+    },
+    {
+      "title": "Class-02 | Average Part-2",
+      "id": "4541996",
+      "date": "05-Sep-2025 10:00",
+      "video_url": "4541996_0_1395090499185138"
+    },
+    {
+      "title": "Class-01 | Average Part-1",
+      "id": "4540344",
+      "date": "04-Sep-2025 10:00",
+      "video_url": "4540344_0_3114693827058340"
+    },
+    {
+      "title": "Class-11 | Percentage Part-10",
+      "id": "4537268",
+      "date": "02-Sep-2025 10:00",
+      "video_url": "4537268_0_2652693899556724"
+    },
+    {
+      "title": "Class-10 | Percentage Part-9",
+      "id": "4536213",
+      "date": "01-Sep-2025 10:00",
+      "video_url": "4536213_0_4209699425954156"
+    },
+    {
+      "title": "Class-09 | Percentage Part-8",
+      "id": "4535877",
+      "date": "31-Aug-2025 16:00",
+      "video_url": "4535877_0_9373903876515088"
+    },
+    {
+      "title": "Class-07 | Percentage Part-6",
+      "id": "4527066",
+      "date": "22-Aug-2025 10:00",
+      "video_url": "4527066_0_4069623863309132"
+    },
+    {
+      "title": "Class-06 | Q&A class",
+      "id": "4525899",
+      "date": "21-Aug-2025 10:30",
+      "video_url": "4525899_0_7876512730369771"
+    },
+    {
+      "title": "Class-05 | Percentage Part-5",
+      "id": "4524829",
+      "date": "20-Aug-2025 10:00",
+      "video_url": "4524829_0_5118726683132460"
+    },
+    {
+      "title": "Class-04 | Percentage Part-4",
+      "id": "4523722",
+      "date": "19-Aug-2025 10:00",
+      "video_url": "4523722_0_7702580981612953"
+    },
+    {
+      "title": "Class-03 | Percentage Part-3",
+      "id": "4522690",
+      "date": "18-Aug-2025 10:00",
+      "video_url": "4522690_0_6224946183738695"
+    },
+    {
+      "title": "Class-02 | Percentage Part-2",
+      "id": "4520424",
+      "date": "14-Aug-2025 10:00",
+      "video_url": "4520424_0_4324873853314046"
+    },
+    {
+      "title": "Class-01 | Percentage Part-1",
+      "id": "4519136",
+      "date": "13-Aug-2025 10:00",
+      "video_url": "4519136_0_2946923652288087"
+    },
+    {
+      "title": "Demo Class-2",
+      "id": "4475726",
+      "date": "02-Jul-2025 10:00",
+      "video_url": "4475726_0_9965943677406323"
+    },
+    {
+      "title": "Demo Class-1",
+      "id": "4475723",
+      "date": "01-Jul-2025 10:00",
+      "video_url": "4475723_0_7133270757354239"
+    }
+  ],
+  "notes_total": 195,
+  "notes": [
+    {
+      "id": 744806,
+      "title": "Simple Interest Part-9 (Annotation & Without Annotation)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/692967f9213c8_ilovepdf_merged_compressed.pdf",
+      "date": "28-Nov-2025"
+    },
+    {
+      "id": 744600,
+      "title": "Simple Interest - Class - 08",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/69296209a3213_simple_interest_class_08_compressed.pdf",
+      "date": "28-Nov-2025"
+    },
+    {
+      "id": 744566,
+      "title": "Simple Interest - Class - 07",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/692960eb2def5_simple_interest_class_07_compressed.pdf",
+      "date": "28-Nov-2025"
+    },
+    {
+      "id": 743675,
+      "title": "Simple Interest Part-8 (Annotation & Without Annotation)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/69282b3143ca9_ilovepdf_merged_compressed.pdf",
+      "date": "27-Nov-2025"
+    },
+    {
+      "id": 743538,
+      "title": "Simple Interest - Class - 06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/692808bcda20d_simple_interest_class_06_compressed.pdf",
+      "date": "27-Nov-2025"
+    },
+    {
+      "id": 741281,
+      "title": "Simple Interest Part-7 (Annotation & Without Annotation)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6926b844ea51b_ilovepdf_merged_compressed.pdf",
+      "date": "26-Nov-2025"
+    },
+    {
+      "id": 740915,
+      "title": "Profit and Loss - Class - 1 (Miscellaneous)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/69257ab51e98d_profit_and_loss_class_1miscellaneous_compressed.pdf",
+      "date": "25-Nov-2025"
+    },
+    {
+      "id": 740899,
+      "title": "Simple Interest - Class - 05",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/69257866b1c29_simple_interest_class_05_compressed.pdf",
+      "date": "25-Nov-2025"
+    },
+    {
+      "id": 740811,
+      "title": "Race DPP",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68ef2c0630b39_Race_DPP_ABHINAY_MATHS_.pdf",
+      "date": "15-Oct-2025"
+    },
+    {
+      "id": 740801,
+      "title": "Simplification DPP-3",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68d51ca80dc86_SIMPLIFICATION_DPP3.pdf",
+      "date": "25-Sep-2025"
+    },
+    {
+      "id": 740779,
+      "title": "Simplification DPP-2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68d379329df03_SIMPLIFICATION_DPP2.pdf",
+      "date": "24-Sep-2025"
+    },
+    {
+      "id": 740759,
+      "title": "Simplification DPP-1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68d4e6cb0b71c_SIMPLIFICATION_DPP1.pdf",
+      "date": "23-Sep-2025"
+    },
+    {
+      "id": 740742,
+      "title": "Average DPP-6",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68d225f687b1a_average_dpp_06.pdf",
+      "date": "23-Sep-2025"
+    },
+    {
+      "id": 740725,
+      "title": "Average Practice Sheet",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68d11aff53855_AVERAGE_PRACTICE_SHEET.pdf",
+      "date": "22-Sep-2025"
+    },
+    {
+      "id": 740708,
+      "title": "Average DPP-5",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68ce3fe750206_average_dpp_05.pdf",
+      "date": "20-Sep-2025"
+    },
+    {
+      "id": 740691,
+      "title": "Average DPP-4",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68c9344e7647a_average_dpp_04.pdf",
+      "date": "16-Sep-2025"
+    },
+    {
+      "id": 740668,
+      "title": "Average DPP-1,2,3",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68c3c4b6172e5_Average_DPP1_merged.pdf",
+      "date": "12-Sep-2025"
+    },
+    {
+      "id": 739719,
+      "title": "Simple Interest Part-5 (Annotation & Without Annotation)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/692435c6ccbe4_ilovepdf_merged_compressed.pdf",
+      "date": "24-Nov-2025"
+    },
+    {
+      "id": 737748,
+      "title": "SI Class Notes-3&4",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/692177f263aa9_ilovepdf_merged_75.pdf",
+      "date": "22-Nov-2025"
+    },
+    {
+      "id": 736680,
+      "title": "Simple Interest - 04 Annotation & Without Annotation",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/69200ab33fb1e_ilovepdf_merged_74_compressed.pdf",
+      "date": "21-Nov-2025"
+    },
+    {
+      "id": 736659,
+      "title": "Profit & loss Class - 01 Annotation & Without Annotation",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6920090bb826f_ilovepdf_merged_73_compressed.pdf",
+      "date": "21-Nov-2025"
+    },
+    {
+      "id": 736495,
+      "title": "Simple Interest - Class - 02",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/691ef498b3a33_simple_interest_class_02_compressed.pdf",
+      "date": "20-Nov-2025"
+    },
+    {
+      "id": 735633,
+      "title": "Simple Interest Part-3 (Annotation & Without Annotation)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/691ebdb8f1f88_ilovepdf_merged_compressed.pdf",
+      "date": "20-Nov-2025"
+    },
+    {
+      "id": 734869,
+      "title": "Simple Interest Part-2 (Annotation & Without Annotation)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/691d715d2e7bf_ilovepdf_merged_compressed.pdf",
+      "date": "19-Nov-2025"
+    },
+    {
+      "id": 734066,
+      "title": "Profit & Loss - Sheet - 03 (Question with Solution)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/691bfb3197aef_Profit_Loss_SHEET_03_compressed.pdf",
+      "date": "18-Nov-2025"
+    },
+    {
+      "id": 734046,
+      "title": "Profit & Loss - Sheet - 02 (Question with Solution)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/691bfa4bcc1a0_Profit_Loss_sheet_02_Question_with_Solution_compressed.pdf",
+      "date": "18-Nov-2025"
+    },
+    {
+      "id": 734027,
+      "title": "Profit & Loss - Sheet - 01  (Question with Solution)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/691bf98a9da58_Profit_Loss_sheet_01_Question_with_Solution_compressed.pdf",
+      "date": "18-Nov-2025"
+    },
+    {
+      "id": 734013,
+      "title": "Simple Interest - Class - 01",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/691bf85acb1cd_simple_interest_class_01_compressed.pdf",
+      "date": "18-Nov-2025"
+    },
+    {
+      "id": 733956,
+      "title": "SSC CGL 2025 - Profit and Loss DPP - 3 Work Book With Solution",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/691b154463638_ilovepdf_merged_compressed.pdf",
+      "date": "17-Nov-2025"
+    },
+    {
+      "id": 733775,
+      "title": "Simple Interest Part-1 (Annotation & Without Annotation)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/691adb74b655d_ilovepdf_merged_compressed.pdf",
+      "date": "17-Nov-2025"
+    },
+    {
+      "id": 733117,
+      "title": "Profit and Loss Class -14",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/691822fa3ce9a_profit_and_loss_class_14.pdf",
+      "date": "15-Nov-2025"
+    },
+    {
+      "id": 733049,
+      "title": "Profit & loss Class - 14 (Without Annotation)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/69180846d8784_ilovepdf_merged_compressed.pdf",
+      "date": "15-Nov-2025"
+    },
+    {
+      "id": 732693,
+      "title": "Profit and Loss - Class - 13",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6916c5d923fe6_profit_and_loss_class_13_compressed.pdf",
+      "date": "14-Nov-2025"
+    },
+    {
+      "id": 732326,
+      "title": "Profit & loss Class - 13 (Without Annotation)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6915b5f3a3156_ilovepdf_merged_compressed.pdf",
+      "date": "13-Nov-2025"
+    },
+    {
+      "id": 731552,
+      "title": "Profit and Loss - Class - 12",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/691584e6da772_profit_and_loss_class_12.pdf",
+      "date": "13-Nov-2025"
+    },
+    {
+      "id": 731423,
+      "title": "SSC CGL 2025 - Profit and Loss DPP Work Book With Solution",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/691573ad5468c_SSC_CGL_2025_Profit_and_Loss_DPP_WORK_BOOK_2_WITH_VIDEO_SOLUTION_1.pdf",
+      "date": "13-Nov-2025"
+    },
+    {
+      "id": 731399,
+      "title": "SSC CGL 2025 - Profit and Loss DPP Work Book-2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/691572b035256_SSC_CGL_2025_Profit_and_Loss_DPP_WorkBook_2.pdf",
+      "date": "13-Nov-2025"
+    },
+    {
+      "id": 730955,
+      "title": "Profit and loss - class - 11",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/691448fb5a180_profit_and_loss_class_11_compressed.pdf",
+      "date": "12-Nov-2025"
+    },
+    {
+      "id": 730910,
+      "title": "Profit & loss Class - 12 (Without Annotation)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6914438335d1f_ilovepdf_merged_compressed.pdf",
+      "date": "12-Nov-2025"
+    },
+    {
+      "id": 730099,
+      "title": "Profit & loss Class - 11 (Without Annotation)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6912fe558582b_ilovepdf_merged_compressed.pdf",
+      "date": "11-Nov-2025"
+    },
+    {
+      "id": 729050,
+      "title": "Profit & loss Class - 10 (Without Annotation)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/69118680d2e9c_Without_AnnotationProfit_loss_Class_10_compressed.pdf",
+      "date": "10-Nov-2025"
+    },
+    {
+      "id": 728913,
+      "title": "Profit and loss - class -09",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/69116be752faa_profit_and_loss_class_09_compressed.pdf",
+      "date": "10-Nov-2025"
+    },
+    {
+      "id": 728648,
+      "title": "Profit and loss - class -09",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/690efb037793f_profit_and_loss_class_09_compressed.pdf",
+      "date": "08-Nov-2025"
+    },
+    {
+      "id": 726344,
+      "title": "Profit and loss - class -08",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/690ee0be602fb_profit_and_loss_class_08_compressed.pdf",
+      "date": "08-Nov-2025"
+    },
+    {
+      "id": 722930,
+      "title": "Profit & loss Class - 09 Annotation & Without Annotation",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/690d9909e4138_Without_AnnotationProfit_loss_Class_9_compressed.pdf",
+      "date": "07-Nov-2025"
+    },
+    {
+      "id": 717510,
+      "title": "SSC CGL 2025 - Profit and Loss DPP - 1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/690c945f31ad2_SSC_CGL_2025_Profit_and_Loss_DPP_1_compressed.pdf",
+      "date": "06-Nov-2025"
+    },
+    {
+      "id": 717454,
+      "title": "SSC CGL 2025 - Profit and Loss DPP WorkBook - 1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/690c92e810805_SSC_CGL_2025_Profit_and_Loss_DPP_WorkBook_1_compressed.pdf",
+      "date": "06-Nov-2025"
+    },
+    {
+      "id": 715791,
+      "title": "Profit & Loss Class - 08 Annotation & Without Annotation",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/690c44cb1ae6f_ilovepdf_merged_43_compressed.pdf",
+      "date": "06-Nov-2025"
+    },
+    {
+      "id": 715685,
+      "title": "Profit & Loss Class - 07 Annotation & Without Annotation",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/690c3aea58c4c_ilovepdf_merged_42_compressed.pdf",
+      "date": "06-Nov-2025"
+    },
+    {
+      "id": 715412,
+      "title": "Profit and Loss Class-7",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/690b4358851a6_profit_and_loss_class_07_compressed.pdf",
+      "date": "05-Nov-2025"
+    },
+    {
+      "id": 715392,
+      "title": "Profit and Loss Class-6",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/690b4145be1e9_profit_and_loss_class_06_compressed.pdf",
+      "date": "05-Nov-2025"
+    },
+    {
+      "id": 713341,
+      "title": "Profit & Loss Class-05 | 5 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/690aeb51e8a0e_profit_and_loss_class_05_compressed.pdf",
+      "date": "05-Nov-2025"
+    },
+    {
+      "id": 711616,
+      "title": "Profit & Loss Class - 06 Annotation & Without Annotation",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/69099de55f47a_ilovepdf_merged_32_compressed.pdf",
+      "date": "04-Nov-2025"
+    },
+    {
+      "id": 708271,
+      "title": "Profit and Loss - Class -04",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/690498285b12d_profit_and_loss_class_04.pdf",
+      "date": "31-Oct-2025"
+    },
+    {
+      "id": 708059,
+      "title": "Profit & Loss Class - 05 Annotation & Without Annotation",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/69045a0685d85_ilovepdf_merged_26_compressed.pdf",
+      "date": "31-Oct-2025"
+    },
+    {
+      "id": 707619,
+      "title": "Profit and Loss - Class -03",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/69034a6a96b9a_profit_and_loss_class_03.pdf",
+      "date": "30-Oct-2025"
+    },
+    {
+      "id": 707237,
+      "title": "Profit & Loss Class - 04 Annotation & Without Annotation",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6903043fdbfd1_ilovepdf_merged_22_compressed.pdf",
+      "date": "30-Oct-2025"
+    },
+    {
+      "id": 706966,
+      "title": "Profit & Loss Class - 02",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/690209f3c71e7_profit_and_loss_class_02.pdf",
+      "date": "29-Oct-2025"
+    },
+    {
+      "id": 706351,
+      "title": "Profit & Loss Class - 03 Annotation & Without Annotation",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6901b47f6b221_ilovepdf_merged_20_compressed.pdf",
+      "date": "29-Oct-2025"
+    },
+    {
+      "id": 705682,
+      "title": "Profit & Loss Class - 02 Annotation & Without Annotation",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6900918373822_Profit_Loss_Class_02_Annotation_Without_Annotation_compressed.pdf",
+      "date": "28-Oct-2025"
+    },
+    {
+      "id": 705542,
+      "title": "Profit & Loss Class - 01",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/69006e3987b24_profit_and_loss_class_01.pdf",
+      "date": "28-Oct-2025"
+    },
+    {
+      "id": 703356,
+      "title": "Profit & Loss Class - 01 Annotation & Without Annotation",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68ff2be38a87d_Annotation_Without_AnnotationProfit_loss_Class_1_compressed.pdf",
+      "date": "27-Oct-2025"
+    },
+    {
+      "id": 702277,
+      "title": "Race and Circular Motion (Practice Sheet with Solution)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68fb13dd7100b_Race_and_Circular_Motion_Practice_sheet_with_solution.pdf",
+      "date": "24-Oct-2025"
+    },
+    {
+      "id": 702270,
+      "title": "Time ,Speed & Distance Class -14",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68fb137817d35_Time_Speed_Distance_class_14.pdf",
+      "date": "24-Oct-2025"
+    },
+    {
+      "id": 702155,
+      "title": "Time ,Speed & Distance Class -13",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68f45458555c5_Time_Speed_Distance_class_13.pdf",
+      "date": "19-Oct-2025"
+    },
+    {
+      "id": 701827,
+      "title": "Time Speed & Distance (Liner Race) Class - 14 Annotation & Without Annotation",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68f1e84aca4da_Time_Speed_Distance_Liner_Race_Class_14_Annotation_Without_Annotation_compressed.pdf",
+      "date": "17-Oct-2025"
+    },
+    {
+      "id": 700438,
+      "title": "Time Speed & Distance (Liner Race) Class - 13 Annotation & Without Annotation",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68f096fa697f7_ilovepdf_merged_12_compressed.pdf",
+      "date": "16-Oct-2025"
+    },
+    {
+      "id": 700418,
+      "title": "Train Practice Sheet with Solution",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68f091e73e62c_Train_practice_sheet_with_solution.pdf",
+      "date": "16-Oct-2025"
+    },
+    {
+      "id": 700404,
+      "title": "Time Speed & Distance Practice Sheet",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68f091688d002_TIME_SPEED_AND_DISTANCE_PRACTICE_SHEET.pdf",
+      "date": "16-Oct-2025"
+    },
+    {
+      "id": 700092,
+      "title": "Time ,Speed & Distance Class -12",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68ef72eb8702e_Time_Speed_Distance_class_12.pdf",
+      "date": "15-Oct-2025"
+    },
+    {
+      "id": 698480,
+      "title": "Time Speed & Distance (Liner Race) Class - 12 Annotation & Without Annotation",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68ee0ea4c9e07_Time_Speed_Distance_Class_12_Annotation_Without_Annotation_compressed.pdf",
+      "date": "14-Oct-2025"
+    },
+    {
+      "id": 698206,
+      "title": "Printable sheet -Time Speed & Distance Class - 11",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68edee308784e_printable_sheet_Time_Speed_Distance_Class_11.pdf",
+      "date": "14-Oct-2025"
+    },
+    {
+      "id": 698182,
+      "title": "Time Speed & Distance Class - 11 Annotation & Without Annotation",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68eded3e891e5_Time_Speed_Distance_Class_11_Annotation_Without_Annotation_compressed.pdf",
+      "date": "14-Oct-2025"
+    },
+    {
+      "id": 697244,
+      "title": "Printable sheet -Time Speed & Distance Class - 10",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68ecb29bccce9_printable_sheet_Time_Speed_Distance_Class_10.pdf",
+      "date": "13-Oct-2025"
+    },
+    {
+      "id": 697230,
+      "title": "Time Speed & Distance Class - 10 Annotation & Without Annotation",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68ecb21ee8615_Time_Speed_Distance_Class_10_Annotation_Without_Annotation_compressed.pdf",
+      "date": "13-Oct-2025"
+    },
+    {
+      "id": 696607,
+      "title": "Printable sheet -Time Speed & Distance Class - 09",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68e9fccd55083_printable_sheet_Time_Speed_Distance_Class_09.pdf",
+      "date": "11-Oct-2025"
+    },
+    {
+      "id": 696593,
+      "title": "Time Speed & Distance Class - 9 Annotation & Without Annotation",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68e9fc1fc293b_ilovepdf_merged_4_compressed.pdf",
+      "date": "11-Oct-2025"
+    },
+    {
+      "id": 696576,
+      "title": "Average Class -11",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68e9f9ea05743_Average_class_11.pdf",
+      "date": "11-Oct-2025"
+    },
+    {
+      "id": 696231,
+      "title": "Average Class - 11 Annotation & Without Annotation",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68e9ab9179ba8_ilovepdf_merged_1_compressed.pdf",
+      "date": "11-Oct-2025"
+    },
+    {
+      "id": 695812,
+      "title": "Time Speed & Distance Class - 8 Annotation & Without Annotation",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68e8b73302787_ilovepdf_merged_compressed.pdf",
+      "date": "10-Oct-2025"
+    },
+    {
+      "id": 695798,
+      "title": "Printable Sheet -Time Speed & Distance Class - 08",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68e8b4ec67a4d_printable_sheet_Time_Speed_Distance_Class_08.pdf",
+      "date": "10-Oct-2025"
+    },
+    {
+      "id": 695315,
+      "title": "Printable Sheet -Time Speed & Distance Class - 07",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68e7ac04ebf85_printable_sheet_Time_Speed_Distance_Class_07.pdf",
+      "date": "09-Oct-2025"
+    },
+    {
+      "id": 695301,
+      "title": "Time Speed & Distance Class - 7 Annotation & Without Annotation",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68e7ab496836c_Time_Speed_Distance_Class_7_Annotation_Without_Annotation_compressed.pdf",
+      "date": "09-Oct-2025"
+    },
+    {
+      "id": 694082,
+      "title": "Time Speed & Distance Class - 6 Annotation & Without Annotation",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68e614b04294a_ilovepdf_merged_17_compressed.pdf",
+      "date": "08-Oct-2025"
+    },
+    {
+      "id": 694031,
+      "title": "Printable Sheet -Time Speed & Distance Class - 06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68e60f64eb31e_printable_sheet_Time_Speed_Distance_Class_06.pdf",
+      "date": "08-Oct-2025"
+    },
+    {
+      "id": 693692,
+      "title": "Time Speed & Distance Class - 5 Annotation & Without Annotation",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68e4ee42afc42_Annotation_without_Time_Speed_Distance_Class_05.pdf",
+      "date": "07-Oct-2025"
+    },
+    {
+      "id": 693677,
+      "title": "Printable Sheet -Time Speed & Distance Class - 05",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68e4eca1c23f5_printable_sheet_Time_Speed_Distance_Class_05.pdf",
+      "date": "07-Oct-2025"
+    },
+    {
+      "id": 692578,
+      "title": "Time Speed & Distance Class - 04",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68e36a53c3630_Time_Speed_Distance_class_04.pdf",
+      "date": "06-Oct-2025"
+    },
+    {
+      "id": 692564,
+      "title": "Time Speed & Distance Class - 4 Annotation & Without Annotation",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68e3691a6b21b_Time_Speed_Distance_Class_4_Annotation_Without_Annotation_compressed.pdf",
+      "date": "06-Oct-2025"
+    },
+    {
+      "id": 691391,
+      "title": "Time Speed & Distance Class - 03",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68df78934ce47_Time_Speed_Distance_class_03.pdf",
+      "date": "03-Oct-2025"
+    },
+    {
+      "id": 691377,
+      "title": "Time Speed & Distance Class - 3 Annotation & Without Annotation",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68df77bc81eab_Time_Speed_Distance_Class_3_Annotation_Without_Annotation_compressed.pdf",
+      "date": "03-Oct-2025"
+    },
+    {
+      "id": 691363,
+      "title": "Time Speed & Distance Class - 02",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68df76199915b_Time_Speed_Distance_class_02.pdf",
+      "date": "03-Oct-2025"
+    },
+    {
+      "id": 688134,
+      "title": "Time Speed & Distance Class - 2 Annotation & Without Annotation",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68dccd5be3e12_Time_Speed_Distance_Class_2_Annotation_Without_Annotation_compressed.pdf",
+      "date": "01-Oct-2025"
+    },
+    {
+      "id": 684724,
+      "title": "Time Speed & Distance Class - 01",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68dbb496729de_Time_Speed_Distance_class_01.pdf",
+      "date": "30-Sep-2025"
+    },
+    {
+      "id": 684710,
+      "title": "Time Speed & Distance Class - 1 Annotation & Without Annotation",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68dbb39ec3660_Time_Speed_Distance_Class_1_Annotation_Without_Annotation_compressed.pdf",
+      "date": "30-Sep-2025"
+    },
+    {
+      "id": 683300,
+      "title": "Simplification Practice Sheet",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68da078a751cb_SIMPLIFICATION_PRACTICE_SHEET_Question_with_solution.pdf",
+      "date": "29-Sep-2025"
+    },
+    {
+      "id": 683281,
+      "title": "Simplification Class -5",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68da0632b58af_Simplification_class_5.pdf",
+      "date": "29-Sep-2025"
+    },
+    {
+      "id": 682894,
+      "title": "Simplification Class - 5 Annotation & Without Annotation",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68d676ca8665f_Simplification_Class_5_Annotation_Without_Annotation_compressed.pdf",
+      "date": "26-Sep-2025"
+    },
+    {
+      "id": 682360,
+      "title": "Average Class -10",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68d61c6e45b85_Average_class_10.pdf",
+      "date": "26-Sep-2025"
+    },
+    {
+      "id": 682144,
+      "title": "Simplification Class-4",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68d51b99109d6_Simplification_class_4.pdf",
+      "date": "25-Sep-2025"
+    },
+    {
+      "id": 681486,
+      "title": "Simplification Class - 4 Annotation & Without Annotation",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68d4e4e480fb2_ilovepdf_merged_4_compressed.pdf",
+      "date": "25-Sep-2025"
+    },
+    {
+      "id": 681297,
+      "title": "Simplification Class-1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68d4cec85fa97_simplification_class_01.pdf",
+      "date": "25-Sep-2025"
+    },
+    {
+      "id": 681205,
+      "title": "Simplification Class-2&3",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68d4beb5512fd_ilovepdf_merged_1_compressed.pdf",
+      "date": "25-Sep-2025"
+    },
+    {
+      "id": 680745,
+      "title": "Simplification Class - 3 Annotation & Without Annotation",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68d38c04d9a4d_ilovepdf_merged_compressed.pdf",
+      "date": "24-Sep-2025"
+    },
+    {
+      "id": 680041,
+      "title": "Simplification Class - 2 Annotation & Without Annotation",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68d23af4935e4_Simplification_Class_2_Annotation_Without_Annotation_compressed.pdf",
+      "date": "23-Sep-2025"
+    },
+    {
+      "id": 679942,
+      "title": "Average Class - 10 Annotation & Without Annotation",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68d227bc2014e_Average_Class_10_Annotation_Without_Annotation_compressed.pdf",
+      "date": "23-Sep-2025"
+    },
+    {
+      "id": 678324,
+      "title": "Simplification  Class - 1 Annotation & Without Annotation",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68d0e9c2ecf5f_ilovepdf_merged_6_compressed.pdf",
+      "date": "22-Sep-2025"
+    },
+    {
+      "id": 675514,
+      "title": "Average Class -9",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68ce40faa6c93_Average_class_9.pdf",
+      "date": "20-Sep-2025"
+    },
+    {
+      "id": 675082,
+      "title": "Average Class - 9 Annotation & Without Annotation",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68cd05dbec4fd_Average_Class_9_Annotation_Without_Annotation_compressed.pdf",
+      "date": "19-Sep-2025"
+    },
+    {
+      "id": 674941,
+      "title": "Average Class -8",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68ccfea16bffa_Average_class_8.pdf",
+      "date": "19-Sep-2025"
+    },
+    {
+      "id": 674917,
+      "title": "Average Class - 8 Annotation & Without Annotation",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68ccfdf526299_Average_Class_8_Annotation_Without_Annotation_compressed.pdf",
+      "date": "19-Sep-2025"
+    },
+    {
+      "id": 674784,
+      "title": "Average DPP-4",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68ccf31115bc6_68c9344e7647a_average_dpp_04.pdf",
+      "date": "19-Sep-2025"
+    },
+    {
+      "id": 668704,
+      "title": "Average Class -7",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68c905c77506a_Average_class_7.pdf",
+      "date": "16-Sep-2025"
+    },
+    {
+      "id": 668684,
+      "title": "Average Class - 7 Annotation & Without Annotation",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68c8fc9a0dac7_Average_Class_7_Annotation_Without_Annotation_compressed.pdf",
+      "date": "16-Sep-2025"
+    },
+    {
+      "id": 662909,
+      "title": "Average Class -6",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68c792b753fc5_Average_class_6.pdf",
+      "date": "15-Sep-2025"
+    },
+    {
+      "id": 662278,
+      "title": "Average Class - 6 Annotation & Without Annotation",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68c53cce4e8ba_Average_Class_6_Annotation_Without_Annotation_compressed.pdf",
+      "date": "13-Sep-2025"
+    },
+    {
+      "id": 662261,
+      "title": "Average Class - 5",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68c53a83eadf4_Average_class_5.pdf",
+      "date": "13-Sep-2025"
+    },
+    {
+      "id": 660907,
+      "title": "Average DPP-3",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68c28c9a09c34_average_dpp_03.pdf",
+      "date": "11-Sep-2025"
+    },
+    {
+      "id": 660045,
+      "title": "Average Class - 5 Annotation & Without Annotation",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68c26f64c0c32_Average_Class_5_Annotation_Without_Annotation_compressed.pdf",
+      "date": "11-Sep-2025"
+    },
+    {
+      "id": 655631,
+      "title": "Average DPP-2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68c25bbad9b63_Average_DPP_2.pdf",
+      "date": "11-Sep-2025"
+    },
+    {
+      "id": 655611,
+      "title": "Average Class - 4",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68c2594153989_Average_class_4.pdf",
+      "date": "11-Sep-2025"
+    },
+    {
+      "id": 654923,
+      "title": "Average Class - 4 Annotation & Without Annotation",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68c11dd0127a4_Average_Class_4_Annotation_Without_Annotation_compressed.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 653959,
+      "title": "Average Class - 3",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68c1097ccb10a_Average_class_3.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 653453,
+      "title": "Average Class - 3 Annotation & Without Annotation",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68bfc8f5f16f4_Average_Class_3_Annotation_Without_Annotation_compressed.pdf",
+      "date": "09-Sep-2025"
+    },
+    {
+      "id": 650637,
+      "title": "Average DPP-1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68bbd70b59417_Average_DPP_1.pdf",
+      "date": "06-Sep-2025"
+    },
+    {
+      "id": 650620,
+      "title": "Average Class -2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68bbd5c6e8140_Average_class_2.pdf",
+      "date": "06-Sep-2025"
+    },
+    {
+      "id": 648633,
+      "title": "Average Class - 2 Annotation & Without Annotation",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68ba7f4bc22ff_ilovepdf_merged_85_compressed.pdf",
+      "date": "05-Sep-2025"
+    },
+    {
+      "id": 648616,
+      "title": "Average class -1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68ba7def9b245_Average_class_1.pdf",
+      "date": "05-Sep-2025"
+    },
+    {
+      "id": 648098,
+      "title": "Average Class - 1 Annotation & Without Annotation",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b92d903dd15_ilovepdf_merged_84_compressed.pdf",
+      "date": "04-Sep-2025"
+    },
+    {
+      "id": 647366,
+      "title": "Percentage Class-10",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b7d04a47385_Percentage_class_10.pdf",
+      "date": "03-Sep-2025"
+    },
+    {
+      "id": 646045,
+      "title": "Percentage Class - 10 Annotation & Without Annotation",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b6884fcff90_ilovepdf_merged_81_compressed.pdf",
+      "date": "02-Sep-2025"
+    },
+    {
+      "id": 638575,
+      "title": "Special Session Class -03",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68abf0ee26853_special_session_class_03.pdf",
+      "date": "25-Aug-2025"
+    },
+    {
+      "id": 638161,
+      "title": "Special Session Class - 03 Annotation & Without Annotation - Target CGL 2025",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a944c76a906_Special_Session_Class_03_Annotation_Without_Annotation_Target_CGL_2025.pdf",
+      "date": "23-Aug-2025"
+    },
+    {
+      "id": 637357,
+      "title": "Special Session Class -02",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a7f34b20c9b_special_session_class_02.pdf",
+      "date": "22-Aug-2025"
+    },
+    {
+      "id": 636719,
+      "title": "Special Session Class - 02 Annotation & Without Annotation - Target CGL 2025",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a6b82659c21_Special_Session_Class_02_Annotation_Without_Annotation_Target_CGL_2025.pdf",
+      "date": "21-Aug-2025"
+    },
+    {
+      "id": 633237,
+      "title": "Special Session Class -01",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a40c8f66973_special_session_class_01.pdf",
+      "date": "19-Aug-2025"
+    },
+    {
+      "id": 633227,
+      "title": "Trigonometry Practice Sheet",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6744406f9ba96_Trigonometry.pdf",
+      "date": "19-Aug-2025"
+    },
+    {
+      "id": 633226,
+      "title": "Quadratic Equation Practice Sheet",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6744404b815fd_Quadratic_Equation.pdf",
+      "date": "19-Aug-2025"
+    },
+    {
+      "id": 633225,
+      "title": "Mensuration – 3D Practice Sheet",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6744402458e35_Mensuration_3D.pdf",
+      "date": "19-Aug-2025"
+    },
+    {
+      "id": 633224,
+      "title": "Mensuration – 2D Practice Sheet",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67443ffc52619_Mensuration_2D.pdf",
+      "date": "19-Aug-2025"
+    },
+    {
+      "id": 633223,
+      "title": "LCM & HCF Practice Sheet",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67443fcaac0a9_LCM_HCF.pdf",
+      "date": "19-Aug-2025"
+    },
+    {
+      "id": 633222,
+      "title": "Height and Distance Practice Sheet",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67443fa61ecf9_Height_and_Distance.pdf",
+      "date": "19-Aug-2025"
+    },
+    {
+      "id": 633221,
+      "title": "Geometry Practice Sheet",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67443f70ae26a_Geometry.pdf",
+      "date": "19-Aug-2025"
+    },
+    {
+      "id": 633220,
+      "title": "Geometry PYQ Mixed Practice Sheet",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67443f4bcd2a9_Geometry_PYQ_mixed_practice.pdf",
+      "date": "19-Aug-2025"
+    },
+    {
+      "id": 633219,
+      "title": "Cordinate Geometry Practice Sheet",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67443f0d5591e_Cordinate_Geometry.pdf",
+      "date": "19-Aug-2025"
+    },
+    {
+      "id": 633218,
+      "title": "Algebra Practice Sheet",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67443ee8370b7_ALGEBRA_part_1.pdf",
+      "date": "19-Aug-2025"
+    },
+    {
+      "id": 633217,
+      "title": "Time Speed and Distance - 13 Practice Sheet",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67443e9c3866e_Time_Speed_and_Distance.pdf",
+      "date": "19-Aug-2025"
+    },
+    {
+      "id": 633216,
+      "title": "Time Speed and Distance - 12 Practice Sheet",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67443e8257a5f_Time_Speed_and_Distance_12.pdf",
+      "date": "19-Aug-2025"
+    },
+    {
+      "id": 633215,
+      "title": "Time Speed and Distance - 11 Practice Sheet",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67443e6a8f725_Time_Speed_and_Distance_11.pdf",
+      "date": "19-Aug-2025"
+    },
+    {
+      "id": 633214,
+      "title": "Time Speed and Distance - 10 Practice Sheet",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67443e30ef97f_Time_Speed_and_Distance_10.pdf",
+      "date": "19-Aug-2025"
+    },
+    {
+      "id": 633213,
+      "title": "Time Speed and Distance - 9 Practice Sheet",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67443e1fb3028_Time_Speed_and_Distance_9.pdf",
+      "date": "19-Aug-2025"
+    },
+    {
+      "id": 633212,
+      "title": "Time Speed and Distance - 8 Practice Sheet",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67443e0ed5ffe_Time_Speed_and_Distance_8.pdf",
+      "date": "19-Aug-2025"
+    },
+    {
+      "id": 633211,
+      "title": "Time Speed and Distance - 7 Practice Sheet",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67443df8b228a_Time_Speed_and_Distance_7.pdf",
+      "date": "19-Aug-2025"
+    },
+    {
+      "id": 633210,
+      "title": "Time Speed and Distance - 6 Practice Sheet",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67443de5f4039_Time_Speed_and_Distance_6.pdf",
+      "date": "19-Aug-2025"
+    },
+    {
+      "id": 633209,
+      "title": "Time Speed and Distance - 5 Practice Sheet",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67443db6941c6_Time_Speed_and_Distance_5.pdf",
+      "date": "19-Aug-2025"
+    },
+    {
+      "id": 633208,
+      "title": "Time Speed and Distance - 4 Practice Sheet",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67443da010fae_Time_Speed_and_Distance_4.pdf",
+      "date": "19-Aug-2025"
+    },
+    {
+      "id": 633207,
+      "title": "Time Speed and Distance - 3 Practice Sheet",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67443d846043f_Time_Speed_and_Distance_3.pdf",
+      "date": "19-Aug-2025"
+    },
+    {
+      "id": 633206,
+      "title": "Time Speed and Distance - 2 Practice Sheet",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67443d69bc88e_Time_Speed_and_Distance_2.pdf",
+      "date": "19-Aug-2025"
+    },
+    {
+      "id": 633205,
+      "title": "Time Speed and Distance - 1 Practice Sheet",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67443d34697e3_Time_Speed_and_Distance_1.pdf",
+      "date": "19-Aug-2025"
+    },
+    {
+      "id": 633204,
+      "title": "Simple Interest Practice Sheet",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67443cc37d63f_Simple_Interest.pdf",
+      "date": "19-Aug-2025"
+    },
+    {
+      "id": 633203,
+      "title": "SI and CI Practice Sheet",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67443ca14cddb_SI_and_CI.pdf",
+      "date": "19-Aug-2025"
+    },
+    {
+      "id": 633202,
+      "title": "Ratio and Proportion Practice Sheet",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67443c5d19077_Ratio_and_Proportion.pdf",
+      "date": "19-Aug-2025"
+    },
+    {
+      "id": 633201,
+      "title": "Profit and Loss Practice Sheet",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67443c191d299_Profit_and_Loss.pdf",
+      "date": "19-Aug-2025"
+    },
+    {
+      "id": 633200,
+      "title": "Percentage Practice Sheet",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67443be05aeb3_Percentage.pdf",
+      "date": "19-Aug-2025"
+    },
+    {
+      "id": 633199,
+      "title": "Partnership Practice Sheet",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67443bba28a07_Partnership.pdf",
+      "date": "19-Aug-2025"
+    },
+    {
+      "id": 633198,
+      "title": "Number System Practice Sheet",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67443b9057d05_Number_System.pdf",
+      "date": "19-Aug-2025"
+    },
+    {
+      "id": 633197,
+      "title": "Mixture and Alligation Practice Sheet",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67443b5c914df_Mixture_and_Alligation.pdf",
+      "date": "19-Aug-2025"
+    },
+    {
+      "id": 633196,
+      "title": "Discount Practice Sheet",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67443b30be7d2_Discount.pdf",
+      "date": "19-Aug-2025"
+    },
+    {
+      "id": 633195,
+      "title": "Compound  Interest Practice Sheet",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67443b05cb1f9_Compound_Interest.pdf",
+      "date": "19-Aug-2025"
+    },
+    {
+      "id": 633194,
+      "title": "Average Practice Sheet",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67443ae5ca53d_Average.pdf",
+      "date": "19-Aug-2025"
+    },
+    {
+      "id": 633193,
+      "title": "Average PYQ",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67443a6bced19_Average_PYQs.pdf",
+      "date": "19-Aug-2025"
+    },
+    {
+      "id": 633192,
+      "title": "Time and Work Practice Sheet",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/675145926822f_Time_and_work.pdf",
+      "date": "19-Aug-2025"
+    },
+    {
+      "id": 633183,
+      "title": "Special Session Class - 01 Annotation & Without Annotation - Target CGL 2025",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a40bd4942b4_Annotation_Without_Annotation_target_cgl_2025_special_session_01_compressed.pdf",
+      "date": "19-Aug-2025"
+    },
+    {
+      "id": 628809,
+      "title": "Statistics Part - 05 Annotation & Without Annotation",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a2c58f9e365_ilovepdf_merged_64_compressed.pdf",
+      "date": "18-Aug-2025"
+    },
+    {
+      "id": 645914,
+      "title": "Percentage Class-09",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b67d38332db_Percentage_class_9.pdf",
+      "date": "02-Sep-2025"
+    },
+    {
+      "id": 644457,
+      "title": "Percentage Class - 09 Annotation & Without Annotation",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b545e8a63da_Percentage_Class_09_Annotation_Without_Annotation_compressed.pdf",
+      "date": "01-Sep-2025"
+    },
+    {
+      "id": 644397,
+      "title": "Percentage Class-08",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b5310a363b2_Percentage_class_8.pdf",
+      "date": "01-Sep-2025"
+    },
+    {
+      "id": 644382,
+      "title": "Percentage Class - 08 Annotation & Without Annotation",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b5309f2e67a_Percentage_Class_08_Annotation_Without_Annotation_compressed.pdf",
+      "date": "01-Sep-2025"
+    },
+    {
+      "id": 644355,
+      "title": "Percentage Class-07",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b52f1932879_Percentage_class_7.pdf",
+      "date": "01-Sep-2025"
+    },
+    {
+      "id": 644334,
+      "title": "Percentage Class - 07 Annotation & Without Annotation",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b52d78ef10e_Percentage_Class_07_Annotation_Without_Annotation_compressed.pdf",
+      "date": "01-Sep-2025"
+    },
+    {
+      "id": 641004,
+      "title": "Percentage Practice Sheet (Question with Solution)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68aeeff370792_Percentage_Practice_sheet_Question_with_solution.pdf",
+      "date": "27-Aug-2025"
+    },
+    {
+      "id": 645935,
+      "title": "Percentage Class-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b67e04924b4_PERCENTAGE_CLASS_06.pdf",
+      "date": "02-Sep-2025"
+    },
+    {
+      "id": 637650,
+      "title": "Percentage Class - 06 Annotation & Without Annotation",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a809c19b5f1_ilovepdf_merged_72_compressed.pdf",
+      "date": "22-Aug-2025"
+    },
+    {
+      "id": 635266,
+      "title": "Percentage Class-05",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a58d9e1266e_PERCENTAGE_CLASS_05.pdf",
+      "date": "20-Aug-2025"
+    },
+    {
+      "id": 635045,
+      "title": "Percentage Class - 05 Annotation & Without Annotation",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a56b5e013e9_ilovepdf_merged_71_compressed.pdf",
+      "date": "20-Aug-2025"
+    },
+    {
+      "id": 633860,
+      "title": "Percentage Class-04",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a4688079ebd_PERCENTAGE_CLASS_04.pdf",
+      "date": "19-Aug-2025"
+    },
+    {
+      "id": 633634,
+      "title": "Percentage Class - 04 Annotation & Without Annotation",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a4346f04e62_Annotation_Without_Annotation_percenatage_Class_4_compressed.pdf",
+      "date": "19-Aug-2025"
+    },
+    {
+      "id": 633029,
+      "title": "Percentage - DPP",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a3260d5b7c3_Percentage_DPP_1_1.pdf",
+      "date": "18-Aug-2025"
+    },
+    {
+      "id": 629052,
+      "title": "Percentage Class-03",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a2d208ebe08_PERCENTAGE_CLASS_03.pdf",
+      "date": "18-Aug-2025"
+    },
+    {
+      "id": 628799,
+      "title": "Percentage Class - 03 Annotation & Without Annotation",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a2c431778f1_ilovepdf_merged_63_compressed.pdf",
+      "date": "18-Aug-2025"
+    },
+    {
+      "id": 628784,
+      "title": "Percentage DPP - 01",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a2c41ba09aa_Percentage_DPP_1.pdf",
+      "date": "18-Aug-2025"
+    },
+    {
+      "id": 623390,
+      "title": "Percentage Class - 02",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/689daffd2803f_PERCENTAGE_CLASS_2.pdf",
+      "date": "14-Aug-2025"
+    },
+    {
+      "id": 623375,
+      "title": "Percentage Class - 02 Annotation & Without Annotation",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/689daf7e4b77d_Percentage_Class_02_Annotation_Without_Annotation_compressed.pdf",
+      "date": "14-Aug-2025"
+    },
+    {
+      "id": 622808,
+      "title": "Percentage Class - 01",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/689c82746b949_PERCENTAGE_CLASS_1.pdf",
+      "date": "13-Aug-2025"
+    },
+    {
+      "id": 622547,
+      "title": "Percentage Class - 01 Annotation & Without Annotation",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/689c6d9f1d652_Percenatage_Class_01_Annotation_Without_Annotation_compressed.pdf",
+      "date": "13-Aug-2025"
+    }
+  ]
+}
