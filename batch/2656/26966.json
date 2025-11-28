@@ -1,0 +1,424 @@
+{
+  "batchid": 2656,
+  "topicid": 26966,
+  "classes_total": 43,
+  "classes": [
+    {
+      "title": "Class-43 | NATIONAL PARK",
+      "id": "4430321",
+      "date": "29-Mar-2023 16:00",
+      "video_url": "4430321_0_8622441143514279"
+    },
+    {
+      "title": "Class-42 | NATIONAL PARK",
+      "id": "4430320",
+      "date": "23-Mar-2023 15:00",
+      "video_url": "4430320_0_3229184074917100"
+    },
+    {
+      "title": "Class-41 | NATIONAL PARK",
+      "id": "4430319",
+      "date": "22-Mar-2023 15:00",
+      "video_url": "4430319_0_7816659538819126"
+    },
+    {
+      "title": "Class-40 | Bio Geo Chemical Cycle / जैव भू रासायनिक चक्र",
+      "id": "4430318",
+      "date": "21-Mar-2023 15:00",
+      "video_url": "4430318_0_7904911669587144"
+    },
+    {
+      "title": "Class-39 | Bio Geo Chemical Cycle / जैव भू रासायनिक चक्र",
+      "id": "4430317",
+      "date": "20-Mar-2023 15:00",
+      "video_url": "4430317_0_2241094910877177"
+    },
+    {
+      "title": "Class-38 | Bio Geo Chemical Cycle / जैव भू रासायनिक चक्र",
+      "id": "4430316",
+      "date": "17-Mar-2023 15:00",
+      "video_url": "4430316_0_3429335566098103"
+    },
+    {
+      "title": "Class-37 | Bio Geo Chemical Cycle / जैव भू रासायनिक चक्र",
+      "id": "4430315",
+      "date": "16-Mar-2023 16:00",
+      "video_url": "4430315_0_1975583938973158"
+    },
+    {
+      "title": "Class-36 | Bio Geo Chemical Cycle / जैव भू रासायनिक चक्र",
+      "id": "4430314",
+      "date": "15-Mar-2023 16:00",
+      "video_url": "4430314_0_3705667411511950"
+    },
+    {
+      "title": "Class-35 | Bio Geo Chemical Cycle / जैव भू रासायनिक चक्र",
+      "id": "4430313",
+      "date": "14-Mar-2023 16:00",
+      "video_url": "4430313_0_6774869483136789"
+    },
+    {
+      "title": "Class-34 | Bio Geo Chemical Cycle / जैव भू रासायनिक चक्र",
+      "id": "4430312",
+      "date": "13-Mar-2023 16:00",
+      "video_url": "4430312_0_9029040617949381"
+    },
+    {
+      "title": "Class-33 | Ecosystem / पारिस्थितिकी तंत्र",
+      "id": "4430311",
+      "date": "03-Mar-2023 16:00",
+      "video_url": "4430311_0_8775440951134503"
+    },
+    {
+      "title": "Class-32 | Ecosystem / पारिस्थितिकी तंत्र",
+      "id": "4430310",
+      "date": "02-Mar-2023 16:00",
+      "video_url": "4430310_0_7500021120678642"
+    },
+    {
+      "title": "Class-31 | Ecosystem / पारिस्थितिकी तंत्र",
+      "id": "4430309",
+      "date": "01-Mar-2023 16:00",
+      "video_url": "4430309_0_4578745491227818"
+    },
+    {
+      "title": "Class-30 | Ecosystem / पारिस्थितिकी तंत्र",
+      "id": "4430308",
+      "date": "28-Feb-2023 15:00",
+      "video_url": "4430308_0_9963766975621314"
+    },
+    {
+      "title": "Class-29 | Ecosystem / पारिस्थितिकी तंत्र",
+      "id": "4430307",
+      "date": "24-Feb-2023 15:00",
+      "video_url": "4430307_0_4159449581757958"
+    },
+    {
+      "title": "Class-28 |  Ecosystem / पारिस्थितिकी तंत्र",
+      "id": "4430306",
+      "date": "23-Feb-2023 15:00",
+      "video_url": "4430306_0_2469654266378055"
+    },
+    {
+      "title": "Class-27 | Ecosystem / पारिस्थितिकी तंत्र",
+      "id": "4430305",
+      "date": "21-Feb-2023 16:00",
+      "video_url": "4430305_0_6625777736123384"
+    },
+    {
+      "title": "Class-26  | Water Pollution / जल प्रदूषण",
+      "id": "4430304",
+      "date": "20-Feb-2023 16:00",
+      "video_url": "4430304_0_2686440544416819"
+    },
+    {
+      "title": "Class-25 | Water Pollution / जल प्रदूषण",
+      "id": "4430303",
+      "date": "14-Feb-2023 15:00",
+      "video_url": "4430303_0_6847144103517887"
+    },
+    {
+      "title": "Class-24 | Water Pollution / जल प्रदूषण",
+      "id": "4430302",
+      "date": "13-Feb-2023 15:00",
+      "video_url": "4430302_0_3066364457027549"
+    },
+    {
+      "title": "Class-23 | Marine Pollution / समुद्री प्रदूषण",
+      "id": "4430301",
+      "date": "10-Feb-2023 15:00",
+      "video_url": "4430301_0_2884479767554631"
+    },
+    {
+      "title": "Class-22 | Marine Pollution / समुद्री प्रदूषण",
+      "id": "4430300",
+      "date": "08-Feb-2023 15:00",
+      "video_url": "4430300_0_2250484849707509"
+    },
+    {
+      "title": "Class-21 | Pollution / प्रदूषण",
+      "id": "4430299",
+      "date": "07-Feb-2023 15:00",
+      "video_url": "4430299_0_7617853019726561"
+    },
+    {
+      "title": "Class-20 || Ground Ozone / धरतलिय ओजोन |",
+      "id": "4430298",
+      "date": "06-Feb-2023 15:00",
+      "video_url": "4430298_0_8941150679187881"
+    },
+    {
+      "title": "Class-19 || Ground Ozone / धरतलिय ओजोन |",
+      "id": "4430297",
+      "date": "03-Feb-2023 15:00",
+      "video_url": "4430297_0_9476794116796395"
+    },
+    {
+      "title": "Class-18 | Pollution /  प्रदूषण",
+      "id": "4430296",
+      "date": "02-Feb-2023 15:00",
+      "video_url": "4430296_0_3264393042906332"
+    },
+    {
+      "title": "Class-17 | Major Gene Pool Centre / मेजर जीन पूल सेंटर",
+      "id": "4430295",
+      "date": "01-Feb-2023 15:00",
+      "video_url": "4430295_0_8224009412885057"
+    },
+    {
+      "title": "Class-16 | Question Practice",
+      "id": "4430294",
+      "date": "31-Jan-2023 15:00",
+      "video_url": "4430294_0_5419030668572824"
+    },
+    {
+      "title": "Class-15 | Ecoogical Succession / पारिस्थितिक  अनुक्रमण",
+      "id": "4430293",
+      "date": "30-Jan-2023 15:00",
+      "video_url": "4430293_0_8932949804977827"
+    },
+    {
+      "title": "Class-14 | Major Organization and Conventions / प्रमुख संगठन और सम्मेलन",
+      "id": "4430292",
+      "date": "25-Jan-2023 15:00",
+      "video_url": "4430292_0_4363510031116441"
+    },
+    {
+      "title": "Class-13 | Major Organization and Conventions / प्रमुख संगठन और सम्मेलन",
+      "id": "4430291",
+      "date": "24-Jan-2023 15:00",
+      "video_url": "4430291_0_7337650117359062"
+    },
+    {
+      "title": "Class-12 | Major Organization and  Conventions / प्रमुख संगठन और सम्मेलन",
+      "id": "4430290",
+      "date": "18-Jan-2023 15:00",
+      "video_url": "4430290_0_2227390389711756"
+    },
+    {
+      "title": "Class-11 | Disaster / आपदा",
+      "id": "4430289",
+      "date": "17-Jan-2023 15:00",
+      "video_url": "4430289_0_1039883755989930"
+    },
+    {
+      "title": "Class-10 | Disaster / आपदा",
+      "id": "4430288",
+      "date": "12-Jan-2023 15:00",
+      "video_url": "4430288_0_3235580603175694"
+    },
+    {
+      "title": "Class-09 |  Disaster / आपदा",
+      "id": "4430287",
+      "date": "10-Jan-2023 15:00",
+      "video_url": "4430287_0_2911012811477194"
+    },
+    {
+      "title": "Class-08 | Climate Change / जलवायु परिवर्तन",
+      "id": "4430286",
+      "date": "09-Jan-2023 15:00",
+      "video_url": "4430286_0_3467788015523762"
+    },
+    {
+      "title": "Class-07 |  Climate Change / जलवायु परिवर्तन",
+      "id": "4430285",
+      "date": "06-Jan-2023 15:00",
+      "video_url": "4430285_0_8885355857293426"
+    },
+    {
+      "title": "Class-06 | Soil Classification / मिट्टी का वर्गीकरण",
+      "id": "4430284",
+      "date": "05-Jan-2023 15:00",
+      "video_url": "4430284_0_7047875092544415"
+    },
+    {
+      "title": "Class-05 | Soil Classification / मिट्टी का वर्गीकरण",
+      "id": "4430283",
+      "date": "03-Jan-2023 15:00",
+      "video_url": "4430283_0_8718117208700658"
+    },
+    {
+      "title": "Class-04 | Soil Classification / मिट्टी का वर्गीकरण",
+      "id": "4430282",
+      "date": "02-Jan-2023 15:00",
+      "video_url": "4430282_0_6181084799007358"
+    },
+    {
+      "title": "Class-03 | Bio Geograpy-Soil / जैव भूगोल - मृदा",
+      "id": "4430281",
+      "date": "28-Dec-2022 16:00",
+      "video_url": "4430281_0_7786585828531591"
+    },
+    {
+      "title": "Class-02 | Bio Geograpy-Soil / जैव भूगोल - मृदा",
+      "id": "4430280",
+      "date": "27-Dec-2022 15:00",
+      "video_url": "4430280_0_5387582020934738"
+    },
+    {
+      "title": "Class-01 | Bio Geograpy-Soil / जैव भूगोल - मृदा",
+      "id": "4430279",
+      "date": "26-Dec-2022 15:00",
+      "video_url": "4430279_0_3107489160848938"
+    }
+  ],
+  "notes_total": 26,
+  "notes": [
+    {
+      "id": 501608,
+      "title": "Heat & Temp Part 2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67d2f62b2fcbc_Heat_Temp_Part_2.pdf",
+      "date": "13-Mar-2025"
+    },
+    {
+      "id": 501388,
+      "title": "Heat & Temp Part-2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67d29c8689bf7_Heat_Temp_Part_2.pdf",
+      "date": "13-Mar-2025"
+    },
+    {
+      "id": 494256,
+      "title": "Environment Part 3",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67c039031546f_Environment_Part_3.pdf",
+      "date": "27-Feb-2025"
+    },
+    {
+      "id": 494229,
+      "title": "Environment Part 1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67c0375344d15_Environment_Part_1compressed.pdf",
+      "date": "27-Feb-2025"
+    },
+    {
+      "id": 494198,
+      "title": "Environment Part 2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67c033acac84a_Environment_Part_2compressed.pdf",
+      "date": "27-Feb-2025"
+    },
+    {
+      "id": 492255,
+      "title": "Heat & Temp Part 1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67bbc944aae15_Heat_Temp_Part_1.pdf",
+      "date": "24-Feb-2025"
+    },
+    {
+      "id": 461237,
+      "title": "Computer Part-2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/677699ef0e658_Computer_Part_2compressed.pdf",
+      "date": "02-Jan-2025"
+    },
+    {
+      "id": 461223,
+      "title": "Computer Part-1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67769878693a4_Computer_Part_1compressed.pdf",
+      "date": "02-Jan-2025"
+    },
+    {
+      "id": 454412,
+      "title": "Simple Lever & Machine",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/675d08904e7a2_Simple_Machine343059crwill.pdf",
+      "date": "14-Dec-2024"
+    },
+    {
+      "id": 454411,
+      "title": "Mass, Weight & Density",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/675d086452130_Mass_Weight_Density12343058crwill.pdf",
+      "date": "14-Dec-2024"
+    },
+    {
+      "id": 454410,
+      "title": "Speed & Velocity Part-2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/675d084ba7082_Speed_Velocity_Part2343057crwill.pdf",
+      "date": "14-Dec-2024"
+    },
+    {
+      "id": 454409,
+      "title": "Speed & Velocity Part-1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/675d080a78929_Speed_Velocity_Part1343056crwill.pdf",
+      "date": "14-Dec-2024"
+    },
+    {
+      "id": 454408,
+      "title": "Unit & Measurement",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/675d07d06b45e_Unit_Measurement343055crwill.pdf",
+      "date": "14-Dec-2024"
+    },
+    {
+      "id": 452222,
+      "title": "ED Notes Part-6",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6757de8404ed6_Engineering_Drawing_Part6343049crwill.pdf",
+      "date": "10-Dec-2024"
+    },
+    {
+      "id": 452221,
+      "title": "Projection & View Ques",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6757de6b93f3b_Projection_View_Ques343048crwill.pdf",
+      "date": "10-Dec-2024"
+    },
+    {
+      "id": 452220,
+      "title": "ED Notes Part-5",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6757de5c9cb6e_Engineering_Drawing_Part5343047crwill.pdf",
+      "date": "10-Dec-2024"
+    },
+    {
+      "id": 452214,
+      "title": "ED Notes Part 4 (geometric Figure)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6757de467d0cd_Engineering_Drawing_Parts4_Geometric_Figure343045crwill.pdf",
+      "date": "10-Dec-2024"
+    },
+    {
+      "id": 452213,
+      "title": "ED Notes Part 3 (lines)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6757de2a242f7_ENGG._Drawing_Notes_Part3_Lines343043crwill.pdf",
+      "date": "10-Dec-2024"
+    },
+    {
+      "id": 452212,
+      "title": "ED Chaper 2 Practice Ques",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6757de116a1f2_ED_Chapter2_Practice_Ques_343042crwill.pdf",
+      "date": "10-Dec-2024"
+    },
+    {
+      "id": 452211,
+      "title": "Engg Drawing Part-2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6757ddf569bd1_Engineering_Drawing_Class_Notes2343041crwill.pdf",
+      "date": "10-Dec-2024"
+    },
+    {
+      "id": 452210,
+      "title": "ED Chapter 1 Practice Ques",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6757ddcdcab8c_ED_Chapter1_Practice_Ques343040crwill.pdf",
+      "date": "10-Dec-2024"
+    },
+    {
+      "id": 452209,
+      "title": "Engg Drawing Part-1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6757dd2e0f552_Engineering_Drawing1343037crwill.pdf",
+      "date": "10-Dec-2024"
+    },
+    {
+      "id": 452208,
+      "title": "Work & Power Part-2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6757dcd38199b_Work_Power_Notes_Part2343046crwill.pdf",
+      "date": "10-Dec-2024"
+    },
+    {
+      "id": 452170,
+      "title": "Work & Power Part-1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/675794911ff01_Work_Power_Notes_Part1343044crwill.pdf",
+      "date": "10-Dec-2024"
+    },
+    {
+      "id": 452169,
+      "title": "Safety & Health Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6757947704d68_Safety_Health_Notes343038crwill.pdf",
+      "date": "10-Dec-2024"
+    },
+    {
+      "id": 452168,
+      "title": "Electricity Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6757945e75d2f_Electricity_Notes343039crwill.pdf",
+      "date": "10-Dec-2024"
+    }
+  ]
+}
