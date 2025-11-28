@@ -1,0 +1,634 @@
+{
+  "batchid": 2686,
+  "topicid": 27234,
+  "classes_total": 48,
+  "classes": [
+    {
+      "title": "Class-55 || Network Theory ( Theorem Ques ) || Rajkumar Sir",
+      "id": "4439347",
+      "date": "31-Jul-2024 10:00",
+      "video_url": "4439347_0_5050079900998336"
+    },
+    {
+      "title": "Class-54 || Network Theory ( Theorem Ques ) || Rajkumar Sir",
+      "id": "4439346",
+      "date": "30-Jul-2024 10:00",
+      "video_url": "4439346_0_1391799992215998"
+    },
+    {
+      "title": "Class-51 || Network Theory ( Max power Transfer Theorem ) || Rajkumar Sir",
+      "id": "4439345",
+      "date": "25-Jul-2024 10:00",
+      "video_url": "4439345_0_4520478658692757"
+    },
+    {
+      "title": "Class-50 || Network Theory ( Max power Transfer Theorem ) || Rajkumar Sir",
+      "id": "4439344",
+      "date": "24-Jul-2024 10:00",
+      "video_url": "4439344_0_3509629184318269"
+    },
+    {
+      "title": "Class-49 || Network Theory ( Tellegens & Reciprocity Theorem ) || Rajkumar Sir",
+      "id": "4439343",
+      "date": "12-Jul-2024 10:00",
+      "video_url": "4439343_0_6522856926111467"
+    },
+    {
+      "title": "Class-48 || Network Theory ( Millman Theorem ) || Rajkumar Sir",
+      "id": "4439342",
+      "date": "11-Jul-2024 10:00",
+      "video_url": "4439342_0_6985010904655577"
+    },
+    {
+      "title": "Class-47 || Network Theory ( Superposition Theorem ) || Rajkumar Sir",
+      "id": "4439341",
+      "date": "10-Jul-2024 10:00",
+      "video_url": "4439341_0_7279510237589235"
+    },
+    {
+      "title": "Class-44 || Network Theory ( Thevenin theorem ) || Rajkumar Sir",
+      "id": "4439340",
+      "date": "04-Jul-2024 10:00",
+      "video_url": "4439340_0_4226816453421937"
+    },
+    {
+      "title": "Class-43 || Network Theory ( Thevenin theorem ) || Rajkumar Sir",
+      "id": "4439339",
+      "date": "03-Jul-2024 10:00",
+      "video_url": "4439339_0_3955902257226899"
+    },
+    {
+      "title": "Class-42 || Network Theory ( Dependent source ) || Rajkumar Sir",
+      "id": "4439338",
+      "date": "02-Jul-2024 10:00",
+      "video_url": "4439338_0_8425627587224741"
+    },
+    {
+      "title": "Class-41 || Network Theory ( Dependent source ) || Rajkumar Sir",
+      "id": "4439337",
+      "date": "01-Jul-2024 10:00",
+      "video_url": "4439337_0_9726848422939245"
+    },
+    {
+      "title": "Class-40 || Network Theory ( Dependent source ) || Rajkumar Sir",
+      "id": "4439336",
+      "date": "28-Jun-2024 10:00",
+      "video_url": "4439336_0_1504987641832616"
+    },
+    {
+      "title": "Class-39 || Network Theory ( Super Node Concept ) || Rajkumar Sir",
+      "id": "4439335",
+      "date": "27-Jun-2024 10:00",
+      "video_url": "4439335_0_8722755131172231"
+    },
+    {
+      "title": "Class-38 || Network Theory ( Loop & Mesh ) || Rajkumar Sir",
+      "id": "4439334",
+      "date": "25-Jun-2024 10:00",
+      "video_url": "4439334_0_9637956887553739"
+    },
+    {
+      "title": "Class-37 || Network Theory ( Practice Ques ) || Rajkumar Sir",
+      "id": "4439333",
+      "date": "24-Jun-2024 10:00",
+      "video_url": "4439333_0_4571096073394579"
+    },
+    {
+      "title": "Class-36 || Network Theory ( Practice Ques ) || Rajkumar Sir",
+      "id": "4439332",
+      "date": "21-Jun-2024 10:00",
+      "video_url": "4439332_0_6750684431666148"
+    },
+    {
+      "title": "Class-35 || Network Theory (Delivered & Absorbed Power) || Rajkumar Sir",
+      "id": "4439331",
+      "date": "20-Jun-2024 10:00",
+      "video_url": "4439331_0_6795447848964452"
+    },
+    {
+      "title": "Class-34 || Network Theory ( Unilateral & Bilateral ) || Rajkumar Sir",
+      "id": "4439330",
+      "date": "19-Jun-2024 10:00",
+      "video_url": "4439330_0_8530598055084070"
+    },
+    {
+      "title": "Class-33 || Network Theory ( Active & Passive Element ) || Rajkumar Sir",
+      "id": "4439329",
+      "date": "18-Jun-2024 10:00",
+      "video_url": "4439329_0_2014167970788162"
+    },
+    {
+      "title": "Class-31 || Network Theory ( Vector form of  Ohms Law) || Rajkumar Sir",
+      "id": "4439328",
+      "date": "07-Jun-2024 10:00",
+      "video_url": "4439328_0_9534482847298996"
+    },
+    {
+      "title": "Class-30 || Network Theory ( Ohms Law) || Rajkumar Sir",
+      "id": "4439327",
+      "date": "06-Jun-2024 10:00",
+      "video_url": "4439327_0_4115104104286283"
+    },
+    {
+      "title": "Class-29 || Network Theory ( Concept of Resistance) || Rajkumar Sir",
+      "id": "4439326",
+      "date": "05-Jun-2024 10:00",
+      "video_url": "4439326_0_5204066659527017"
+    },
+    {
+      "title": "Class-28 || Network Theory (  Practice Ques ) || Rajkumar Sir",
+      "id": "4439325",
+      "date": "04-Jun-2024 10:00",
+      "video_url": "4439325_0_4559988623810899"
+    },
+    {
+      "title": "Class-27 || Network Theory ( Vtg source & current source conversion ) || Rajkumar Sir",
+      "id": "4439324",
+      "date": "03-Jun-2024 10:00",
+      "video_url": "4439324_0_5586547498656648"
+    },
+    {
+      "title": "Class-26 || Network Theory ( Vtg source & current source conversion ) || Rajkumar Sir",
+      "id": "4439323",
+      "date": "23-May-2024 10:00",
+      "video_url": "4439323_0_8189663030479754"
+    },
+    {
+      "title": "Class-25 || Network Theory ( Current & Voltage division Rule) || Rajkumar Sir",
+      "id": "4439322",
+      "date": "22-May-2024 10:00",
+      "video_url": "4439322_0_4603210062968966"
+    },
+    {
+      "title": "Class-24 || Network Theory ( Current & Voltage division Rule) || Rajkumar Sir",
+      "id": "4439321",
+      "date": "21-May-2024 10:00",
+      "video_url": "4439321_0_8144605574015935"
+    },
+    {
+      "title": "Class-23 || Network Theory ( Current & Voltage division Rule) || Rajkumar Sir",
+      "id": "4439320",
+      "date": "20-May-2024 10:00",
+      "video_url": "4439320_0_4927078090074245"
+    },
+    {
+      "title": "Class-22 || Network Theory ( Ques on KCL , KVL, Nodal) || Rajkumar Sir",
+      "id": "4439319",
+      "date": "18-May-2024 10:00",
+      "video_url": "4439319_0_4274308392022277"
+    },
+    {
+      "title": "Class-21 || Network Theory ( Nodal analysis ) || Rajkumar Sir",
+      "id": "4439318",
+      "date": "17-May-2024 10:00",
+      "video_url": "4439318_0_1221614172794450"
+    },
+    {
+      "title": "Class-20 || Network Theory ( KVL) || Rajkumar Sir",
+      "id": "4439317",
+      "date": "16-May-2024 10:00",
+      "video_url": "4439317_0_1513057139328386"
+    },
+    {
+      "title": "Class-19 || Network Theory ( KVL) || Rajkumar Sir",
+      "id": "4439316",
+      "date": "15-May-2024 10:00",
+      "video_url": "4439316_0_9957873860847402"
+    },
+    {
+      "title": "Class-18 || Network Theory ( KCL) || Rajkumar Sir",
+      "id": "4439315",
+      "date": "14-May-2024 10:00",
+      "video_url": "4439315_0_1529804865127308"
+    },
+    {
+      "title": "Class-17 || Network Theory ( Equivalent Capacitance) || Rajkumar Sir",
+      "id": "4439314",
+      "date": "13-May-2024 10:00",
+      "video_url": "4439314_0_7074304897004573"
+    },
+    {
+      "title": "Class-16 || Network Theory ( Equivalent Capacitance) || Rajkumar Sir",
+      "id": "4439313",
+      "date": "10-May-2024 10:00",
+      "video_url": "4439313_0_7902455458136836"
+    },
+    {
+      "title": "Class-15 || Network Theory ( Equivalent resistance ) || Rajkumar Sir",
+      "id": "4439312",
+      "date": "09-May-2024 10:00",
+      "video_url": "4439312_0_4791940363276135"
+    },
+    {
+      "title": "Class-14 || Network Theory ( Equivalent resistance ) || Rajkumar Sir",
+      "id": "4439311",
+      "date": "08-May-2024 10:00",
+      "video_url": "4439311_0_7814203831901756"
+    },
+    {
+      "title": "Class-13 || Network Theory ( Equivalent resistance ) || Rajkumar Sir",
+      "id": "4439310",
+      "date": "07-May-2024 10:00",
+      "video_url": "4439310_0_6236118793410983"
+    },
+    {
+      "title": "Class-12 || Network Theory ( Equivalent resistance ) || Rajkumar Sir",
+      "id": "4439309",
+      "date": "06-May-2024 10:00",
+      "video_url": "4439309_0_4509704941681876"
+    },
+    {
+      "title": "Class-11 || Network Theory ( Equivalent resistance ) || Rajkumar Sir",
+      "id": "4439308",
+      "date": "04-May-2024 10:00",
+      "video_url": "4439308_0_9440358574353083"
+    },
+    {
+      "title": "Class-08 || Network Theory ( Equivalent resistance ) || Rajkumar Sir",
+      "id": "4439306",
+      "date": "13-Apr-2024 09:00",
+      "video_url": "4439306_0_2020861236187537"
+    },
+    {
+      "title": "Class-07 || Network Theory ( Equivalent resistance ) || Rajkumar Sir",
+      "id": "4439305",
+      "date": "12-Apr-2024 09:00",
+      "video_url": "4439305_0_2545962183392582"
+    },
+    {
+      "title": "Class-06 || Network Theory ( Equivalent resistance ) || Rajkumar Sir",
+      "id": "4439304",
+      "date": "11-Apr-2024 09:00",
+      "video_url": "4439304_0_6216663093672229"
+    },
+    {
+      "title": "Class-05 | Network Theory ( Concept of Power & Energy ) || Rajkumar Sir",
+      "id": "4439303",
+      "date": "10-Apr-2024 10:00",
+      "video_url": "4439303_0_8323227381512024"
+    },
+    {
+      "title": "Class-04 | Network Theory ( Concept of Power & Energy ) || Rajkumar Sir",
+      "id": "4439302",
+      "date": "09-Apr-2024 10:00",
+      "video_url": "4439302_0_2754438399376331"
+    },
+    {
+      "title": "Class-03 | Network Theory ( Concept of Power & Energy ) || Rajkumar Sir",
+      "id": "4439301",
+      "date": "08-Apr-2024 10:00",
+      "video_url": "4439301_0_4607454449824515"
+    },
+    {
+      "title": "Class-02 | Network Theory ( Concept of Power & Energy ) || Rajkumar Sir",
+      "id": "4439300",
+      "date": "06-Apr-2024 10:00",
+      "video_url": "4439300_0_9387701146670750"
+    },
+    {
+      "title": "Class-01 | Network Theory ( Concept of Power & Energy ) || Rajkumar Sir",
+      "id": "4439174",
+      "date": "05-Apr-2024 10:00",
+      "video_url": "4439174_0_7881982752381435"
+    }
+  ],
+  "notes_total": 56,
+  "notes": [
+    {
+      "id": 526585,
+      "title": "Shift Register and Logic Family",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/680b69398bbdb_shift_register_and_logic_familycompressed.pdf",
+      "date": "25-Apr-2025"
+    },
+    {
+      "id": 521048,
+      "title": "Earthing Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6801f6f306b55_Earthing_Notescompressed.pdf",
+      "date": "18-Apr-2025"
+    },
+    {
+      "id": 521040,
+      "title": "UPS",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6801eda9a8346_UPS494048crwill.pdf",
+      "date": "18-Apr-2025"
+    },
+    {
+      "id": 521038,
+      "title": "SCR",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6801eca31d67c_SCR494050crwill.pdf",
+      "date": "18-Apr-2025"
+    },
+    {
+      "id": 521032,
+      "title": "Digital Part 2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6801eb238db4a_Digital_Part_2..compressed.pdf",
+      "date": "18-Apr-2025"
+    },
+    {
+      "id": 518764,
+      "title": "Electronic Component Part-2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67fc9e6f3fe1c_ELectronic_Component_Part_2_1compressed.pdf",
+      "date": "14-Apr-2025"
+    },
+    {
+      "id": 518761,
+      "title": "Electronic Component Part-1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67fc9e3bd1f84_Electronic_Component_Part_1_1.pdf",
+      "date": "14-Apr-2025"
+    },
+    {
+      "id": 518715,
+      "title": "Digital Part-1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67fc994368af4_Digital_Part_1compressed.pdf",
+      "date": "14-Apr-2025"
+    },
+    {
+      "id": 518708,
+      "title": "Magnetic Circuit Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67fc97ac621c2_Magnetic_Circuit_Notes...compressed.pdf",
+      "date": "14-Apr-2025"
+    },
+    {
+      "id": 518705,
+      "title": "C & C ++ Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67fc9769845e4_C_C_Notescompressed.pdf",
+      "date": "14-Apr-2025"
+    },
+    {
+      "id": 518700,
+      "title": "Data Communication Part-2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67fc971fcd4ee_Data_Communication_Part_2...compressed.pdf",
+      "date": "14-Apr-2025"
+    },
+    {
+      "id": 518697,
+      "title": "Data Communication Part-1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67fc96b8ba2e8_Data_Communication_Part_1....pdf",
+      "date": "14-Apr-2025"
+    },
+    {
+      "id": 494270,
+      "title": "Environment Part 3",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67c03917970bf_Environment_Part_3.pdf",
+      "date": "27-Feb-2025"
+    },
+    {
+      "id": 494243,
+      "title": "Environment Part 1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67c03756be077_Environment_Part_1compressed.pdf",
+      "date": "27-Feb-2025"
+    },
+    {
+      "id": 494212,
+      "title": "Environment Part 2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67c0351c73c64_Environment_Part_2compressed.pdf",
+      "date": "27-Feb-2025"
+    },
+    {
+      "id": 492219,
+      "title": "FET Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67ba064a0d484_FET_Notes454462crwill.pdf",
+      "date": "22-Feb-2025"
+    },
+    {
+      "id": 491871,
+      "title": "Operational Amplifier",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67630609e0a2d_op_amp.pdf",
+      "date": "21-Feb-2025"
+    },
+    {
+      "id": 491870,
+      "title": "FET Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/675d0b3669167_FET_Notes.pdf",
+      "date": "21-Feb-2025"
+    },
+    {
+      "id": 491869,
+      "title": "LED & LCD Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/674d9c4fbccf2_LED_LCD_Notescompressed.pdf",
+      "date": "21-Feb-2025"
+    },
+    {
+      "id": 491868,
+      "title": "Measuring Instruments Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/673c392562cbb_Measuring_Instruments_Notes.pdf",
+      "date": "21-Feb-2025"
+    },
+    {
+      "id": 491867,
+      "title": "Transducer",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/672b58b41bcf2_Transducer_.pdf",
+      "date": "21-Feb-2025"
+    },
+    {
+      "id": 491866,
+      "title": "CRO Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6704d87a011d4_CRO_Notescompressed.pdf",
+      "date": "21-Feb-2025"
+    },
+    {
+      "id": 491865,
+      "title": "Microprocessor Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66dfda9d4495c_Microprocessor Notes_compressed.pdf",
+      "date": "21-Feb-2025"
+    },
+    {
+      "id": 491864,
+      "title": "Digital Electronics",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66c4796a6b6b5_Digital Electronics .pdf",
+      "date": "21-Feb-2025"
+    },
+    {
+      "id": 491863,
+      "title": "Magnetism",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66bb512a632f5_Magnetism _compressed.pdf",
+      "date": "21-Feb-2025"
+    },
+    {
+      "id": 491846,
+      "title": "Analog Electronics Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1659929832-Analog_Electronics_Notes_compressed.pdf",
+      "date": "21-Feb-2025"
+    },
+    {
+      "id": 465890,
+      "title": "BJT",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/659e96fb47f0b_BJT ( JE)_compressed.pdf",
+      "date": "10-Jan-2025"
+    },
+    {
+      "id": 465889,
+      "title": "Rectifier (JE)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/658af200cd194_Rectifier( JE).pdf",
+      "date": "10-Jan-2025"
+    },
+    {
+      "id": 465888,
+      "title": "Diode Notes (JE)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6548a007070b7_Diode Notes( JE)_compressed.pdf",
+      "date": "10-Jan-2025"
+    },
+    {
+      "id": 465887,
+      "title": "Semiconductor Basics",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6532512d73430_semiconductor Basics_compressed.pdf",
+      "date": "10-Jan-2025"
+    },
+    {
+      "id": 463336,
+      "title": "Computer Part-2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/677699ef0e658_Computer_Part_2compressed.pdf",
+      "date": "06-Jan-2025"
+    },
+    {
+      "id": 463335,
+      "title": "Computer Part-1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67769878693a4_Computer_Part_1compressed.pdf",
+      "date": "06-Jan-2025"
+    },
+    {
+      "id": 462083,
+      "title": "Filter, Two Port, 3 Phase Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/674da09cc140c_Filter_Two_Port_3_Phase_Notescompressed.pdf",
+      "date": "03-Jan-2025"
+    },
+    {
+      "id": 462082,
+      "title": "Resonance & Transient Notes ( AC Analysis)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/672b5948c22a5_Resonance_Transient_Notes_AC_Analysis_.pdf",
+      "date": "03-Jan-2025"
+    },
+    {
+      "id": 462081,
+      "title": "AC Basics Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66f0e4842a343_AC_Basics_.pdf",
+      "date": "03-Jan-2025"
+    },
+    {
+      "id": 462080,
+      "title": "Network Theory Part-3",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66e408c51eb56_Network Theory Part 3.pdf",
+      "date": "03-Jan-2025"
+    },
+    {
+      "id": 462079,
+      "title": "Network Theory Part-2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66e4086562a82_Network Theory Part 2.pdf",
+      "date": "03-Jan-2025"
+    },
+    {
+      "id": 462078,
+      "title": "Network Theory Part-1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66e407f6ef9c0_Network Theory Part 1_compressed.pdf",
+      "date": "03-Jan-2025"
+    },
+    {
+      "id": 462077,
+      "title": "Microprocessor Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66dfda9d4495c_Microprocessor Notes_compressed.pdf",
+      "date": "03-Jan-2025"
+    },
+    {
+      "id": 462076,
+      "title": "Communication Part-2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66dfd94ab8aa7_Communication Part 2.pdf",
+      "date": "03-Jan-2025"
+    },
+    {
+      "id": 462075,
+      "title": "Communication Part-1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66dfd91fb9be2_Communication Part 1_compressed.pdf",
+      "date": "03-Jan-2025"
+    },
+    {
+      "id": 491861,
+      "title": "Mass, Weight & Density",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6532507828d0f_Mass, Weight & Density-1&2_compressed.pdf",
+      "date": "21-Feb-2025"
+    },
+    {
+      "id": 491860,
+      "title": "Speed & Velocity Part-2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64e83c85d4bd6_Speed & Velocity Part- 2_compressed.pdf",
+      "date": "21-Feb-2025"
+    },
+    {
+      "id": 491859,
+      "title": "Speed & Velocity Part-1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64e83bc879976_Speed & Velocity Part- 01._compressed.pdf",
+      "date": "21-Feb-2025"
+    },
+    {
+      "id": 491858,
+      "title": "Unit & Measurement",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64a40e54dc57a_Unit & Measurement_compressed.pdf",
+      "date": "21-Feb-2025"
+    },
+    {
+      "id": 491857,
+      "title": "Heat & Temp Full Notes Part-4",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6487fd08d7ad4_Heat & Temp Full Notes (PART-4).pdf",
+      "date": "21-Feb-2025"
+    },
+    {
+      "id": 491856,
+      "title": "Heat & Temp Full Notes Part-3",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6487fcae7b2bf_Heat & Temp Full Notes (PART-3).pdf",
+      "date": "21-Feb-2025"
+    },
+    {
+      "id": 491855,
+      "title": "Heat & Temp Full Notes Part-2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6487fc45e903f_Heat & Temp Full Notes (PART-2).pdf",
+      "date": "21-Feb-2025"
+    },
+    {
+      "id": 491854,
+      "title": "Heat & Temp Full Notes Part-1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6487fbfd30bef_Heat & Temp Full Notes (PART-1).pdf",
+      "date": "21-Feb-2025"
+    },
+    {
+      "id": 491853,
+      "title": "Work & Power Notes-( Part-2)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6426b07d4fa1f_Work & Power Notes ( Part 2)_compressed.pdf",
+      "date": "21-Feb-2025"
+    },
+    {
+      "id": 491862,
+      "title": "Work & Power Notes Part-1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1677567624-Work_Power_Notes_Part-_1_compressed.pdf",
+      "date": "21-Feb-2025"
+    },
+    {
+      "id": 491852,
+      "title": "Basic Electrical",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1672988949-Basic_Elect_(dc)_Complete_Notes.pdf",
+      "date": "21-Feb-2025"
+    },
+    {
+      "id": 491851,
+      "title": "BJT",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/659e96fb47f0b_BJT ( JE)_compressed.pdf",
+      "date": "21-Feb-2025"
+    },
+    {
+      "id": 491850,
+      "title": "Rectifier (JE)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/658af200cd194_Rectifier( JE).pdf",
+      "date": "21-Feb-2025"
+    },
+    {
+      "id": 491849,
+      "title": "Diode Notes (JE)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6548a007070b7_Diode Notes( JE)_compressed.pdf",
+      "date": "21-Feb-2025"
+    },
+    {
+      "id": 491848,
+      "title": "Semiconductor Basics",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6532512d73430_semiconductor Basics_compressed.pdf",
+      "date": "21-Feb-2025"
+    }
+  ]
+}
