@@ -1,5 +1,5 @@
 {
-  "batch_id": 2342,
+  "batch_id": "2342",
   "topics": [
     {
       "id": 23121,
@@ -29,5 +29,6 @@
       "id": 23449,
       "topicName": "Practice Session"
     }
-  ]
+  ],
+  "batch_name": "Arithmetic Spl (VOD)-01 Rakesh Yadav Sir"
 }
