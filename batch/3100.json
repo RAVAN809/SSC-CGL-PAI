@@ -1,0 +1,54 @@
+{
+  "batch_id": "3100",
+  "topics": [
+    {
+      "id": 31690,
+      "topicName": "Intro"
+    },
+    {
+      "id": 31691,
+      "topicName": "Maths"
+    },
+    {
+      "id": 31692,
+      "topicName": "English"
+    },
+    {
+      "id": 31694,
+      "topicName": "Hindi"
+    },
+    {
+      "id": 31695,
+      "topicName": "History"
+    },
+    {
+      "id": 31705,
+      "topicName": "World History"
+    },
+    {
+      "id": 31696,
+      "topicName": "Geography"
+    },
+    {
+      "id": 31697,
+      "topicName": "Polity"
+    },
+    {
+      "id": 31701,
+      "topicName": "Economy"
+    },
+    {
+      "id": 31698,
+      "topicName": "Physics"
+    },
+    {
+      "id": 31699,
+      "topicName": "Chemistry"
+    },
+    {
+      "id": 31700,
+      "topicName": "Biology"
+    }
+  ],
+  "batch_name": "MP TET Varg 3 Exam 2025"
+}
