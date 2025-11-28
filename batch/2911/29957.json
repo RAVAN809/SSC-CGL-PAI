@@ -1,0 +1,844 @@
+{
+  "batchid": 2911,
+  "topicid": 29957,
+  "classes_total": 56,
+  "classes": [
+    {
+      "title": "Class  - 82 | Eng | Synonyms",
+      "id": "4546725",
+      "date": "11-Sep-2025 13:00",
+      "video_url": "4546725_0_3150833011696546"
+    },
+    {
+      "title": "Class  - 81 | Eng | Synonyms",
+      "id": "4545798",
+      "date": "10-Sep-2025 13:00",
+      "video_url": "4545798_0_8857255708880964"
+    },
+    {
+      "title": "Class  - 80 | Eng | Synonyms",
+      "id": "4544826",
+      "date": "09-Sep-2025 13:00",
+      "video_url": "4544826_0_8457396429135823"
+    },
+    {
+      "title": "Class  - 79 | Eng | Synonyms",
+      "id": "4543865",
+      "date": "08-Sep-2025 13:00",
+      "video_url": "4543865_0_3167957751065608"
+    },
+    {
+      "title": "Class  - 78 | Eng | Synonyms",
+      "id": "4538863",
+      "date": "03-Sep-2025 13:00",
+      "video_url": "4538863_0_6465284255460127"
+    },
+    {
+      "title": "Class-77 | Eng | Synonyms",
+      "id": "4537529",
+      "date": "02-Sep-2025 13:00",
+      "video_url": "4537529_0_7952306797391039"
+    },
+    {
+      "title": "Class-  76 | Eng | Synonyms",
+      "id": "4536484",
+      "date": "01-Sep-2025 13:00",
+      "video_url": "4536484_0_2617636768411873"
+    },
+    {
+      "title": "Class-74 | Eng | Synonyms",
+      "id": "4533274",
+      "date": "28-Aug-2025 13:00",
+      "video_url": "4533274_0_2416908469085861"
+    },
+    {
+      "title": "Class-73 | Eng | Synonyms",
+      "id": "4532044",
+      "date": "27-Aug-2025 13:30",
+      "video_url": "4532044_0_6101230145860696"
+    },
+    {
+      "title": "Class-72 | Eng | Synonyms",
+      "id": "4530677",
+      "date": "26-Aug-2025 13:00",
+      "video_url": "4530677_0_6576087049195907"
+    },
+    {
+      "title": "Class- 71 | Eng | Spotting Errors",
+      "id": "4529580",
+      "date": "25-Aug-2025 13:00",
+      "video_url": "4529580_0_7331788193149095"
+    },
+    {
+      "title": "Class- 69 | Eng | Synonyms",
+      "id": "4526062",
+      "date": "21-Aug-2025 11:00",
+      "video_url": "4526062_0_8089569195186642"
+    },
+    {
+      "title": "Class- 68 | Eng | Synonyms",
+      "id": "4524882",
+      "date": "20-Aug-2025 11:00",
+      "video_url": "4524882_0_9625951584441128"
+    },
+    {
+      "title": "Class- 67 | Eng | Present Tense",
+      "id": "4523769",
+      "date": "19-Aug-2025 11:00",
+      "video_url": "4523769_0_8588123576411494"
+    },
+    {
+      "title": "Class- 65 | Eng | Future Tense",
+      "id": "4520474",
+      "date": "14-Aug-2025 11:00",
+      "video_url": "4520474_0_4429035764484272"
+    },
+    {
+      "title": "Class- 64 | Eng | Adverb",
+      "id": "4519194",
+      "date": "13-Aug-2025 11:00",
+      "video_url": "4519194_0_2064354975954696"
+    },
+    {
+      "title": "Class- 63 | Eng | Adverb",
+      "id": "4517810",
+      "date": "12-Aug-2025 11:00",
+      "video_url": "4517810_0_7979245485677997"
+    },
+    {
+      "title": "Class- 62 | Eng | Adverb",
+      "id": "4516602",
+      "date": "11-Aug-2025 11:00",
+      "video_url": "4516602_0_3780220367501679"
+    },
+    {
+      "title": "Class- 60 | Eng | Adverb",
+      "id": "4514737",
+      "date": "07-Aug-2025 11:00",
+      "video_url": "4514737_0_8148923804980970"
+    },
+    {
+      "title": "Class- 59 | Eng | Adverb",
+      "id": "4513797",
+      "date": "06-Aug-2025 11:00",
+      "video_url": "4513797_0_3097950260796596"
+    },
+    {
+      "title": "Class- 58 | Eng | Adverb",
+      "id": "4512742",
+      "date": "05-Aug-2025 11:00",
+      "video_url": "4512742_0_9379117801889299"
+    },
+    {
+      "title": "Class- 57 | Eng | Adjective",
+      "id": "4511806",
+      "date": "04-Aug-2025 11:00",
+      "video_url": "4511806_0_7534929788773360"
+    },
+    {
+      "title": "Class- 56 | Eng | Adjective",
+      "id": "4506095",
+      "date": "01-Aug-2025 11:00",
+      "video_url": "4506095_0_8148190932819418"
+    },
+    {
+      "title": "Class- 55 | Eng | Adjective",
+      "id": "4504960",
+      "date": "31-Jul-2025 11:00",
+      "video_url": "4504960_0_5081803170009667"
+    },
+    {
+      "title": "Class- 54 | Eng | Adjective",
+      "id": "4503688",
+      "date": "30-Jul-2025 11:00",
+      "video_url": "4503688_0_4312113607436371"
+    },
+    {
+      "title": "Class- 53 | Eng | Adjective",
+      "id": "4502624",
+      "date": "29-Jul-2025 11:00",
+      "video_url": "4502624_0_1536838867571117"
+    },
+    {
+      "title": "Class- 52 | Eng | Narration",
+      "id": "4495650",
+      "date": "28-Jul-2025 11:00",
+      "video_url": "4495650_0_7857287180385132"
+    },
+    {
+      "title": "Class- 51 | Eng | Narration",
+      "id": "4493213",
+      "date": "25-Jul-2025 11:00",
+      "video_url": "4493213_0_9757344254399296"
+    },
+    {
+      "title": "Class- 50 | Eng | Narration",
+      "id": "4491973",
+      "date": "24-Jul-2025 11:00",
+      "video_url": "4491973_0_2697362833435250"
+    },
+    {
+      "title": "Class- 49 | Eng | Narration",
+      "id": "4490283",
+      "date": "23-Jul-2025 11:00",
+      "video_url": "4490283_0_3112282103146510"
+    },
+    {
+      "title": "Class- 48 | Eng | Narration",
+      "id": "4488590",
+      "date": "22-Jul-2025 11:00",
+      "video_url": "4488590_0_4968222145205408"
+    },
+    {
+      "title": "Class- 47 | Eng | Narration",
+      "id": "4487441",
+      "date": "21-Jul-2025 11:00",
+      "video_url": "4487441_0_5041312438995818"
+    },
+    {
+      "title": "Class- 46 | Eng | Pronoun",
+      "id": "4485483",
+      "date": "18-Jul-2025 11:00",
+      "video_url": "4485483_0_7673258353048065"
+    },
+    {
+      "title": "Class- 45 | Eng | Pronoun",
+      "id": "4484440",
+      "date": "17-Jul-2025 11:00",
+      "video_url": "4484440_0_3341254223791660"
+    },
+    {
+      "title": "Class- 44 | Eng | Pronoun",
+      "id": "4483437",
+      "date": "16-Jul-2025 11:00",
+      "video_url": "4483437_0_6853562092873902"
+    },
+    {
+      "title": "Class- 43 | Eng | Pronoun",
+      "id": "4482408",
+      "date": "15-Jul-2025 11:00",
+      "video_url": "4482408_0_6145559632956603"
+    },
+    {
+      "title": "Class- 42 | Eng | Noun 3",
+      "id": "4481328",
+      "date": "14-Jul-2025 11:00",
+      "video_url": "4481328_0_2227652552342639"
+    },
+    {
+      "title": "Class-41 | Eng | Noun 3",
+      "id": "4479571",
+      "date": "11-Jul-2025 11:00",
+      "video_url": "4479571_0_3935979710929649"
+    },
+    {
+      "title": "Class-40 | Eng | Noun 2",
+      "id": "4478551",
+      "date": "10-Jul-2025 11:00",
+      "video_url": "4478551_0_8178893840945239"
+    },
+    {
+      "title": "Class-17 | Eng | Verb",
+      "id": "4458663",
+      "date": "05-Jun-2025 11:00",
+      "video_url": "4458663_0_8761017917965855"
+    },
+    {
+      "title": "Class-16 | Eng | Verb Agreement",
+      "id": "4459238",
+      "date": "04-Jun-2025 11:00",
+      "video_url": "4459238_0_6005470069315006"
+    },
+    {
+      "title": "Class-15 | Eng | Verb Agreement",
+      "id": "4459236",
+      "date": "03-Jun-2025 11:00",
+      "video_url": "4459236_0_6446548876990923"
+    },
+    {
+      "title": "Class-14 | Eng | Verb Agreement",
+      "id": "4459235",
+      "date": "02-Jun-2025 11:00",
+      "video_url": "4459235_0_6845590680585532"
+    },
+    {
+      "title": "Class-13 | Eng | Verb Agreement",
+      "id": "4459234",
+      "date": "29-May-2025 11:00",
+      "video_url": "4459234_0_4872582074402408"
+    },
+    {
+      "title": "Class-12| Eng | Verb Agreement",
+      "id": "4459233",
+      "date": "28-May-2025 11:00",
+      "video_url": "4459233_0_6971021823692107"
+    },
+    {
+      "title": "Class-11 | Eng | Verb Agreement",
+      "id": "4459232",
+      "date": "27-May-2025 11:00",
+      "video_url": "4459232_0_9616018044410258"
+    },
+    {
+      "title": "Class-10 | Eng | QUESTION TAG",
+      "id": "4459231",
+      "date": "26-May-2025 11:00",
+      "video_url": "4459231_0_8271282070674772"
+    },
+    {
+      "title": "Class-09 | Eng | QUESTION TAG",
+      "id": "4459230",
+      "date": "23-May-2025 11:00",
+      "video_url": "4459230_0_5098490537589019"
+    },
+    {
+      "title": "Class-08 | Eng | QUESTION TAG",
+      "id": "4459229",
+      "date": "22-May-2025 11:00",
+      "video_url": "4459229_0_1019310664659202"
+    },
+    {
+      "title": "Class-07 | Eng | ACTIVE AND PASSIVE VOICE",
+      "id": "4459228",
+      "date": "21-May-2025 11:00",
+      "video_url": "4459228_0_2729445064563610"
+    },
+    {
+      "title": "Class-12 | Eng | ACTIVE AND PASSIVE VOICE",
+      "id": "4459227",
+      "date": "20-May-2025 11:00",
+      "video_url": "4459227_0_4387322958403214"
+    },
+    {
+      "title": "Class-12 | Eng | ACTIVE AND PASSIVE VOICE",
+      "id": "4459225",
+      "date": "19-May-2025 11:00",
+      "video_url": "4459225_0_5350239253512880"
+    },
+    {
+      "title": "Class-11 | Eng | TENSE",
+      "id": "4459224",
+      "date": "16-May-2025 11:00",
+      "video_url": "4459224_0_6534302486293900"
+    },
+    {
+      "title": "Class-10 | Eng | TENSE",
+      "id": "4459223",
+      "date": "15-May-2025 11:00",
+      "video_url": "4459223_0_2576022925517537"
+    },
+    {
+      "title": "Class-09 | Eng | TENSE",
+      "id": "4459222",
+      "date": "14-May-2025 11:00",
+      "video_url": "4459222_0_1678425627954353"
+    },
+    {
+      "title": "Class-08 | Eng | TENSE",
+      "id": "4459221",
+      "date": "13-May-2025 11:00",
+      "video_url": "4459221_0_1704875493789244"
+    }
+  ],
+  "notes_total": 83,
+  "notes": [
+    {
+      "id": 661554,
+      "title": "Eng | 9 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68c3a9ae0716f_Eng_9th.sept_100pm_compressed.pdf",
+      "date": "12-Sep-2025"
+    },
+    {
+      "id": 646332,
+      "title": "Eng | 2 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b6b2ee75972_Eng_2nd_Sept_class.png._100pm_compressed.pdf",
+      "date": "02-Sep-2025"
+    },
+    {
+      "id": 644824,
+      "title": "Eng | 1 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b55ec39f441_Eng_1th_Sept_class.png._100pm_compressed.pdf",
+      "date": "01-Sep-2025"
+    },
+    {
+      "id": 640916,
+      "title": "Eng | 27 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68aeec4cd8bc6_Eng_27th_aug_class.png_100pm_compressed.pdf",
+      "date": "27-Aug-2025"
+    },
+    {
+      "id": 640056,
+      "title": "Eng | 26 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68ada9adaa083_Eng_26th_aug_class.png_100pm_compressed.pdf",
+      "date": "26-Aug-2025"
+    },
+    {
+      "id": 639386,
+      "title": "Eng | 25 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68ac32d9c16af_Eng_25th_aug_class.png_100pm_compressed.pdf",
+      "date": "25-Aug-2025"
+    },
+    {
+      "id": 637907,
+      "title": "Eng | 22 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a83b82516da_Eng_22th_aug_11am_compressed.pdf",
+      "date": "22-Aug-2025"
+    },
+    {
+      "id": 637065,
+      "title": "Eng | 21 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a6faced0e0c_Eng_21th_aug_11am_compressed.pdf",
+      "date": "21-Aug-2025"
+    },
+    {
+      "id": 635781,
+      "title": "Eng | 20 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a5ac98f0909_Eng_20th_aug_11am_compressed.pdf",
+      "date": "20-Aug-2025"
+    },
+    {
+      "id": 629124,
+      "title": "Eng | 18 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a2e2286ac9b_Eng_18th_aug_11am.pdf",
+      "date": "18-Aug-2025"
+    },
+    {
+      "id": 623399,
+      "title": "Eng | 14 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/689db0b1842a8_Eng_14th_aug_11_am_compressed.pdf",
+      "date": "14-Aug-2025"
+    },
+    {
+      "id": 622639,
+      "title": "Eng | 13 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/689c7aa419724_Eng_13th_aug_11_am_compressed.pdf",
+      "date": "13-Aug-2025"
+    },
+    {
+      "id": 621772,
+      "title": "Eng | 12 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/689b220bb1ca7_Eng_12th.aug_Class.pngDelhi_Police_HCM.AWO_B03_Delhi_Police_Sarthi_Batch_B03_English_Spl52_Delhi_Police_Sarthi_Batch_B02_SSC_CPO_2025_SSC_CHSL_2025_B03_SSC_MTS_2025_B02_SSC_GD_2026_Target_1.pdf",
+      "date": "12-Aug-2025"
+    },
+    {
+      "id": 621613,
+      "title": "Eng | 11 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/689b0e579f475_Eng_11th.aug_Class.pngDelhi_Police_HCM.AWO_B03_Delhi_Police_Sarthi_Batch_B03_English_Spl52_Delhi_Police_Sarthi_Batch_B02_SSC_CPO_2025_SSC_CHSL_2025_B03_SSC_MTS_2025_B02_SSC_GD_2026_Target_Batc.pdf",
+      "date": "12-Aug-2025"
+    },
+    {
+      "id": 620663,
+      "title": "Top Important Synonym & Antonym | Eng | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6899c53d400ea_TOP_IMPORTANT_SYN_AND_ANTONYMS_WITH_ANSWER_KEY_BY_INDERJEET_SHARMA_compressed.pdf",
+      "date": "11-Aug-2025"
+    },
+    {
+      "id": 620371,
+      "title": "Eng | 08 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6899a5ddb42ec_Eng_8th.aug_Class.pngDelhi_Police_HCM.AWO_B03_Delhi_Police_Sarthi_Batch_B03_English_Spl52_Delhi_Police_Sarthi_Batch_B02_SSC_CPO_2025_SSC_CHSL_2025_B03_SSC_MTS_2025_B02_SSC_GD_2026_Target_Batc.pdf",
+      "date": "11-Aug-2025"
+    },
+    {
+      "id": 618339,
+      "title": "Eng | 07 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/689468bd97340_Eng_7th.aug_Class.pngDelhi_Police_HCM.AWO_B03_Delhi_Police_Sarthi_Batch_B03_English_Spl52_Delhi_Police_Sarthi_Batch_B02_SSC_CPO_2025_SSC_CHSL_2025_B03_SSC_MTS_2025_B02_SSC_GD_2026_Target_Batc_co.pdf",
+      "date": "07-Aug-2025"
+    },
+    {
+      "id": 618316,
+      "title": "Eng | 07 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/689463de7fb11_Eng_7th.aug_Class.pngDelhi_Police_HCM.AWO_B03_Delhi_Police_Sarthi_Batch_B03_English_Spl52_Delhi_Police_Sarthi_Batch_B02_SSC_CPO_2025_SSC_CHSL_2025_B03_SSC_MTS_2025_B02_SSC_GD_2026_Target_Batc_.pdf",
+      "date": "07-Aug-2025"
+    },
+    {
+      "id": 614480,
+      "title": "Eng | 01 Aug | Class PNG",
+      "url": "https://educp.crwilladmin.com/uploads/class-attachment/lclsys_Eng_1th_aug_Class_pngDelhi_Police_HCM_AWO_B03_Delhi_Police_Sarthi_Batch_B03_English_Spl52_Delhi_Police_Sarthi_Batch_B02_SSC_CPO_2025_SSC_CHSL_2025_B03_SSC_MTS_2025_B02_SSC_GD_2026_Target_Batc.pdf",
+      "date": "01-Aug-2025"
+    },
+    {
+      "id": 612576,
+      "title": "Eng | 31 July | Class PNG",
+      "url": "https://educp.crwilladmin.com/uploads/class-attachment/lclsys_Eng_31th_july_Class_pngDelhi_Police_HCM_AWO_B03_Delhi_Police_Sarthi_Batch_B03_English_Spl52_Delhi_Police_Sarthi_Batch_B02_SSC_CPO_2025_SSC_CHSL_2025_B03_SSC_MTS_2025_B02_SSC_GD_2026_Target_1.pdf",
+      "date": "31-Jul-2025"
+    },
+    {
+      "id": 611859,
+      "title": "Eng | 30 July | Class PNG",
+      "url": "https://educp.crwilladmin.com/uploads/class-attachment/lclsys_Eng_30th_july_Class_pngDelhi_Police_HCM_AWO_B03_Delhi_Police_Sarthi_Batch_B03_English_Spl52_Delhi_Police_Sarthi_Batch_B02_SSC_CPO_2025_SSC_CHSL_2025_B03_SSC_MTS_2025_B02_SSC_GD_2026_Target_Bat.pdf",
+      "date": "30-Jul-2025"
+    },
+    {
+      "id": 611199,
+      "title": "Eng | 29 July | Class PNG",
+      "url": "https://educp.crwilladmin.com/uploads/class-attachment/lclsys_Eng_29th_july_Class_pngDelhi_Police_HCM_AWO_B03_Delhi_Police_Sarthi_Batch_B03_English_Spl52_Delhi_Police_Sarthi_Batch_B02_SSC_CPO_2025_SSC_CHSL_2025_B03_SSC_MTS_2025_B02_SSC_GD_2026_Target_Bat.pdf",
+      "date": "29-Jul-2025"
+    },
+    {
+      "id": 610587,
+      "title": "Eng | 28 July | Class PNG",
+      "url": "https://educp.crwilladmin.com/uploads/class-attachment/lclsys_Eng_28th_july_Class_pngDelhi_Police_Special_B04_Delhi_Police_HCM_AWO_B03_Delhi_Police_Sarthi_Batch_B03_English_Spl52_Delhi_Police_Sarthi_Batch_1.pdf",
+      "date": "28-Jul-2025"
+    },
+    {
+      "id": 607928,
+      "title": "Eng | 25 July | Class PNG",
+      "url": "https://educp.crwilladmin.com/uploads/class-attachment/lclsys_Eng_25th_july_Class_pngDelhi_Police_Special_B04_Delhi_Police_HCM_AWO_B03_Delhi_Police_Sarthi_Batch_B03_English_Spl52_Delhi_Police_Sarthi_Batch_B02_SSC_CPO_2025_SSC_CHSL_2025_B03_SSC_MTS_2025_B02_.pdf",
+      "date": "27-Jul-2025"
+    },
+    {
+      "id": 607913,
+      "title": "Eng | 24 July | Class PNG",
+      "url": "https://educp.crwilladmin.com/uploads/class-attachment/lclsys_Eng_24th_july_Class_pngDelhi_Police_Special_B04_Delhi_Police_HCM_AWO_B03_Delhi_Police_Sarthi_Batch_B03_English_Spl52_Delhi_Police_Sarthi_Batch_B02_SSC_CPO_2025_SSC_CHSL_2025_B03_SSC_MTS_2025_B02.pdf",
+      "date": "27-Jul-2025"
+    },
+    {
+      "id": 605280,
+      "title": "Eng | 23 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6880c07758c3a_Eng_23th.july_Class.pngDelhi_Police_Special_B04_Delhi_Police_HCM.AWO_B03_Delhi_Police_Sarthi_Batch_B03_English_Spl52_Delhi_Police_Sarthi_Batch_B02_SSC_CPO_2025_SSC_CHSL_2025_B03_SSC_MTS_2025_B0.pdf",
+      "date": "23-Jul-2025"
+    },
+    {
+      "id": 604035,
+      "title": "Eng | 22 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/687f7612099ca_Eng_22th.july_Class.pngDelhi_Police_Special_B04_Delhi_Police_HCM.AWO_B03_Delhi_Police_Sarthi_Batch_B03_English_Spl52_Delhi_Police_Sarthi_Batch_B02_SSC_CPO_2025_SSC_CHSL_2025_B03_SSC_MTS_2025_1.pdf",
+      "date": "22-Jul-2025"
+    },
+    {
+      "id": 603120,
+      "title": "Eng | 21 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/687e022c04775_20250721121257010.pdf",
+      "date": "21-Jul-2025"
+    },
+    {
+      "id": 600862,
+      "title": "Eng | 17 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6878be8a4d160_Eng_17th.july_Class.pngDelhi_Police_Special_Delhi_Police_Sarthi_Batch_B0DONE.pdf",
+      "date": "17-Jul-2025"
+    },
+    {
+      "id": 599958,
+      "title": "Eng | 16 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/687780dce9bbc_Eng_16th.july_Class.pngDelhi_Police_Special_Delhi_Police_Sarthi_Batch_B03_English_Spl52_Delhi_Police_Sarthi_Batch_B02_SSC_CPO_2025_SSC_CHSL_2025_B03_SSC_MTS_2025_B02_SSC_GD_2026_Target_Batch_B0.pdf",
+      "date": "16-Jul-2025"
+    },
+    {
+      "id": 597894,
+      "title": "Eng | 15 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6875fa193ac43_Eng_15th.july_Class.pngDelhi_Police_Special_Delhi_Police_Sarthi_Batch_B03_English_Spl52_Delhi_Police_Sarthi_Batch_B02_SSC_CPO_2025_SSC_CHSL_2025_B03_SSC_MTS_2025_B02_SSC_GD_2026_Target_Batch_B02.pdf",
+      "date": "15-Jul-2025"
+    },
+    {
+      "id": 595614,
+      "title": "Eng | 14 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6874e1daa2480_inderjeet.sir_1100am_14th.julycompressed.pdf",
+      "date": "14-Jul-2025"
+    },
+    {
+      "id": 592633,
+      "title": "Eng | 11 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6870f1039f488_Eng_11th.july_Class.pngDelhi_Police_Special_Delhi_Police_Sarthi_Batch_B03_English_Spl52_Delhi_Police_Sarthi_Batch_B02_SSC_CPO_2025_SSC_CHSL_2025_B03_SSC_MTS_2025_B02_SSC_GD_2026_Target_Batch_1.pdf",
+      "date": "11-Jul-2025"
+    },
+    {
+      "id": 591766,
+      "title": "Eng | 10 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/686f88800d228_Eng_10th.july_Class.pngDelhi_Police_Special_Delhi_Police_Sarthi_Batch_B03_English_Spl52_Delhi_Police_Sarthi_Batch_B02_SSC_CPO_2025_SSC_CHSL_2025_B03_SSC_MTS_2025_B02_SSC_GD_2026_Target_Batch_1.pdf",
+      "date": "10-Jul-2025"
+    },
+    {
+      "id": 590688,
+      "title": "Eng | 9 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/686e123c20f03_Eng_9th.july_Class.pngDelhi_Police_Special_Delhi_Police_Sarthi_Batch_B03_English_Spl52_Delhi_Police_Sarthi_Batch_B02_SSC_CPO_2025_SSC_CHSL_2025_B03_SSC_MTS_2025_B02_SSC_GD_2026_Target_Batch_B021.pdf",
+      "date": "09-Jul-2025"
+    },
+    {
+      "id": 589793,
+      "title": "Eng | 08 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/686ceec58d35c_Eng_8th.july_Class.pngDelhi_Police_Special_Delhi_Police_Sarthi_Batch_B03_English_Spl52_Delhi_Police_Sarthi_Batch_B02_SSC_CPO_2025_SSC_CHSL_2025_B03_SSC_MTS_2025_B02_SSC_GD_2026_Target_Batch_B02.pdf",
+      "date": "08-Jul-2025"
+    },
+    {
+      "id": 587744,
+      "title": "Eng | 07 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/686b8d5f2c05c_Eng_7th.july_Class.pngDelhi_Police_Special_Delhi_Police_Sarthi_Batch_B03_English_Spl52_Delhi_Police_Sarthi_Batch_B02_SSC_CPO_2025_SSC_CHSL_2025_B03_SSC_MTS_2025_B02_SSC_GD_2026_Target_Batch_1.pdf",
+      "date": "07-Jul-2025"
+    },
+    {
+      "id": 586467,
+      "title": "Eng | 03 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6867b2239c79c_Eng_3th.july_Class.pngDelhi_Police_Special_Delhi_Police_Sarthi_Batch_B03_English_Spl52_Delhi_Police_Sarthi_Batch_B02_SSC_CPO_2025_SSC_CHSL_2025_B03_SSC_MTS_2025_B02_SSC_GD_2026_Target_Batch_1.pdf",
+      "date": "04-Jul-2025"
+    },
+    {
+      "id": 584110,
+      "title": "Eng | 3 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6866543669872_Eng_3th.july_Class.pngDelhi_Police_Special_Delhi_Police_Sarthi_Batch_B03_English_Spl52_Delhi_Police_Sarthi_Batch_B02_SSC_CPO_2025_SSC_CHSL_2025_B03_SSC_MTS_2025_B02_SSC_GD_2026_Target_Batch_1.pdf",
+      "date": "03-Jul-2025"
+    },
+    {
+      "id": 583035,
+      "title": "Eng | 02 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6864f7e1b152b_Eng_2th.july_Class.pngDelhi_Police_Special_Delhi_Police_Sarthi_Batch_B03_English_Spl52_Delhi_Police_Sarthi_Batch_B02_SSC_CPO_2025_SSC_CHSL_2025_B03_SSC_MTS_2025_B02_SSC_GD_2026_Target_Batch_B02.pdf",
+      "date": "02-Jul-2025"
+    },
+    {
+      "id": 582542,
+      "title": "Eng | 01 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6863c7b646c15_Eng_1st.july_Class.png_English_Practice_Winner_Series1000amcompressed.pdf",
+      "date": "01-Jul-2025"
+    },
+    {
+      "id": 580042,
+      "title": "Eng | 30 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/686238dba6942_Eng_30th.june_class.pngDelhi_Police_Sarthi_Batch_B03_English_Spl52_Delhi_Police_Sarthi_Batch_B02_SSC_CPO_2025_SSC_CHSL_2025_B03_SSC_MTS_2025_B02_SSC_GD_2026_Target_Batch_B021100am_1compressed.pdf",
+      "date": "30-Jun-2025"
+    },
+    {
+      "id": 578635,
+      "title": "Eng | 26 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/685cecb14684d_Eng_26th.june_class.pngDelhi_Police_Sarthi_Batch_B03_English_Spl52_Delhi_Police_Sarthi_Batch_B02_SSC_CPO_2025_SSC_CHSL_2025_B03_SSC_MTS_2025_B02_SSC_GD_2026_Target_Batch_B021100amcompressed.pdf",
+      "date": "26-Jun-2025"
+    },
+    {
+      "id": 577482,
+      "title": "Eng | 25 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/685b9e5a47680_Eng_25th.june_class.pngDelhi_Police_Sarthi_Batch_B03_English_Spl52_Delhi_Police_Sarthi_Batch_B02_SSC_CPO_2025_SSC_CHSL_2025_B03_SSC_MTS_2025_B02_SSC_GD_2026_Target_Batch_B021100amcompressed.pdf",
+      "date": "25-Jun-2025"
+    },
+    {
+      "id": 577433,
+      "title": "Eng | 24 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/685b97b108af9_Eng_24th.june_class.pngDelhi_Police_Sarthi_Batch_B03_English_Spl52_Delhi_Police_Sarthi_Batch_B02_SSC_CPO_2025_SSC_CHSL_2025_B03_SSC_MTS_2025_B02_SSC_GD_2026_Target_Batch_B021100amcompr.pdf",
+      "date": "25-Jun-2025"
+    },
+    {
+      "id": 575953,
+      "title": "Eng | 24 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/685a4dfd6a5b8_Eng_24th.june_class.pngDelhi_Police_Sarthi_Batch_B03_English_Spl52_Delhi_Police_Sarthi_Batch_B02_SSC_CPO_2025_SSC_CHSL_2025_B03_SSC_MTS_2025_B02_SSC_GD_2026_Target_Batch_B021100amcompr_1comp.pdf",
+      "date": "24-Jun-2025"
+    },
+    {
+      "id": 575946,
+      "title": "Eng | 24 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/685a4df086f5c_Eng_24th.june_class.pngDelhi_Police_Sarthi_Batch_B03_English_Spl52_Delhi_Police_Sarthi_Batch_B02_SSC_CPO_2025_SSC_CHSL_2025_B03_SSC_MTS_2025_B02_SSC_GD_2026_Target_Batch_B021100amcompr_1comp.pdf",
+      "date": "24-Jun-2025"
+    },
+    {
+      "id": 575231,
+      "title": "Eng | 23 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6858f9571e598_Eng_23th.june_class.pngDelhi_Police_Sarthi_Batch_B03_English_Spl52_Delhi_Police_Sarthi_Batch_B02_SSC_CPO_2025_SSC_CHSL_2025_B03_SSC_MTS_2025_B02_SSC_GD_2026_Target_Batch_B021100amcompressed.pdf",
+      "date": "23-Jun-2025"
+    },
+    {
+      "id": 573145,
+      "title": "Eng | 19 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6853bbb7906a3_Eng_19th.june_class.pngDelhi_Police_Sarthi_Batch_B03_English_Spl52_Delhi_Police_Sarthi_Batch_B02_SSC_CPO_2025_SSC_CHSL_2025_B03_SSC_MTS_2025_B02_SSC_GD_2026_Target_Batch_B021100am.pdf",
+      "date": "19-Jun-2025"
+    },
+    {
+      "id": 571988,
+      "title": "Eng | 18 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/685280fbf2ae8_Eng_18th.june_class.pngDelhi_Police_Sarthi_Batch_B03_English_Spl52_Delhi_Police_Sarthi_Batch_B02_SSC_CPO_2025_SSC_CHSL_2025_B03_SSC_MTS_2025_B02_SSC_GD_2026_Target_Batch_B021100am.pdf",
+      "date": "18-Jun-2025"
+    },
+    {
+      "id": 570755,
+      "title": "Eng | 17 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6851229ef3fcb_Eng_17th.june_class.pngDelhi_Police_Sarthi_Batch_B03_English_Spl52_Delhi_Police_Sarthi_Batch_B02_SSC_CPO_2025_SSC_CHSL_2025_B03_SSC_MTS_2025_B02_SSC_GD_2026_Target_Batch_B021100amcompressed.pdf",
+      "date": "17-Jun-2025"
+    },
+    {
+      "id": 570282,
+      "title": "Eng | 16 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/684fc1833a96a_Eng_16th.june_class.pngDelhi_Police_Sarthi_Batch_B03_English_Spl52_Delhi_Police_Sarthi_Batch_B02_SSC_CPO_2025_SSC_CHSL_2025_B03_SSC_MTS_2025_B02_SSC_GD_2026_Target_Batch_B021100amcompressed.pdf",
+      "date": "16-Jun-2025"
+    },
+    {
+      "id": 569239,
+      "title": "Eng | 13 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/684beea614202_Eng_13th.june_class.pngDelhi_Police_Sarthi_Batch_B03_English_Spl52_Delhi_Police_Sarthi_Batch_B02_SSC_CPO_2025_SSC_CHSL_2025_B03_SSC_MTS_2025_B02_SSC_GD_2026_Target_Batch_B021100am.pdf",
+      "date": "13-Jun-2025"
+    },
+    {
+      "id": 568746,
+      "title": "Eng | 12 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/684ab80329d2a_Eng_12th.june_class..pngDelhi_Police_Sarthi_Batch_B03_English_Spl52_Delhi_Police_Sarthi_Batch_B02_SSC_CPO_2025_SSC_CHSL_2025_B03_SSC_MTS_2025_B02_SSC_GD_2026_Target_Batch_B021100am.pdf",
+      "date": "12-Jun-2025"
+    },
+    {
+      "id": 567633,
+      "title": "Eng | 11 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68497093dd231_Eng_11th.june_class..pngDelhi_Police_Sarthi_Batch_B03_English_Spl52_Delhi_Police_Sarthi_Batch_B02_SSC_CPO_2025_SSC_CHSL_2025_B03_SSC_MTS_2025_B02_SSC_GD_2026_Target_Batch_B021100amcompressed.pdf",
+      "date": "11-Jun-2025"
+    },
+    {
+      "id": 566303,
+      "title": "Eng | 10 June | PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68492b9f10b57_Eng_11th.june_class.pngDelhi_Police_Sarthi_Batch_B03_English_Spl52_Delhi_Police_Sarthi_Batch_B02_SSC_CPO_2025_SSC_CHSL_2025_B03_SSC_MTS_2025_B02_SSC_GD_2026_Target_Batch_B021100am.pdf",
+      "date": "11-Jun-2025"
+    },
+    {
+      "id": 565047,
+      "title": "Eng | 9 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6846894a915ba_Eng_9th.june_class.pngDelhi_Police_Sarthi_Batch_B03_English_Spl52_Delhi_Police_Sarthi_Batch_B02_SSC_CPO_2025_SSC_CHSL_2025_B03_SSC_MTS_2025_B02_SSC_GD_2026_Target_Batch_B021100am.pdf",
+      "date": "09-Jun-2025"
+    },
+    {
+      "id": 563855,
+      "title": "Eng | 5 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/684165b666f07_Eng_5th.june_class.pngDelhi_Police_Sarthi_Batch_B03_English_Spl52_Delhi_Police_Sarthi_Batch_B02_SSC_CPO_2025_SSC_CHSL_2025_B03_SSC_MTS_2025_B02_SSC_GD_2026_Target_Batch_B021100am.pdf",
+      "date": "05-Jun-2025"
+    },
+    {
+      "id": 563793,
+      "title": "Eng | 5 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6841447b9777f_Eng_5th.june_class.pngEnglih_Spl52_Delhi_Police_Sarthi_Batch_B02_SSC_CPO_2025_SSC_CHSL_2025_B03_SSC_MTS_2025_B02_SSC_GD_2026_Target_Batch_B02_1100am_1compressed.pdf",
+      "date": "05-Jun-2025"
+    },
+    {
+      "id": 562629,
+      "title": "Eng | 4 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6840064e2d460_Eng_4th.june_class.pngEnglih_Spl52_Delhi_Police_Sarthi_Batch_B02_SSC_CPO_2025_SSC_CHSL_2025_B03_SSC_MTS_2025_B02_SSC_GD_2026_Target_Batch_B02_1100am_1.pdf",
+      "date": "04-Jun-2025"
+    },
+    {
+      "id": 561716,
+      "title": "Eng | 3 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/683ea222e0a86_Eng_3th.june_class.pngEnglih_Spl52_Delhi_Police_Sarthi_Batch_B02_SSC_CPO_2025_SSC_CHSL_2025_B03_SSC_MTS_2025_B02_SSC_GD_2026_Target_Batch_B02_1100am_1compressed.pdf",
+      "date": "03-Jun-2025"
+    },
+    {
+      "id": 561702,
+      "title": "Eng | 2 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/683ea154885bd_Eng_2th.june_class.pngEnglih_Spl52_Delhi_Police_Sarthi_Batch_B02_SSC_CPO_2025_SSC_CHSL_2025_B03_SSC_MTS_2025_B02_SSC_GD_2026_Target_Batch_B02_1100am_1.pdf",
+      "date": "03-Jun-2025"
+    },
+    {
+      "id": 555723,
+      "title": "Eng | 29 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6839448de2f2a_Eng_29th.may_class.pngEnglih_Spl52_Delhi_Police_Sarthi_Batch_B02_SSC_CPO_2025_SSC_CHSL_2025_B03_SSC_MTS_2025_B02_SSC_GD_2026_Target_Batch_B02_1100am_1.pdf",
+      "date": "30-May-2025"
+    },
+    {
+      "id": 554500,
+      "title": "Eng | 28 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/683802819b4d4_Eng_28th.may_class.pngEnglih_Spl52_Delhi_Police_Sarthi_Batch_B02_SSC_CPO_2025_SSC_CHSL_2025_B03_SSC_MTS_2025_B02_SSC_GD_2026_Target_Batch_B02_1100am_1.pdf",
+      "date": "29-May-2025"
+    },
+    {
+      "id": 553551,
+      "title": "Eng | 27 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68357a7ef1b2a_Eng_27th.may_class.pngEnglih_Spl52_Delhi_Police_Sarthi_Batch_B02_SSC_CPO_2025_SSC_CHSL_2025_B03_SSC_MTS_2025_B02_SSC_GD_2026_Target_Batch_B02_1100am_1compressed.pdf",
+      "date": "27-May-2025"
+    },
+    {
+      "id": 552147,
+      "title": "Eng | 26 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/683416f5a3e18_Eng_26th.may_class.pngEnglih_Spl52_Delhi_Police_Sarthi_Batch_B02_SSC_CPO_2025_SSC_CHSL_2025_B03_SSC_MTS_2025_B02_SSC_GD_2026_Target_Batch_B02_1100am.pdf",
+      "date": "26-May-2025"
+    },
+    {
+      "id": 550214,
+      "title": "Eng | 23 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68301c30ced40_Eng_23th.may_class.pngEnglih_Spl52_Delhi_Police_Sarthi_Batch_B02_SSC_CPO_2025_SSC_CHSL_2025_B03_SSC_MTS_2025_B02_SSC_GD_2026_Target_Batch_B02_1100am.pdf",
+      "date": "23-May-2025"
+    },
+    {
+      "id": 549575,
+      "title": "Eng | 22 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/682ee69f6e429_Eng_22th.may_class.pngEnglih_Spl52_Delhi_Police_Sarthi_Batch_B02_SSC_CPO_2025_SSC_CHSL_2025_B03_SSC_MTS_2025_B02_SSC_GD_2026_Target_Batch_B02_1100am.pdf",
+      "date": "22-May-2025"
+    },
+    {
+      "id": 549198,
+      "title": "Eng | 21 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/682dc4de24e6b_Eng_21th.may_class.pngEnglih_Spl52_Delhi_Police_Sarthi_Batch_B02_SSC_CPO_2025_SSC_CHSL_2025_B03_SSC_MTS_2025_B02_SSC_GD_2026_Target_Batch_B02_1100amcompressed.pdf",
+      "date": "21-May-2025"
+    },
+    {
+      "id": 548584,
+      "title": "Eng | 20 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/682d5b49ef06e_Eng_20th.may_class.pngEnglih_Spl52_Delhi_Police_Sarthi_Batch_B02_SSC_CPO_2025_SSC_CHSL_2025_B03_SSC_MTS_2025_B02_SSC_GD_2026_Target_Batch_B02_1100amcompressed.pdf",
+      "date": "21-May-2025"
+    },
+    {
+      "id": 545241,
+      "title": "Eng | 19 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/682ad4ec1cfa4_Eng_19th.may_class.pngEnglih_Spl52_Delhi_Police_Sarthi_Batch_B02_SSC_CPO_2025_SSC_CHSL_2025_B03_SSC_MTS_2025_B02_SSC_GD_2026_Target_Batch_B02_1100amcompressed.pdf",
+      "date": "19-May-2025"
+    },
+    {
+      "id": 543786,
+      "title": "Eng | 16 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6826fae131f50_Eng_16th.may._class.pngEnglih_Spl52_Delhi_Police_Sarthi_Batch_B02_SSC_CPO_2025_SSC_CHSL_2025_B03_SSC_MTS_2025_B02_SSC_GD_2026_Target_Batch_B02_1100amcompressed.pdf",
+      "date": "16-May-2025"
+    },
+    {
+      "id": 542532,
+      "title": "Eng | 15 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6825aebfe8d35_Eng_15th.may._class.pngEnglih_Spl52_Delhi_Police_Sarthi_Batch_B02_SSC_CPO_2025_SSC_CHSL_2025_B03_SSC_MTS_2025_B02_SSC_GD_2026_Target_Batch_B02_1100amcompressed.pdf",
+      "date": "15-May-2025"
+    },
+    {
+      "id": 539797,
+      "title": "Eng | 14 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68244194db2d8_Eng_14th.may_class.pngEnglih_Spl52_Delhi_Police_Sarthi_Batch_B02_SSC_CPO_2025_SSC_CHSL_2025_B03_SSC_MTS_2025_B02_SSC_GD_2026_Target_Batch_B02_1100am.pdf",
+      "date": "14-May-2025"
+    },
+    {
+      "id": 539464,
+      "title": "Eng | 13 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/682301c50eba1_Eng_13th.may_class.pngEnglih_Spl52_Delhi_Police.Sarthi_Batch_B02_SSC_CPO_2025_SSC_CHSL_2025_B03_SSC_MTS_2025_B02_SSC_GD_2026_Target_Batch_B02_1100am_1compressed.pdf",
+      "date": "13-May-2025"
+    },
+    {
+      "id": 539382,
+      "title": "Eng | 13 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6822ed6326d72_Eng_13th.may_class.pngEnglih_Spl52_Delhi_Police.Sarthi_Batch_B02_SSC_CPO_2025_SSC_CHSL_2025_B03_SSC_MTS_2025_B02_SSC_GD_2026_Target_Batch_B02_1100amcompressed.pdf",
+      "date": "13-May-2025"
+    },
+    {
+      "id": 538501,
+      "title": "Eng | 12 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6821b4e1b5a45_Eng_12th.may_class.pngEnglish_Spl52_New_Batch_Free1015amcompressed.pdf",
+      "date": "12-May-2025"
+    },
+    {
+      "id": 535221,
+      "title": "Eng | 9 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/681d9e69c99fc_Eng_9th.may_class.pngEnglish_Spl52_New_Batch_Free1015amcompressed.pdf",
+      "date": "09-May-2025"
+    },
+    {
+      "id": 535210,
+      "title": "Eng | 8 May | Class.PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/681d9da8a25e7_Eng_8th.may_class.pngEnglish_Spl52_New_Batch_Free1015amcompressed.pdf",
+      "date": "09-May-2025"
+    },
+    {
+      "id": 533086,
+      "title": "Eng | 7 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/681b08ce92e9c_Eng_7th.may_class.pngEnglish_Spl52_New_Batch_Free1015amcompressed.pdf",
+      "date": "07-May-2025"
+    },
+    {
+      "id": 532485,
+      "title": "Eng | 6 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6819ada71e637_Eng_6th.may_class.pngEnglish_Spl52_New_Batch_Free1015am.pdf",
+      "date": "06-May-2025"
+    },
+    {
+      "id": 531609,
+      "title": "Eng | 5 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/681857763810e_Eng_5th.may_class.pngEnglish_Spl52_New_Batch_Free1015amcompressed.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 530395,
+      "title": "Eng | 1 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/681319082d252_Eng_1th.may_class.pngEnglish_Spl52_New_Batch_Free1015am.pdf",
+      "date": "01-May-2025"
+    }
+  ]
+}
