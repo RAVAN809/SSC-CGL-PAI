@@ -1,0 +1,850 @@
+{
+  "batchid": 2304,
+  "topicid": 22734,
+  "classes_total": 34,
+  "classes": [
+    {
+      "title": "Bio | Class-34 | Genetics",
+      "id": "4435752",
+      "date": "09-Jun-2023 15:30",
+      "video_url": "4435752_0_3659123222336357"
+    },
+    {
+      "title": "Bio | Class-33 | Kingdom monera",
+      "id": "4435751",
+      "date": "08-Jun-2023 14:00",
+      "video_url": "4435751_0_9162270549641540"
+    },
+    {
+      "title": "Bio | Class-32 |  Kingdom Fungi",
+      "id": "4435750",
+      "date": "06-Jun-2023 15:30",
+      "video_url": "4435750_0_4870862127086752"
+    },
+    {
+      "title": "Bio | Class-31 | Plant Kingdom Part-1",
+      "id": "4435749",
+      "date": "05-Jun-2023 14:00",
+      "video_url": "4435749_0_6134413250905082"
+    },
+    {
+      "title": "Bio | Class-30 | Animal Kingdom Part 1",
+      "id": "4435748",
+      "date": "02-Jun-2023 15:30",
+      "video_url": "4435748_0_3941667728319357"
+    },
+    {
+      "title": "Bio | Class-29 | Diseases part-2",
+      "id": "4435747",
+      "date": "01-Jun-2023 15:30",
+      "video_url": "4435747_0_5880680210550482"
+    },
+    {
+      "title": "Bio | Class-28 | Diseases Part-1",
+      "id": "4435746",
+      "date": "31-May-2023 14:00",
+      "video_url": "4435746_0_1218446289444248"
+    },
+    {
+      "title": "Bio | Class-27 | Endocrine System  ( अंतः स्रावी तंत्र  )  Part -2",
+      "id": "4435745",
+      "date": "29-May-2023 14:00",
+      "video_url": "4435745_0_9484240048734142"
+    },
+    {
+      "title": "Bio | Class-26 | Plant Tissue  ( पादप उत्तक  )  Part -2",
+      "id": "4435744",
+      "date": "26-May-2023 14:00",
+      "video_url": "4435744_0_6785171305041658"
+    },
+    {
+      "title": "Bio | Class-25 | Plant Tissue  ( पादप उत्तक  )  Part 2",
+      "id": "4435743",
+      "date": "23-May-2023 14:00",
+      "video_url": "4435743_0_4294030696654096"
+    },
+    {
+      "title": "Bio | Class-24 | Plant Tissue Part 1",
+      "id": "4435742",
+      "date": "22-May-2023 14:00",
+      "video_url": "4435742_0_5480109796919206"
+    },
+    {
+      "title": "Bio | Class-23 | Human Skeletal System ( मानव कंकाल तंत्र )",
+      "id": "4435741",
+      "date": "19-May-2023 10:45",
+      "video_url": "4435741_0_2168505038514862"
+    },
+    {
+      "title": "Bio | Class-22 | Human Skeletal System  ( मानव कंकाल तंत्र  )",
+      "id": "4435740",
+      "date": "16-May-2023 14:00",
+      "video_url": "4435740_0_2207685142094863"
+    },
+    {
+      "title": "Bio | Class-21 | Histology ( उत्तक विज्ञान )",
+      "id": "4435739",
+      "date": "15-May-2023 14:00",
+      "video_url": "4435739_0_1057357869034364"
+    },
+    {
+      "title": "Bio | Class-20 | Histology ( उत्तक विज्ञान )",
+      "id": "4435738",
+      "date": "12-May-2023 14:00",
+      "video_url": "4435738_0_7802054391787773"
+    },
+    {
+      "title": "Bio | Class-19 | DNA and Cell Division",
+      "id": "4435737",
+      "date": "10-May-2023 14:00",
+      "video_url": "4435737_0_7496400294776550"
+    },
+    {
+      "title": "Bio | Class-18 | Asexual Reproduction + Cytology ( अलैंगिक जनन + कोशिका विज्ञान )",
+      "id": "4435736",
+      "date": "05-May-2023 14:00",
+      "video_url": "4435736_0_5432426858004028"
+    },
+    {
+      "title": "Bio | Class-17 | Asexual Reproduction + Cytology ( अलैंगिक जनन + कोशिका विज्ञान )",
+      "id": "4435735",
+      "date": "04-May-2023 14:00",
+      "video_url": "4435735_0_8061306602842838"
+    },
+    {
+      "title": "Bio | Class-16 | Plant Reproduction ( पौधों में प्रजनन )",
+      "id": "4435734",
+      "date": "01-May-2023 14:00",
+      "video_url": "4435734_0_9766365761581103"
+    },
+    {
+      "title": "Bio | Class-15 | Plant Reproduction ( पौधों में प्रजनन )",
+      "id": "4435733",
+      "date": "18-Apr-2023 14:00",
+      "video_url": "4435733_0_6368407902227322"
+    },
+    {
+      "title": "Bio | Class-14 | Animal Reproduction ( जन्तुओं में प्रजनन )",
+      "id": "4435732",
+      "date": "17-Apr-2023 15:30",
+      "video_url": "4435732_0_3452895998153933"
+    },
+    {
+      "title": "Bio | Class-13 | Animal Reproduction  ( जन्तुओं में प्रजनन )",
+      "id": "4435731",
+      "date": "15-Apr-2023 14:00",
+      "video_url": "4435731_0_7254862955277785"
+    },
+    {
+      "title": "Bio | Class-12 | Excretion (उत्सर्जन)",
+      "id": "4435730",
+      "date": "12-Apr-2023 14:00",
+      "video_url": "4435730_0_1656455260341974"
+    },
+    {
+      "title": "Bio | Class-11 | Excretion (उत्सर्जन)",
+      "id": "4435729",
+      "date": "11-Apr-2023 15:30",
+      "video_url": "4435729_0_3867812120674239"
+    },
+    {
+      "title": "Bio | Class-10 | Circulation ( परिसंचरण )",
+      "id": "4435728",
+      "date": "08-Apr-2023 15:30",
+      "video_url": "4435728_0_1429878998448990"
+    },
+    {
+      "title": "Bio | Class-09 | Circulation ( परिसंचरण )",
+      "id": "4435727",
+      "date": "05-Apr-2023 15:30",
+      "video_url": "4435727_0_6380168295759394"
+    },
+    {
+      "title": "Bio | Class-08 | Respiration ( श्वशन )",
+      "id": "4435726",
+      "date": "04-Apr-2023 15:30",
+      "video_url": "4435726_0_2138077716807701"
+    },
+    {
+      "title": "Bio | Class-07 | Respiration ( श्वशन )",
+      "id": "4435725",
+      "date": "01-Apr-2023 14:00",
+      "video_url": "4435725_0_2793909139812428"
+    },
+    {
+      "title": "Bio | Class-06 | Respiration ( श्वशन )",
+      "id": "4435724",
+      "date": "28-Mar-2023 15:30",
+      "video_url": "4435724_0_1641535231068602"
+    },
+    {
+      "title": "Bio | Class-05 | Animal Nutrition ( जन्तुओं में पोषण )",
+      "id": "4435723",
+      "date": "27-Mar-2023 15:30",
+      "video_url": "4435723_0_6063546509831089"
+    },
+    {
+      "title": "Bio | Class-04 | Animal Nutrition ( जन्तुओं में पोषण )",
+      "id": "4435722",
+      "date": "23-Mar-2023 15:30",
+      "video_url": "4435722_0_3896683113082950"
+    },
+    {
+      "title": "Bio | Class-03 | Animal Nutrition ( जन्तुओं में पोषण )",
+      "id": "4435721",
+      "date": "20-Mar-2023 15:30",
+      "video_url": "4435721_0_2134276739633345"
+    },
+    {
+      "title": "Bio | Class-02 | Plant Nutrition / पौधे में पोषण",
+      "id": "4435720",
+      "date": "16-Mar-2023 15:30",
+      "video_url": "4435720_0_8013561126112484"
+    },
+    {
+      "title": "Bio | Class-01 | Introduction",
+      "id": "4435719",
+      "date": "13-Mar-2023 15:30",
+      "video_url": "4435719_0_7021916279942404"
+    }
+  ],
+  "notes_total": 106,
+  "notes": [
+    {
+      "id": 736197,
+      "title": "Single Phase Induction Motor",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/691ed020af28c_Single_Phase_Induction_Motor_compressed.pdf",
+      "date": "20-Nov-2025"
+    },
+    {
+      "id": 736192,
+      "title": "DC Machine Part-4",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/691ecfc5e8b9d_DC_Machine_Part_4_compressed.pdf",
+      "date": "20-Nov-2025"
+    },
+    {
+      "id": 736186,
+      "title": "DC Machine Part-3",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/691ecf35c937b_DC_Machine_Part_3_compressed.pdf",
+      "date": "20-Nov-2025"
+    },
+    {
+      "id": 661128,
+      "title": "Dc Machine Part-2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68c2a71ae7d41_DC_Machine_Part_2_compressed.pdf",
+      "date": "11-Sep-2025"
+    },
+    {
+      "id": 661098,
+      "title": "Dc Machine Part-1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68c2a688322d4_Dc_Machine_Part_1..._compressed.pdf",
+      "date": "11-Sep-2025"
+    },
+    {
+      "id": 644846,
+      "title": "Synchronous Machine Part-2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b560a42f123_Synchronous_Machine_Part_2.pdf",
+      "date": "01-Sep-2025"
+    },
+    {
+      "id": 644842,
+      "title": "Synchronous Machine Part-1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b56033ec045_Synchronous_Machine_Part_1.pdf",
+      "date": "01-Sep-2025"
+    },
+    {
+      "id": 644838,
+      "title": "3 Phase Induction Motor Part-2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b55f88e5fcc_3_Phase_Induction_Motor_Part_2_1.pdf",
+      "date": "01-Sep-2025"
+    },
+    {
+      "id": 644837,
+      "title": "3 Phase Induction Motor Part-1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b55f5e39da1_3_Phase_Induction_Motor_Part_1_1.pdf",
+      "date": "01-Sep-2025"
+    },
+    {
+      "id": 509315,
+      "title": "Transformer Part-2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67ea23fcc444b_Transformer_Part_2....pdf",
+      "date": "31-Mar-2025"
+    },
+    {
+      "id": 494216,
+      "title": "Environment Part 2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67c0351c73c64_Environment_Part_2compressed.pdf",
+      "date": "27-Feb-2025"
+    },
+    {
+      "id": 492257,
+      "title": "Transformer Part 1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67bbca1da14c2_Transformer_Part_1..compressed.pdf",
+      "date": "24-Feb-2025"
+    },
+    {
+      "id": 492215,
+      "title": "FET Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67ba064a0d484_FET_Notes454462crwill.pdf",
+      "date": "22-Feb-2025"
+    },
+    {
+      "id": 468127,
+      "title": "Magnetic Circuit",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6786469dac11f_Magnetic_Circuit.pdf",
+      "date": "14-Jan-2025"
+    },
+    {
+      "id": 463320,
+      "title": "Computer Part-2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/677699ef0e658_Computer_Part_2compressed.pdf",
+      "date": "06-Jan-2025"
+    },
+    {
+      "id": 463319,
+      "title": "Computer Part-1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67769878693a4_Computer_Part_1compressed.pdf",
+      "date": "06-Jan-2025"
+    },
+    {
+      "id": 454447,
+      "title": "Network Theory Part-2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/675d0a682df5b_Network_Theory_Part_2.pdf",
+      "date": "14-Dec-2024"
+    },
+    {
+      "id": 454444,
+      "title": "Network Theory Part-1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/675d0a17e42eb_Network_Theory_Part_1compressed.pdf",
+      "date": "14-Dec-2024"
+    },
+    {
+      "id": 450438,
+      "title": "Filter, Two Port, 3 Phase Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/674d9ef563c98_Filter_Two_Port_3_Phase_Notescompressed.pdf",
+      "date": "02-Dec-2024"
+    },
+    {
+      "id": 445432,
+      "title": "Advance Maths All Sheet Part-3",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/663db2cc7f5ae_6625f80418a2f_ADVANCE MATHS ALL SHEET- PART-3 (1).pdf",
+      "date": "15-Nov-2024"
+    },
+    {
+      "id": 445431,
+      "title": "Advance Maths All Sheet Part-2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/663db24f7a0d7_6625f7dfd4229_ADVANCE MATHS ALL SHEET- PART-2 (1).pdf",
+      "date": "15-Nov-2024"
+    },
+    {
+      "id": 445430,
+      "title": "Advance Maths All Sheet Part-1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/663db1e879373_6625f7bdd2823_ADVANCE MATHS ALL SHEET- PART-1 (1).pdf",
+      "date": "15-Nov-2024"
+    },
+    {
+      "id": 445429,
+      "title": "Trigonometry Sheet-1&2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65de27e41d8d1_TRIGONOMETRY SHEET-1 OR 2 FINAL PDF 2024.pdf",
+      "date": "15-Nov-2024"
+    },
+    {
+      "id": 445428,
+      "title": "Trigonometry Sheet-1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65c70769c28c5_TRIGONOMETRY SHEET-1 FINAL PDF 2023.pdf",
+      "date": "15-Nov-2024"
+    },
+    {
+      "id": 445427,
+      "title": "9 Feb 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65c70708e1cdd_0800am9feb24.pdf",
+      "date": "15-Nov-2024"
+    },
+    {
+      "id": 445426,
+      "title": "Prism & Pyramid  Sheet",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/659df31ebdef5_PRISM, PYARAMID FINAL PDF 2023 (MAIN).pdf",
+      "date": "15-Nov-2024"
+    },
+    {
+      "id": 445425,
+      "title": "Mensuration 3D Sheet",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/659aab2ab6afe_MENSURATION 3D (NEW 2024) FINAL PDF.pdf",
+      "date": "15-Nov-2024"
+    },
+    {
+      "id": 445424,
+      "title": "Mensuration 2D",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/658c591cd2c44_MENSURATION 2D FINAL PDF 2023-24++.pdf",
+      "date": "15-Nov-2024"
+    },
+    {
+      "id": 445423,
+      "title": "Number System & Simplification",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65797da7cf456_NUMBER SYSTEM SIMPLIFICATION FINAL PDF 2023.pdf",
+      "date": "15-Nov-2024"
+    },
+    {
+      "id": 445422,
+      "title": "Number System",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65797d496fabd_NUMBER SYSTEM (MATHS SPL) FINAL PDF 2023.pdf",
+      "date": "15-Nov-2024"
+    },
+    {
+      "id": 445421,
+      "title": "Geometry Circle Sheet",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6565d4d8e5523_GEOMETRY CIRCLE FINAL PDF 2023.pdf",
+      "date": "15-Nov-2024"
+    },
+    {
+      "id": 445420,
+      "title": "Triangle Final PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/655da6993ba05_TRIANGLE FINAL PDF 2023.pdf",
+      "date": "15-Nov-2024"
+    },
+    {
+      "id": 445419,
+      "title": "Line and Angles FINAL PDF 2023",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/655da63fbcf0b_LINE AND ANGLES FINAL PDF 2023.pdf",
+      "date": "15-Nov-2024"
+    },
+    {
+      "id": 445418,
+      "title": "HCF & LCM FINAL PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/654225daaea15_HCF & LCM FINAL PDF 2023 (1).pdf",
+      "date": "15-Nov-2024"
+    },
+    {
+      "id": 445417,
+      "title": "Number System Sheet-2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/652e180662ee4_NUMBER SYSTEM (MATHS SPL) FINAL PDF 2023_231017_103304.pdf",
+      "date": "15-Nov-2024"
+    },
+    {
+      "id": 445416,
+      "title": "Number System Sheet",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6507d5b51f475_NUMBER SYSTEM (MATHS SPL) FINAL PDF 2023.pdf",
+      "date": "15-Nov-2024"
+    },
+    {
+      "id": 443161,
+      "title": "Resonance & Transient Notes ( AC Analysis)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/672b5948c22a5_Resonance_Transient_Notes_AC_Analysis_.pdf",
+      "date": "06-Nov-2024"
+    },
+    {
+      "id": 430088,
+      "title": "AC Basics Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66f0e4842a343_AC_Basics_.pdf",
+      "date": "23-Sep-2024"
+    },
+    {
+      "id": 427327,
+      "title": "Network Theory Part-3",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66e408c51eb56_Network Theory Part 3.pdf",
+      "date": "13-Sep-2024"
+    },
+    {
+      "id": 427320,
+      "title": "Network Theory Part-2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66e4086562a82_Network Theory Part 2.pdf",
+      "date": "13-Sep-2024"
+    },
+    {
+      "id": 427314,
+      "title": "Network Theory Part-1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66e407f6ef9c0_Network Theory Part 1_compressed.pdf",
+      "date": "13-Sep-2024"
+    },
+    {
+      "id": 424470,
+      "title": "Microprocessor Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66dfda9d4495c_Microprocessor Notes_compressed.pdf",
+      "date": "10-Sep-2024"
+    },
+    {
+      "id": 415195,
+      "title": "BJT",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/659e96fb47f0b_BJT ( JE)_compressed.pdf",
+      "date": "10-Jan-2024"
+    },
+    {
+      "id": 415194,
+      "title": "Rectifier (JE)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/658af200cd194_Rectifier( JE).pdf",
+      "date": "26-Dec-2023"
+    },
+    {
+      "id": 415193,
+      "title": "Diode Notes (JE)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6548a007070b7_Diode Notes( JE)_compressed.pdf",
+      "date": "11-Nov-2023"
+    },
+    {
+      "id": 415192,
+      "title": "Semiconductor Basics",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6532512d73430_semiconductor Basics_compressed.pdf",
+      "date": "11-Nov-2023"
+    },
+    {
+      "id": 415191,
+      "title": "Measurement Ques Part-3",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64f17a48c528c_Measurement Ques Part 3_compressed.pdf",
+      "date": "11-Nov-2023"
+    },
+    {
+      "id": 415190,
+      "title": "Measurement Ques Part-2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64f179f6162c9_Measurement  Ques Part 2._compressed.pdf",
+      "date": "11-Nov-2023"
+    },
+    {
+      "id": 415189,
+      "title": "Measurement  Ques Part-1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64f178f66fd4e_Measurement  Ques Part 1._compressed.pdf",
+      "date": "11-Nov-2023"
+    },
+    {
+      "id": 415188,
+      "title": "Transmission & Distribution Ques Part-2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64788f0506516_Transmission & Distribution Ques part-2.pdf",
+      "date": "11-Nov-2023"
+    },
+    {
+      "id": 415187,
+      "title": "Transmission & Distribution Ques Part-1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64788eafb4090_Transmission & Distribution Ques part-1.pdf",
+      "date": "11-Nov-2023"
+    },
+    {
+      "id": 415186,
+      "title": "DC Machine Ques (Advance)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/649060198545a_DC Machine Ques ( advance)_compressed.pdf",
+      "date": "11-Nov-2023"
+    },
+    {
+      "id": 415185,
+      "title": "DC Machine Ques Class Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64394222ba9aa_DC Machine Ques ( Class Notes)_compressed.pdf",
+      "date": "11-Nov-2023"
+    },
+    {
+      "id": 415184,
+      "title": "1 Phase Motor Ques (Class Notes) (Part-4)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64228ba3c6544_1 Phase Motor Ques ( Class Notes) (PART-4)_compressed.pdf",
+      "date": "11-Nov-2023"
+    },
+    {
+      "id": 415183,
+      "title": "1 Phase Motor Ques (Class Notes) (Part-3)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64228b6e133b8_1 Phase Motor Ques ( Class Notes) (PART-3)_compressed.pdf",
+      "date": "11-Nov-2023"
+    },
+    {
+      "id": 415182,
+      "title": "1 Phase Motor Ques (Class Notes) (Part-2)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64228b3ebc248_1 Phase Motor Ques ( Class Notes) (PART-2)_compressed.pdf",
+      "date": "11-Nov-2023"
+    },
+    {
+      "id": 415181,
+      "title": "1 Phase Motor Ques (Class Notes) (Part-1)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64228b0795fe1_1 Phase Motor Ques ( Class Notes) (PART-1)_compressed.pdf",
+      "date": "11-Nov-2023"
+    },
+    {
+      "id": 415180,
+      "title": "Magnet & Xmer Ques ( Class Notes)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6454fddb2a586_Magnet & Xmer Ques ( Class Notes)_compressed.pdf",
+      "date": "11-Nov-2023"
+    },
+    {
+      "id": 415179,
+      "title": "Syn Machine Ques Class Notes Part-2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6437e33fa42f4_Syn Machine Ques( Class Notes) (PART-2).pdf",
+      "date": "11-Nov-2023"
+    },
+    {
+      "id": 415178,
+      "title": "Syn Machine Ques Class Notes Part-1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6437e2b118bdd_Syn Machine Ques( Class Notes) (PART-1).pdf",
+      "date": "11-Nov-2023"
+    },
+    {
+      "id": 415177,
+      "title": "3 Phase I.M.Ques (Class Notes) Part-5",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64228dca44578_3 Phase I.M.  Ques ( Class Notes)-1 (PART-5)_compressed.pdf",
+      "date": "11-Nov-2023"
+    },
+    {
+      "id": 415176,
+      "title": "3 Phase I.M.Ques (Class Notes) Part-4",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64228d9d2da46_3 Phase I.M.  Ques ( Class Notes)-1 (PART-4)_compressed.pdf",
+      "date": "11-Nov-2023"
+    },
+    {
+      "id": 415175,
+      "title": "3 Phase I.M.Ques (Class Notes) Part-3",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64228d773820b_3 Phase I.M.  Ques ( Class Notes)-1 (PART-3)_compressed.pdf",
+      "date": "11-Nov-2023"
+    },
+    {
+      "id": 415174,
+      "title": "3 Phase I.M.Ques (Class Notes) Part-2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64228d4ba26a2_3 Phase I.M.  Ques ( Class Notes)-1 (PART-2)_compressed.pdf",
+      "date": "11-Nov-2023"
+    },
+    {
+      "id": 415173,
+      "title": "3 Phase I.M.Ques (Class Notes) Part-1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64228d135e333_3 Phase I.M.  Ques ( Class Notes)-1 (PART-1)_compressed.pdf",
+      "date": "11-Nov-2023"
+    },
+    {
+      "id": 415172,
+      "title": "Micro Question",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1675848389.pdf",
+      "date": "11-Nov-2023"
+    },
+    {
+      "id": 415171,
+      "title": "Control System ",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1670930554-control_system_by_Rajkumar_sir.pdf",
+      "date": "11-Nov-2023"
+    },
+    {
+      "id": 415170,
+      "title": "Metal, Nonmetal & Alloy",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1667995624-Metal,_Nonmetal_Alloy.pdf",
+      "date": "11-Nov-2023"
+    },
+    {
+      "id": 415169,
+      "title": "2007 to 2015 SSC JE Ques",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1664182031-5_6305131089971118296_compressed.pdf",
+      "date": "11-Nov-2023"
+    },
+    {
+      "id": 415168,
+      "title": "Measurement Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1659929923-Measurement_Notes_compressed.pdf",
+      "date": "11-Nov-2023"
+    },
+    {
+      "id": 415167,
+      "title": "Estimation & Costing Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1659929900-Estimation_costing_Notes_compressed.pdf",
+      "date": "11-Nov-2023"
+    },
+    {
+      "id": 415166,
+      "title": "UEE Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1659929872-UEE_Notes_compressed.pdf",
+      "date": "11-Nov-2023"
+    },
+    {
+      "id": 415165,
+      "title": "Power System Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1659929855-Power_System_Notes_compressed.pdf",
+      "date": "11-Nov-2023"
+    },
+    {
+      "id": 415164,
+      "title": "Analog Electronics Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1659929832-Analog_Electronics_Notes_compressed.pdf",
+      "date": "11-Nov-2023"
+    },
+    {
+      "id": 415163,
+      "title": "Machine Part - 05  Page (400-420)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1655887623-Machine_Notes_PART-(5)_PAGE_400-420.pdf",
+      "date": "11-Nov-2023"
+    },
+    {
+      "id": 415162,
+      "title": "Machine Part - 04  Page (301-400)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1655887623-Machine_Notes_PART-(4)_PAGE_301-400.pdf",
+      "date": "11-Nov-2023"
+    },
+    {
+      "id": 415161,
+      "title": "Machine Part - 03  Page (201-300)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1655887623-Machine_Notes_PART-(3)_PAGE_201-300.pdf",
+      "date": "11-Nov-2023"
+    },
+    {
+      "id": 415160,
+      "title": "Machine Part - 02  Page (101-200)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1655887623-Machine_Notes_PART-(2)_PAGE_101-200.pdf",
+      "date": "11-Nov-2023"
+    },
+    {
+      "id": 415159,
+      "title": "Machine Part - 01  Page (1-100)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1655887525-Machine_Notes_PART-(1)_PAGE_1-100.pdf",
+      "date": "11-Nov-2023"
+    },
+    {
+      "id": 360375,
+      "title": "Ancient History Class-1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64a65a6b3cb50_ancient history CLASS-01 student pdf.pdf",
+      "date": "10-Apr-2024"
+    },
+    {
+      "id": 358994,
+      "title": "MATHS ALL TOPIC PDF 2023",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/655d950e8b27c_MATHS ALL TOPIC PDF 2023 (DONE).pdf",
+      "date": "04-Apr-2024"
+    },
+    {
+      "id": 358993,
+      "title": "PARTNERSHIP FINAL PDF 2023",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6544a050be60c_PARTNERSHIP FINAL PDF 2023 (1).pdf",
+      "date": "04-Apr-2024"
+    },
+    {
+      "id": 358992,
+      "title": "PROFIT & LOSS  FINAL FILE 2023",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6544a0205af8a_PROFIT & LOSS  FINAL FILE 2023++ (1).pdf",
+      "date": "04-Apr-2024"
+    },
+    {
+      "id": 358991,
+      "title": "PIPE & CISTERN FINAL PDF 2023",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65449ee6a48fa_PIPE & CISTERN FINAL PDF 2023.pdf",
+      "date": "04-Apr-2024"
+    },
+    {
+      "id": 358990,
+      "title": "TIME AND WORK 2023 FINAL PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65449db659d23_TIME AND WORK 2023 FINAL PDF.pdf",
+      "date": "04-Apr-2024"
+    },
+    {
+      "id": 358989,
+      "title": "Profit & Loss  Final File-2023",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/654490424d797_PROFIT & LOSS  FINAL FILE 2023++.pdf",
+      "date": "04-Apr-2024"
+    },
+    {
+      "id": 358988,
+      "title": "PIPE & CISTERN FINAL PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/654344dfcba99_PIPE & CISTERN FINAL PDF 2023.pdf",
+      "date": "04-Apr-2024"
+    },
+    {
+      "id": 358987,
+      "title": "Boat and Stream Sheet",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6532576b0d0a8_BOAT AND STREAM (MATHS SPL) FINAL PDF 2023.pdf",
+      "date": "04-Apr-2024"
+    },
+    {
+      "id": 358986,
+      "title": "Train Sheet",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65325737b255d_TRAIN (MATHS SPL) FINAL PDF 2023.pdf",
+      "date": "04-Apr-2024"
+    },
+    {
+      "id": 358985,
+      "title": "Percentage Sheet",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6528dcfb30abf_PERCENTAGE FINAL PDF 2023+.pdf",
+      "date": "04-Apr-2024"
+    },
+    {
+      "id": 358984,
+      "title": "12 Oct 2023 Class PNG(9 AM)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6528dc0e1a7fe_0900am12oct23.pdf",
+      "date": "04-Apr-2024"
+    },
+    {
+      "id": 358983,
+      "title": "Train",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/651d64419b50e_TRAIN (MATHS SPL) FINAL PDF 2023.pdf",
+      "date": "04-Apr-2024"
+    },
+    {
+      "id": 358982,
+      "title": "Race",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/651c047591766_RACE (MATHS SPL) FINAL PDF 2023.pdf",
+      "date": "04-Apr-2024"
+    },
+    {
+      "id": 358981,
+      "title": "Speed, Time and Distance-Race Sheet",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6513c0e1b886b_TIME SPEED DISTANCE-RACE (MATHS SPL) FINAL PDF 2023+.pdf",
+      "date": "04-Apr-2024"
+    },
+    {
+      "id": 358980,
+      "title": "Pipe and Cistern 2023 Final Sheet",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6507e3402791d_PIPE & CISTERN (MATHS SPL) FINAL PDF 2023.pdf",
+      "date": "04-Apr-2024"
+    },
+    {
+      "id": 358979,
+      "title": "Time & Work , Work and Wages Sheet",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64faa00c289e9_TIME AND WORK-WORK & WAGES FINAL PDF 2023 (MATHS SPL) NEW (1).pdf",
+      "date": "04-Apr-2024"
+    },
+    {
+      "id": 360384,
+      "title": "Chem (Hindi) Full Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1653560969-Chem_Notes_Hindi_By_Satender_Sir_(1).pdf",
+      "date": "10-Apr-2024"
+    },
+    {
+      "id": 360385,
+      "title": "Chem (Eng) Full Notes ",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1624090349-Chem_Notes_Eng_By_Satender_Sir.pdf",
+      "date": "10-Apr-2024"
+    },
+    {
+      "id": 360382,
+      "title": "Phy (Eng) Full Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1624090534-Phy_Eng_Notes_Ankur_Sir_full_pdf.pdf",
+      "date": "10-Apr-2024"
+    },
+    {
+      "id": 360383,
+      "title": "Phy (Hindi) Full Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1624090534-Phy_Hindi_Notes_Ankur_Sir_Full_Pdf.pdf",
+      "date": "10-Apr-2024"
+    },
+    {
+      "id": 360378,
+      "title": "World Geo (English) Full Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1624090202-World_Geography_English.pdf",
+      "date": "10-Apr-2024"
+    },
+    {
+      "id": 360379,
+      "title": "Indian + World Geo (Hindi) Full Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1624090202-Indian_World_Geography_Notes_Hindi.pdf",
+      "date": "10-Apr-2024"
+    },
+    {
+      "id": 360380,
+      "title": "Indian Geo (English) Full Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1624090202-Indian_Geography_Eng.pdf",
+      "date": "10-Apr-2024"
+    },
+    {
+      "id": 360381,
+      "title": "Eco (Bilingual) Full Notes ",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1624090349-eco_full_notes_by_rashid_sir_updated.pdf",
+      "date": "10-Apr-2024"
+    },
+    {
+      "id": 360376,
+      "title": "Polity (English) Full Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1624090202-Polity_English_By_Abhishek_Sir_Full_Notes.pdf",
+      "date": "10-Apr-2024"
+    },
+    {
+      "id": 360377,
+      "title": "Polity (Hindi) Full Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1624090202-Polity_Hindi_By_Abhishek_Suman_Sir_Full_Notes.pdf",
+      "date": "10-Apr-2024"
+    }
+  ]
+}
