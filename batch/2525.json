@@ -1,5 +1,5 @@
 {
-  "batch_id": 2525,
+  "batch_id": "2525",
   "topics": [
     {
       "id": 25381,
@@ -41,5 +41,6 @@
       "id": 28687,
       "topicName": "Vocab"
     }
-  ]
+  ],
+  "batch_name": "English Spl-06,07 & 08 (Offline) 2024"
 }
