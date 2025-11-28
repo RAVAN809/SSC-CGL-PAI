@@ -1,0 +1,1462 @@
+{
+  "batchid": 2594,
+  "topicid": 26361,
+  "classes_total": 99,
+  "classes": [
+    {
+      "title": "Special For You",
+      "id": "4441860",
+      "date": "23-Nov-2024 19:00",
+      "video_url": "4441860_0_1999975135816742"
+    },
+    {
+      "title": "Class-101 | Specific Heat & Latent Heat",
+      "id": "4425694",
+      "date": "15-May-2024 08:15",
+      "video_url": "4425694_0_2023667805121663"
+    },
+    {
+      "title": "Class-100 | Specific Heat & Latent Heat",
+      "id": "4425693",
+      "date": "14-May-2024 08:15",
+      "video_url": "4425693_0_1362219776380838"
+    },
+    {
+      "title": "Class-99 | Specific Heat & Latent Heat",
+      "id": "4425692",
+      "date": "13-May-2024 08:15",
+      "video_url": "4425692_0_1685349779060924"
+    },
+    {
+      "title": "Class-98 | Specific Heat & Latent Heat",
+      "id": "4425691",
+      "date": "10-May-2024 08:15",
+      "video_url": "4425691_0_9226793841850822"
+    },
+    {
+      "title": "Class-97 | Specific Heat & Latent Heat",
+      "id": "4425690",
+      "date": "09-May-2024 08:15",
+      "video_url": "4425690_0_4176364955212832"
+    },
+    {
+      "title": "Class-96 | Specific Heat & Latent Heat",
+      "id": "4425689",
+      "date": "08-May-2024 08:15",
+      "video_url": "4425689_0_3267465019344464"
+    },
+    {
+      "title": "Class-95 | Specific Heat & Latent Heat",
+      "id": "4425688",
+      "date": "07-May-2024 08:15",
+      "video_url": "4425688_0_7147471523898947"
+    },
+    {
+      "title": "Class-94 | Specific Heat & Latent Heat",
+      "id": "4425687",
+      "date": "06-May-2024 08:15",
+      "video_url": "4425687_0_5767938314570837"
+    },
+    {
+      "title": "Class-93 | Temperature Scale",
+      "id": "4425686",
+      "date": "02-May-2024 08:15",
+      "video_url": "4425686_0_4149621975594719"
+    },
+    {
+      "title": "Class-92 | Temperature Scale",
+      "id": "4425685",
+      "date": "01-May-2024 08:15",
+      "video_url": "4425685_0_5644566949109299"
+    },
+    {
+      "title": "Class-91 | Waves",
+      "id": "4425684",
+      "date": "30-Apr-2024 11:00",
+      "video_url": "4425684_0_9701413543377035"
+    },
+    {
+      "title": "Class-90 | Waves",
+      "id": "4425683",
+      "date": "29-Apr-2024 11:00",
+      "video_url": "4425683_0_5959524454444218"
+    },
+    {
+      "title": "Class-89 | Waves",
+      "id": "4425682",
+      "date": "27-Apr-2024 11:15",
+      "video_url": "4425682_0_2782588619445306"
+    },
+    {
+      "title": "Class-88 | Waves",
+      "id": "4425681",
+      "date": "26-Apr-2024 11:00",
+      "video_url": "4425681_0_9120563685436348"
+    },
+    {
+      "title": "Class-86 | Waves",
+      "id": "4425680",
+      "date": "20-Apr-2024 11:00",
+      "video_url": "4425680_0_8570793487953046"
+    },
+    {
+      "title": "Class-85 | Lens & Mirror",
+      "id": "4441813",
+      "date": "19-Apr-2024 11:00",
+      "video_url": "4441813_0_1573102843925495"
+    },
+    {
+      "title": "Class-84 | Lens & Mirror",
+      "id": "4441812",
+      "date": "18-Apr-2024 11:00",
+      "video_url": "4441812_0_4996244326248200"
+    },
+    {
+      "title": "Class-83 | Lens & Mirror",
+      "id": "4441811",
+      "date": "16-Apr-2024 11:15",
+      "video_url": "4441811_0_3516878571881396"
+    },
+    {
+      "title": "Class-82 | Lens & Mirror",
+      "id": "4441810",
+      "date": "15-Apr-2024 11:15",
+      "video_url": "4441810_0_3183932085098243"
+    },
+    {
+      "title": "Class-81 | Lens & Mirror",
+      "id": "4441808",
+      "date": "12-Apr-2024 11:15",
+      "video_url": "4441808_0_9345420325668782"
+    },
+    {
+      "title": "Class-80 | Lens & Mirror",
+      "id": "4441809",
+      "date": "10-Apr-2024 11:15",
+      "video_url": "4441809_0_5541931166233456"
+    },
+    {
+      "title": "Class-79 | Lens & Mirror",
+      "id": "4441807",
+      "date": "09-Apr-2024 11:15",
+      "video_url": "4441807_0_6215008466213405"
+    },
+    {
+      "title": "Class-78 | Lens & Mirror",
+      "id": "4425679",
+      "date": "05-Apr-2024 11:15",
+      "video_url": "4425679_0_4610429673598914"
+    },
+    {
+      "title": "Class-77 | Lens & Mirror",
+      "id": "4425678",
+      "date": "02-Apr-2024 11:15",
+      "video_url": "4425678_0_1145245882631929"
+    },
+    {
+      "title": "Class-76 | Optics",
+      "id": "4425677",
+      "date": "01-Apr-2024 11:15",
+      "video_url": "4425677_0_8224826270573109"
+    },
+    {
+      "title": "Class-75 | Optics",
+      "id": "4425676",
+      "date": "29-Mar-2024 11:15",
+      "video_url": "4425676_0_1240771638794128"
+    },
+    {
+      "title": "Class-74 | Optics",
+      "id": "4425675",
+      "date": "28-Mar-2024 11:15",
+      "video_url": "4425675_0_6863550912165191"
+    },
+    {
+      "title": "Class-73 | Optics",
+      "id": "4425674",
+      "date": "27-Mar-2024 11:15",
+      "video_url": "4425674_0_2601724628151735"
+    },
+    {
+      "title": "Class-72 | Optics",
+      "id": "4425673",
+      "date": "22-Mar-2024 11:15",
+      "video_url": "4425673_0_4102537526271165"
+    },
+    {
+      "title": "Class-71 | Optics",
+      "id": "4425672",
+      "date": "21-Mar-2024 11:15",
+      "video_url": "4425672_0_8029650968745874"
+    },
+    {
+      "title": "Class-70 | Optics",
+      "id": "4425671",
+      "date": "20-Mar-2024 11:15",
+      "video_url": "4425671_0_3012040936730698"
+    },
+    {
+      "title": "Class-69 | Optics",
+      "id": "4425670",
+      "date": "19-Mar-2024 11:15",
+      "video_url": "4425670_0_5118383645300487"
+    },
+    {
+      "title": "Class-68 | Optics",
+      "id": "4425669",
+      "date": "15-Mar-2024 11:15",
+      "video_url": "4425669_0_7279623171531300"
+    },
+    {
+      "title": "Class-67 | Optics",
+      "id": "4425668",
+      "date": "14-Mar-2024 11:15",
+      "video_url": "4425668_0_4181627243601773"
+    },
+    {
+      "title": "Class-66 | Optics",
+      "id": "4425667",
+      "date": "13-Mar-2024 11:15",
+      "video_url": "4425667_0_1596555048719264"
+    },
+    {
+      "title": "Class-65 | Optics",
+      "id": "4425666",
+      "date": "12-Mar-2024 11:15",
+      "video_url": "4425666_0_7816752587190908"
+    },
+    {
+      "title": "Class-64 | | Optics",
+      "id": "4425665",
+      "date": "11-Mar-2024 11:15",
+      "video_url": "4425665_0_1460773193563080"
+    },
+    {
+      "title": "Class-63 | | Surface tension & capillary action",
+      "id": "4425664",
+      "date": "08-Mar-2024 11:15",
+      "video_url": "4425664_0_2946657797884461"
+    },
+    {
+      "title": "Class-62 | | Surface tension & capillary action",
+      "id": "4425663",
+      "date": "07-Mar-2024 11:15",
+      "video_url": "4425663_0_1715838984594284"
+    },
+    {
+      "title": "Class-61 | | Bernauli's theorem",
+      "id": "4425662",
+      "date": "06-Mar-2024 11:15",
+      "video_url": "4425662_0_9657088926503483"
+    },
+    {
+      "title": "Class-60 | | Pressure",
+      "id": "4425661",
+      "date": "05-Mar-2024 11:15",
+      "video_url": "4425661_0_4008632470727664"
+    },
+    {
+      "title": "Class-59 | | Archimedes principal",
+      "id": "4425660",
+      "date": "04-Mar-2024 11:15",
+      "video_url": "4425660_0_4160371082607922"
+    },
+    {
+      "title": "Class-58 | | Magnetic Effects of Current",
+      "id": "4425659",
+      "date": "01-Mar-2024 11:15",
+      "video_url": "4425659_0_3351583221965362"
+    },
+    {
+      "title": "Class-56 | | Magnetic Effects of Current",
+      "id": "4425657",
+      "date": "28-Feb-2024 11:15",
+      "video_url": "4425657_0_7333175095306787"
+    },
+    {
+      "title": "Class-55 | | Magnetic Effects of Current",
+      "id": "4425656",
+      "date": "27-Feb-2024 11:15",
+      "video_url": "4425656_0_5385404537070635"
+    },
+    {
+      "title": "Class-54 | | Magnetic Effects of Current",
+      "id": "4425655",
+      "date": "26-Feb-2024 11:15",
+      "video_url": "4425655_0_5041978693944466"
+    },
+    {
+      "title": "Class-53 | | Magnetic Effects of Current",
+      "id": "4425654",
+      "date": "22-Feb-2024 11:15",
+      "video_url": "4425654_0_3090319422439222"
+    },
+    {
+      "title": "Class-52 | | Magnetic Effects of Current",
+      "id": "4425653",
+      "date": "21-Feb-2024 11:15",
+      "video_url": "4425653_0_9641845521871229"
+    },
+    {
+      "title": "Phy | Class-51 | | Heating Effects of Current",
+      "id": "4425652",
+      "date": "20-Feb-2024 11:15",
+      "video_url": "4425652_0_5404985485861007"
+    },
+    {
+      "title": "Phy | Class-50 | | Heating Effects of Current",
+      "id": "4425651",
+      "date": "16-Feb-2024 11:15",
+      "video_url": "4425651_0_1551950498931995"
+    },
+    {
+      "title": "Phy | Class-49 | | Heating Effects of Current",
+      "id": "4425650",
+      "date": "14-Feb-2024 11:15",
+      "video_url": "4425650_0_3947446277241452"
+    },
+    {
+      "title": "Phy | Class-48 | | Heating Effects of Current",
+      "id": "4425649",
+      "date": "13-Feb-2024 11:15",
+      "video_url": "4425649_0_2725339975286095"
+    },
+    {
+      "title": "Phy | Class-47 | | Electric Power",
+      "id": "4425648",
+      "date": "12-Feb-2024 11:15",
+      "video_url": "4425648_0_8757497897441679"
+    },
+    {
+      "title": "Phy | Class-46 | | Electric Power",
+      "id": "4425647",
+      "date": "08-Feb-2024 11:15",
+      "video_url": "4425647_0_2614386821321713"
+    },
+    {
+      "title": "Phy | Class-45 | | Series & Parallel Combination",
+      "id": "4425646",
+      "date": "07-Feb-2024 11:15",
+      "video_url": "4425646_0_9052683801207710"
+    },
+    {
+      "title": "Phy | Class-44 | | Series & Parallel Combination",
+      "id": "4425645",
+      "date": "06-Feb-2024 11:15",
+      "video_url": "4425645_0_5491011225554309"
+    },
+    {
+      "title": "Phy | Class-43 | | Series & Parallel Combination",
+      "id": "4425644",
+      "date": "05-Feb-2024 11:15",
+      "video_url": "4425644_0_9358560574285937"
+    },
+    {
+      "title": "Phy | Class-42 | | Electric Resistance",
+      "id": "4425643",
+      "date": "02-Feb-2024 11:15",
+      "video_url": "4425643_0_9979629588174600"
+    },
+    {
+      "title": "Phy | Class-41 | | Electric Resistance",
+      "id": "4425642",
+      "date": "01-Feb-2024 11:15",
+      "video_url": "4425642_0_6941986899191183"
+    },
+    {
+      "title": "Phy | Class-40 | | Electric Current",
+      "id": "4425641",
+      "date": "31-Jan-2024 11:15",
+      "video_url": "4425641_0_2172132563335701"
+    },
+    {
+      "title": "Phy | Class-39 | | Electric Potential",
+      "id": "4425640",
+      "date": "30-Jan-2024 11:15",
+      "video_url": "4425640_0_9485828767883776"
+    },
+    {
+      "title": "Phy | Class-38| | Atom",
+      "id": "4425639",
+      "date": "29-Jan-2024 11:15",
+      "video_url": "4425639_0_1423600471423436"
+    },
+    {
+      "title": "Phy | Class-37 | | Unit & Dimension",
+      "id": "4425638",
+      "date": "25-Jan-2024 11:15",
+      "video_url": "4425638_0_9245977149122258"
+    },
+    {
+      "title": "Phy | Class-36 | | Unit & Dimension",
+      "id": "4425637",
+      "date": "24-Jan-2024 11:15",
+      "video_url": "4425637_0_6089017613323801"
+    },
+    {
+      "title": "Phy | Class-35 | | Simple Pendulum",
+      "id": "4425636",
+      "date": "23-Jan-2024 11:15",
+      "video_url": "4425636_0_1606624928755338"
+    },
+    {
+      "title": "Phy | Class-34 | | Kepler's laws",
+      "id": "4425635",
+      "date": "18-Jan-2024 11:15",
+      "video_url": "4425635_0_2694078220178463"
+    },
+    {
+      "title": "Phy | Class-33 | | Kepler's laws",
+      "id": "4425634",
+      "date": "17-Jan-2024 11:15",
+      "video_url": "4425634_0_4075480424167636"
+    },
+    {
+      "title": "Phy | Class-32 | | Kepler's laws",
+      "id": "4425633",
+      "date": "16-Jan-2024 11:15",
+      "video_url": "4425633_0_5482129362203854"
+    },
+    {
+      "title": "Phy | Class-31 | | Friction",
+      "id": "4425632",
+      "date": "15-Jan-2024 11:15",
+      "video_url": "4425632_0_7347611882644021"
+    },
+    {
+      "title": "Phy | Class-29 | | Satellite",
+      "id": "4425631",
+      "date": "11-Jan-2024 11:15",
+      "video_url": "4425631_0_4701454434903732"
+    },
+    {
+      "title": "Phy | Class-28 | | Work, Power & Energy",
+      "id": "4425630",
+      "date": "10-Jan-2024 11:15",
+      "video_url": "4425630_0_3300638777694732"
+    },
+    {
+      "title": "Phy | Class-27 | | Work, Power & Energy",
+      "id": "4425629",
+      "date": "09-Jan-2024 11:15",
+      "video_url": "4425629_0_8695147344183035"
+    },
+    {
+      "title": "Phy | Class-26 | | Work, Power & Energy",
+      "id": "4425628",
+      "date": "08-Jan-2024 11:15",
+      "video_url": "4425628_0_5506406039900809"
+    },
+    {
+      "title": "Phy | Class-25 | | Work, Power & Energy",
+      "id": "4425627",
+      "date": "05-Jan-2024 11:15",
+      "video_url": "4425627_0_4622008714407538"
+    },
+    {
+      "title": "Phy | Class-24 | | Work, Power & Energy",
+      "id": "4425626",
+      "date": "04-Jan-2024 11:15",
+      "video_url": "4425626_0_4039053841473566"
+    },
+    {
+      "title": "Phy | Class-23 | | Projectile Motion",
+      "id": "4425625",
+      "date": "03-Jan-2024 11:15",
+      "video_url": "4425625_0_6845772253076182"
+    },
+    {
+      "title": "Phy | Class-22 | | Projectile Motion",
+      "id": "4425624",
+      "date": "02-Jan-2024 11:15",
+      "video_url": "4425624_0_9175685517518366"
+    },
+    {
+      "title": "Phy | Class-21 | | Gravitation",
+      "id": "4425623",
+      "date": "01-Jan-2024 11:15",
+      "video_url": "4425623_0_6644609096623784"
+    },
+    {
+      "title": "Phy | Class-20 | | Gravitation",
+      "id": "4425622",
+      "date": "29-Dec-2023 11:15",
+      "video_url": "4425622_0_7424116625246749"
+    },
+    {
+      "title": "Phy | Class-19 | | Gravitation",
+      "id": "4425621",
+      "date": "28-Dec-2023 11:15",
+      "video_url": "4425621_0_9784801575789944"
+    },
+    {
+      "title": "Phy | Class-18 | | Gravitation",
+      "id": "4425620",
+      "date": "27-Dec-2023 11:15",
+      "video_url": "4425620_0_1515958341959130"
+    },
+    {
+      "title": "Phy | Class-17 | | Uniform Circular motion",
+      "id": "4425619",
+      "date": "26-Dec-2023 11:15",
+      "video_url": "4425619_0_9158760816777879"
+    },
+    {
+      "title": "Phy | Class-16 | | Laws of motion",
+      "id": "4425618",
+      "date": "22-Dec-2023 11:15",
+      "video_url": "4425618_0_9708585859704090"
+    },
+    {
+      "title": "Phy | Class-15 | | Laws of motion",
+      "id": "4425617",
+      "date": "21-Dec-2023 11:15",
+      "video_url": "4425617_0_4580633201580706"
+    },
+    {
+      "title": "Phy | Class-14  | | Laws of motion",
+      "id": "4425616",
+      "date": "20-Dec-2023 11:15",
+      "video_url": "4425616_0_9226535264861848"
+    },
+    {
+      "title": "Phy | Class-13 | | Laws of motion",
+      "id": "4425615",
+      "date": "19-Dec-2023 11:15",
+      "video_url": "4425615_0_1867952066115262"
+    },
+    {
+      "title": "Phy | Class-12 | | Laws of motion",
+      "id": "4425614",
+      "date": "18-Dec-2023 11:15",
+      "video_url": "4425614_0_6807378567049143"
+    },
+    {
+      "title": "Phy | Class-11 | | Kinematics",
+      "id": "4425613",
+      "date": "14-Dec-2023 11:15",
+      "video_url": "4425613_0_9389548804754111"
+    },
+    {
+      "title": "Phy | Class-10 | | Kinematics",
+      "id": "4425612",
+      "date": "13-Dec-2023 11:15",
+      "video_url": "4425612_0_1439220407519297"
+    },
+    {
+      "title": "Phy | Class-09 | | Kinematics",
+      "id": "4425611",
+      "date": "12-Dec-2023 11:15",
+      "video_url": "4425611_0_8854302759384319"
+    },
+    {
+      "title": "Phy | Class-08  | | Kinematics",
+      "id": "4425610",
+      "date": "11-Dec-2023 11:15",
+      "video_url": "4425610_0_7140743954119221"
+    },
+    {
+      "title": "Phy | Class-07 | | Kinematics",
+      "id": "4425609",
+      "date": "08-Dec-2023 11:15",
+      "video_url": "4425609_0_7188006274537894"
+    },
+    {
+      "title": "Phy | Class-06 | | Kinematics",
+      "id": "4425608",
+      "date": "05-Dec-2023 11:15",
+      "video_url": "4425608_0_3754038530348450"
+    },
+    {
+      "title": "Phy | Class-05 | | Kinematics",
+      "id": "4425607",
+      "date": "04-Dec-2023 11:00",
+      "video_url": "4425607_0_7215737019129850"
+    },
+    {
+      "title": "Phy | Class-04 | | Kinematics",
+      "id": "4425606",
+      "date": "01-Dec-2023 11:00",
+      "video_url": "4425606_0_3285299515094579"
+    },
+    {
+      "title": "Phy | Class-03 | | Kinematics",
+      "id": "4425605",
+      "date": "30-Nov-2023 12:00",
+      "video_url": "4425605_0_7371772780552255"
+    },
+    {
+      "title": "Phy | Class-02 | | Kinematics",
+      "id": "4425604",
+      "date": "29-Nov-2023 11:00",
+      "video_url": "4425604_0_9214395714649030"
+    },
+    {
+      "title": "Phy | Class-01 | | Introduction",
+      "id": "4425603",
+      "date": "28-Nov-2023 11:05",
+      "video_url": "4425603_0_2994730373296955"
+    }
+  ],
+  "notes_total": 143,
+  "notes": [
+    {
+      "id": 440354,
+      "title": "Complete Biology Notes (Hindi Medium)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/671633974d028_Biology_Hindi_Notes.pdf",
+      "date": "21-Oct-2024"
+    },
+    {
+      "id": 440348,
+      "title": "Complete Biology Notes (English Medium) Part-2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6716336755a8f_Complete_Biology_Notes_English_Medium_Part2.pdf",
+      "date": "21-Oct-2024"
+    },
+    {
+      "id": 440347,
+      "title": "Complete Biology Notes (English Medium) Part-1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67163336c4640_Complete_Biology_Notes_English_Medium_Part1.pdf",
+      "date": "21-Oct-2024"
+    },
+    {
+      "id": 436676,
+      "title": "15 May 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66446e87144e1_sci 24 15th may_compressed.pdf",
+      "date": "15-May-2024"
+    },
+    {
+      "id": 436675,
+      "title": "14 May 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66444969e908c_sci 24 14th may_compressed.pdf",
+      "date": "15-May-2024"
+    },
+    {
+      "id": 436674,
+      "title": "13 May 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6641f37262fde_sci 24 13th may_compressed.pdf",
+      "date": "13-May-2024"
+    },
+    {
+      "id": 436673,
+      "title": "10 May 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/663df0ad6f2d0_sci 24 10th may_compressed.pdf",
+      "date": "10-May-2024"
+    },
+    {
+      "id": 436672,
+      "title": "9 May 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/663c73d7067a9_sci 24 9th may_compressed.pdf",
+      "date": "09-May-2024"
+    },
+    {
+      "id": 436671,
+      "title": "8 May 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/663c732ccf739_sci 24 8th may (1)_compressed.pdf",
+      "date": "09-May-2024"
+    },
+    {
+      "id": 436670,
+      "title": "7 May 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6639d4563bf17_sci 24 7th may_compressed.pdf",
+      "date": "07-May-2024"
+    },
+    {
+      "id": 436669,
+      "title": "6 May 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6638991421fee_sci 24 6th may_compressed.pdf",
+      "date": "06-May-2024"
+    },
+    {
+      "id": 436668,
+      "title": "2 May 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66333b955d48b_sci 24 2nd may_compressed.pdf",
+      "date": "02-May-2024"
+    },
+    {
+      "id": 436667,
+      "title": "1 May 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6631e25de8be1_sci 24 1st may_compressed.pdf",
+      "date": "01-May-2024"
+    },
+    {
+      "id": 436666,
+      "title": "29 April 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6631d109888b6_sci 24 25 29th april_compressed.pdf",
+      "date": "01-May-2024"
+    },
+    {
+      "id": 436665,
+      "title": "30 April 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6631d04a4d093_sci 24 25 30th april_compressed.pdf",
+      "date": "01-May-2024"
+    },
+    {
+      "id": 436664,
+      "title": "27 April 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/662f29d326af9_sci 24 25 27th april_compressed.pdf",
+      "date": "29-Apr-2024"
+    },
+    {
+      "id": 436663,
+      "title": "26 April 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/662c7dead94b2_sci 24 25 26th april (1)_compressed.pdf",
+      "date": "27-Apr-2024"
+    },
+    {
+      "id": 436662,
+      "title": "26 April 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/662b54847c923_sci 24 25 26th april_compressed.pdf",
+      "date": "26-Apr-2024"
+    },
+    {
+      "id": 436661,
+      "title": "22 April 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/662746e09b01e_sci 24 25 22nd april_compressed.pdf",
+      "date": "23-Apr-2024"
+    },
+    {
+      "id": 436660,
+      "title": "20 April 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6625f2843aeeb_sci 24 25 20th april_compressed.pdf",
+      "date": "22-Apr-2024"
+    },
+    {
+      "id": 436659,
+      "title": "19 April 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6622308092f65_sci 24 25 19th april.pdf",
+      "date": "19-Apr-2024"
+    },
+    {
+      "id": 436658,
+      "title": "18 April 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6620fa899bf61_sci 24 25 18th april_compressed.pdf",
+      "date": "18-Apr-2024"
+    },
+    {
+      "id": 436657,
+      "title": "16 April 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/661f5de5ce51f_sci 24 25 16th april_compressed.pdf",
+      "date": "17-Apr-2024"
+    },
+    {
+      "id": 436656,
+      "title": "15 April 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/661e0570507f4_sci 24 25 15th april (1)_compressed.pdf",
+      "date": "16-Apr-2024"
+    },
+    {
+      "id": 436655,
+      "title": "12 April 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6618f0773f421_sci 24 25 13th april_compressed.pdf",
+      "date": "12-Apr-2024"
+    },
+    {
+      "id": 436654,
+      "title": "10 April 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66163f5583df5_sci 24 25 10th april_compressed.pdf",
+      "date": "10-Apr-2024"
+    },
+    {
+      "id": 436653,
+      "title": "9 April 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/661516c746959_sci 24 25 9th april_compressed.pdf",
+      "date": "09-Apr-2024"
+    },
+    {
+      "id": 436652,
+      "title": "5 April 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/660fa47791598_sci spl 24 25 5th april_compressed.pdf",
+      "date": "05-Apr-2024"
+    },
+    {
+      "id": 436651,
+      "title": "Carbon and its Compounds",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/660be19c10c1f_carbon and its compounds (DONE).pdf",
+      "date": "02-Apr-2024"
+    },
+    {
+      "id": 436650,
+      "title": "2 April 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/660bd7c288ea6_sci 24 25 2nd april_compressed.pdf",
+      "date": "02-Apr-2024"
+    },
+    {
+      "id": 436647,
+      "title": "20 March 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/660a5f7ca47f0_sci  24 25 20th march_compressed.pdf",
+      "date": "01-Apr-2024"
+    },
+    {
+      "id": 436646,
+      "title": "1 April 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/660a5c8ecd968_sci 24 25 1st april_compressed.pdf",
+      "date": "01-Apr-2024"
+    },
+    {
+      "id": 436645,
+      "title": "29 March 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/660682af3ce5f_ankur.sir[sci.spl.24,25.physics] 29 th.march 11.15am_compressed.pdf",
+      "date": "29-Mar-2024"
+    },
+    {
+      "id": 436644,
+      "title": "28 March 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/660518c3c9f13_sci 24 25 28th march.pdf",
+      "date": "28-Mar-2024"
+    },
+    {
+      "id": 436643,
+      "title": "27 March 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/660506eb327ee_20240327122255966_compressed.pdf",
+      "date": "28-Mar-2024"
+    },
+    {
+      "id": 436642,
+      "title": "22 March 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6602a7fe05d29_sci 2425 22nd march_compressed.pdf",
+      "date": "26-Mar-2024"
+    },
+    {
+      "id": 436641,
+      "title": "21 March 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65fc118090193_ankur.sir[sci.spl.24,25.physics] 21th.march 11.15am_compressed.pdf",
+      "date": "21-Mar-2024"
+    },
+    {
+      "id": 436640,
+      "title": "19 March 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65f94ce32b920_ankur.sir[sci.spl.24,25.physics]19th.march 11.15am_compressed.pdf",
+      "date": "19-Mar-2024"
+    },
+    {
+      "id": 436639,
+      "title": "15 March 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65f52fa3d266a_sci 24 25 15th march_compressed.pdf",
+      "date": "16-Mar-2024"
+    },
+    {
+      "id": 436638,
+      "title": "14 March 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65f2c1fd12ade_11.15 AM Science Spl-24,25 Physics .Ankur Sir 14 March.pdf",
+      "date": "14-Mar-2024"
+    },
+    {
+      "id": 436637,
+      "title": "13 March 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65f29058e9b0c_sci 23 24 25 13th march_compressed.pdf",
+      "date": "14-Mar-2024"
+    },
+    {
+      "id": 436636,
+      "title": "12 March 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65f0383f64efc_sci 24 25 12th march_compressed.pdf",
+      "date": "12-Mar-2024"
+    },
+    {
+      "id": 436635,
+      "title": "11 March 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65ef380becc58_sci 24 25 11th march.pdf",
+      "date": "11-Mar-2024"
+    },
+    {
+      "id": 436634,
+      "title": "8 March 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65eb55f235283_ankur sir phy 11.15am 08 mar sci 23&24.pdf",
+      "date": "08-Mar-2024"
+    },
+    {
+      "id": 436632,
+      "title": "7 March 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65e9fa06baa34_sci 23 24 25 7th march.pdf",
+      "date": "07-Mar-2024"
+    },
+    {
+      "id": 436631,
+      "title": "5 March 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65e936e712965_sci 23 24 25 5th march_compressed.pdf",
+      "date": "07-Mar-2024"
+    },
+    {
+      "id": 436630,
+      "title": "6 March 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65e92c7d95ec7_sci 23 24 25 6th march.pdf",
+      "date": "07-Mar-2024"
+    },
+    {
+      "id": 436629,
+      "title": "4 March 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65e66ea3375c0_sci 23 24 25 4th march_compressed.pdf",
+      "date": "05-Mar-2024"
+    },
+    {
+      "id": 436628,
+      "title": "1 March 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65e281e952a70_sci spl 232425 1st march.pdf",
+      "date": "02-Mar-2024"
+    },
+    {
+      "id": 436627,
+      "title": "29 Feb 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65e1356d21c17_sci 2324 29th feb.pdf",
+      "date": "01-Mar-2024"
+    },
+    {
+      "id": 436626,
+      "title": "28 Feb 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65e1350096175_sci 23 24 28th feb_compressed.pdf",
+      "date": "01-Mar-2024"
+    },
+    {
+      "id": 436625,
+      "title": "27 Feb 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65de2ebde10d2_sci 2324 27th feb.pdf",
+      "date": "28-Feb-2024"
+    },
+    {
+      "id": 436624,
+      "title": "26 Feb 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65dcd0355b1ec_sci23 24 26th feb.pdf",
+      "date": "26-Feb-2024"
+    },
+    {
+      "id": 436623,
+      "title": "22 Feb 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65d767f52209d_sci 2324 22nd feb.pdf",
+      "date": "22-Feb-2024"
+    },
+    {
+      "id": 436622,
+      "title": "21 Feb 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65d62150c0729_sci 2324 21st feb.pdf",
+      "date": "21-Feb-2024"
+    },
+    {
+      "id": 436621,
+      "title": "20 Feb 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65d4ec976c243_sci 23 24 20th feb.pdf",
+      "date": "20-Feb-2024"
+    },
+    {
+      "id": 436620,
+      "title": "16 Feb 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65d389a699534_sci spl 23 24 16th feb.pdf",
+      "date": "19-Feb-2024"
+    },
+    {
+      "id": 436619,
+      "title": "14 Feb 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65cd02921fa25_sci spl 2324 14th feb.pdf",
+      "date": "14-Feb-2024"
+    },
+    {
+      "id": 436618,
+      "title": "13 Feb 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65cc3124ea972_sci 23 24 13th feb_compressed.pdf",
+      "date": "14-Feb-2024"
+    },
+    {
+      "id": 436617,
+      "title": "8 Feb 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65ca744e92aa9_sci2324 8th feb.pdf",
+      "date": "13-Feb-2024"
+    },
+    {
+      "id": 436616,
+      "title": "7 Feb 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65c374d0e7fa1_sci 2324 7th feb.pdf",
+      "date": "07-Feb-2024"
+    },
+    {
+      "id": 436615,
+      "title": "6 Feb 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65c2e4e4de997_scispl 2324 6th feb_compressed.pdf",
+      "date": "07-Feb-2024"
+    },
+    {
+      "id": 436614,
+      "title": "5 Feb 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65c127805e175_sci spl 2324 5th feb.pdf",
+      "date": "05-Feb-2024"
+    },
+    {
+      "id": 436613,
+      "title": "2 Feb 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65bd47f808373_sci2324 2nd feb.pdf",
+      "date": "03-Feb-2024"
+    },
+    {
+      "id": 436612,
+      "title": "1 Feb 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65bbd92a962b5_sci2324 1st feb.pdf",
+      "date": "01-Feb-2024"
+    },
+    {
+      "id": 436611,
+      "title": "31 Jan 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65baced74782b_sci2324 31st jan_compressed.pdf",
+      "date": "01-Feb-2024"
+    },
+    {
+      "id": 436610,
+      "title": "30 Jan 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65bace8addc02_sci2324 30th jan.pdf",
+      "date": "01-Feb-2024"
+    },
+    {
+      "id": 436609,
+      "title": "29 Jan 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65b7eeacb47b5_sci2324 29th jan.pdf",
+      "date": "30-Jan-2024"
+    },
+    {
+      "id": 436608,
+      "title": "25 Jan 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65b3909d5902d_sci2324 25th jan_compressed.pdf",
+      "date": "26-Jan-2024"
+    },
+    {
+      "id": 436607,
+      "title": "24 Jan 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65b15f758eaf0_sci2324 24th jan.pdf",
+      "date": "25-Jan-2024"
+    },
+    {
+      "id": 436606,
+      "title": "23 Jan 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65b0997cde0b0_Sci 23 24 23rd jan.pdf",
+      "date": "24-Jan-2024"
+    },
+    {
+      "id": 436605,
+      "title": "18 Jan 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65ad575148006_sci2324 18th jan_compressed.pdf",
+      "date": "21-Jan-2024"
+    },
+    {
+      "id": 436604,
+      "title": "17 Jan 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65a82ca930842_sci2324 17th jan_compressed.pdf",
+      "date": "18-Jan-2024"
+    },
+    {
+      "id": 436603,
+      "title": "16 Jan 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65a6bf7874b1b_sci2324 16th jan.pdf",
+      "date": "16-Jan-2024"
+    },
+    {
+      "id": 436602,
+      "title": "15 Jan 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65a4ee048cc15_sci2324 15th jan.pdf",
+      "date": "15-Jan-2024"
+    },
+    {
+      "id": 436601,
+      "title": "12 Jan 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65a16d9ac7a9e_sci2324 12th jan.pdf",
+      "date": "12-Jan-2024"
+    },
+    {
+      "id": 436600,
+      "title": "11 Jan 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65a0077b91797_sci2324 11th jan.pdf",
+      "date": "11-Jan-2024"
+    },
+    {
+      "id": 436599,
+      "title": "10 Jan 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/659ee466c5e39_sci2324 10th jan.pdf",
+      "date": "11-Jan-2024"
+    },
+    {
+      "id": 436598,
+      "title": "9 Jan 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/659dfc6cdd531_sci 2324 9th june_compressed.pdf",
+      "date": "10-Jan-2024"
+    },
+    {
+      "id": 436597,
+      "title": "8 Jan 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/659c2404a184c_sci 2324 8th jan.pdf",
+      "date": "08-Jan-2024"
+    },
+    {
+      "id": 436596,
+      "title": "5 Jan 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/659aaef426473_ANKUR SIR  11 15 am5 JAN_removed.pdf",
+      "date": "05-Jan-2024"
+    },
+    {
+      "id": 436595,
+      "title": "3 Jan 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65950e0c72390_sci 2324 3rd june.pdf",
+      "date": "03-Jan-2024"
+    },
+    {
+      "id": 436594,
+      "title": "1 Jan 2024 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6592db14518d5_sci2324 1st jan.pdf",
+      "date": "01-Jan-2024"
+    },
+    {
+      "id": 436593,
+      "title": "29 Dec 2023 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6592d3cb7493f_sci 23 24 29th dec_compressed.pdf",
+      "date": "01-Jan-2024"
+    },
+    {
+      "id": 436592,
+      "title": "28 Dec 2023 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/658dbfcc95103_sci 23 24 28th dec.pdf",
+      "date": "29-Dec-2023"
+    },
+    {
+      "id": 436591,
+      "title": "26 Dec 2023 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/658aeefb384fe_sci2324026th dec (1).pdf",
+      "date": "26-Dec-2023"
+    },
+    {
+      "id": 436590,
+      "title": "22 Dec 2023 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/658535afa0520_sci 23 24 22nd dec.pdf",
+      "date": "22-Dec-2023"
+    },
+    {
+      "id": 436589,
+      "title": "21 Dec 2023 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/658534bec981b_sci23 24 21st dec.pdf",
+      "date": "22-Dec-2023"
+    },
+    {
+      "id": 436588,
+      "title": "20 Dec 2023 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6582a6f3b705e_sci 23 24 20th dec_compressed (1).pdf",
+      "date": "20-Dec-2023"
+    },
+    {
+      "id": 436587,
+      "title": "19 Dec 2023 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/658191b412385_sci 23 24 19th dec_compressed.pdf",
+      "date": "19-Dec-2023"
+    },
+    {
+      "id": 436586,
+      "title": "18 Dec 2023 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/658007030a408_sci spl 23 24 18th dec.pdf",
+      "date": "18-Dec-2023"
+    },
+    {
+      "id": 436585,
+      "title": "14 Dec 2023 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/657afd66a06cf_sci 23 24 14th dec_compressed.pdf",
+      "date": "14-Dec-2023"
+    },
+    {
+      "id": 436584,
+      "title": "13 Dec 2023 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/657a7c50f0462_sci 23 24 13th dec_compressed.pdf",
+      "date": "14-Dec-2023"
+    },
+    {
+      "id": 436583,
+      "title": "11 Dec 2023 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65772b126c171_sci 23 24 11th dec_compressed.pdf",
+      "date": "11-Dec-2023"
+    },
+    {
+      "id": 436582,
+      "title": "8 Dec 2023 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6573239d48410_sci 23 24 8th dec_compressed.pdf",
+      "date": "08-Dec-2023"
+    },
+    {
+      "id": 436581,
+      "title": "5 Dec 2023 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/656fd36d8d425_sci 23 24 5th dec.pdf",
+      "date": "06-Dec-2023"
+    },
+    {
+      "id": 436578,
+      "title": "Class PNG-2,3,4",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/656e915d0f79f_ilovepdf_merged (16)_compressed.pdf",
+      "date": "05-Dec-2023"
+    },
+    {
+      "id": 436577,
+      "title": "Physics Class PNG-3",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/656d7d2c88ff3_Sci Spl Phy class 3.pdf",
+      "date": "04-Dec-2023"
+    },
+    {
+      "id": 436576,
+      "title": "Physics Class PNG-2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/656d7d1636950_20231127152914089.pdf",
+      "date": "04-Dec-2023"
+    },
+    {
+      "id": 436575,
+      "title": "Physics Class PNG-1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/656d7cec01809_Intro Sci Spl Phy.pdf",
+      "date": "04-Dec-2023"
+    },
+    {
+      "id": 436574,
+      "title": "Respiratory System",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6641aa4ae7786_Respiratory system_compressed.pdf",
+      "date": "13-May-2024"
+    },
+    {
+      "id": 436573,
+      "title": "Animal Tissue",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6634844628f86_animal tissue_compressed.pdf",
+      "date": "03-May-2024"
+    },
+    {
+      "id": 436572,
+      "title": "Botany",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/662f2d9a87543_Botany done.pdf",
+      "date": "29-Apr-2024"
+    },
+    {
+      "id": 436571,
+      "title": "Plant Reproduction",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/662f2a5e05c18_Plant reproduction.pdf",
+      "date": "29-Apr-2024"
+    },
+    {
+      "id": 436570,
+      "title": "Plant Nutrition",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6627548885354_Plant nutrition_compressed.pdf",
+      "date": "23-Apr-2024"
+    },
+    {
+      "id": 436569,
+      "title": "Plant Hormones",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/662754379f9d6_plant hormones _compressed.pdf",
+      "date": "23-Apr-2024"
+    },
+    {
+      "id": 436568,
+      "title": "Plant Tissue",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66275408a01b1_Plant tissue_compressed.pdf",
+      "date": "23-Apr-2024"
+    },
+    {
+      "id": 436567,
+      "title": "Joints",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6620c81941a74_joints.pdf",
+      "date": "18-Apr-2024"
+    },
+    {
+      "id": 436566,
+      "title": "Excretory System",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/661fa377065ea_Excretory System _compressed.pdf",
+      "date": "17-Apr-2024"
+    },
+    {
+      "id": 436565,
+      "title": "Human Nutrition",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/661f667239b7c_Human Nutrition DONE.pdf",
+      "date": "17-Apr-2024"
+    },
+    {
+      "id": 436564,
+      "title": "Vitamin and Minerals",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66193582750e0_VITA1211.pdf",
+      "date": "12-Apr-2024"
+    },
+    {
+      "id": 436563,
+      "title": "Human Eye",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66150e8c5c9fc_human eye.pdf",
+      "date": "09-Apr-2024"
+    },
+    {
+      "id": 436562,
+      "title": "Reproductive System",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/660fe79df17f1_Reproductive system (DONE).pdf",
+      "date": "05-Apr-2024"
+    },
+    {
+      "id": 436561,
+      "title": "Animal Kingdom",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/660502b075dc6_ANIMAL KINGDOM (DONE).pdf",
+      "date": "28-Mar-2024"
+    },
+    {
+      "id": 436560,
+      "title": "Nervous System",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65f91fa1eef14_Nervous System (DONE).pdf",
+      "date": "19-Mar-2024"
+    },
+    {
+      "id": 436559,
+      "title": "Cytology",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65df6ce97730e_Cytology DONE.pdf",
+      "date": "28-Feb-2024"
+    },
+    {
+      "id": 436558,
+      "title": "Human Disease",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65d5ed43374f6_Human disease_ DONE+.pdf",
+      "date": "21-Feb-2024"
+    },
+    {
+      "id": 436557,
+      "title": "Skeletal System",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65b7b52471473_Skeletal system.pdf",
+      "date": "29-Jan-2024"
+    },
+    {
+      "id": 436556,
+      "title": "Endocrine System",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65a0d90a1f95a_BIO.pdf",
+      "date": "12-Jan-2024"
+    },
+    {
+      "id": 436555,
+      "title": "Heart",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65955345a1a55_Heart+.pdf",
+      "date": "03-Jan-2024"
+    },
+    {
+      "id": 436554,
+      "title": "Blood",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/658c180d359fd_BLOOD (1).pdf",
+      "date": "27-Dec-2023"
+    },
+    {
+      "id": 436553,
+      "title": "Digestive System Part -2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/657a86e6df35a_Digestive System _compressed-7-12.pdf",
+      "date": "14-Dec-2023"
+    },
+    {
+      "id": 436552,
+      "title": "Digestive System Part -1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/657a86cba6d69_Digestive System _compressed-1-6.pdf",
+      "date": "14-Dec-2023"
+    },
+    {
+      "id": 436549,
+      "title": "Soap & Detergent",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/663df66aaf4cd_Soap & detergent_compressed.pdf",
+      "date": "10-May-2024"
+    },
+    {
+      "id": 436548,
+      "title": "Hydrocarbon",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/662f2b17a2a14_hydrocarbon_compressed.pdf",
+      "date": "29-Apr-2024"
+    },
+    {
+      "id": 436547,
+      "title": "Drugs",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/662f2aed64acc_Drugs_compressed.pdf",
+      "date": "29-Apr-2024"
+    },
+    {
+      "id": 436546,
+      "title": "Fuel",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6628e569af44a_Fuel_compressed.pdf",
+      "date": "24-Apr-2024"
+    },
+    {
+      "id": 436545,
+      "title": "Catalyst & Molecular Weight",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66277742e9e54_catalyst & molecular weight_compressed.pdf",
+      "date": "23-Apr-2024"
+    },
+    {
+      "id": 436544,
+      "title": "Water Hybridization",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/662776f556299_WATER & HYBRIDISATION_compressed.pdf",
+      "date": "23-Apr-2024"
+    },
+    {
+      "id": 436543,
+      "title": "Valency",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6620de2571211_Valency.pdf",
+      "date": "18-Apr-2024"
+    },
+    {
+      "id": 436542,
+      "title": "Glass",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/661f6ddbf32b5_Glass_compressed.pdf",
+      "date": "17-Apr-2024"
+    },
+    {
+      "id": 436541,
+      "title": "Polymers",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/661e4a51995a5_polymers.pdf",
+      "date": "16-Apr-2024"
+    },
+    {
+      "id": 436540,
+      "title": "Radioactivity",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66150f95424ad_Radioactivity (DONE).pdf",
+      "date": "09-Apr-2024"
+    },
+    {
+      "id": 436539,
+      "title": "Chemical Reaction",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66150c2f1027f_chemical reaction_compressed.pdf",
+      "date": "09-Apr-2024"
+    },
+    {
+      "id": 436538,
+      "title": "Carbon and its Compounds",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6613c827eea08_carbon and its compounds done.pdf",
+      "date": "08-Apr-2024"
+    },
+    {
+      "id": 436537,
+      "title": "Mixture",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66137912bcbf2_Mixture.pdf",
+      "date": "08-Apr-2024"
+    },
+    {
+      "id": 436536,
+      "title": "Matter",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65fc23e101a26_METALS (DONE).pdf",
+      "date": "21-Mar-2024"
+    },
+    {
+      "id": 436535,
+      "title": "Acid Base and Salt",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65efda63cebec_acid base and salt DONE.pdf",
+      "date": "12-Mar-2024"
+    },
+    {
+      "id": 436534,
+      "title": "Noble gases",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65ef2d34bf656_Noble gases.pdf",
+      "date": "11-Mar-2024"
+    },
+    {
+      "id": 436533,
+      "title": "Periodic table",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65c20750adc72_Periodic Table (done).pdf",
+      "date": "06-Feb-2024"
+    },
+    {
+      "id": 436532,
+      "title": "Atomic Structure",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65b7b441eea5c_Atomic structure  (DONE).pdf",
+      "date": "29-Jan-2024"
+    },
+    {
+      "id": 436579,
+      "title": "Phy (Eng) Full Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1624090534-Phy_Eng_Notes_Ankur_Sir_full_pdf.pdf",
+      "date": "05-Dec-2023"
+    },
+    {
+      "id": 436580,
+      "title": "Phy (Hindi) Full Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67aa298ab9321_1624090534PhyHindiNotesAnkurSirFullPdf_done.pdf",
+      "date": "05-Dec-2023"
+    }
+  ]
+}
