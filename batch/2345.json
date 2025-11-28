@@ -1,0 +1,42 @@
+{
+  "batch_id": "2345",
+  "topics": [
+    {
+      "id": 23150,
+      "topicName": "English"
+    },
+    {
+      "id": 23151,
+      "topicName": "Eng (VOD)"
+    },
+    {
+      "id": 23152,
+      "topicName": "Vocab Class"
+    },
+    {
+      "id": 23160,
+      "topicName": "Syllabus"
+    },
+    {
+      "id": 23161,
+      "topicName": "Grammar Study Material"
+    },
+    {
+      "id": 23162,
+      "topicName": "Vocab Batch on App"
+    },
+    {
+      "id": 23163,
+      "topicName": "Comprehension Study Material"
+    },
+    {
+      "id": 23164,
+      "topicName": "Mixed & Previous Year Study Material"
+    },
+    {
+      "id": 23165,
+      "topicName": "Vocab Batch on YouTube"
+    }
+  ],
+  "batch_name": "English Spl. (Live+VOD)-01 Jaideep Singh Sir"
+}
