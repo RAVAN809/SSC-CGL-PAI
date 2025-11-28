@@ -1,0 +1,1696 @@
+{
+  "batchid": 3171,
+  "topicid": 32468,
+  "classes_total": 86,
+  "classes": [
+    {
+      "title": "Class-89 | Maths | DI",
+      "id": "4614230",
+      "date": "28-Nov-2025 12:00",
+      "video_url": "4614230_0_4926942007671942"
+    },
+    {
+      "title": "Class-88 | Reas | Puzzles",
+      "id": "4614073",
+      "date": "28-Nov-2025 10:00",
+      "video_url": "4614073_0_6127751663347290"
+    },
+    {
+      "title": "Class-87 | Maths | DI",
+      "id": "4613084",
+      "date": "27-Nov-2025 12:00",
+      "video_url": "4613084_0_1132118412144920"
+    },
+    {
+      "title": "Class-86 | Maths | DI",
+      "id": "4612020",
+      "date": "26-Nov-2025 12:00",
+      "video_url": "4612020_0_7659748625665768"
+    },
+    {
+      "title": "Class-85 | Maths | Partnership",
+      "id": "4611819",
+      "date": "26-Nov-2025 10:00",
+      "video_url": "4611819_0_9298946492986048"
+    },
+    {
+      "title": "Class-84 | Maths | DI",
+      "id": "4610842",
+      "date": "25-Nov-2025 12:00",
+      "video_url": "4610842_0_7228564004759414"
+    },
+    {
+      "title": "Class-83 | Maths | Partnership",
+      "id": "4610586",
+      "date": "25-Nov-2025 10:00",
+      "video_url": "4610586_0_2561578360237890"
+    },
+    {
+      "title": "Class-82 | Maths | DI",
+      "id": "4609769",
+      "date": "24-Nov-2025 12:00",
+      "video_url": "4609769_0_9543239176718823"
+    },
+    {
+      "title": "Class-81 | Maths | Partnership",
+      "id": "4609556",
+      "date": "24-Nov-2025 10:00",
+      "video_url": "4609556_0_2137143165284887"
+    },
+    {
+      "title": "Class-78 | Maths | DI",
+      "id": "4606874",
+      "date": "20-Nov-2025 12:00",
+      "video_url": "4606874_0_3983566017011730"
+    },
+    {
+      "title": "Class-78 | Maths | DI",
+      "id": "4606734",
+      "date": "20-Nov-2025 10:00",
+      "video_url": "4606734_0_3956073299996825"
+    },
+    {
+      "title": "Class - 76 | Maths | DI",
+      "id": "4604691",
+      "date": "18-Nov-2025 12:00",
+      "video_url": "4604691_0_1416932345765801"
+    },
+    {
+      "title": "Class - 75 | Maths | Mixture & Alligation",
+      "id": "4604448",
+      "date": "18-Nov-2025 10:00",
+      "video_url": "4604448_0_7567248963214307"
+    },
+    {
+      "title": "Class - 74 | Maths | DI",
+      "id": "4603670",
+      "date": "17-Nov-2025 12:30",
+      "video_url": "4603670_0_6477452428066514"
+    },
+    {
+      "title": "Class - 73 | Maths | Mixture & Alligation",
+      "id": "4603526",
+      "date": "17-Nov-2025 10:00",
+      "video_url": "4603526_0_8916592530698003"
+    },
+    {
+      "title": "Class - 71 | Maths | Profit and Loss",
+      "id": "4600738",
+      "date": "13-Nov-2025 12:00",
+      "video_url": "4600738_0_1436126546481717"
+    },
+    {
+      "title": "Class - 70 | Maths | Profit and Loss",
+      "id": "4600534",
+      "date": "13-Nov-2025 10:00",
+      "video_url": "4600534_0_3432594520758103"
+    },
+    {
+      "title": "Class - 69 | Maths | Profit and Loss",
+      "id": "4599723",
+      "date": "12-Nov-2025 12:00",
+      "video_url": "4599723_0_7889232674232918"
+    },
+    {
+      "title": "Class - 68 | Maths | Ages",
+      "id": "4599532",
+      "date": "12-Nov-2025 10:00",
+      "video_url": "4599532_0_4793857264181810"
+    },
+    {
+      "title": "Class - 67 | Maths | Profit and Loss",
+      "id": "4598547",
+      "date": "11-Nov-2025 12:00",
+      "video_url": "4598547_0_6564450130031869"
+    },
+    {
+      "title": "Class - 66 | Maths | Ages",
+      "id": "4598342",
+      "date": "11-Nov-2025 10:00",
+      "video_url": "4598342_0_6283826162461903"
+    },
+    {
+      "title": "Class - 65 | Maths | Profit and Loss",
+      "id": "4597432",
+      "date": "10-Nov-2025 12:00",
+      "video_url": "4597432_0_9155116340290465"
+    },
+    {
+      "title": "Class - 64 | Maths | Ratio",
+      "id": "4597129",
+      "date": "10-Nov-2025 10:00",
+      "video_url": "4597129_0_8500363279817136"
+    },
+    {
+      "title": "Class - 63 | Maths | Profit and Loss",
+      "id": "4595087",
+      "date": "07-Nov-2025 12:00",
+      "video_url": "4595087_0_1615147517870999"
+    },
+    {
+      "title": "Class - 62 | Maths | Ratio",
+      "id": "4594890",
+      "date": "07-Nov-2025 10:00",
+      "video_url": "4594890_0_9446565601600158"
+    },
+    {
+      "title": "Class - 61 | Maths | Profit and Loss",
+      "id": "4593950",
+      "date": "06-Nov-2025 12:00",
+      "video_url": "4593950_0_3499513260769464"
+    },
+    {
+      "title": "Class - 60 | Maths | Ratio",
+      "id": "4593713",
+      "date": "06-Nov-2025 10:00",
+      "video_url": "4593713_0_6277785993542363"
+    },
+    {
+      "title": "Class - 59 | Maths | Profit and Loss",
+      "id": "4592896",
+      "date": "05-Nov-2025 12:00",
+      "video_url": "4592896_0_7693125598214757"
+    },
+    {
+      "title": "Class - 58 | Maths | Ratio",
+      "id": "4592678",
+      "date": "05-Nov-2025 10:00",
+      "video_url": "4592678_0_7473705692235580"
+    },
+    {
+      "title": "Class - 57 | Maths | Profit and Loss",
+      "id": "4591805",
+      "date": "04-Nov-2025 12:00",
+      "video_url": "4591805_0_9141860166372240"
+    },
+    {
+      "title": "Class - 56 | Maths | Ratio",
+      "id": "4591585",
+      "date": "04-Nov-2025 10:00",
+      "video_url": "4591585_0_2429917129827452"
+    },
+    {
+      "title": "Class - 55 | Maths | Profit and Loss",
+      "id": "4590804",
+      "date": "03-Nov-2025 12:00",
+      "video_url": "4590804_0_4255181546966697"
+    },
+    {
+      "title": "Class - 54 | Maths | Percentage",
+      "id": "4588928",
+      "date": "31-Oct-2025 12:00",
+      "video_url": "4588928_0_6519096496832076"
+    },
+    {
+      "title": "Class - 53 | Maths | Percentage",
+      "id": "4587789",
+      "date": "30-Oct-2025 12:00",
+      "video_url": "4587789_0_1071405291189896"
+    },
+    {
+      "title": "Class - 52 | Maths | Percentage",
+      "id": "4586813",
+      "date": "29-Oct-2025 12:00",
+      "video_url": "4586813_0_9960799307753563"
+    },
+    {
+      "title": "Class - 51 | Maths | Percentage",
+      "id": "4585743",
+      "date": "28-Oct-2025 12:00",
+      "video_url": "4585743_0_7803204087420958"
+    },
+    {
+      "title": "Class - 50 | Maths | Percentage",
+      "id": "4584737",
+      "date": "27-Oct-2025 12:00",
+      "video_url": "4584737_0_5184821136317181"
+    },
+    {
+      "title": "Class - 49 | Maths | Percentage",
+      "id": "4581089",
+      "date": "17-Oct-2025 18:00",
+      "video_url": "4581089_0_7276706118745073"
+    },
+    {
+      "title": "Class - 48 | Maths | Percentage",
+      "id": "4580188",
+      "date": "16-Oct-2025 18:00",
+      "video_url": "4580188_0_7204739567301938"
+    },
+    {
+      "title": "Class - 47 | Maths | Quadratic Equations",
+      "id": "4579726",
+      "date": "16-Oct-2025 12:00",
+      "video_url": "4579726_0_4685670655499095"
+    },
+    {
+      "title": "Class - 46 | Maths | Quadratic Equations",
+      "id": "4579155",
+      "date": "15-Oct-2025 18:00",
+      "video_url": "4579155_0_8115412469919106"
+    },
+    {
+      "title": "Class - 45 | Maths | Quadratic Equations",
+      "id": "4578681",
+      "date": "15-Oct-2025 12:00",
+      "video_url": "4578681_0_3027466354396420"
+    },
+    {
+      "title": "Class - 44 | Maths | Quadratic Equations",
+      "id": "4578096",
+      "date": "14-Oct-2025 18:00",
+      "video_url": "4578096_0_2552286853571679"
+    },
+    {
+      "title": "Class - 43 | Maths | Quadratic Equations",
+      "id": "4577452",
+      "date": "14-Oct-2025 12:00",
+      "video_url": "4577452_0_5573300589894057"
+    },
+    {
+      "title": "Class - 42 | Maths | Time Speed and Distance",
+      "id": "4576447",
+      "date": "13-Oct-2025 12:00",
+      "video_url": "4576447_0_4700518433798970"
+    },
+    {
+      "title": "Class - 41 | Maths  | Time Speed and Distance",
+      "id": "4574845",
+      "date": "10-Oct-2025 18:00",
+      "video_url": "4574845_0_7448582121767778"
+    },
+    {
+      "title": "Class - 40 | Maths | Time Speed and Distance",
+      "id": "4574297",
+      "date": "10-Oct-2025 12:00",
+      "video_url": "4574297_0_7168923949948670"
+    },
+    {
+      "title": "Class - 39 | Maths | Time Speed and Distance",
+      "id": "4573371",
+      "date": "09-Oct-2025 18:00",
+      "video_url": "4573371_0_2434552640442126"
+    },
+    {
+      "title": "Class - 38 | Maths | Time Speed and Distance",
+      "id": "4572832",
+      "date": "09-Oct-2025 12:00",
+      "video_url": "4572832_0_7228208646112904"
+    },
+    {
+      "title": "Class - 37 | Maths | Time Speed and Distance",
+      "id": "4572183",
+      "date": "08-Oct-2025 18:00",
+      "video_url": "4572183_0_5004180915954803"
+    },
+    {
+      "title": "Class - 36 | Maths | Time Speed and Distance",
+      "id": "4571493",
+      "date": "08-Oct-2025 12:00",
+      "video_url": "4571493_0_1868085785297714"
+    },
+    {
+      "title": "Class - 35 | Maths | Time Speed and Distance",
+      "id": "4570721",
+      "date": "07-Oct-2025 18:00",
+      "video_url": "4570721_0_3050641340996936"
+    },
+    {
+      "title": "Class - 34 | Maths | Time Speed and Distance",
+      "id": "4570207",
+      "date": "07-Oct-2025 12:00",
+      "video_url": "4570207_0_9230685409042949"
+    },
+    {
+      "title": "Class - 33 | Maths | Time Speed and Distance",
+      "id": "4569503",
+      "date": "06-Oct-2025 18:00",
+      "video_url": "4569503_0_9403521586774909"
+    },
+    {
+      "title": "Class - 32 | Maths | Time Speed and Distance",
+      "id": "4568188",
+      "date": "06-Oct-2025 12:00",
+      "video_url": "4568188_0_9670106997722016"
+    },
+    {
+      "title": "Class - 31 | Maths | Time Speed and Distance",
+      "id": "4566452",
+      "date": "03-Oct-2025 18:00",
+      "video_url": "4566452_0_5394735525168631"
+    },
+    {
+      "title": "Class - 30 | Maths | Doubt session",
+      "id": "4565830",
+      "date": "03-Oct-2025 12:00",
+      "video_url": "4565830_0_7688976271642102"
+    },
+    {
+      "title": "Class - 29 | Maths | Doubt session",
+      "id": "4564792",
+      "date": "01-Oct-2025 18:00",
+      "video_url": "4564792_0_9383137331953559"
+    },
+    {
+      "title": "Class - 28 | Maths | Time and Work",
+      "id": "4564202",
+      "date": "01-Oct-2025 12:00",
+      "video_url": "4564202_0_9455409854780847"
+    },
+    {
+      "title": "Class - 27 | Maths | Time and Work",
+      "id": "4563733",
+      "date": "30-Sep-2025 18:00",
+      "video_url": "4563733_0_4531932665420759"
+    },
+    {
+      "title": "Class - 26 | Maths | Time and Work",
+      "id": "4563118",
+      "date": "30-Sep-2025 12:00",
+      "video_url": "4563118_0_9020765399950991"
+    },
+    {
+      "title": "Class - 25 | Maths | Time and Work",
+      "id": "4562682",
+      "date": "29-Sep-2025 18:00",
+      "video_url": "4562682_0_5248427138184722"
+    },
+    {
+      "title": "Class-24 | Maths | Time and Work",
+      "id": "4560533",
+      "date": "26-Sep-2025 18:00",
+      "video_url": "4560533_0_8077745970740770"
+    },
+    {
+      "title": "Class-23 | Maths | Time and Work",
+      "id": "4559486",
+      "date": "25-Sep-2025 18:00",
+      "video_url": "4559486_0_6391483622438092"
+    },
+    {
+      "title": "Class-22 | Maths | Time and Work",
+      "id": "4558949",
+      "date": "25-Sep-2025 12:00",
+      "video_url": "4558949_0_3426232307471766"
+    },
+    {
+      "title": "Class-21 | Maths | Average",
+      "id": "4558415",
+      "date": "24-Sep-2025 18:00",
+      "video_url": "4558415_0_7537306172141197"
+    },
+    {
+      "title": "Class-20 | Maths | Average",
+      "id": "4556988",
+      "date": "23-Sep-2025 18:00",
+      "video_url": "4556988_0_2210589966022027"
+    },
+    {
+      "title": "Class-19 | Maths | Average",
+      "id": "4556443",
+      "date": "23-Sep-2025 12:00",
+      "video_url": "4556443_0_1653575001519469"
+    },
+    {
+      "title": "Class-18 | Maths | Average",
+      "id": "4555798",
+      "date": "22-Sep-2025 18:00",
+      "video_url": "4555798_0_9802295288745782"
+    },
+    {
+      "title": "Class - 17 | Maths | Average",
+      "id": "4555393",
+      "date": "22-Sep-2025 12:00",
+      "video_url": "4555393_0_9505885130035254"
+    },
+    {
+      "title": "Class - 16 | Maths | Average",
+      "id": "4553405",
+      "date": "19-Sep-2025 12:00",
+      "video_url": "4553405_0_1610918719682930"
+    },
+    {
+      "title": "Class - 15 | Maths | Number Series",
+      "id": "4552504",
+      "date": "18-Sep-2025 12:00",
+      "video_url": "4552504_0_6318705126163437"
+    },
+    {
+      "title": "Class - 14 | Maths | Number Series",
+      "id": "4551506",
+      "date": "17-Sep-2025 12:00",
+      "video_url": "4551506_0_2740760661916869"
+    },
+    {
+      "title": "Class - 13 | Maths | Number Series",
+      "id": "4550428",
+      "date": "16-Sep-2025 12:00",
+      "video_url": "4550428_0_8834402898301228"
+    },
+    {
+      "title": "Class - 12 | Maths | Number Series",
+      "id": "4547603",
+      "date": "12-Sep-2025 12:00",
+      "video_url": "4547603_0_8295610620968766"
+    },
+    {
+      "title": "Class - 11 | Maths | Number Series",
+      "id": "4546655",
+      "date": "11-Sep-2025 12:00",
+      "video_url": "4546655_0_2772506218873262"
+    },
+    {
+      "title": "Class-10 | Maths | Simplification",
+      "id": "4545671",
+      "date": "10-Sep-2025 12:00",
+      "video_url": "4545671_0_7525389646835084"
+    },
+    {
+      "title": "Class-09 | Maths | Simplification",
+      "id": "4544754",
+      "date": "09-Sep-2025 12:00",
+      "video_url": "4544754_0_8395381494779972"
+    },
+    {
+      "title": "Class-08 | Maths | Simplification",
+      "id": "4543778",
+      "date": "08-Sep-2025 12:00",
+      "video_url": "4543778_0_6169902202337149"
+    },
+    {
+      "title": "Class-07 | Maths | Simplification",
+      "id": "4542149",
+      "date": "05-Sep-2025 12:00",
+      "video_url": "4542149_0_7271440559224276"
+    },
+    {
+      "title": "Class-06 | Maths | Simplification",
+      "id": "4540704",
+      "date": "04-Sep-2025 12:00",
+      "video_url": "4540704_0_8547338103056609"
+    },
+    {
+      "title": "Class-05 | Maths | Percentage Calculation",
+      "id": "4538702",
+      "date": "03-Sep-2025 12:00",
+      "video_url": "4538702_0_5688019825478244"
+    },
+    {
+      "title": "Class-04 | Maths | Percentage Calculation",
+      "id": "4536372",
+      "date": "01-Sep-2025 12:00",
+      "video_url": "4536372_0_9946902434984310"
+    },
+    {
+      "title": "Class-03 | Maths | Calculation Tricks",
+      "id": "4534299",
+      "date": "29-Aug-2025 12:00",
+      "video_url": "4534299_0_4564462224824256"
+    },
+    {
+      "title": "Class-02 | Maths | Calculation Tricks",
+      "id": "4533155",
+      "date": "28-Aug-2025 12:00",
+      "video_url": "4533155_0_8462250015532176"
+    },
+    {
+      "title": "Class-01 | Maths | Intro",
+      "id": "4531903",
+      "date": "27-Aug-2025 12:00",
+      "video_url": "4531903_0_1377813957268408"
+    }
+  ],
+  "notes_total": 195,
+  "notes": [
+    {
+      "id": 744354,
+      "title": "Reas | 27 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/69293b3e00ba5_batch_40_41_and_42_compressed.pdf",
+      "date": "28-Nov-2025"
+    },
+    {
+      "id": 744219,
+      "title": "Eng | 27 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/69292bd4e24a3_Bank_40_41_42_Phrase_Based_Questions_compressed.pdf",
+      "date": "28-Nov-2025"
+    },
+    {
+      "id": 744216,
+      "title": "Eng | 26 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/69292ab587706_Bank_40_41_42_Column_Based_Questions_compressed.pdf",
+      "date": "28-Nov-2025"
+    },
+    {
+      "id": 743398,
+      "title": "Reas | 26 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6927e98b6cc77_40_41_and_42_PUZZLES_1_compressed.pdf",
+      "date": "27-Nov-2025"
+    },
+    {
+      "id": 743395,
+      "title": "Reas | 26 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6927e8d73b149_41_and_42_compressed.pdf",
+      "date": "27-Nov-2025"
+    },
+    {
+      "id": 743393,
+      "title": "Reas | 26 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6927e8ab855fd_batch_40_41_and_42_compressed.pdf",
+      "date": "27-Nov-2025"
+    },
+    {
+      "id": 742368,
+      "title": "Eng | 25 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6926dad55383d_Bank_40_41_42_Sentence_Completion_and_Word_Swap_compressed.pdf",
+      "date": "26-Nov-2025"
+    },
+    {
+      "id": 741478,
+      "title": "Maths | 26 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6926c859c686e_ilovepdf_merged_81_compressed.pdf",
+      "date": "26-Nov-2025"
+    },
+    {
+      "id": 741476,
+      "title": "Maths | 26 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6926c7e48ea88_ilovepdf_merged_80_compressed.pdf",
+      "date": "26-Nov-2025"
+    },
+    {
+      "id": 740677,
+      "title": "Reas | 12 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68c3c50b5be50_batch_39_40_and_41.pdf",
+      "date": "12-Sep-2025"
+    },
+    {
+      "id": 736729,
+      "title": "Homonymsbased Miscellaneous Questions",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/692026b4d786c_Bank_40_41_42_Homonymsbased_Miscellaneous_Questions_compressed.pdf",
+      "date": "21-Nov-2025"
+    },
+    {
+      "id": 736726,
+      "title": "Homonyms based Miscellaneous Questions-2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6920269b9ce8c_Bank_40_41_42_Homonyms_based_Miscellaneous_Questions_2_compressed.pdf",
+      "date": "21-Nov-2025"
+    },
+    {
+      "id": 736722,
+      "title": "Maths | 21 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/69202601028fc_Data_Interpretation_5_notes_Batch_40_41_42_at_12_pm_compressed.pdf",
+      "date": "21-Nov-2025"
+    },
+    {
+      "id": 736719,
+      "title": "Maths | 21 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/692025e4a142e_Mixtures_and_Alligation_5_notes_Batch_41_42_at_10_am.pdf",
+      "date": "21-Nov-2025"
+    },
+    {
+      "id": 736697,
+      "title": "Maths | 21 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/692010c7a3f80_Mixtures_and_Alligation_4_notes_Batch_41_42_at_10_am_compressed.pdf",
+      "date": "21-Nov-2025"
+    },
+    {
+      "id": 736695,
+      "title": "Maths | 21 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6920109ae018c_Data_Interpretation_4_notes_Batch_40_41_42_at_12_pm_compressed.pdf",
+      "date": "21-Nov-2025"
+    },
+    {
+      "id": 736208,
+      "title": "Reas | 20 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/691ed54c84c78_40_41_and_42_compressed.pdf",
+      "date": "20-Nov-2025"
+    },
+    {
+      "id": 734952,
+      "title": "Eng | 19 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/691d8c9155f66_Bank_40_41_42_Vocab_Development_Confusing_Words_4_compressed.pdf",
+      "date": "19-Nov-2025"
+    },
+    {
+      "id": 734949,
+      "title": "Eng | 18 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/691d8c48639b4_Bank_40_41_42_Vocab_Development_Confusing_Words_3_compressed.pdf",
+      "date": "19-Nov-2025"
+    },
+    {
+      "id": 734790,
+      "title": "Reas | 18 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/691d5f31d43fb_40_41_and_42_puzzles_tuesday_compressed.pdf",
+      "date": "19-Nov-2025"
+    },
+    {
+      "id": 734501,
+      "title": "Maths | 18 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/691c50be10a2e_Mixtures_and_Alligation_3_notes_Batch_41_42_at_10_am.pdf",
+      "date": "18-Nov-2025"
+    },
+    {
+      "id": 734499,
+      "title": "Maths | 18 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/691c509f7cebb_Data_Interpretation_3_notes_Batch_40_41_42_at_12_pm_compressed.pdf",
+      "date": "18-Nov-2025"
+    },
+    {
+      "id": 734368,
+      "title": "Reas | 17 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/691c3c491a893_40_41_and_42_puzzles_compressed.pdf",
+      "date": "18-Nov-2025"
+    },
+    {
+      "id": 733138,
+      "title": "Reas | 14 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/69182789a7be7_41_42_and_43_br_compressed.pdf",
+      "date": "15-Nov-2025"
+    },
+    {
+      "id": 733136,
+      "title": "Reas | 14 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6918276a36cb7_39_40_41_and_42_syll_last_compressed.pdf",
+      "date": "15-Nov-2025"
+    },
+    {
+      "id": 732863,
+      "title": "Maths | 14 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6916f5326bd12_Data_Interpretation_1_notes_Batch_40_41_42_at_12_pm_compressed.pdf",
+      "date": "14-Nov-2025"
+    },
+    {
+      "id": 732821,
+      "title": "Eng | 14 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6916f207ead12_Bank_40_41_42_Vocab_Development_Confusing_Words_2_compressed.pdf",
+      "date": "14-Nov-2025"
+    },
+    {
+      "id": 732813,
+      "title": "Eng | 13 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6916f1b2d89ce_Bank_40_41_42_Vocab_Development_Confusing_Words_compressed.pdf",
+      "date": "14-Nov-2025"
+    },
+    {
+      "id": 732723,
+      "title": "Reas | 14 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6916ce7b95c81_batch_39_40_41_and_42_compressed.pdf",
+      "date": "14-Nov-2025"
+    },
+    {
+      "id": 732720,
+      "title": "Reas | 13 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6916ca8f61c4f_41_42_and_43_thursday_compressed.pdf",
+      "date": "14-Nov-2025"
+    },
+    {
+      "id": 732294,
+      "title": "Maths | 13 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6915a65b850ad_Mixtures_and_Alligation_1_notes_Batch_41_42_at_10_am_compressed.pdf",
+      "date": "13-Nov-2025"
+    },
+    {
+      "id": 732291,
+      "title": "Maths | 13 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6915a5fae3f7c_Doubt_Session_notes_Batch_40_41_42_at_12_pm_compressed.pdf",
+      "date": "13-Nov-2025"
+    },
+    {
+      "id": 731478,
+      "title": "Reas | 12 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/69157de115d46_41_42_and_43_wed_compressed.pdf",
+      "date": "13-Nov-2025"
+    },
+    {
+      "id": 731476,
+      "title": "Reas | 12 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/69157db69c1eb_39_40_41_and_42_compressed.pdf",
+      "date": "13-Nov-2025"
+    },
+    {
+      "id": 730947,
+      "title": "Maths | 12 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/691448cfa8da7_Ages_2_notes_Batch_41_42_at_10_am_compressed.pdf",
+      "date": "12-Nov-2025"
+    },
+    {
+      "id": 730945,
+      "title": "Maths | 12 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/691448787db03_Profit_and_Loss_8_notes_Batch_40_41_42_at_12_pm_compressed.pdf",
+      "date": "12-Nov-2025"
+    },
+    {
+      "id": 730936,
+      "title": "Eng | 12 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/691447462215c_Bank_40_41_42_Foreign_Expressions_2_compressed.pdf",
+      "date": "12-Nov-2025"
+    },
+    {
+      "id": 730932,
+      "title": "Eng | 11 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/691446fbed55d_Bank_40_41_42_Foreign_Expressions_compressed.pdf",
+      "date": "12-Nov-2025"
+    },
+    {
+      "id": 730728,
+      "title": "Reas | 11 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6914286647ceb_41_42_and_43_compressed.pdf",
+      "date": "12-Nov-2025"
+    },
+    {
+      "id": 730172,
+      "title": "Eng | 11 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6912f85bf2305_Bank_40_41_42_Verb_and_Tense_9_compressed.pdf",
+      "date": "11-Nov-2025"
+    },
+    {
+      "id": 730166,
+      "title": "Eng | 10 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6912f76bcf7e5_Bank_40_41_42_Verb_and_Tense_8_compressed.pdf",
+      "date": "11-Nov-2025"
+    },
+    {
+      "id": 730163,
+      "title": "Eng | 07 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6912f6a11d1bd_Bank_40_41_42_Verb_and_Tense_7_compressed.pdf",
+      "date": "11-Nov-2025"
+    },
+    {
+      "id": 730149,
+      "title": "Eng | 06 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6912f3faf3d14_Bank_40_41_42_Verb_and_Tense_6_compressed.pdf",
+      "date": "11-Nov-2025"
+    },
+    {
+      "id": 730145,
+      "title": "Maths | 11 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6912f25813937_Ages_1_notes_Batch_41_42_at_10_am_compressed.pdf",
+      "date": "11-Nov-2025"
+    },
+    {
+      "id": 730143,
+      "title": "Maths | 11 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6912f1e09af3f_Profit_and_Loss_7_notes_Batch_40_41_42_at_12_pm.pdf",
+      "date": "11-Nov-2025"
+    },
+    {
+      "id": 730082,
+      "title": "Reas | 10 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6912e38fec555_41_42_and_43_1.pdf",
+      "date": "11-Nov-2025"
+    },
+    {
+      "id": 730080,
+      "title": "Reas | 10 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6912e374e80a6_39_40_41_and_42_mon_compressed.pdf",
+      "date": "11-Nov-2025"
+    },
+    {
+      "id": 729421,
+      "title": "Maths | 10 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6911a972ec0bb_Ratio_5_notes_Batch_41_42_at_10_am.pdf",
+      "date": "10-Nov-2025"
+    },
+    {
+      "id": 729419,
+      "title": "Maths | 10 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6911a9491e10b_Profit_and_Loss_6_notes_Batch_40_41_42_at_12_pm_compressed.pdf",
+      "date": "10-Nov-2025"
+    },
+    {
+      "id": 726275,
+      "title": "Reas | 7 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/690ed1c11ee1b_41_42_and_43_compressed.pdf",
+      "date": "08-Nov-2025"
+    },
+    {
+      "id": 726273,
+      "title": "Reas | 7 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/690ed13a9989a_39_40_41_and_42_compressed.pdf",
+      "date": "08-Nov-2025"
+    },
+    {
+      "id": 726187,
+      "title": "Ratio 4",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/690deabeaa34c_Ratio_4_notes_Batch_41_42_at_10_am_compressed.pdf",
+      "date": "07-Nov-2025"
+    },
+    {
+      "id": 726185,
+      "title": "Profit and Loss 5",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/690dea55174f7_Profit_and_Loss_5_notes_Batch_40_41_42_at_12_pm_compressed.pdf",
+      "date": "07-Nov-2025"
+    },
+    {
+      "id": 716492,
+      "title": "Maths | 5 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/690c5ea595448_Profit_and_Loss_4_notes_Batch_40_41_42_at_12_pm_compressed.pdf",
+      "date": "06-Nov-2025"
+    },
+    {
+      "id": 715884,
+      "title": "G.A | 4 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/690c4a9abd507_4nov_9am.pdf",
+      "date": "06-Nov-2025"
+    },
+    {
+      "id": 713347,
+      "title": "Reas | 4 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/690aebe1b4c7b_41_42_and_43.pdf",
+      "date": "05-Nov-2025"
+    },
+    {
+      "id": 711880,
+      "title": "Maths | 4 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6909bbee67b5c_Ratio_1_notes_Batch_41_42_at_10_am.pdf",
+      "date": "04-Nov-2025"
+    },
+    {
+      "id": 711878,
+      "title": "Maths | 4 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6909bbd87427b_Profit_and_Loss_2_notes_Batch_40_41_42_at_12_pm_compressed.pdf",
+      "date": "04-Nov-2025"
+    },
+    {
+      "id": 711658,
+      "title": "Verb and Tense-5",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6909a2e0ccae3_Bank_40_41_42_Verb_and_Tense_5_1_compressed.pdf",
+      "date": "04-Nov-2025"
+    },
+    {
+      "id": 711655,
+      "title": "Verb and Tense-4",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6909a277e3472_Bank_40_41_42_Verb_and_Tense_4_compressed.pdf",
+      "date": "04-Nov-2025"
+    },
+    {
+      "id": 710406,
+      "title": "Maths | 3 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/69087316aa6bc_Profit_and_Loss_1_notes_Batch_40_41_42_at_12_pm_compressed.pdf",
+      "date": "03-Nov-2025"
+    },
+    {
+      "id": 709931,
+      "title": "G.A | 31 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6905c2aa40041_31oct_9am.pdf",
+      "date": "01-Nov-2025"
+    },
+    {
+      "id": 709917,
+      "title": "Reas | 31 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6905b3f91ef9a_batch_41_42_and_43.pdf",
+      "date": "01-Nov-2025"
+    },
+    {
+      "id": 709915,
+      "title": "Reas | 31 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6905b3d287eb2_batch_39_40_41_and_42_syl_compressed.pdf",
+      "date": "01-Nov-2025"
+    },
+    {
+      "id": 708213,
+      "title": "Maths | 31 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/69047c1787fce_Percentage_8_notes_Batch_40_41_42_at_12_pm_compressed.pdf",
+      "date": "31-Oct-2025"
+    },
+    {
+      "id": 708041,
+      "title": "Ranking | Reas | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/690458af7bcf9_batch_41_42_and_43.pdf",
+      "date": "31-Oct-2025"
+    },
+    {
+      "id": 708037,
+      "title": "Reas | 30 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/690456f19ba5c_batch_39_40_41_and_42_syllogism.pdf",
+      "date": "31-Oct-2025"
+    },
+    {
+      "id": 707816,
+      "title": "Verb & Tense-03 | Eng | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/69043f244f200_Bank_40_41_42_Verb_and_Tense_3_compressed.pdf",
+      "date": "31-Oct-2025"
+    },
+    {
+      "id": 707813,
+      "title": "Verb & Tense-02 | Eng | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/69043edd12853_Bank_40_41_42_Verb_and_Tense_2_compressed.pdf",
+      "date": "31-Oct-2025"
+    },
+    {
+      "id": 707551,
+      "title": "G.A | 30 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/690347163f788_30oct_9am.pdf",
+      "date": "30-Oct-2025"
+    },
+    {
+      "id": 707414,
+      "title": "Maths | 30 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/69031e036f4cf_Percentage_7_notes_Batch_40_41_42_at_12_pm.pdf",
+      "date": "30-Oct-2025"
+    },
+    {
+      "id": 707168,
+      "title": "Reas | 29 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6902fe1026372_batch_39_40_41_and_42_1_compressed.pdf",
+      "date": "30-Oct-2025"
+    },
+    {
+      "id": 707008,
+      "title": "Maths | 29 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6902e84bce6e7_Percentage_6_notes_Batch_40_41_42_at_12_pm.pdf",
+      "date": "30-Oct-2025"
+    },
+    {
+      "id": 706721,
+      "title": "G.A | 28 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6901dfd61d055_28Oct_09.00_AM_Rashid_Sir.pdf",
+      "date": "29-Oct-2025"
+    },
+    {
+      "id": 706511,
+      "title": "Reas | 28 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6901d22116833_batch_39_40_41_and_42_compressed.pdf",
+      "date": "29-Oct-2025"
+    },
+    {
+      "id": 705748,
+      "title": "Maths | 28 Oct | Class PNG-1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/69009adfdff5d_Percentage_5_notes_Batch_40_41_42_at_12_pm.pdf",
+      "date": "28-Oct-2025"
+    },
+    {
+      "id": 705725,
+      "title": "Verb & Tense-01 | Eng | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6900998edf70e_Bank_40_41_42_Verb_and_Tense.pdf",
+      "date": "28-Oct-2025"
+    },
+    {
+      "id": 705723,
+      "title": "Eng | 27 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/690099438a0cb_Bank_40_41_Adverb_3_compressed.pdf",
+      "date": "28-Oct-2025"
+    },
+    {
+      "id": 705639,
+      "title": "Reas | 27 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6900887e07212_batch_39_40_41_and_42_arguments.pdf",
+      "date": "28-Oct-2025"
+    },
+    {
+      "id": 703397,
+      "title": "Maths | 27 Oct | Class PNG-1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68ff355a5d0cf_Percentage_4_notes_Batch_40_41_42_at_12_pm.pdf",
+      "date": "27-Oct-2025"
+    },
+    {
+      "id": 702362,
+      "title": "Reas | 17 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68fb1d97c9228_cause_and_effect_batch_39_40_41_and_42.pdf",
+      "date": "24-Oct-2025"
+    },
+    {
+      "id": 702306,
+      "title": "Maths | 17 Oct | Class PNG-1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68fb1638eca05_Percentage_3_notes_Batch_40_41_42_at_6_pm.pdf",
+      "date": "24-Oct-2025"
+    },
+    {
+      "id": 702302,
+      "title": "Maths | 16 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68fb1603957ca_Percentage_2_notes_Batch_40_41_42_at_6_pm.pdf",
+      "date": "24-Oct-2025"
+    },
+    {
+      "id": 701071,
+      "title": "Percentage Notes-01",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68f0d3b5ad9f9_Percentage_1_notes_Batch_40_41_42_at_12_pm.pdf",
+      "date": "16-Oct-2025"
+    },
+    {
+      "id": 700635,
+      "title": "Reas | 15 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68f0bc125fd13_batch_39_40_41_and_42_1_compressed.pdf",
+      "date": "16-Oct-2025"
+    },
+    {
+      "id": 700466,
+      "title": "Quadratic Equations Notes-04",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68f09c9f58611_Quadratic_Equations_4_notes_Batch_40_41_42_at_6_pm.pdf",
+      "date": "16-Oct-2025"
+    },
+    {
+      "id": 700142,
+      "title": "Maths | 15 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68ef75c13401c_Quadratic_Equations_3_notes_Batch_40_41_42_at_12_pm.pdf",
+      "date": "15-Oct-2025"
+    },
+    {
+      "id": 699905,
+      "title": "Eng | 15 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68ef3ad5d22f1_Bank_40_41_Adverb.pdf",
+      "date": "15-Oct-2025"
+    },
+    {
+      "id": 699667,
+      "title": "Maths | 14 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68ef2607d1a33_Quadratic_Equations_2_notes_Batch_40_41_42_at_6_pm.pdf",
+      "date": "15-Oct-2025"
+    },
+    {
+      "id": 699497,
+      "title": "Quadratic Equations Notes-01",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68ee30cf13252_Quadratic_Equations_1_notes_Batch_40_41_42_at_12_pm.pdf",
+      "date": "14-Oct-2025"
+    },
+    {
+      "id": 698530,
+      "title": "Reas | 14 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68ee172b9192e_batch_39_40_41_and_42_14_oct.pdf",
+      "date": "14-Oct-2025"
+    },
+    {
+      "id": 698526,
+      "title": "Reas | 13 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68ee16ae2f94e_batch_39_40_41_and_42.pdf",
+      "date": "14-Oct-2025"
+    },
+    {
+      "id": 698467,
+      "title": "Adjective-03 | Eng | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68ee0b3588dca_Bank_40_41_Adjective_3_compressed.pdf",
+      "date": "14-Oct-2025"
+    },
+    {
+      "id": 698465,
+      "title": "Adjective-02 | Eng | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68ee0ade9b7c5_Bank_40_41_Adjective_2.pdf",
+      "date": "14-Oct-2025"
+    },
+    {
+      "id": 698463,
+      "title": "Adjective-01 | Eng | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68ee0ac46f9a0_Bank_40_41_Adjective.pdf",
+      "date": "14-Oct-2025"
+    },
+    {
+      "id": 696540,
+      "title": "Mains Number Series-2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68e9f6798001b_Mains_Number_Series_2_notes_Batch_40_and_41_at_6_pm_compressed.pdf",
+      "date": "11-Oct-2025"
+    },
+    {
+      "id": 696527,
+      "title": "G.A | 10 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68e9f4637df5a_budget_2_recording.pdf",
+      "date": "11-Oct-2025"
+    },
+    {
+      "id": 696509,
+      "title": "Eco | 10 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68e9f1846557b_budget_1_recording_compressed.pdf",
+      "date": "11-Oct-2025"
+    },
+    {
+      "id": 696507,
+      "title": "Eco | 9 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68e9f15a5bddf_Inflation_Recording_PDF.pdf",
+      "date": "11-Oct-2025"
+    },
+    {
+      "id": 696505,
+      "title": "Eco | 7 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68e9f13ebe784_national_income_recording_constable_new.pdf",
+      "date": "11-Oct-2025"
+    },
+    {
+      "id": 695818,
+      "title": "Number Series Notes-01",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68e8c2501ca72_Mains_Number_Series_1_notes_Batch_40_and_41_at_12_pm.pdf",
+      "date": "10-Oct-2025"
+    },
+    {
+      "id": 695325,
+      "title": "Pronoun-05 | Eng | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68e7af6c62da9_Bank_40_41_Pronoun_5_compressed.pdf",
+      "date": "09-Oct-2025"
+    },
+    {
+      "id": 695323,
+      "title": "Pronoun-04 | Eng | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68e7ae8738b0e_Bank_40_41_Pronoun_4_compressed.pdf",
+      "date": "09-Oct-2025"
+    },
+    {
+      "id": 695321,
+      "title": "Pronoun-03 | Eng | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68e7ae079c108_Bank_40_41_Pronoun_3_compressed.pdf",
+      "date": "09-Oct-2025"
+    },
+    {
+      "id": 695267,
+      "title": "Maths | 09 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68e7a5dbee047_Time_Speed_Distance_9_notes_Batch_40_and_41_at_12_pm.pdf",
+      "date": "09-Oct-2025"
+    },
+    {
+      "id": 695261,
+      "title": "Reas | 09 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68e7a54f96330_BATCH_39_40_AND_41_AND_IBPS_TARGET_compressed.pdf",
+      "date": "09-Oct-2025"
+    },
+    {
+      "id": 694377,
+      "title": "G.A | 6 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68e64e53922aa_6oct_9am_compressed.pdf",
+      "date": "08-Oct-2025"
+    },
+    {
+      "id": 694374,
+      "title": "Maths | 8 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68e64dc6b6ea1_Time_Speed_Distance_7_notes_Batch_40_and_41_at_12_pm.pdf",
+      "date": "08-Oct-2025"
+    },
+    {
+      "id": 693930,
+      "title": "Time, Speed & Distance Notes-06",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68e5ec13ab152_Time_Speed_Distance_6_notes_Batch_40_and_41_at_6_pm.pdf",
+      "date": "08-Oct-2025"
+    },
+    {
+      "id": 693896,
+      "title": "Time, Speed & Distance Notes-05",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68e5e66e4d218_Time_Speed_Distance_5_notes_Batch_40_and_41_at_12_pm.pdf",
+      "date": "08-Oct-2025"
+    },
+    {
+      "id": 692701,
+      "title": "Time, Speed & Distance Notes-03",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68e3919f8f04a_Time_Speed_Distance_3_notes_Batch_40_and_41_at_12_pm.pdf",
+      "date": "06-Oct-2025"
+    },
+    {
+      "id": 692200,
+      "title": "Pronoun-02 | Eng | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68e0edcb51dee_Bank_40_41_Pronoun_2_compressed.pdf",
+      "date": "04-Oct-2025"
+    },
+    {
+      "id": 692185,
+      "title": "Pronoun-01 | Eng | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68e0eb9c81fca_Bank_40_41_Pronoun.pdf",
+      "date": "04-Oct-2025"
+    },
+    {
+      "id": 691937,
+      "title": "Time, Speed  & Distance Notes-02",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68e0c9923673d_Time_Speed_Distance_2_notes_Batch_40_and_41_at_6_pm.pdf",
+      "date": "04-Oct-2025"
+    },
+    {
+      "id": 691935,
+      "title": "Time, Speed  & Distance Notes-01",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68e0c9769ad7c_Time_Speed_Distance_1_notes_Batch_40_and_41_at_12_pm_compressed.pdf",
+      "date": "04-Oct-2025"
+    },
+    {
+      "id": 691902,
+      "title": "G.A | 30 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68e0c6001f788_Foreign_Trade_Recording.pdf",
+      "date": "04-Oct-2025"
+    },
+    {
+      "id": 690338,
+      "title": "Doubt Session Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68df5261af2b8_Doubt_Session_notes_Batch_40_and_41_at_6_pm.pdf",
+      "date": "03-Oct-2025"
+    },
+    {
+      "id": 690319,
+      "title": "Noun-05 | Eng | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68df4fc4a4526_Bank_40_41_Noun_5_compressed.pdf",
+      "date": "03-Oct-2025"
+    },
+    {
+      "id": 690178,
+      "title": "Time & Work Notes-7",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68dd23e8ecb0d_Time_and_Work_7_notes_Batch_40_and_41_at_12_pm_compressed.pdf",
+      "date": "01-Oct-2025"
+    },
+    {
+      "id": 688388,
+      "title": "G.A  | 22 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68dcf634e0e9e_22sep_9am.pdf",
+      "date": "01-Oct-2025"
+    },
+    {
+      "id": 683579,
+      "title": "Reas | 29 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68da454688e35_ilovepdf_merged_9_compressed.pdf",
+      "date": "29-Sep-2025"
+    },
+    {
+      "id": 683146,
+      "title": "Noun-04 | Eng | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68d68ac42397b_Bank_40_41_Noun_4_compressed.pdf",
+      "date": "26-Sep-2025"
+    },
+    {
+      "id": 683141,
+      "title": "Noun-03 | Eng | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68d68832260fc_Bank_40_41_Noun_3.pdf",
+      "date": "26-Sep-2025"
+    },
+    {
+      "id": 682170,
+      "title": "Time & Work Notes-2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68d525a2a6131_Time_and_Work_2_notes_Batch_40_and_41_at_6_pm.pdf",
+      "date": "25-Sep-2025"
+    },
+    {
+      "id": 680871,
+      "title": "Reas | 24 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68d3b11523e85_39_40_41_and_ibps_target_batch_compressed.pdf",
+      "date": "24-Sep-2025"
+    },
+    {
+      "id": 680867,
+      "title": "Noun-02 | Eng | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68d3ad88c9404_Bank_40_41_Noun_2.pdf",
+      "date": "24-Sep-2025"
+    },
+    {
+      "id": 680865,
+      "title": "Noun-01 | Eng | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68d3ad4582eee_Bank_40_41_Noun.pdf",
+      "date": "24-Sep-2025"
+    },
+    {
+      "id": 680273,
+      "title": "Average Notes-4",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68d26ab470e1b_Average_4_notes_Batch_40_and_41_at_12_pm.pdf",
+      "date": "23-Sep-2025"
+    },
+    {
+      "id": 680264,
+      "title": "Reas | 23 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68d265afdae8b_batch_39_40_and_41_compressed.pdf",
+      "date": "23-Sep-2025"
+    },
+    {
+      "id": 680251,
+      "title": "Reas | 22 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68d25e615def1_BATCH_39_40_and_41_DIRECTIONS_1_compressed.pdf",
+      "date": "23-Sep-2025"
+    },
+    {
+      "id": 679363,
+      "title": "Average Notes-2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68d1187c00736_Average_2_notes_Batch_40_and_41_at_12_pm.pdf",
+      "date": "22-Sep-2025"
+    },
+    {
+      "id": 679267,
+      "title": "Reas | 20 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68d10e0dee68d_BATCH_39_40_and_41_DIRECTIONS_compressed.pdf",
+      "date": "22-Sep-2025"
+    },
+    {
+      "id": 675715,
+      "title": "Reas | 19 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68ce6c038ddf4_39_40_and_41_compressed.pdf",
+      "date": "20-Sep-2025"
+    },
+    {
+      "id": 675096,
+      "title": "G.A | 18 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68cd14d65047b_18sep_9am_compressed.pdf",
+      "date": "19-Sep-2025"
+    },
+    {
+      "id": 674528,
+      "title": "Number Series Notes-5",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68cbf3bd2b6b4_Number_Series_5_notes_Batch_41_at_12_pm.pdf",
+      "date": "18-Sep-2025"
+    },
+    {
+      "id": 674390,
+      "title": "RC Foundation Critical Reading-03",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68cbeb4c0d282_Bank_41_RC_Foundation_Critical_Reading_3_compressed.pdf",
+      "date": "18-Sep-2025"
+    },
+    {
+      "id": 674237,
+      "title": "Number Series Notes-4",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68cbdcf7154ac_Number_Series_4_notes_Batch_41_at_12_pm.pdf",
+      "date": "18-Sep-2025"
+    },
+    {
+      "id": 674222,
+      "title": "Number Series Notes-5",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68cbd9318b70e_Number_Series_5_notes_Batch_41_at_12_pm.pdf",
+      "date": "18-Sep-2025"
+    },
+    {
+      "id": 674154,
+      "title": "G.A  | 15-16 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68cbbfec63333_13sep_9am_merged_compressed.pdf",
+      "date": "18-Sep-2025"
+    },
+    {
+      "id": 673584,
+      "title": "RC Foundation Critical Reading-02",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68c9495193755_RC_Foundation_Critical_Reading_2_compressed.pdf",
+      "date": "16-Sep-2025"
+    },
+    {
+      "id": 673581,
+      "title": "RC Foundation Critical Reading-01",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68c94936da90e_RC_Foundation_Critical_Reading_compressed.pdf",
+      "date": "16-Sep-2025"
+    },
+    {
+      "id": 673313,
+      "title": "Directions | Reas | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68c93fff8b907_39_40_and_41_compressed.pdf",
+      "date": "16-Sep-2025"
+    },
+    {
+      "id": 673184,
+      "title": "Directions | Reas | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68c93f2b7a8fd_batch_39_40_41_2_compressed.pdf",
+      "date": "16-Sep-2025"
+    },
+    {
+      "id": 673157,
+      "title": "Number Series Notes-3",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68c93a129a01f_Number_Series_3_notes_Batch_41_at_12_pm.pdf",
+      "date": "16-Sep-2025"
+    },
+    {
+      "id": 662934,
+      "title": "G.A | 8 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68c798c16d4ff_Cheque_DD_Recording.pdf",
+      "date": "15-Sep-2025"
+    },
+    {
+      "id": 662927,
+      "title": "G.A | 11-12 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68c795c7b3dff_11sep_9am_merged.pdf",
+      "date": "15-Sep-2025"
+    },
+    {
+      "id": 662294,
+      "title": "Number Series Notes-2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68c54100bc58a_Number_Series_2_notes_Batch_41_at_12_pm.pdf",
+      "date": "13-Sep-2025"
+    },
+    {
+      "id": 661756,
+      "title": "Reas | 11 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68c3e57eedfbf_batch_41_4_compressed.pdf",
+      "date": "12-Sep-2025"
+    },
+    {
+      "id": 661755,
+      "title": "Statement Inequality | 11 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68c3e406b5645_BATCH_39_40_41_1_compressed.pdf",
+      "date": "12-Sep-2025"
+    },
+    {
+      "id": 661267,
+      "title": "Vocab Foundation-04",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68c2b8c78cf14_Bank_41_Vocab_Foundation_4_compressed.pdf",
+      "date": "11-Sep-2025"
+    },
+    {
+      "id": 661266,
+      "title": "Vocab Foundation-03",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68c2b896d5ad6_Bank_41_Vocab_Foundation_3_compressed.pdf",
+      "date": "11-Sep-2025"
+    },
+    {
+      "id": 661259,
+      "title": "Vocab Foundation-02",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68c2b82bb0ab9_Bank_41_Vocab_Foundation_2.pdf",
+      "date": "11-Sep-2025"
+    },
+    {
+      "id": 661178,
+      "title": "Number Series Notes-1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68c2aefa3b66f_Number_Series_1_notes_Batch_41_at_12_pm.pdf",
+      "date": "11-Sep-2025"
+    },
+    {
+      "id": 661005,
+      "title": "Reas | 10 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68c2985e2900f_batch_41_3_compressed.pdf",
+      "date": "11-Sep-2025"
+    },
+    {
+      "id": 661004,
+      "title": "Statement Inequality | 10 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68c297b0e76fd_batch_39_40_41_compressed.pdf",
+      "date": "11-Sep-2025"
+    },
+    {
+      "id": 655205,
+      "title": "Simplification Notes-4",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68c14d3188366_Simplification_4_notes_Batch_41_at_12_pm.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655113,
+      "title": "Statement Inequality | 9 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68c141346e910_39_40_41_compressed.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655092,
+      "title": "Approximation Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68c13e44e3199_Approximation_notes_Batch_41_at_12_pm.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 653193,
+      "title": "Simplification Notes-3",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68bec29d00c2d_Simplification_3_notes_Batch_41_at_12_pm.pdf",
+      "date": "08-Sep-2025"
+    },
+    {
+      "id": 653189,
+      "title": "Reas | 8 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68bec17cf1ef2_batch_41_2.pdf",
+      "date": "08-Sep-2025"
+    },
+    {
+      "id": 653188,
+      "title": "Statement Inequality | 8 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68bec125a894f_batch_39_40_and_41_compressed.pdf",
+      "date": "08-Sep-2025"
+    },
+    {
+      "id": 651753,
+      "title": "G.A | 04 Sept  | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68be5ce4cd415_Priority_Sector_Lending_recording_1_compressed.pdf",
+      "date": "08-Sep-2025"
+    },
+    {
+      "id": 651296,
+      "title": "Reas | 6 June | Class PNG-I",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68bbfb3e604c2_39_40_and_41_1.pdf",
+      "date": "06-Sep-2025"
+    },
+    {
+      "id": 650525,
+      "title": "Vocab Foundation-01",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68bbc7260386b_Bank_41_Vocab_Foundation.pdf",
+      "date": "06-Sep-2025"
+    },
+    {
+      "id": 649512,
+      "title": "Reas | 5 Sept | Class PNG-I",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68bab33a32f6f_batch_41_2_compressed.pdf",
+      "date": "05-Sep-2025"
+    },
+    {
+      "id": 649507,
+      "title": "Reas | 5 Sept | Class PNG-I",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68bab2f6c99b8_batch_39_40_41_2_compressed.pdf",
+      "date": "05-Sep-2025"
+    },
+    {
+      "id": 649429,
+      "title": "Simplification Notes-2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68baa4d3621c3_Simplification_2_notes_Batch_41_at_12_pm.pdf",
+      "date": "05-Sep-2025"
+    },
+    {
+      "id": 648316,
+      "title": "Reas | 4 Sept | Class PNG-I",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b972ba2da31_batch_41_1_compressed.pdf",
+      "date": "04-Sep-2025"
+    },
+    {
+      "id": 648315,
+      "title": "Reas | 4 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b97291531e7_39_40_and_41_compressed.pdf",
+      "date": "04-Sep-2025"
+    },
+    {
+      "id": 648248,
+      "title": "Simplification Notes-1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b956c79eaab_Simplification_1_notes_Batch_41_at_12_pm.pdf",
+      "date": "04-Sep-2025"
+    },
+    {
+      "id": 648205,
+      "title": "G.A | 2 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b94e2e6aafa_2sep_9am.pdf",
+      "date": "04-Sep-2025"
+    },
+    {
+      "id": 647636,
+      "title": "Grammar Foundation-06 | Eng | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b7f91949ce9_Bank_41_Grammar_Foundation_6_compressed.pdf",
+      "date": "03-Sep-2025"
+    },
+    {
+      "id": 647635,
+      "title": "Grammar Foundation-05 | Eng | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b7f859c1ad2_Bank_41_Grammar_Foundation_5_compressed.pdf",
+      "date": "03-Sep-2025"
+    },
+    {
+      "id": 647634,
+      "title": "Grammar Foundation-04 | Eng | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b7f817364ad_Bank_41_Grammar_Foundation_4_compressed.pdf",
+      "date": "03-Sep-2025"
+    },
+    {
+      "id": 646187,
+      "title": "Reas | 2 Sept | Class PNG-I",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b690f9b695b_batch_39_40_41_1.pdf",
+      "date": "02-Sep-2025"
+    },
+    {
+      "id": 646184,
+      "title": "Reas | 2 Sept | Class PNG-I",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b690d77867c_batch_41_8_to_9_compressed.pdf",
+      "date": "02-Sep-2025"
+    },
+    {
+      "id": 646182,
+      "title": "Reas | 2 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b690876fd16_batch_39_40_41.pdf",
+      "date": "02-Sep-2025"
+    },
+    {
+      "id": 645998,
+      "title": "G.A | 29 Aug - 1 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b683daccc3c_29aug_9am_1sep_9am_merged.pdf",
+      "date": "02-Sep-2025"
+    },
+    {
+      "id": 645530,
+      "title": "Percentage Calculation Notes-1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b569cc34615_Percentage_Calculation_1_notes_Batch_41_at_12_pm.pdf",
+      "date": "01-Sep-2025"
+    },
+    {
+      "id": 644482,
+      "title": "Reas | 1 Sept | Class PNG-I",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b559d941a85_batch_41.pdf",
+      "date": "01-Sep-2025"
+    },
+    {
+      "id": 644481,
+      "title": "Reas | 1 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b559bf972f5_batch_41_40_and_39.pdf",
+      "date": "01-Sep-2025"
+    },
+    {
+      "id": 643575,
+      "title": "Calculation Tricks Notes-02 | Maths | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b2b3e646b17_Calculation_Tricks_2_notes_Batch_41_at_12_pm.pdf",
+      "date": "30-Aug-2025"
+    },
+    {
+      "id": 643571,
+      "title": "Inequalities | Reas | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b2b2b202fd4_batch_39_40_and_41.pdf",
+      "date": "30-Aug-2025"
+    },
+    {
+      "id": 643568,
+      "title": "Reas | 29 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b2b229e4830_batch_41.pdf",
+      "date": "30-Aug-2025"
+    },
+    {
+      "id": 643066,
+      "title": "G.A | 27 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b174e99fe84_28aug_9am.pdf",
+      "date": "29-Aug-2025"
+    },
+    {
+      "id": 642922,
+      "title": "Orientation Class-01 | Eng | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b1643145d5b_Bank_41_Orientation_Class_Class.pdf",
+      "date": "29-Aug-2025"
+    },
+    {
+      "id": 642921,
+      "title": "Grammar Foundation-03 | Eng | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b162dde9850_Bank_41_Grammar_Foundation_3_compressed.pdf",
+      "date": "29-Aug-2025"
+    },
+    {
+      "id": 642920,
+      "title": "Grammar Foundation-02 | Eng | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b1629b8a8c2_Bank_41_Grammar_Foundation_2.pdf",
+      "date": "29-Aug-2025"
+    },
+    {
+      "id": 642919,
+      "title": "Grammar Foundation-01 | Eng | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b1623268dd8_Bank_41_Grammar_Foundation.pdf",
+      "date": "29-Aug-2025"
+    },
+    {
+      "id": 641549,
+      "title": "Reas | 28 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b13e9204b51_new_batch_4_compressed.pdf",
+      "date": "29-Aug-2025"
+    },
+    {
+      "id": 640756,
+      "title": "Maths Intro | 27 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68aee1031054b_Maths_Intro_notes_Batch_41_at_12_pm.pdf",
+      "date": "27-Aug-2025"
+    },
+    {
+      "id": 640374,
+      "title": "Reas | 27 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68ae9303134ff_new_batch_3.pdf",
+      "date": "27-Aug-2025"
+    },
+    {
+      "id": 639582,
+      "title": "Reas | 26 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68ad503b08fec_batch_40bcoding_decoding.pdf",
+      "date": "26-Aug-2025"
+    },
+    {
+      "id": 639576,
+      "title": "Reas | 25 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68ad4fa8e66d4_new_batch_2.pdf",
+      "date": "26-Aug-2025"
+    },
+    {
+      "id": 639302,
+      "title": "Eng Intro | Eng | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68ac1ee51d6a0_Bank_41_Intro_Class.pdf",
+      "date": "25-Aug-2025"
+    }
+  ]
+}
