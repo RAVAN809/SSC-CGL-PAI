@@ -1,0 +1,65 @@
+{
+  "batch_id": 2672,
+  "topics": [
+    {
+      "id": 27832,
+      "topicName": "Syllabus"
+    },
+    {
+      "id": 28361,
+      "topicName": "Maths (Bhagwati Sir)"
+    },
+    {
+      "id": 27268,
+      "topicName": "Maths (Charak Sir)"
+    },
+    {
+      "id": 27258,
+      "topicName": "Reasoning"
+    },
+    {
+      "id": 27271,
+      "topicName": "History"
+    },
+    {
+      "id": 27588,
+      "topicName": "Indian Geo"
+    },
+    {
+      "id": 27267,
+      "topicName": "World Geo"
+    },
+    {
+      "id": 27272,
+      "topicName": "Polity"
+    },
+    {
+      "id": 27273,
+      "topicName": "Economy"
+    },
+    {
+      "id": 27276,
+      "topicName": "Physics"
+    },
+    {
+      "id": 27277,
+      "topicName": "Chemistry"
+    },
+    {
+      "id": 27278,
+      "topicName": "Biology"
+    },
+    {
+      "id": 27275,
+      "topicName": "Computer"
+    },
+    {
+      "id": 27274,
+      "topicName": "Static GK"
+    },
+    {
+      "id": 29812,
+      "topicName": "GS Practice"
+    }
+  ]
+}
