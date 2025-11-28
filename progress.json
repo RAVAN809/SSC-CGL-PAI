@@ -1,10 +1,10 @@
 {
-  "processed_batches": 500,
+  "processed_batches": 510,
   "total_batches": 786,
-  "batches_with_topics": 414,
-  "total_topics_found": 4523,
-  "total_topics_processed": 820,
-  "total_videos_processed": 1944,
-  "total_classes_found": 38500,
-  "last_update": "2025-11-28 21:15:07"
+  "batches_with_topics": 424,
+  "total_topics_found": 4638,
+  "total_topics_processed": 840,
+  "total_videos_processed": 1985,
+  "total_classes_found": 38959,
+  "last_update": "2025-11-28 21:18:06"
 }
