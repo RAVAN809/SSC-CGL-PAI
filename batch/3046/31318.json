@@ -1,0 +1,1216 @@
+{
+  "batchid": 3046,
+  "topicid": 31318,
+  "classes_total": 72,
+  "classes": [
+    {
+      "title": "Class-11 | Maths | Geometry Similarity Concept of Questions",
+      "id": "4606521",
+      "date": "20-Nov-2025 07:00",
+      "video_url": "4606521_0_1790247150435423"
+    },
+    {
+      "title": "Class-10 | Maths | Geometry Similarity Concept of Questions",
+      "id": "4605471",
+      "date": "19-Nov-2025 07:00",
+      "video_url": "4605471_0_7810658047068949"
+    },
+    {
+      "title": "Class-09 | Maths | Geometry Inequality of triangles",
+      "id": "4603404",
+      "date": "17-Nov-2025 07:00",
+      "video_url": "4603404_0_3281949079493067"
+    },
+    {
+      "title": "Class-08 | Maths | Geometry Inequality of triangles",
+      "id": "4598154",
+      "date": "11-Nov-2025 07:00",
+      "video_url": "4598154_0_6197098209730512"
+    },
+    {
+      "title": "Class-07 | Maths | Geometry Identification of triangles",
+      "id": "4596942",
+      "date": "10-Nov-2025 07:00",
+      "video_url": "4596942_0_7979436924091199"
+    },
+    {
+      "title": "Class-06 | Maths | Geometry int & external angle bisector",
+      "id": "4595835",
+      "date": "08-Nov-2025 07:00",
+      "video_url": "4595835_0_3544721168738062"
+    },
+    {
+      "title": "Class-05 | Maths | Geometry Miscellaneous Lines & Angles",
+      "id": "4593522",
+      "date": "06-Nov-2025 07:00",
+      "video_url": "4593522_0_5239139775609148"
+    },
+    {
+      "title": "Class-04 | Maths | Geometry Division of triangles",
+      "id": "4592464",
+      "date": "05-Nov-2025 07:00",
+      "video_url": "4592464_0_1668280711951270"
+    },
+    {
+      "title": "Class-03 | Maths | Geometry Lines & Angles",
+      "id": "4591428",
+      "date": "04-Nov-2025 07:00",
+      "video_url": "4591428_0_1314680995931453"
+    },
+    {
+      "title": "Class-02 | Maths | Geometry Lines & Angles",
+      "id": "4590482",
+      "date": "03-Nov-2025 07:00",
+      "video_url": "4590482_0_1581040328201334"
+    },
+    {
+      "title": "Class-01 | Maths | Geometry",
+      "id": "4588564",
+      "date": "31-Oct-2025 07:00",
+      "video_url": "4588564_0_9476599074327636"
+    },
+    {
+      "title": "Class-21 | Maths | Mesnsuration 3d Pyramid Questions",
+      "id": "4587421",
+      "date": "30-Oct-2025 07:00",
+      "video_url": "4587421_0_2685333725648364"
+    },
+    {
+      "title": "Class-20 | Maths | Mesnsuration 3d Pyramid introduction",
+      "id": "4586344",
+      "date": "29-Oct-2025 07:00",
+      "video_url": "4586344_0_1701909559289089"
+    },
+    {
+      "title": "Class-19 | Maths | Mesnsuration 3d Pyramid introduction",
+      "id": "4585402",
+      "date": "28-Oct-2025 07:00",
+      "video_url": "4585402_0_7670031456177995"
+    },
+    {
+      "title": "Class-18 | Maths | Mesnsuration 3d Prism Questions",
+      "id": "4584383",
+      "date": "27-Oct-2025 07:00",
+      "video_url": "4584383_0_9621018763280498"
+    },
+    {
+      "title": "Class-17 | Maths | Mesnsuration 3d Prism",
+      "id": "4580125",
+      "date": "16-Oct-2025 17:00",
+      "video_url": "4580125_0_5367888695398803"
+    },
+    {
+      "title": "Class-16 | Maths | Mesnsuration 3d Hemi-Sphere",
+      "id": "4579075",
+      "date": "15-Oct-2025 17:00",
+      "video_url": "4579075_0_2391600144327617"
+    },
+    {
+      "title": "Class-15 | Maths | Mesnsuration 3d Sphere",
+      "id": "4577955",
+      "date": "14-Oct-2025 17:00",
+      "video_url": "4577955_0_9184038004702309"
+    },
+    {
+      "title": "Class-14 | Maths | Mesnsuration 3d Sphere",
+      "id": "4576832",
+      "date": "13-Oct-2025 17:00",
+      "video_url": "4576832_0_5866085064396935"
+    },
+    {
+      "title": "Class-13 | Maths | Mesnsuration 3d Rotation of Cone",
+      "id": "4574772",
+      "date": "10-Oct-2025 17:00",
+      "video_url": "4574772_0_2876382371711139"
+    },
+    {
+      "title": "Class-12 | Maths | Mesnsuration 3d Cutting & Folding of Cone",
+      "id": "4573266",
+      "date": "09-Oct-2025 17:00",
+      "video_url": "4573266_0_6844401493968190"
+    },
+    {
+      "title": "Class-11 | Maths | Mesnsuration 3d Cone",
+      "id": "4570649",
+      "date": "07-Oct-2025 17:00",
+      "video_url": "4570649_0_8884684408464514"
+    },
+    {
+      "title": "Class-10 | Maths | Mesnsuration 3d Cylinder advance",
+      "id": "4569415",
+      "date": "06-Oct-2025 17:00",
+      "video_url": "4569415_0_8485063139406914"
+    },
+    {
+      "title": "Class-09 | Maths | Mesnsuration 3d Hollow Cylinder",
+      "id": "4566371",
+      "date": "03-Oct-2025 17:00",
+      "video_url": "4566371_0_7955746225415614"
+    },
+    {
+      "title": "Class-08 | Maths | Mesnsuration 3d Cylinder",
+      "id": "4564725",
+      "date": "01-Oct-2025 17:00",
+      "video_url": "4564725_0_9041682355158607"
+    },
+    {
+      "title": "Class-07 | Maths | Mesnsuration 3d Cylinder",
+      "id": "4563642",
+      "date": "30-Sep-2025 17:00",
+      "video_url": "4563642_0_1997414887801392"
+    },
+    {
+      "title": "Class-06 | Maths | Mesnsuration 3d (cuboid advanced)",
+      "id": "4562536",
+      "date": "29-Sep-2025 17:00",
+      "video_url": "4562536_0_4234341660521356"
+    },
+    {
+      "title": "Class-05 | Maths | Mesnsuration 3d (cuboid advanced)",
+      "id": "4560457",
+      "date": "26-Sep-2025 17:00",
+      "video_url": "4560457_0_4977975939007412"
+    },
+    {
+      "title": "Class-04 | Maths | Mesnsuration 3d (Basic Of cuboid)",
+      "id": "4558290",
+      "date": "24-Sep-2025 17:00",
+      "video_url": "4558290_0_9498951026305681"
+    },
+    {
+      "title": "Class-03 | Maths | Mesnsuration 3d (Basic Of cuboid)",
+      "id": "4556899",
+      "date": "23-Sep-2025 17:00",
+      "video_url": "4556899_0_4461075722706783"
+    },
+    {
+      "title": "Class-02 | Maths | Basic Of cube",
+      "id": "4587091",
+      "date": "22-Sep-2025 17:00",
+      "video_url": "4587091_0_2143344293066228"
+    },
+    {
+      "title": "Class-01 | Maths | Basic Of cube",
+      "id": "4553737",
+      "date": "19-Sep-2025 17:00",
+      "video_url": "4553737_0_9302353890475669"
+    },
+    {
+      "title": "Class-17 | Maths | Shaded area questions",
+      "id": "4551841",
+      "date": "17-Sep-2025 17:00",
+      "video_url": "4551841_0_5087194895489174"
+    },
+    {
+      "title": "Class-16 | Maths | Shaded area questions",
+      "id": "4550854",
+      "date": "16-Sep-2025 17:00",
+      "video_url": "4550854_0_6840940502660112"
+    },
+    {
+      "title": "Class-15 | Maths |  Miscellaneous Circle",
+      "id": "4549748",
+      "date": "15-Sep-2025 17:00",
+      "video_url": "4549748_0_5431324679154202"
+    },
+    {
+      "title": "Class-14 | Maths | Part of Circle",
+      "id": "4547941",
+      "date": "12-Sep-2025 17:00",
+      "video_url": "4547941_0_5366838155159907"
+    },
+    {
+      "title": "Class-13 | Maths | Semicircle concept",
+      "id": "4546066",
+      "date": "10-Sep-2025 17:00",
+      "video_url": "4546066_0_5855272565223019"
+    },
+    {
+      "title": "Class-12 | Maths | Concentric circle",
+      "id": "4545139",
+      "date": "09-Sep-2025 17:00",
+      "video_url": "4545139_0_5449740350194729"
+    },
+    {
+      "title": "Class-11 | Maths | Trapezium & circle Basic",
+      "id": "4587088",
+      "date": "08-Sep-2025 17:00",
+      "video_url": "4587088_0_3293678494542739"
+    },
+    {
+      "title": "Class-10 | Maths | Rectangle Advance Pattern",
+      "id": "4542459",
+      "date": "05-Sep-2025 17:00",
+      "video_url": "4542459_0_6891445540445686"
+    },
+    {
+      "title": "Class-09 | Maths | Rectangle Basic",
+      "id": "4541388",
+      "date": "04-Sep-2025 17:00",
+      "video_url": "4541388_0_6697949988653859"
+    },
+    {
+      "title": "Class-08 | Maths | Square Advance Pattern",
+      "id": "4539303",
+      "date": "03-Sep-2025 17:00",
+      "video_url": "4539303_0_7725199367415729"
+    },
+    {
+      "title": "Class-07 | Maths | Square Basic",
+      "id": "4537908",
+      "date": "02-Sep-2025 17:00",
+      "video_url": "4537908_0_5556147122610812"
+    },
+    {
+      "title": "Class-06 | Maths | Isosceles & Miscellaneous",
+      "id": "4536782",
+      "date": "01-Sep-2025 17:00",
+      "video_url": "4536782_0_6658985170692403"
+    },
+    {
+      "title": "Class-05 | Maths | Equilateral triangle",
+      "id": "4534725",
+      "date": "29-Aug-2025 17:00",
+      "video_url": "4534725_0_9747707730608903"
+    },
+    {
+      "title": "Class-04 | Maths | Mesnsuration 2d",
+      "id": "4533653",
+      "date": "28-Aug-2025 17:00",
+      "video_url": "4533653_0_9920415470896425"
+    },
+    {
+      "title": "Class-03 | Maths | scalene triangle",
+      "id": "4532457",
+      "date": "27-Aug-2025 17:00",
+      "video_url": "4532457_0_5644396732222521"
+    },
+    {
+      "title": "Class-02 | Maths | Question & Basic of Right rule",
+      "id": "4531145",
+      "date": "26-Aug-2025 17:00",
+      "video_url": "4531145_0_2391294640886976"
+    },
+    {
+      "title": "Class-01 | Maths | Basic of Traingle",
+      "id": "4529920",
+      "date": "25-Aug-2025 17:00",
+      "video_url": "4529920_0_7308391709786457"
+    },
+    {
+      "title": "Class-02 | Maths | HCF & LCM",
+      "id": "4526059",
+      "date": "21-Aug-2025 11:00",
+      "video_url": "4526059_0_2524304895118248"
+    },
+    {
+      "title": "Class-01 | Maths | HCF & LCM",
+      "id": "4524886",
+      "date": "20-Aug-2025 11:00",
+      "video_url": "4524886_0_9659820950874022"
+    },
+    {
+      "title": "Class-04 | Maths | HCF",
+      "id": "4523785",
+      "date": "19-Aug-2025 11:00",
+      "video_url": "4523785_0_9361432946993359"
+    },
+    {
+      "title": "Class-03 | Maths | HCF",
+      "id": "4522740",
+      "date": "18-Aug-2025 11:00",
+      "video_url": "4522740_0_4030745790256044"
+    },
+    {
+      "title": "Class-02 | Maths | Methods to Find HCF",
+      "id": "4520471",
+      "date": "14-Aug-2025 11:00",
+      "video_url": "4520471_0_3511493770088071"
+    },
+    {
+      "title": "Class-05 | Maths |  LCM Type 3 [Different Types Remainders]",
+      "id": "4514730",
+      "date": "07-Aug-2025 11:00",
+      "video_url": "4514730_0_4523513844825868"
+    },
+    {
+      "title": "Class-04 | Maths |  LCM Type 2, 3 [Based on Remainders]",
+      "id": "4513774",
+      "date": "06-Aug-2025 11:00",
+      "video_url": "4513774_0_5499146330951484"
+    },
+    {
+      "title": "Class-03 | Maths |  LCM Type 2, 3 [Based on Remainders]",
+      "id": "4512717",
+      "date": "05-Aug-2025 11:00",
+      "video_url": "4512717_0_4762058396972391"
+    },
+    {
+      "title": "Class-02 | Maths | Basics of LCM Type 1",
+      "id": "4511809",
+      "date": "04-Aug-2025 11:00",
+      "video_url": "4511809_0_4444257152406419"
+    },
+    {
+      "title": "Class-01 | Maths | Introduction of HCF / LCM",
+      "id": "4495649",
+      "date": "28-Jul-2025 11:00",
+      "video_url": "4495649_0_1708384740914226"
+    },
+    {
+      "title": "Class-24 | Maths | Successive Remainders & Divisiors Problems",
+      "id": "4493215",
+      "date": "25-Jul-2025 11:00",
+      "video_url": "4493215_0_8076998434563262"
+    },
+    {
+      "title": "Class-23 | Maths |  Euler Theorem & Miscellaneous of Remainder",
+      "id": "4491960",
+      "date": "24-Jul-2025 11:00",
+      "video_url": "4491960_0_2370581269015581"
+    },
+    {
+      "title": "Class-22 | Maths | Problems on Remainder & Fermat Theorem",
+      "id": "4566220",
+      "date": "23-Jul-2025 11:00",
+      "video_url": "4566220_0_9925816743429899"
+    },
+    {
+      "title": "Class-21 | Maths | Concepts of Remainder",
+      "id": "4488572",
+      "date": "22-Jul-2025 11:00",
+      "video_url": "4488572_0_4415820657867589"
+    },
+    {
+      "title": "Class-19 | Maths | Division Based Concepts & Problems",
+      "id": "4485450",
+      "date": "18-Jul-2025 11:00",
+      "video_url": "4485450_0_2736608863751501"
+    },
+    {
+      "title": "Class-18 | Maths | Number of Zeros & Divisibility Rule",
+      "id": "4484437",
+      "date": "17-Jul-2025 11:00",
+      "video_url": "4484437_0_8783227872982902"
+    },
+    {
+      "title": "Class-17 | Maths | Number of Zeros",
+      "id": "4483439",
+      "date": "16-Jul-2025 11:00",
+      "video_url": "4483439_0_6617195857181705"
+    },
+    {
+      "title": "Class-16 | Maths | Concepts of Number of Zero",
+      "id": "4482410",
+      "date": "15-Jul-2025 11:00",
+      "video_url": "4482410_0_9265651006130552"
+    },
+    {
+      "title": "Class-15 | Maths | Divisibilty Rules of Co-Primes 7,11,13,1001,101",
+      "id": "4481470",
+      "date": "14-Jul-2025 13:00",
+      "video_url": "4481470_0_4704041093304269"
+    },
+    {
+      "title": "Class-14 | Maths | Divisibilty Rules of Co-Primes 72,99,144,88",
+      "id": "4479557",
+      "date": "11-Jul-2025 11:00",
+      "video_url": "4479557_0_1963548834363304"
+    },
+    {
+      "title": "Class- 13 | Divisibility Rules 2,4,8,16, 3,9,5,125",
+      "id": "4478537",
+      "date": "10-Jul-2025 11:00",
+      "video_url": "4478537_0_8485123030356006"
+    },
+    {
+      "title": "Class- 12 | Concept of factors",
+      "id": "4477300",
+      "date": "09-Jul-2025 11:00",
+      "video_url": "4477300_0_9536972231092971"
+    },
+    {
+      "title": "Class- 11 | Concept of factors",
+      "id": "4476335",
+      "date": "08-Jul-2025 11:00",
+      "video_url": "4476335_0_8003965861449528"
+    }
+  ],
+  "notes_total": 129,
+  "notes": [
+    {
+      "id": 733412,
+      "title": "Maths | 11 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/69184e0f2923b_Maths_30_Oct_to_11_Nov_Class_PNG_DONE_compressed.pdf",
+      "date": "15-Nov-2025"
+    },
+    {
+      "id": 710069,
+      "title": "Maths | 3 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/69083af789849_20251103080511419_compressed.pdf",
+      "date": "03-Nov-2025"
+    },
+    {
+      "id": 707930,
+      "title": "Maths | 30 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/69044c81c02f8_20251031075853464.pdf",
+      "date": "31-Oct-2025"
+    },
+    {
+      "id": 707192,
+      "title": "Maths | 29 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6902ffa16dd2b_20251030090436016_compressed.pdf",
+      "date": "30-Oct-2025"
+    },
+    {
+      "id": 707179,
+      "title": "Maths | 29 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6902fef3632a9_20251030080111641_compressed.pdf",
+      "date": "30-Oct-2025"
+    },
+    {
+      "id": 706279,
+      "title": "Time & Work Sheet - 1&2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6901a4d8bf654_Time_Work_s_merged.pdf",
+      "date": "29-Oct-2025"
+    },
+    {
+      "id": 706273,
+      "title": "Maths | 28 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6901a38d9b32b_20251029090157701_compressed.pdf",
+      "date": "29-Oct-2025"
+    },
+    {
+      "id": 706269,
+      "title": "Maths | 28 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6901a33d7d916_20251029075714857_compressed.pdf",
+      "date": "29-Oct-2025"
+    },
+    {
+      "id": 706000,
+      "title": "Maths | 28 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6900a7a7e6c4a_20251028090353677_compressed.pdf",
+      "date": "28-Oct-2025"
+    },
+    {
+      "id": 705992,
+      "title": "Maths | 28 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6900a7279d0cc_20251028080024779.pdf",
+      "date": "28-Oct-2025"
+    },
+    {
+      "id": 703702,
+      "title": "Maths | 27 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/69004d8b068b2_20251027085441318_compressed.pdf",
+      "date": "28-Oct-2025"
+    },
+    {
+      "id": 703699,
+      "title": "Maths | 27 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/69004d417be0e_20251027075605091_compressed.pdf",
+      "date": "28-Oct-2025"
+    },
+    {
+      "id": 701243,
+      "title": "Maths | 16 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68f1ccccd0747_20251016185952435_compressed.pdf",
+      "date": "17-Oct-2025"
+    },
+    {
+      "id": 701241,
+      "title": "Maths | 16 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68f1cc7b2fe4b_20251016180340905_compressed.pdf",
+      "date": "17-Oct-2025"
+    },
+    {
+      "id": 701025,
+      "title": "Maths | 15 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68f0d2678259a_20251015190035777_compressed.pdf",
+      "date": "16-Oct-2025"
+    },
+    {
+      "id": 701023,
+      "title": "Maths | 15 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68f0d2220d5fa_20251015180111825_compressed.pdf",
+      "date": "16-Oct-2025"
+    },
+    {
+      "id": 699899,
+      "title": "Sphere And Hemisphere",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68ef3969b8285_Sphere_And_Hemisphere_S.pdf",
+      "date": "15-Oct-2025"
+    },
+    {
+      "id": 699897,
+      "title": "Cone Advance",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68ef39478916a_Cone_Advance_s.pdf",
+      "date": "15-Oct-2025"
+    },
+    {
+      "id": 699757,
+      "title": "Maths | 14 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68ef2dd0aa65f_20251014180110014_compressed.pdf",
+      "date": "15-Oct-2025"
+    },
+    {
+      "id": 698171,
+      "title": "Maths | 13 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68edecc713558_20251013190146889_compressed.pdf",
+      "date": "14-Oct-2025"
+    },
+    {
+      "id": 698168,
+      "title": "Maths | 13 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68edec6c7350e_20251013180010455_compressed.pdf",
+      "date": "14-Oct-2025"
+    },
+    {
+      "id": 696885,
+      "title": "Miscellaneous of Profit and Loss Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68ea368a5c296_Miscellaneous_of_Profit_and_Loss_S.pdf",
+      "date": "11-Oct-2025"
+    },
+    {
+      "id": 696499,
+      "title": "Maths | 10 Oct | Class PNG-II",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68e9efbd7f5c1_20251010190149340_compressed.pdf",
+      "date": "11-Oct-2025"
+    },
+    {
+      "id": 696496,
+      "title": "Maths | 10 Oct | Class PNG-I",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68e9ef60e1582_20251010180808845_compressed.pdf",
+      "date": "11-Oct-2025"
+    },
+    {
+      "id": 696163,
+      "title": "Ratio Sheet",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68e90c0b346ba_Ratio_s.pdf",
+      "date": "10-Oct-2025"
+    },
+    {
+      "id": 696129,
+      "title": "Maths | 10 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68e8f4e3dbd96_Maths_10_Oct_Class_PNG_Spl_57_SSC_CHSL_MTS_2026_B_04_RRB_Technician_Grade_3_Maths_Prakash_Sir_6_pm_compressed.pdf",
+      "date": "10-Oct-2025"
+    },
+    {
+      "id": 696126,
+      "title": "Maths | 10 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68e8f4525be4b_Maths_10_Oct_SSC_CHSL_MTS_2026_B04_New_BatchMaths_Spl57_RRB_Technician_Grade_3_by_Prakash_Sir_8_pm_compressed.pdf",
+      "date": "10-Oct-2025"
+    },
+    {
+      "id": 696123,
+      "title": "Maths | 10 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68e8f30b8da40_Advance_10_Oct_Class_PNG_SSC_CHSL_MTS_2026_B_04_Maths_Spl_57_RRB_Technician_Grade_3_by_Prakash_Sir_5_pm.pdf",
+      "date": "10-Oct-2025"
+    },
+    {
+      "id": 694117,
+      "title": "Ratio Sheet-2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68e622d81390a_Ratio_02_s.pdf",
+      "date": "08-Oct-2025"
+    },
+    {
+      "id": 692854,
+      "title": "Mensuration Cone (3D)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68e3a91bb2ff0_Mensuration_Cone_3D_S.pdf",
+      "date": "06-Oct-2025"
+    },
+    {
+      "id": 692021,
+      "title": "Mensuration (3D) Cylinder",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68e0dc04e8f25_Mensuration_3D_Cylinder_s.pdf",
+      "date": "04-Oct-2025"
+    },
+    {
+      "id": 691797,
+      "title": "Maths | 03 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68e0b9427c9c4_Maths_3_Oct_Class_PNG_Maths_Spl57_RRB_Technician_Grade_3_by_Prakash_Sir_5_pm_compressed.pdf",
+      "date": "04-Oct-2025"
+    },
+    {
+      "id": 691796,
+      "title": "Maths | 03 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68e0b8ee2d943_Maths_3_Oct_Class_PNG_RRB_Technician_Grade_3_Maths_Spl57_Prakash_Sir_6_pm_compressed.pdf",
+      "date": "04-Oct-2025"
+    },
+    {
+      "id": 691792,
+      "title": "Maths | 03 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68e0b8428f19d_Maths_3_Oct_SSC_CHSL_MTS_2026_B04_New_BatchMaths_Spl57_RRB_Technician_Grade_3_by_Prakash_Sir_8_pm_compressed.pdf",
+      "date": "04-Oct-2025"
+    },
+    {
+      "id": 691686,
+      "title": "Dishonest Shopkeeper",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68e0a226ace40_Dishonest_Shopkeeper_s.pdf",
+      "date": "04-Oct-2025"
+    },
+    {
+      "id": 683264,
+      "title": "Cuboid 3D (Advance)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68da054e42730_Cuboid_3D_Advance_STUDENT_COPY.pdf",
+      "date": "29-Sep-2025"
+    },
+    {
+      "id": 683267,
+      "title": "Basic of Cuboid",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68da05763eec4_Basic_of_Cuboid_STUDENT_COPY.pdf",
+      "date": "29-Sep-2025"
+    },
+    {
+      "id": 683255,
+      "title": "Discount Based on Successive",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68da0434b7c49_Discount_Based_on_Successive_S.pdf",
+      "date": "29-Sep-2025"
+    },
+    {
+      "id": 691703,
+      "title": "Basics of Cube (3D)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68e0a37617b5a_Basics_of_Cube_3D_S.pdf",
+      "date": "04-Oct-2025"
+    },
+    {
+      "id": 683252,
+      "title": "Discount",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68da040a0e1ae_Discount_S.pdf",
+      "date": "29-Sep-2025"
+    },
+    {
+      "id": 691695,
+      "title": "Profit & Loss Sheet-3&4",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68e0a26e40359_ilovepdf_merged_12.pdf",
+      "date": "04-Oct-2025"
+    },
+    {
+      "id": 660976,
+      "title": "Mensuration MCQ Sheet-2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68c2936d669ce_Mensuration_mcq_file_2_s.pdf",
+      "date": "11-Sep-2025"
+    },
+    {
+      "id": 691682,
+      "title": "Profit & Loss Sheet-2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68e0a1e6c049e_Profit_Loss_S_2.pdf",
+      "date": "04-Oct-2025"
+    },
+    {
+      "id": 651739,
+      "title": "Mensuration MCQ Sheet-1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68be5a2072c55_Mensuration_mcq_s.pdf",
+      "date": "08-Sep-2025"
+    },
+    {
+      "id": 690344,
+      "title": "Maths | 01 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68df538f958d7_Maths_1_Oct_Class_PNG_Maths_Spl57_RRB_Technician_Grade_3_by_Prakash_Sir_5_pm_compressed.pdf",
+      "date": "03-Oct-2025"
+    },
+    {
+      "id": 651297,
+      "title": "Basics of Profit & Loss",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68bbfbb1e1414_Basics_of_Profit_Loss_s.pdf",
+      "date": "06-Sep-2025"
+    },
+    {
+      "id": 691472,
+      "title": "Maths | 01 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68df52decacbe_Maths_1_Oct_SSC_CHSL_MTS_2026_B04_New_Batch_by_Prakash_Sir_8_pm_compressed.pdf",
+      "date": "03-Oct-2025"
+    },
+    {
+      "id": 690025,
+      "title": "Maths | 29 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68dd0ad9d75e7_Maths_29_Sept_Class_PNG_Maths_Spl57_RRB_Technician_Grade_3_by_Prakash_Sir_5_pm_compressed.pdf",
+      "date": "01-Oct-2025"
+    },
+    {
+      "id": 691471,
+      "title": "Maths | 29 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68dd08f20470c_Maths_29_Sept_SSC_CHSL_MTS_2026_B04_New_Batch_by_Prakash_Sir_8_pm_compressed.pdf",
+      "date": "03-Oct-2025"
+    },
+    {
+      "id": 688276,
+      "title": "Maths | 30 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68dce17994e5b_20250930180049423_compressed.pdf",
+      "date": "01-Oct-2025"
+    },
+    {
+      "id": 691470,
+      "title": "Maths | 26 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68da04787ad27_hs.pdf",
+      "date": "03-Oct-2025"
+    },
+    {
+      "id": 684619,
+      "title": "Maths | 29 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68dba82d115cd_Maths_19_Sept_Class_PNG_Maths_Spl57_RRB_Technician_Grade_3_by_Prakash_Sir_5_pm.pdf",
+      "date": "30-Sep-2025"
+    },
+    {
+      "id": 691469,
+      "title": "Maths | 24 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68d527b0e4122_Maths_24_Sept_SSC_CHSL_MTS_2026_B04_New_Batch_by_Prakash_Sir_8_pm_compressed.pdf",
+      "date": "03-Oct-2025"
+    },
+    {
+      "id": 682172,
+      "title": "Maths | 24 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68d5271fbdead_Maths_24_Sept_Class_PNG_Maths_Spl57_RRB_Technician_Grade_3_by_Prakash_Sir_5_pm_compressed.pdf",
+      "date": "25-Sep-2025"
+    },
+    {
+      "id": 691468,
+      "title": "Maths | 23 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68d386784eaab_Maths_23_Sept_SSC_CHSL_MTS_2026_B04_New_Batch_by_Prakash_Sir_8_pm.pdf",
+      "date": "03-Oct-2025"
+    },
+    {
+      "id": 680715,
+      "title": "Maths | 23 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68d3876b494e6_Maths_23_Sept_Class_PNG_Maths_Spl57_RRB_Technician_Grade_3_by_Prakash_Sir_5_pm_compressed.pdf",
+      "date": "24-Sep-2025"
+    },
+    {
+      "id": 691467,
+      "title": "Maths | 22 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68d23c1c59eb3_Maths_22_Sept_SSC_CHSL_MTS_2026_B04_New_Batch_by_Prakash_Sir_8_pm_compressed.pdf",
+      "date": "03-Oct-2025"
+    },
+    {
+      "id": 680053,
+      "title": "Maths | 22 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68d23d04f064a_Maths_22_Sept_Class_PNG_Maths_Spl57_RRB_Technician_Grade_3_by_Prakash_Sir_5_pm_compressed.pdf",
+      "date": "23-Sep-2025"
+    },
+    {
+      "id": 690342,
+      "title": "Maths | 01 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68df53597859d_Maths_1_Oct_Class_PNG_Delhi_Police_HCM_AWO_B03_RRB_Technician_Grade_3_Maths_Spl57_Prakash_Sir_6_pm_compressed.pdf",
+      "date": "03-Oct-2025"
+    },
+    {
+      "id": 674039,
+      "title": "Maths | 17 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68cb9c43b9742_Maths_17_Sept_Class_PNG_Maths_Spl57_RRB_Technician_Grade_3_by_Prakash_Sir_5_pm.pdf",
+      "date": "18-Sep-2025"
+    },
+    {
+      "id": 688278,
+      "title": "Maths | 30 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68dce1d59bd2e_20250930185951607_compressed.pdf",
+      "date": "01-Oct-2025"
+    },
+    {
+      "id": 673778,
+      "title": "Maths | 16 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68ca581fb665a_Maths_16_Sept_Class_PNG_Maths_Spl57_RRB_Technician_Grade_3_by_Prakash_Sir_5_pm.pdf",
+      "date": "17-Sep-2025"
+    },
+    {
+      "id": 690020,
+      "title": "Maths | 29 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68dd0a8d06682_Maths_29_Sept_Class_PNG_Delhi_Police_HCM_AWO_B03_RRB_Technician_Grade_3_Maths_Spl57_Prakash_Sir_6_pm_compressed.pdf",
+      "date": "01-Oct-2025"
+    },
+    {
+      "id": 668918,
+      "title": "Maths | 15 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68c91d5d7b3b9_Maths_15_Sept_Class_PNG_Maths_Spl57_RRB_Technician_Grade_3_by_Prakash_Sir_5_pm_compressed.pdf",
+      "date": "16-Sep-2025"
+    },
+    {
+      "id": 683262,
+      "title": "Maths | 26 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68da0514cf6e4_Maths_26_Sept_Class_PNG_Maths_Spl57_RRB_Technician_Grade_3_by_Prakash_Sir_5_pm.pdf",
+      "date": "29-Sep-2025"
+    },
+    {
+      "id": 662463,
+      "title": "Maths | 12 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68c54e5a2f405_Maths_12_Sept_Class_PNG_Maths_Spl57_RRB_Technician_Grade_3_by_Prakash_Sir_5_pm_compressed.pdf",
+      "date": "13-Sep-2025"
+    },
+    {
+      "id": 682181,
+      "title": "Maths | 24 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68d5286dc576b_Maths_24_Sept_Class_PNG_Delhi_Police_HCM_AWO_B03_RRB_Technician_Grade_3_Maths_Spl57_Prakash_Sir_6_pm_compressed.pdf",
+      "date": "25-Sep-2025"
+    },
+    {
+      "id": 660974,
+      "title": "Maths | 10 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68c2932bd8016_Maths_10_Sept_Class_PNG_Maths_Spl57_RRB_Technician_Grade_3_by_Prakash_Sir_5_pm.pdf",
+      "date": "11-Sep-2025"
+    },
+    {
+      "id": 680714,
+      "title": "Maths | 23 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68d38718943a0_Maths_23_Sept_Class_PNG_Delhi_Police_HCM_AWO_B03_RRB_Technician_Grade_3_Maths_Spl57_Prakash_Sir_6_pm_compressed.pdf",
+      "date": "24-Sep-2025"
+    },
+    {
+      "id": 655134,
+      "title": "Maths | 9 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68c143866d060_Maths_9_Sept_Class_PNG_Maths_Spl57_RRB_Technician_Grade_3_by_Prakash_Sir_5_pm_compressed.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 680051,
+      "title": "Maths | 22 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68d23c8173201_Maths_22_Sept_Class_PNG_Delhi_Police_HCM_AWO_B03_RRB_Technician_Grade_3_Maths_Spl57_Prakash_Sir_6_pm_compressed.pdf",
+      "date": "23-Sep-2025"
+    },
+    {
+      "id": 653705,
+      "title": "Maths | 8 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68c0078a2c762_Maths_8_Sept_Class_PNG_Maths_Spl57_RRB_Technician_Grade_3_by_Prakash_Sir_5_pm_compressed.pdf",
+      "date": "09-Sep-2025"
+    },
+    {
+      "id": 688188,
+      "title": "Maths | 19 Sept  | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68dcd60c23fb3_Maths_19_Sept_Class_PNG_Delhi_Police_HCM_AWO_B03_RRB_Technician_Grade_3_Maths_Spl57_Prakash_Sir_6_pm_compressed.pdf",
+      "date": "01-Oct-2025"
+    },
+    {
+      "id": 648706,
+      "title": "Maths | 4 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68ba9b4adc03f_Maths_4_Sept_Class_PNG_Maths_Spl57_RRB_Technician_Grade_3_by_Prakash_Sir_5_pm_compressed.pdf",
+      "date": "05-Sep-2025"
+    },
+    {
+      "id": 691466,
+      "title": "Maths | 19 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68d0f2ff8125a_Maths_19_Sept_SSC_CHSL_MTS_2026_B04_New_Batch_by_Prakash_Sir_8_pm.pdf",
+      "date": "03-Oct-2025"
+    },
+    {
+      "id": 648109,
+      "title": "Maths | 3 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b9335596e2a_Maths_3_Sept_Class_PNG_Maths_Spl57_RRB_Technician_Grade_3_by_Prakash_Sir_5_pm.pdf",
+      "date": "04-Sep-2025"
+    },
+    {
+      "id": 674037,
+      "title": "Maths | 17 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68cb9c00cab4d_Maths_17_Sept_Class_PNG_Delhi_Police_HCM_AWO_B03_RRB_Technician_Grade_3_Maths_Spl57_Prakash_Sir_6_pm_compressed.pdf",
+      "date": "18-Sep-2025"
+    },
+    {
+      "id": 647495,
+      "title": "Maths | 2 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b7e308d8983_Maths_2_Sept_Class_PNG_Maths_Spl57_RRB_Technician_Grade_3_by_Prakash_Sir_5_pm_compressed.pdf",
+      "date": "03-Sep-2025"
+    },
+    {
+      "id": 673775,
+      "title": "Maths | 16 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68ca57e8ef26f_Maths_16_Sept_Class_PNG_Delhi_Police_HCM_AWO_B03_RRB_Technician_Grade_3_Maths_Spl57_Prakash_Sir_6_pm_compressed.pdf",
+      "date": "17-Sep-2025"
+    },
+    {
+      "id": 645990,
+      "title": "Maths | 01 Sep | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b681016c65a_Maths_1_Sept_Class_PNG_Maths_Spl57_RRB_Technician_Grade_3_by_Prakash_Sir_5_pm.pdf",
+      "date": "02-Sep-2025"
+    },
+    {
+      "id": 668915,
+      "title": "Maths | 15 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68c91d02e96b6_Maths_15_Sept_Class_PNG_Delhi_Police_HCM_AWO_B03_RRB_Technician_Grade_3_Maths_Spl57_Prakash_Sir_6_pm_compressed.pdf",
+      "date": "16-Sep-2025"
+    },
+    {
+      "id": 643826,
+      "title": "Maths | 29 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b2d1288cd17_Maths_29_Aug_Class_PNG_Maths_Spl57_RRB_Technician_Grade_3_by_Prakash_Sir_5_pm.pdf",
+      "date": "30-Aug-2025"
+    },
+    {
+      "id": 662461,
+      "title": "Maths | 12 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68c54e09adcfa_Maths_12_Sept_Class_PNG_Delhi_Police_HCM_AWO_B03_RRB_Technician_Grade_3_Maths_Spl57_Prakash_Sir_6_pm.pdf",
+      "date": "13-Sep-2025"
+    },
+    {
+      "id": 643155,
+      "title": "Maths | 28 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b195f82bf6f_Maths_28_Aug_Class_PNG_Maths_Spl57_RRB_Technician_Grade_3_by_Prakash_Sir_5_pm.pdf",
+      "date": "29-Aug-2025"
+    },
+    {
+      "id": 660972,
+      "title": "Maths | 10 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68c292f5ed546_Maths_10_Sept_Class_PNG_Delhi_Police_HCM_AWO_B03_RRB_Technician_Grade_3_Maths_Spl57_Prakash_Sir_6_pm_compressed.pdf",
+      "date": "11-Sep-2025"
+    },
+    {
+      "id": 641208,
+      "title": "Maths | 27 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68aff1b9eed07_Maths_27_Aug_Class_PNG_Maths_Spl57_RRB_Technician_Grade_3_by_Prakash_Sir_5_pm_compressed.pdf",
+      "date": "28-Aug-2025"
+    },
+    {
+      "id": 655115,
+      "title": "Maths | 9 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68c1420327546_Maths_9_Sept_Class_PNG_Delhi_Police_HCM_AWO_B03_RRB_Technician_Grade_3_Maths_Spl57_Prakash_Sir_6_pm_compressed.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 641204,
+      "title": "HCF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68aff11996abf_HCF_s.pdf",
+      "date": "28-Aug-2025"
+    },
+    {
+      "id": 653704,
+      "title": "Maths | 8 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68c00702d4de0_Maths_8_Sept_Class_PNG_Delhi_Police_HCM_AWO_B03_RRB_Technician_Grade_3_Maths_Spl57_Prakash_Sir_6_pm_compressed.pdf",
+      "date": "09-Sep-2025"
+    },
+    {
+      "id": 640462,
+      "title": "Maths | 26 August | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68aea6ce3e1c2_Maths_26_Aug_Class_PNG_Maths_Spl57_RRB_Technician_Grade_3_by_Prakash_Sir_5_pm_compressed.pdf",
+      "date": "27-Aug-2025"
+    },
+    {
+      "id": 688181,
+      "title": "Maths | 4 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68ba9ce10a973_Maths_4_Sept_Class_PNG_Delhi_Police_HCM_AWO_B03_RRB_Technician_Grade_3_Maths_Spl57_Prakash_Sir_6_pm_compressed.pdf",
+      "date": "01-Oct-2025"
+    },
+    {
+      "id": 639710,
+      "title": "Maths | 25 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68ad6e8374aa7_20250825180511635.pdf",
+      "date": "26-Aug-2025"
+    },
+    {
+      "id": 688180,
+      "title": "Maths | 3 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b9332b08c9a_Maths_3_Sept_Class_PNG_Delhi_Police_HCM_AWO_B03_RRB_Technician_Grade_3_Maths_Spl57_Prakash_Sir_6_pm_compressed.pdf",
+      "date": "01-Oct-2025"
+    },
+    {
+      "id": 637049,
+      "title": "Maths | 21 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a6f8f3454eb_20250821120508818_compressed.pdf",
+      "date": "21-Aug-2025"
+    },
+    {
+      "id": 688179,
+      "title": "Maths | 2 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b7e32f439a5_Maths_2_Sept_Class_PNG_Delhi_Police_HCM_AWO_B03_RRB_Technician_Grade_3_Prakash_Sir_6_pm_compressed.pdf",
+      "date": "01-Oct-2025"
+    },
+    {
+      "id": 635152,
+      "title": "Maths | 20 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a57143f3372_11_am_20_Aug_compressed.pdf",
+      "date": "20-Aug-2025"
+    },
+    {
+      "id": 688178,
+      "title": "Maths | 01 Sep | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b680cd74ac6_Maths_1_Sept_Class_PNG_Delhi_Police_HCM_AWO_B03_RRB_Technician_Grade_3_Prakash_Sir_6_pm.pdf",
+      "date": "01-Oct-2025"
+    },
+    {
+      "id": 633658,
+      "title": "Maths | 19 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a43a9c0d672_11AM_19AUG_Maths_special_compressed.pdf",
+      "date": "19-Aug-2025"
+    },
+    {
+      "id": 688177,
+      "title": "Maths | 29 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b2d14cba530_Maths_29_Aug_Class_PNG_Delhi_Police_HCM_AWO_B03_RRB_Technician_Grade_3_Prakash_Sir_6_pm_compressed.pdf",
+      "date": "01-Oct-2025"
+    },
+    {
+      "id": 629134,
+      "title": "LCM",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a2e3023fd6e_LCM_s.pdf",
+      "date": "18-Aug-2025"
+    },
+    {
+      "id": 688176,
+      "title": "Maths | 28 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b19721db78a_Maths_28_Aug_Class_PNG_Delhi_Police_HCM_AWO_B03_RRB_Technician_Grade_3_Prakash_Sir_6_pm.pdf",
+      "date": "01-Oct-2025"
+    },
+    {
+      "id": 629132,
+      "title": "Miscellaneous Of Divisibility rules",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a2e2ed5cbb7_MISCELLANEOUS_OF_DIVISIBILITY_RULES_s.pdf",
+      "date": "18-Aug-2025"
+    },
+    {
+      "id": 629130,
+      "title": "Remainder Theorem Based Question",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a2e2a38a8b0_REMAINDER_THEOREM_BASED_QUESTIONS_s.pdf",
+      "date": "18-Aug-2025"
+    },
+    {
+      "id": 629120,
+      "title": "Divisibility Rules",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a2e22629c69_Divisibility_Rules_s.pdf",
+      "date": "18-Aug-2025"
+    },
+    {
+      "id": 629118,
+      "title": "Maths | 18 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a2e129a39cb_Maths_18_Aug_Class_PNG_Maths_Spl57_RRB_Technician_Grade_3_Prakash_Sir_11.00_AM_compressed.pdf",
+      "date": "18-Aug-2025"
+    },
+    {
+      "id": 626972,
+      "title": "Maths | 14 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/689db44eceb8a_11AMMATHSSPECIAL_compressed.pdf",
+      "date": "14-Aug-2025"
+    },
+    {
+      "id": 619644,
+      "title": "Maths | 06 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/689982a1b2f39_20250808120039382.pdf",
+      "date": "11-Aug-2025"
+    },
+    {
+      "id": 617721,
+      "title": "Maths | 05 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68933f3104411_Lcm_type2_questions_11AM_compressed.pdf",
+      "date": "06-Aug-2025"
+    },
+    {
+      "id": 617105,
+      "title": "Maths | 04 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6893032c1c8d6_Prakash_sir11.00_AM_04_Aug_compressed.pdf",
+      "date": "06-Aug-2025"
+    },
+    {
+      "id": 610670,
+      "title": "Maths | 24 July | Class PNG",
+      "url": "https://educp.crwilladmin.com/uploads/class-attachment/lclsys_Prakash_Sir_11_00_AM_24_July.pdf",
+      "date": "28-Jul-2025"
+    },
+    {
+      "id": 610664,
+      "title": "Maths | 28 July | Class PNG",
+      "url": "https://educp.crwilladmin.com/uploads/class-attachment/lclsys_Prakash_sir11_00_AM_28_july.pdf",
+      "date": "28-Jul-2025"
+    },
+    {
+      "id": 605577,
+      "title": "Maths | 23 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6881ce48c7e64_Prakash_Sir_11.00_AM_23_Julycompressed.pdf",
+      "date": "24-Jul-2025"
+    },
+    {
+      "id": 601839,
+      "title": "Maths | 17 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/687a40c11fe68_DIVISION_BASED_CONCEPT_AND_PROBLEMS_MATHS_SPECIALcompressed.pdf",
+      "date": "18-Jul-2025"
+    },
+    {
+      "id": 600079,
+      "title": "Maths | 15 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/687792ae83b70_MATHS_SPECIAL_RRB_GRADE_TECHNICIANcompressed.pdf",
+      "date": "16-Jul-2025"
+    },
+    {
+      "id": 598545,
+      "title": "Maths | 16 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6877357cd58c8_MATHS_SPECIAL_11AM_14_julycompressed.pdf",
+      "date": "16-Jul-2025"
+    },
+    {
+      "id": 598533,
+      "title": "Maths | 1 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/687734f25194c_20250711120408593compressed.pdf",
+      "date": "16-Jul-2025"
+    },
+    {
+      "id": 591815,
+      "title": "Maths | 10 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/686f8f73a9884_DIVISIBILITYRULES11AMcompressed.pdf",
+      "date": "10-Jul-2025"
+    },
+    {
+      "id": 590734,
+      "title": "Maths | 09 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/686e287ad1505_FACTORS_LAST_CLASS_MATHSSPECIAL11AMcompressed.pdf",
+      "date": "09-Jul-2025"
+    },
+    {
+      "id": 590525,
+      "title": "Bar Based Problems",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/686dfa5aad2db_Bar_Based_Problems_s.pdf",
+      "date": "09-Jul-2025"
+    },
+    {
+      "id": 590524,
+      "title": "Game of Factors",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/686dfa2f13082_Game_of_Factors_s.pdf",
+      "date": "09-Jul-2025"
+    },
+    {
+      "id": 590523,
+      "title": "Basics of Number System",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/686dfa14919fa_Basics_of_Number_System_s.pdf",
+      "date": "09-Jul-2025"
+    },
+    {
+      "id": 589275,
+      "title": "Maths | 08 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/686cd7f8b7584_MATHS_SPECIAL_11AMcompressed.pdf",
+      "date": "08-Jul-2025"
+    },
+    {
+      "id": 588050,
+      "title": "Maths | 07 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/686bb65aea9ee_Game_of_factors_class1_SPECIAL_BATCH_11AMcompressed.pdf",
+      "date": "07-Jul-2025"
+    },
+    {
+      "id": 584002,
+      "title": "Maths | 3 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/686624a1b29ba_Bar_Based_Problems_Special_Batch_11AMcompressed.pdf",
+      "date": "03-Jul-2025"
+    },
+    {
+      "id": 583044,
+      "title": "Maths | 02 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6864fa34de68e_Maths_02_july_Class_PNG_Maths_Spl57_Prakash_Sir_11.00_AMcompressed.pdf",
+      "date": "02-Jul-2025"
+    },
+    {
+      "id": 580125,
+      "title": "Maths | 30 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68625c93bed53_Mathe_30th.june_Class.pngMaths_Spl571100am_1compressed.pdf",
+      "date": "30-Jun-2025"
+    },
+    {
+      "id": 579413,
+      "title": "Maths | 27 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/685e71bcac4c5_coprime_and_prime_based_questionscompressed.pdf",
+      "date": "27-Jun-2025"
+    },
+    {
+      "id": 578754,
+      "title": "Maths | 26 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/685d03c3c6a72_prime_and_composite_no_class1compressed.pdf",
+      "date": "26-Jun-2025"
+    },
+    {
+      "id": 578356,
+      "title": "Maths | 24-25 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/685be5e6c804d_ilovepdfmerged_31compressed.pdf",
+      "date": "25-Jun-2025"
+    }
+  ]
+}
