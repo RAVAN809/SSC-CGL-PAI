@@ -1,0 +1,38 @@
+{
+  "batch_id": "3160",
+  "topics": [
+    {
+      "id": 32300,
+      "topicName": "Intro"
+    },
+    {
+      "id": 32301,
+      "topicName": "Maths"
+    },
+    {
+      "id": 32302,
+      "topicName": "Physics"
+    },
+    {
+      "id": 32303,
+      "topicName": "Chemistry"
+    },
+    {
+      "id": 32304,
+      "topicName": "Biology"
+    },
+    {
+      "id": 32305,
+      "topicName": "English"
+    },
+    {
+      "id": 32306,
+      "topicName": "SST"
+    },
+    {
+      "id": 34105,
+      "topicName": "Test"
+    }
+  ],
+  "batch_name": "Prakhar CBSE (Class 9th) 2.0 English Medium Batch"
+}
