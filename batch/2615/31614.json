@@ -1,0 +1,778 @@
+{
+  "batchid": 2615,
+  "topicid": 31614,
+  "classes_total": 45,
+  "classes": [
+    {
+      "title": "Class - 48 | Geo | Solar System",
+      "id": "4562263",
+      "date": "29-Sep-2025 13:30",
+      "video_url": "4562263_0_8202750821113459"
+    },
+    {
+      "title": "Class - 47 | Geo | Transport of India (भारत का परिवहन)",
+      "id": "4560376",
+      "date": "26-Sep-2025 13:30",
+      "video_url": "4560376_0_9363229534748034"
+    },
+    {
+      "title": "Class - 46 | Geo | Solar System",
+      "id": "4559116",
+      "date": "25-Sep-2025 13:30",
+      "video_url": "4559116_0_3221930758218332"
+    },
+    {
+      "title": "Class - 45 | Geo | Transport of India (भारत का परिवहन)",
+      "id": "4556561",
+      "date": "23-Sep-2025 13:30",
+      "video_url": "4556561_0_1690848200323035"
+    },
+    {
+      "title": "Class - 44 | Geo | Transport of India (भारत का परिवहन)",
+      "id": "4555502",
+      "date": "22-Sep-2025 13:30",
+      "video_url": "4555502_0_4200745284727508"
+    },
+    {
+      "title": "Class - 43 | Geo | Transport of India (भारत का परिवहन)",
+      "id": "4553463",
+      "date": "19-Sep-2025 13:30",
+      "video_url": "4553463_0_4245922657534659"
+    },
+    {
+      "title": "Class - 42 | Geo | Minerals of India (भारत के खनिज)",
+      "id": "4552554",
+      "date": "18-Sep-2025 13:30",
+      "video_url": "4552554_0_8754733025059227"
+    },
+    {
+      "title": "Class - 41 | Geo | Minerals of India (भारत के खनिज)",
+      "id": "4551585",
+      "date": "17-Sep-2025 13:30",
+      "video_url": "4551585_0_3365687739259991"
+    },
+    {
+      "title": "Class - 40 | Geo | Minerals of India (भारत के खनिज)",
+      "id": "4549462",
+      "date": "15-Sep-2025 13:30",
+      "video_url": "4549462_0_8360828306556907"
+    },
+    {
+      "title": "Class - 39 | Geo | Minerals of India (भारत के खनिज)",
+      "id": "4547707",
+      "date": "12-Sep-2025 13:30",
+      "video_url": "4547707_0_5456083285881497"
+    },
+    {
+      "title": "Class - 38 | Geo | Minerals of India (भारत के खनिज)",
+      "id": "4546756",
+      "date": "11-Sep-2025 13:30",
+      "video_url": "4546756_0_8858971628574330"
+    },
+    {
+      "title": "Class-37 | Forest of India (भारत के वन)",
+      "id": "4545020",
+      "date": "09-Sep-2025 16:00",
+      "video_url": "4545020_0_3360237922568841"
+    },
+    {
+      "title": "Class-36 | Type of Crops + Forest of India (फसलों का प्रकार + भारत के वन)",
+      "id": "4544078",
+      "date": "08-Sep-2025 16:00",
+      "video_url": "4544078_0_4429562218625000"
+    },
+    {
+      "title": "Class-35 | Type of Crops (फसलों का प्रकार)",
+      "id": "4542344",
+      "date": "05-Sep-2025 16:00",
+      "video_url": "4542344_0_6095950940220069"
+    },
+    {
+      "title": "Class-34 | Soil of India + Type of Crops ( भारत की मिट्टी + फसलों का प्रकार)",
+      "id": "4541261",
+      "date": "04-Sep-2025 16:00",
+      "video_url": "4541261_0_1198580897532859"
+    },
+    {
+      "title": "Class-33 | Soil of india ( भारत की मिट्टी)",
+      "id": "4539196",
+      "date": "03-Sep-2025 16:00",
+      "video_url": "4539196_0_6490208411852415"
+    },
+    {
+      "title": "Class-32 | Soil of india ( भारत की मिट्टी)",
+      "id": "4537839",
+      "date": "02-Sep-2025 16:00",
+      "video_url": "4537839_0_3450614076649525"
+    },
+    {
+      "title": "Class-31 | Climate of india ( भारत की जलवायु)",
+      "id": "4536673",
+      "date": "01-Sep-2025 16:00",
+      "video_url": "4536673_0_2366193943300059"
+    },
+    {
+      "title": "Class-30 | Climate of india ( भारत की जलवायु)",
+      "id": "4534620",
+      "date": "29-Aug-2025 16:00",
+      "video_url": "4534620_0_2629835679219043"
+    },
+    {
+      "title": "Class-29 | Climate of india ( भारत की जलवायु)",
+      "id": "4533552",
+      "date": "28-Aug-2025 16:00",
+      "video_url": "4533552_0_2239142502191491"
+    },
+    {
+      "title": "Class-28 | Climate of india  ( भारत की जलवायु)",
+      "id": "4530709",
+      "date": "27-Aug-2025 16:00",
+      "video_url": "4530709_0_5399529688262818"
+    },
+    {
+      "title": "Class-27 | Climate of india  ( भारत की जलवायु)",
+      "id": "4526443",
+      "date": "21-Aug-2025 16:00",
+      "video_url": "4526443_0_1883725091580488"
+    },
+    {
+      "title": "Class-26 | River of India ( भारत की नदी )",
+      "id": "4525321",
+      "date": "20-Aug-2025 16:00",
+      "video_url": "4525321_0_1994314303320852"
+    },
+    {
+      "title": "Class-25 | River of India ( भारत की नदी )",
+      "id": "4524207",
+      "date": "19-Aug-2025 16:00",
+      "video_url": "4524207_0_5470006921470830"
+    },
+    {
+      "title": "Class-24 | River of India ( भारत की नदी )",
+      "id": "4520961",
+      "date": "14-Aug-2025 16:00",
+      "video_url": "4520961_0_2342037386025813"
+    },
+    {
+      "title": "Class-23 | River of India ( भारत की नदी )",
+      "id": "4519606",
+      "date": "13-Aug-2025 16:00",
+      "video_url": "4519606_0_6858021216313100"
+    },
+    {
+      "title": "Class-22 | River of India ( भारत की नदी )",
+      "id": "4518271",
+      "date": "12-Aug-2025 16:00",
+      "video_url": "4518271_0_4646327602351376"
+    },
+    {
+      "title": "Class-21 | River of India ( भारत की नदी )",
+      "id": "4515954",
+      "date": "08-Aug-2025 16:00",
+      "video_url": "4515954_0_6788090321022568"
+    },
+    {
+      "title": "Class-20 | Island of India ( भारत का द्वीप )",
+      "id": "4515132",
+      "date": "07-Aug-2025 16:00",
+      "video_url": "4515132_0_2899974874299848"
+    },
+    {
+      "title": "Class-19 | Island of India ( भारत का द्वीप )",
+      "id": "4514108",
+      "date": "06-Aug-2025 16:00",
+      "video_url": "4514108_0_2962480456988660"
+    },
+    {
+      "title": "Class-18 | Island of India ( भारत का द्वीप )",
+      "id": "4513049",
+      "date": "05-Aug-2025 16:00",
+      "video_url": "4513049_0_3242356228724908"
+    },
+    {
+      "title": "Class-17 | Island of India ( भारत का द्वीप )",
+      "id": "4512116",
+      "date": "04-Aug-2025 16:00",
+      "video_url": "4512116_0_4667284085026795"
+    },
+    {
+      "title": "Class-16 | Plateau of india ( भारत का पठार )",
+      "id": "4504044",
+      "date": "30-Jul-2025 16:00",
+      "video_url": "4504044_0_4475587877474433"
+    },
+    {
+      "title": "Class-14 | Geo | Mountain Passes ( पहाड़ी दर्रे )",
+      "id": "4501412",
+      "date": "28-Jul-2025 16:00",
+      "video_url": "4501412_0_9808231443536688"
+    },
+    {
+      "title": "Class-13 | Geo || India and Pakistan Relation / भारत और पाकिस्तान संबंध",
+      "id": "4493622",
+      "date": "25-Jul-2025 16:00",
+      "video_url": "4493622_0_2698094879672568"
+    },
+    {
+      "title": "Class-12 | Geo || India and Pakistan Relation / भारत और पाकिस्तान संबंध",
+      "id": "4491173",
+      "date": "23-Jul-2025 16:00",
+      "video_url": "4491173_0_6715478925820629"
+    },
+    {
+      "title": "Class-11 | Geo || Aravali Mountain",
+      "id": "4489563",
+      "date": "22-Jul-2025 16:00",
+      "video_url": "4489563_0_8997398903699249"
+    },
+    {
+      "title": "Class-10 | Geo || Trans Himalaya",
+      "id": "4487807",
+      "date": "21-Jul-2025 16:00",
+      "video_url": "4487807_0_1456163175024193"
+    },
+    {
+      "title": "Class-09 | Geo || North-Eastern Himalayas",
+      "id": "4484784",
+      "date": "17-Jul-2025 16:00",
+      "video_url": "4484784_0_1317028292337143"
+    },
+    {
+      "title": "Class-08 | Geo || Great Himalaya Mountain",
+      "id": "4483820",
+      "date": "16-Jul-2025 16:00",
+      "video_url": "4483820_0_3571912345619495"
+    },
+    {
+      "title": "Class-07 | Geo || India and Pakistan Relation / भारत और पाकिस्तान संबंध",
+      "id": "4482730",
+      "date": "15-Jul-2025 16:00",
+      "video_url": "4482730_0_3205910459484315"
+    },
+    {
+      "title": "Class-06 | Geo || Indian Border Line",
+      "id": "4479924",
+      "date": "11-Jul-2025 16:00",
+      "video_url": "4479924_0_9478108828983866"
+    },
+    {
+      "title": "Class-05 | Geo || India and Pakistan Relation / भारत और पाकिस्तान संबंध",
+      "id": "4478899",
+      "date": "10-Jul-2025 16:00",
+      "video_url": "4478899_0_1783196023776411"
+    },
+    {
+      "title": "Class-03 | India and Pakistan Relation / भारत और पाकिस्तान संबंध",
+      "id": "4531118",
+      "date": "08-Jul-2025 16:00",
+      "video_url": "4531118_0_1150036280998153"
+    },
+    {
+      "title": "Class-02 |  India and Pakistan Relation / भारत और पाकिस्तान संबंध",
+      "id": "4475741",
+      "date": "07-Jul-2025 16:00",
+      "video_url": "4475741_0_8680112105417242"
+    }
+  ],
+  "notes_total": 83,
+  "notes": [
+    {
+      "id": 670030,
+      "title": "Geo | 15 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68c921df17039_GEO15S_1.PDF",
+      "date": "16-Sep-2025"
+    },
+    {
+      "id": 662175,
+      "title": "Geo | 12 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68c414ab77a00_GEO12S_1.PDF",
+      "date": "12-Sep-2025"
+    },
+    {
+      "id": 661807,
+      "title": "Geo | 11 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68c3ef8a9d43c_GEO11S_1.PDF",
+      "date": "12-Sep-2025"
+    },
+    {
+      "id": 655152,
+      "title": "Geo | 9 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68c1447babd48_Geo_9_Sept_Class_PNG_UP_SI_2025_Foundation_B_02_03_UPSSSC_PET_2025_IB_ACIO_2025_SSC_CPO_2025_SSC_CPO_2025_B_02_SSC_Pratham_08_09_SSC_Aarambh_07_08_SSC_Sankalp_06_GS_Special_26_27_by_Vivek_Sir_130pm_c.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 650667,
+      "title": "Geo | 05 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68bbd9908b27e_Geo_5_Sept_Class_PNG_UP_SI_2025_Foundation_B_02_03_UPSSSC_PET_2025_IB_ACIO_2025_SSC_CPO_2025_SSC_CPO_2025_B_02_SSC_Pratham_08_09_SSC_Aarambh_07_08_SSC_Sankalp_06_GS_Special_26_27_by_Vivek_Sir_130pm.pdf",
+      "date": "06-Sep-2025"
+    },
+    {
+      "id": 648334,
+      "title": "Geo | 4 Sept | Class PNG-I",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b9738f4f2ed_Geo_4_Sept_Class_PNG_UP_SI_2025_Foundation_B_02_03_UPSSSC_PET_2025_IB_ACIO_2025_SSC_CPO_2025_SSC_CPO_2025_B_02_SSC_Pratham_08_09_SSC_Aarambh_07_08_SSC_Sankalp_06_GS_Special_26_27_by_Vivek_Sir_130pm.pdf",
+      "date": "04-Sep-2025"
+    },
+    {
+      "id": 647502,
+      "title": "Geo | 2 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b7e4251fc29_Geo_2_Sept_Class_PNG_UP_SI_2025_Foundation_B_02_03_UPSSSC_PET_2025_IB_ACIO_2025_SSC_CPO_2025_SSC_CPO_2025_B_02_SSC_Pratham_08_09_SSC_Aarambh_07_08_SSC_Sankalp_06_GS_Special_26_27_by_Vivek_Sir_130pm.pdf",
+      "date": "03-Sep-2025"
+    },
+    {
+      "id": 646026,
+      "title": "Geo | 01 Sep | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b6859822c09_GEO1SE_1.PDF",
+      "date": "02-Sep-2025"
+    },
+    {
+      "id": 637702,
+      "title": "Geo | 21 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a812bb7b4dd_Geo_21_Aug_Class_PNG_Geography_Spl_09_1011_12_By_Vivek_Sir_4pm.pdf",
+      "date": "22-Aug-2025"
+    },
+    {
+      "id": 635398,
+      "title": "Geo | 19 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a593734daf7_Geo_19_Aug_Class_PNG_Geography_Spl_09_1011_12_By_Vivek_Sir_4pm.pdf",
+      "date": "20-Aug-2025"
+    },
+    {
+      "id": 620590,
+      "title": "Geo | 07 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6899bf6f19914_Geo_7_Aug_Class_PNG_Geography_Spl_09_1011_12_By_Vivek_Sir_4pm.pdf",
+      "date": "11-Aug-2025"
+    },
+    {
+      "id": 618088,
+      "title": "Geo | 06 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68944104893d7_Geo_6_Aug_Class_PNG_Geography_Spl_09_1011_12_By_Vivek_Sir_4pm.pdf",
+      "date": "07-Aug-2025"
+    },
+    {
+      "id": 617178,
+      "title": "Geo | 05 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68931ed820acb_Geo_5_Aug_Class_PNG_Geography_Spl_09_1011_12_By_Vivek_Sir_4pm.pdf",
+      "date": "06-Aug-2025"
+    },
+    {
+      "id": 614477,
+      "title": "Geo | 30 July | Class PNG",
+      "url": "https://educp.crwilladmin.com/uploads/class-attachment/lclsys_Geo_30July_Class_PNG_Geography_Spl_09_1011_12_By_Vivek_Sir_4pm.pdf",
+      "date": "01-Aug-2025"
+    },
+    {
+      "id": 611738,
+      "title": "Geo | 29 July | Class PNG",
+      "url": "https://educp.crwilladmin.com/uploads/class-attachment/lclsys_Geo_29_July_Class_PNG_Geography_Spl_09_1011_12_By_Vivek_Sir_4pm.pdf",
+      "date": "30-Jul-2025"
+    },
+    {
+      "id": 611091,
+      "title": "Geo | 28 July | Class PNG",
+      "url": "https://educp.crwilladmin.com/uploads/class-attachment/lclsys_Geo_28_July_Class_PNG_Geography_Spl_09_1011_12_By_Vivek_Sir_4pm.pdf",
+      "date": "29-Jul-2025"
+    },
+    {
+      "id": 607788,
+      "title": "Geo | 25 July | Class PNG",
+      "url": "https://educp.crwilladmin.com/uploads/class-attachment/lclsys_Geo_25_July_Class_PNG_Geography_Spl_09_1011_12_By_Vivek_Sir_4pm.pdf",
+      "date": "27-Jul-2025"
+    },
+    {
+      "id": 605052,
+      "title": "Geo | 22 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68808a8471c37_Geo_22_July_Class_PNG_Geography_Spl_09_1011_12_By_Vivek_Sir_4pm.pdf",
+      "date": "23-Jul-2025"
+    },
+    {
+      "id": 601331,
+      "title": "Geo | 17 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/687a0a2feab57_Geo_17_July_Class_PNG_Geography_Spl_09_1011_12_By_Vivek_Sir_4pm.pdf",
+      "date": "18-Jul-2025"
+    },
+    {
+      "id": 600335,
+      "title": "Geo | 16 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68779bd385f22_Geo_16_July_Class_PNG_Geography_Spl_09_1011_12_By_Vivek_Sir_4pm.pdf",
+      "date": "16-Jul-2025"
+    },
+    {
+      "id": 599684,
+      "title": "Geo | 15 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68774695c772e_Geo_15_July_Class_PNG_Geography_Spl_09_1011_12_By_Vivek_Sir_4pm.pdf",
+      "date": "16-Jul-2025"
+    },
+    {
+      "id": 592273,
+      "title": "Geo | 10 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6870b5757a296_Geo_10_July_Class_PNG_Geography_Spl_09_1011_12_By_Vivek_Sir_4pm.pdf",
+      "date": "11-Jul-2025"
+    },
+    {
+      "id": 591026,
+      "title": "Geo | 08 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/686e460b513e9_Geo_8_July_Class_PNG_Geography_Spl_09_1011_12_By_Vivek_Sir_4pm.pdf",
+      "date": "09-Jul-2025"
+    },
+    {
+      "id": 586741,
+      "title": "Geo | 04 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6868bebf93e11_Geo_4_July_Class_PNG_Geography_Spl_08_09_1011_12_By_Vivek_Sir_4pm.pdf",
+      "date": "05-Jul-2025"
+    },
+    {
+      "id": 584312,
+      "title": "Geo | 03 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6866712df1a74_Geo_3_July_Class_PNG_Geography_Spl_08_09_1011_12_By_Vivek_Sir_4pm.pdf",
+      "date": "03-Jul-2025"
+    },
+    {
+      "id": 575671,
+      "title": "Geo | 23 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/685948b732562_Geo_23_June_Class_PNG_Geography_Spl_08_09_1011_12_By_Vivek_Sir_4pm.pdf",
+      "date": "23-Jun-2025"
+    },
+    {
+      "id": 572454,
+      "title": "Geo | 18 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6852a790e0cb2_Geo_18_June_Class_PNG_Geography_Spl_08_09_1011_12_By_Vivek_Sir_4pm.pdf",
+      "date": "18-Jun-2025"
+    },
+    {
+      "id": 571090,
+      "title": "Geo | 17 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68515431edcdf_Geo_17June_Class_PNG_Geography_Spl_08_09_1011_12_By_Vivek_Sir_4pm.pdf",
+      "date": "17-Jun-2025"
+    },
+    {
+      "id": 568957,
+      "title": "Geo | 12 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/684ad90491e37_Vivek_Sir_4_pm_12June.pdf",
+      "date": "12-Jun-2025"
+    },
+    {
+      "id": 557735,
+      "title": "Geo | 30 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/683a8050c3a3e_Geo_30May_Class_PNG_Geography_Spl_08_09_1011_12_By_Vivek_Sir_4pm.pdf",
+      "date": "31-May-2025"
+    },
+    {
+      "id": 556957,
+      "title": "Geo | 29 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68395078bef1b_Geo_29_May_Class_PNG_Geography_Spl_08_09_1011_12_By_Vivek_Sir_4pm.pdf",
+      "date": "30-May-2025"
+    },
+    {
+      "id": 554887,
+      "title": "Geo | 28 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68384317710a2_Geo_28_May_Class_PNG_Geography_Spl_08_09_1011_12_By_Vivek_Sir_4pm.pdf",
+      "date": "29-May-2025"
+    },
+    {
+      "id": 554865,
+      "title": "Geo | 27 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6838426351d24_Geo_27_May_Class_PNG_Geography_Spl_08_09_1011_12_By_Vivek_Sir_4pm.pdf",
+      "date": "29-May-2025"
+    },
+    {
+      "id": 553427,
+      "title": "Geo | 26 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68354eb212b17_Geo_26_May_Class_PNG_Geography_Spl_08_09_1011_12_By_Vivek_Sir_4pm.pdf",
+      "date": "27-May-2025"
+    },
+    {
+      "id": 550063,
+      "title": "Geo | 22 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68300d84a3466_Geo_22_May_Class_PNG_Geography_Spl_08_09_1011_12_By_Vivek_Sir_4pm.pdf",
+      "date": "23-May-2025"
+    },
+    {
+      "id": 548794,
+      "title": "Geo | 20 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/682d7790c8414_Geo_20May_Class_PNG_Geography_Spl_08_09_1011_12_By_Vivek_Sir_4pm.pdf",
+      "date": "21-May-2025"
+    },
+    {
+      "id": 547953,
+      "title": "Geo | 19 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/682b17c42f940_Geo_19_May_Class_PNG_Geography_Spl_08_09_1011_12_By_Vivek_Sir_4pm.pdf",
+      "date": "19-May-2025"
+    },
+    {
+      "id": 545296,
+      "title": "Geo | 16 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/682aea50969b9_Geo_16_May_Class_PNG_Geography_Spl_08_09_1011_12_By_Vivek_Sir_4pm.pdf",
+      "date": "19-May-2025"
+    },
+    {
+      "id": 539273,
+      "title": "Geo | 12 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6822dcd6cf5f5_Geo_12_May_Class_PNG_Geography_Spl_08_09_1011_12_By_Vivek_Sir_4pm.pdf",
+      "date": "13-May-2025"
+    },
+    {
+      "id": 536751,
+      "title": "Geo | 9 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/681f2c788e0b9_Geo_9_May_Class_PNG_Geography_Spl_08_09_1011_12_By_Vivek_Sir_4pm.pdf",
+      "date": "10-May-2025"
+    },
+    {
+      "id": 535318,
+      "title": "Geo | 8 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/681dbd5923f87_Geo_8_May_Class_PNG_Geography_Spl_08_09_1011_12_By_Vivek_Sir_4pm.pdf",
+      "date": "09-May-2025"
+    },
+    {
+      "id": 530760,
+      "title": "Geo  | 1 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6814a1737ae30_Geo_1_April_Class_PNG_Geography_Spl_08_09_10_11_By_Vivek_Sir_4pm.pdf",
+      "date": "02-May-2025"
+    },
+    {
+      "id": 530759,
+      "title": "Geo  | 1 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6814a1737ae30_Geo_1_April_Class_PNG_Geography_Spl_08_09_10_11_By_Vivek_Sir_4pm.pdf",
+      "date": "02-May-2025"
+    },
+    {
+      "id": 530398,
+      "title": "Geo | 30 April | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68131fa8e5848_Geo_30_April_Class_PNG_Geography_Spl_08_09_10_11_By_Vivek_Sir_4pm_1.pdf",
+      "date": "01-May-2025"
+    },
+    {
+      "id": 528836,
+      "title": "Geo | 28 April | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/681091280230d_Geo_28_April_Class_PNG_Geography_Spl_08_09_10_11_By_Vivek_Sir_4pm.pdf",
+      "date": "29-Apr-2025"
+    },
+    {
+      "id": 528832,
+      "title": "Geo | 25 April | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/681090e258412_Geo_25_April_Class_PNG_Geography_Spl_08_09_10_11_By_Vivek_Sir_4pm.pdf",
+      "date": "29-Apr-2025"
+    },
+    {
+      "id": 526394,
+      "title": "Geo | 24 April | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/680b37f729717_Geo_24_April_Class_PNG_Geography_Spl_08_09_10_11_By_Vivek_Sir_4pm.pdf",
+      "date": "25-Apr-2025"
+    },
+    {
+      "id": 525815,
+      "title": "Geo | 23 April | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6809d4bb26eaf_Geo_23_April_Class_PNG_Geography_Spl_08_09_10_11_By_Vivek_Sir_4pm.pdf",
+      "date": "24-Apr-2025"
+    },
+    {
+      "id": 523453,
+      "title": "Geo | 22 April | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/680885033a482_Geo_22_April_Class_PNG_Geography_Spl_08_09_10_11_By_Vivek_Sir_4pm.pdf",
+      "date": "23-Apr-2025"
+    },
+    {
+      "id": 522796,
+      "title": "Geo | 21 April | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68075d19d28d2_Geo_21_April_Class_PNG_Geography_Spl_08_09_10_11_By_Vivek_Sir_4pm.pdf",
+      "date": "22-Apr-2025"
+    },
+    {
+      "id": 521192,
+      "title": "17 April 2025 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68021b9577468_Geo_17_April_Class_PNG_Geography_Spl_08_09_10_11_By_Vivek_Sir_4pm.pdf",
+      "date": "18-Apr-2025"
+    },
+    {
+      "id": 521169,
+      "title": "15 April 2025 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/680218c9ad78e_Geo_15_April_Class_PNG_Geography_Spl_08_09_10_11_By_Vivek_Sir_4pm.pdf",
+      "date": "18-Apr-2025"
+    },
+    {
+      "id": 518130,
+      "title": "Geo | 10 April | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67f89f765bef3_Geo_10_April_Class_PNG_Geography_Spl07_08_09_10_11_By_Vivek_Sir_4pm.pdf",
+      "date": "11-Apr-2025"
+    },
+    {
+      "id": 517099,
+      "title": "Geo | 9 April | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67f65beec9b78_Geo_9_April_Class_PNG_Geography_Spl07_08_09_10_11_By_Vivek_Sir_4pm.pdf",
+      "date": "09-Apr-2025"
+    },
+    {
+      "id": 515847,
+      "title": "Geo | 7 April | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67f4b0ed127af_Geo_7_April_Class_PNG_Geography_Spl07_08_09_10_11_By_Vivek_Sir_4pm.pdf",
+      "date": "08-Apr-2025"
+    },
+    {
+      "id": 515111,
+      "title": "Geo | 4 April | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67f0d26461207_Geo_4_April_Class_PNG_Geography_Spl07_08_09_10_11_By_Vivek_Sir_4pm.pdf",
+      "date": "05-Apr-2025"
+    },
+    {
+      "id": 512665,
+      "title": "Geo | 2 April | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67ee0f61e4d5b_Geo_2_April_Class_PNG_Geography_Spl07_08_09_10_11_By_Vivek_Sir_4pm.pdf",
+      "date": "03-Apr-2025"
+    },
+    {
+      "id": 508346,
+      "title": "Geo | 27 March | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67e62b80dabcc_Geo_27_March_Class_PNG_Geography_Spl07_08_09_10_11_By_Vivek_Sir_4pm.pdf",
+      "date": "28-Mar-2025"
+    },
+    {
+      "id": 506579,
+      "title": "Geo | 24 March | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67e2426ba0fcb_Geo_24_March_Class_PNG_Geography_Spl07_08_09_10_11_By_Vivek_Sir_4pm.pdf",
+      "date": "25-Mar-2025"
+    },
+    {
+      "id": 506031,
+      "title": "Geo | 21 March | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67e0e475dbc2a_Geo_21March_Class_PNG_Geography_Spl07_08_09_10_11_By_Vivek_Sir_4pm.pdf",
+      "date": "24-Mar-2025"
+    },
+    {
+      "id": 503722,
+      "title": "Geo | 19 March | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67dbac1ccd9c7_Geo_19_March_Class_PNG_Geography_Spl07_08_09_10_11_By_Vivek_Sir_4pm.pdf",
+      "date": "20-Mar-2025"
+    },
+    {
+      "id": 502594,
+      "title": "Geo | 17 March | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67d90f38e14a6_2._0400_PM_0500_PM_Geography_Spl07_08_09_10_11_New_Batch_Vivek_Sir.pdf",
+      "date": "18-Mar-2025"
+    },
+    {
+      "id": 498645,
+      "title": "Geo | 8 March | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67ce6c9111557_Geo_8_March_Class_PNG_Geography_Spl07_08_09_10_11_By_Vivek_Sir_4pm.pdf",
+      "date": "10-Mar-2025"
+    },
+    {
+      "id": 498482,
+      "title": "Geo | 7 March | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67cbd5ca9750d_Geo_7_March_Class_PNG_Geography_Spl07_08_09_10_11_By_Vivek_Sir_4pm.pdf",
+      "date": "08-Mar-2025"
+    },
+    {
+      "id": 496685,
+      "title": "Geo | 3 March | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67c6a681614c6_Geo_3_March_THE_OCEAN_CURRENTS_Practice_Class_by_Vivek_Sir_4_pmcompressed.pdf",
+      "date": "04-Mar-2025"
+    },
+    {
+      "id": 495162,
+      "title": "Geo | 28 Feb | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67c2a9b132d3a_Geo_28_Feb_Class_PNG_Geography_Spl07_08_09_10_By_Vivek_Sir_4pm.pdf",
+      "date": "01-Mar-2025"
+    },
+    {
+      "id": 494755,
+      "title": "Geo | 27 Feb | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67c15fa84b4a4_Geo_27_Feb_Class_PNG_Geography_Spl07_08_09_10_By_Vivek_Sir_4pm.pdf",
+      "date": "28-Feb-2025"
+    },
+    {
+      "id": 492122,
+      "title": "Geo | 21 Feb | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67b9708f547e1_Geo_21_Feb_Class_PNG_Geography_Spl07_08_09_10_By_Vivek_Sir_4pm.pdf",
+      "date": "22-Feb-2025"
+    },
+    {
+      "id": 491513,
+      "title": "Geo | 20 Feb | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67b81e53be33e_Geo_20_Feb_Class_PNG_Geography_Spl07_08_09_10_By_Vivek_Sir_4pm.pdf",
+      "date": "21-Feb-2025"
+    },
+    {
+      "id": 490076,
+      "title": "Geo | 18 Feb | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67b5752b09166_Geo_18_Feb_Class_PNG_Geography_Spl07_08_09_10_By_Vivek_Sir_4pm.pdf",
+      "date": "19-Feb-2025"
+    },
+    {
+      "id": 484053,
+      "title": "Geo | 14 Feb | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67aeda85a47a4_Geo_14_Feb_Class_PNG_Geography_Spl07_08_09_10_By_Vivek_Sir_09.45_AM.pdf",
+      "date": "14-Feb-2025"
+    },
+    {
+      "id": 483974,
+      "title": "Geo | 13 Feb | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67ae9bb53307f_Geo_13_Feb_Class_PNG_Geography_Spl07_08_09_10_LiveVOD_by_Vivek_Sir_4_pm.pdf",
+      "date": "14-Feb-2025"
+    },
+    {
+      "id": 483677,
+      "title": "Geo | 12 Feb | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67ad68b63f304_Geo_12_Feb_Class_PNG_Geography_Spl07_08_09_10_LiveVOD_by_Vivek_Sir_4_pm.pdf",
+      "date": "13-Feb-2025"
+    },
+    {
+      "id": 483144,
+      "title": "Geo | 11 Feb | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67ac6c2d8286a_Geo_11_Feb_Class_PNG_Geography_Spl07_08_09_10_LiveVOD_by_Vivek_Sir_4_pm.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 480614,
+      "title": "Geo | 7 Feb | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67a87ade2183d_Geography_Spl07_08_09_10_LiveVOD_by_Vivek_Sir_4_pm_7_Feb.pdf",
+      "date": "09-Feb-2025"
+    },
+    {
+      "id": 477855,
+      "title": "Geo | 4 Feb | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67a44aed72950_Geography_Spl07_08_09_10_LiveVOD_by_Vivek_Sir_4_pm_4_Feb.pdf",
+      "date": "06-Feb-2025"
+    },
+    {
+      "id": 476119,
+      "title": "Geo | 31 Jan | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/679db4444c370_Geography_Spl07_08_09_10_LiveVOD_by_Vivek_Sir_4_pm_31_Jan.pdf",
+      "date": "01-Feb-2025"
+    },
+    {
+      "id": 475213,
+      "title": "Geo | 30 Jan | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/679c31df608a4_Geography_Spl07_08_09_10_LiveVOD_by_Vivek_Sir_4_pm_30_Jan.pdf",
+      "date": "31-Jan-2025"
+    },
+    {
+      "id": 442595,
+      "title": "Geo Full Syllabus English",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/677faf7923f0d_16740344281617856029.pdf",
+      "date": "05-Nov-2024"
+    },
+    {
+      "id": 442597,
+      "title": "Indian Geography Eng",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1630564945-Indian_Geography_Eng.pdf",
+      "date": "05-Nov-2024"
+    },
+    {
+      "id": 442598,
+      "title": "Indian & World Geography Notes Hindi",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1630564945-Indian_World_Geography_Notes_Hindi.pdf",
+      "date": "05-Nov-2024"
+    },
+    {
+      "id": 442599,
+      "title": " World Geography English",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1630564945-World_Geography_English.pdf",
+      "date": "05-Nov-2024"
+    },
+    {
+      "id": 442596,
+      "title": "Geo Full Syllabus Hindi",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/663b388729a9b_Geography Syllabus Hindi.pdf",
+      "date": "05-Nov-2024"
+    }
+  ]
+}
