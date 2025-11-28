@@ -1,0 +1,640 @@
+{
+  "batchid": 2739,
+  "topicid": 28067,
+  "classes_total": 3,
+  "classes": [
+    {
+      "title": "Class - 01 | Industrial Relations Practice",
+      "id": "4453362",
+      "date": "15-May-2025 11:00",
+      "video_url": "4453362_0_8759130525548000"
+    },
+    {
+      "title": "Class - 01 | Industrial Relations Practice",
+      "id": "4453356",
+      "date": "14-May-2025 12:00",
+      "video_url": "4453356_0_4488339085445449"
+    },
+    {
+      "title": "Class- 01 | Intro",
+      "id": "4453423",
+      "date": "10-Feb-2025 09:30",
+      "video_url": "4453423_0_1715878346027585"
+    }
+  ],
+  "notes_total": 102,
+  "notes": [
+    {
+      "id": 604868,
+      "title": "Economics",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/688079cf1feba_economics_Copy.pdf",
+      "date": "23-Jul-2025"
+    },
+    {
+      "id": 604865,
+      "title": "Medieval History",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/688078c3f361f_Medieval._history_1_1.pdf",
+      "date": "23-Jul-2025"
+    },
+    {
+      "id": 604855,
+      "title": "Complete Polity Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68807883c643a_Complete_polity_notes_by_shudhanshu_sir_11_1.pdf",
+      "date": "23-Jul-2025"
+    },
+    {
+      "id": 560765,
+      "title": "Current Affairs | Dec 2024 - May 2025",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/683d3f76aad79_ilovepdfmerged_20250602T113518.119.pdf",
+      "date": "02-Jun-2025"
+    },
+    {
+      "id": 550030,
+      "title": "Geo | 22-23 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/683004577e196_ilovepdfmerged_48compressed.pdf",
+      "date": "23-May-2025"
+    },
+    {
+      "id": 548749,
+      "title": "World Geography | 19-20 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/682d7425ba7f6_ilovepdfmerged_26compressed.pdf",
+      "date": "21-May-2025"
+    },
+    {
+      "id": 545202,
+      "title": "Geo | 19 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/682acf22f3245_Universe_and_Solar_System_..compressed.pdf",
+      "date": "19-May-2025"
+    },
+    {
+      "id": 541582,
+      "title": "Geo | 15 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/682572e8c1e1e_Industrial_sectorcompressed.pdf",
+      "date": "15-May-2025"
+    },
+    {
+      "id": 540086,
+      "title": "Geo | 12 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68246a3221ffb_National_Resourceof_india_12_maycompressed.pdf",
+      "date": "14-May-2025"
+    },
+    {
+      "id": 540084,
+      "title": "Geo | 14 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68246920207ce_soil_agriculture_and_animal_husbandrycompressed.pdf",
+      "date": "14-May-2025"
+    },
+    {
+      "id": 532971,
+      "title": "Geo | 7 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/681afcf5f3352_Climate_and_Monsooncompressed.pdf",
+      "date": "07-May-2025"
+    },
+    {
+      "id": 531610,
+      "title": "Geo | 5 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/681857e9d7070_LAKEcompressed.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 530352,
+      "title": "Geo | 1 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6813098e5a04d_South_India_Passes.pdf",
+      "date": "01-May-2025"
+    },
+    {
+      "id": 530080,
+      "title": "Maths | 30 April | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6811f5dbb3cbd_LCM_HCF_30_April_.pdf",
+      "date": "30-Apr-2025"
+    },
+    {
+      "id": 529764,
+      "title": "Reas | 30 April | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6811e9438a413_Direction_and_distance.pdf",
+      "date": "30-Apr-2025"
+    },
+    {
+      "id": 529761,
+      "title": "Geo | 30 April | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6811e91930a9c_Mountain_Passes_30_Apr_2025compressed.pdf",
+      "date": "30-Apr-2025"
+    },
+    {
+      "id": 529757,
+      "title": "Reas | 29 April | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6811e8947afc4_number_system_29_april_1.pdf",
+      "date": "30-Apr-2025"
+    },
+    {
+      "id": 528774,
+      "title": "Geo | 29 April | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68106db1baa18_South_indian_rivercompressed.pdf",
+      "date": "29-Apr-2025"
+    },
+    {
+      "id": 526321,
+      "title": "Geo | 25 April | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/680b2b41b5cc5_Ganga_rivercompressed.pdf",
+      "date": "25-Apr-2025"
+    },
+    {
+      "id": 525783,
+      "title": "Geo | 24 April | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6809cf1d3b214_ganga_river_systemcompressed.pdf",
+      "date": "24-Apr-2025"
+    },
+    {
+      "id": 524020,
+      "title": "Maths | 23 April | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6808c7d98d828_math_class_23_april_.pdf",
+      "date": "23-Apr-2025"
+    },
+    {
+      "id": 524016,
+      "title": "Reas | 23 April | Class PNHG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6808c798d29fb_coding_decoding_23_April_.pdf",
+      "date": "23-Apr-2025"
+    },
+    {
+      "id": 523409,
+      "title": "Geo | 23 April | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/680881f337785_River_systemsindhucompressed.pdf",
+      "date": "23-Apr-2025"
+    },
+    {
+      "id": 522658,
+      "title": "Reas | 22 April | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/680743db6199c_inequalities_22_april_.pdf",
+      "date": "22-Apr-2025"
+    },
+    {
+      "id": 522655,
+      "title": "Geo | 22 April | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/680743b3042bb_eastern_and_western_costal_plains..compressed.pdf",
+      "date": "22-Apr-2025"
+    },
+    {
+      "id": 522243,
+      "title": "Geo | 21 April | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6805f2c6a6ae0_PLATEAU_S_OF_INDIAcompressed.pdf",
+      "date": "21-Apr-2025"
+    },
+    {
+      "id": 522241,
+      "title": "Reas | 21 April | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6805f29152a5b_reasoning_inequalities_.pdf",
+      "date": "21-Apr-2025"
+    },
+    {
+      "id": 522128,
+      "title": "Phy | 18 April | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6805d22f2eff0_science_18_Aprilcompressed.pdf",
+      "date": "21-Apr-2025"
+    },
+    {
+      "id": 522127,
+      "title": "Pol | 15 April | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6805d1b6e8d8b_polity_15_april.pdf",
+      "date": "21-Apr-2025"
+    },
+    {
+      "id": 522124,
+      "title": "Accounts | 15 April | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6805d18e015bd_accounts_15_april.pdf",
+      "date": "21-Apr-2025"
+    },
+    {
+      "id": 522123,
+      "title": "Pol | 16 April | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6805d174d7d71_polity_16_april.pdf",
+      "date": "21-Apr-2025"
+    },
+    {
+      "id": 522120,
+      "title": "Accounts | 16 April | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6805d13d4219f_accounts_16_april.pdf",
+      "date": "21-Apr-2025"
+    },
+    {
+      "id": 522117,
+      "title": "His | 15 April | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6805d0f9087df_history_15_april.pdf",
+      "date": "21-Apr-2025"
+    },
+    {
+      "id": 519651,
+      "title": "Accounts | 14 April | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67fcf07e55268_accounts_14_april.pdf",
+      "date": "14-Apr-2025"
+    },
+    {
+      "id": 519650,
+      "title": "Pol | 14 April | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67fcf066c19e6_polity_14_april.pdf",
+      "date": "14-Apr-2025"
+    },
+    {
+      "id": 519648,
+      "title": "Pol | 14 April | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67fcf066c19e6_polity_14_april.pdf",
+      "date": "14-Apr-2025"
+    },
+    {
+      "id": 519645,
+      "title": "His | 12 April | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67fcf03f03e30_ilovepdfmerged_61.pdf",
+      "date": "14-Apr-2025"
+    },
+    {
+      "id": 519642,
+      "title": "Pol | 12 April | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67fcefca0d5ff_polity_12_april.pdf",
+      "date": "14-Apr-2025"
+    },
+    {
+      "id": 519641,
+      "title": "Accounts | 12 April | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67fcef6a653f1_accounts_12_april.pdf",
+      "date": "14-Apr-2025"
+    },
+    {
+      "id": 518338,
+      "title": "Reas | 11 April | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67f8d7ec27c07_reg_10_april_.pdf",
+      "date": "11-Apr-2025"
+    },
+    {
+      "id": 518327,
+      "title": "IR | 11 April | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67f8d38154ca8_industrial_relations_11_april.pdf",
+      "date": "11-Apr-2025"
+    },
+    {
+      "id": 518326,
+      "title": "Pol | 11 April | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67f8d352097a7_polity_11_april.pdf",
+      "date": "11-Apr-2025"
+    },
+    {
+      "id": 518321,
+      "title": "Geo | 11 April | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67f8d32393643_10_April_geocompressed.pdf",
+      "date": "11-Apr-2025"
+    },
+    {
+      "id": 518162,
+      "title": "His | 11 April | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67f8a16e710dc_1857_pdf.pdf",
+      "date": "11-Apr-2025"
+    },
+    {
+      "id": 517654,
+      "title": "Maths | 10 April | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67f79874ecb25_maths_10_April_1.pdf",
+      "date": "10-Apr-2025"
+    },
+    {
+      "id": 517530,
+      "title": "Geo | 10 April | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67f75c4a13679_Himalaya_class_10_Aprilcompressed.pdf",
+      "date": "10-Apr-2025"
+    },
+    {
+      "id": 517088,
+      "title": "Reas | 9 April | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67f65ae2bf92d_clock_9_april_.pdf",
+      "date": "09-Apr-2025"
+    },
+    {
+      "id": 516702,
+      "title": "Geo | 9 April | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67f60ea8d999c_HIMALAYAS_9_APRILcompressed.pdf",
+      "date": "09-Apr-2025"
+    },
+    {
+      "id": 513809,
+      "title": "Reas | 3 April | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67ee52cbb47b2_Clock_reasoning_uppscro_aroepfo.pdf",
+      "date": "03-Apr-2025"
+    },
+    {
+      "id": 513807,
+      "title": "Geo | 3 April | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67ee529e92de4_3_APRIL_Geography_UPPSC.RO_ARO.EPFOcompressed.pdf",
+      "date": "03-Apr-2025"
+    },
+    {
+      "id": 512347,
+      "title": "Reas | 2 April | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67ece2deb2a01_syllogism_2_April_uppsc_.epfo.ro_aro.pdf",
+      "date": "02-Apr-2025"
+    },
+    {
+      "id": 511417,
+      "title": "IR | 1 April | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67ecc2f12a341_industrial_relations_1_april.pdf",
+      "date": "02-Apr-2025"
+    },
+    {
+      "id": 511416,
+      "title": "IR | 31 March | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67ecc2d2e3a19_industrial_relations_31_march.pdf",
+      "date": "02-Apr-2025"
+    },
+    {
+      "id": 511415,
+      "title": "His | 1 April | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67ecc2adc3ea5_history_1_april.pdf",
+      "date": "02-Apr-2025"
+    },
+    {
+      "id": 511411,
+      "title": "Pol | 31 March | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67ecc283a931f_polity_31_march.pdf",
+      "date": "02-Apr-2025"
+    },
+    {
+      "id": 511408,
+      "title": "His | 31 March | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67ecc251602fd_history_31_march.pdf",
+      "date": "02-Apr-2025"
+    },
+    {
+      "id": 511406,
+      "title": "Pol | 1 April | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67ecc1e19b594_polity_1april.pdf",
+      "date": "02-Apr-2025"
+    },
+    {
+      "id": 509422,
+      "title": "Reas | 31 March | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67ea3f8405b30_syllogism_uppsc.epfo.ro_aro.pdf",
+      "date": "31-Mar-2025"
+    },
+    {
+      "id": 509383,
+      "title": "Geo | 31 March | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67ea2d05868ce_indian_islands_uppsc_ro_aro_epfocompressed.pdf",
+      "date": "31-Mar-2025"
+    },
+    {
+      "id": 508867,
+      "title": "Morden His | 28 March | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67e78a942866f_modern_history_28_march.pdf",
+      "date": "29-Mar-2025"
+    },
+    {
+      "id": 508866,
+      "title": "IR | 28 March | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67e789d7b2d92_industrial_relations_28_march.pdf",
+      "date": "29-Mar-2025"
+    },
+    {
+      "id": 508863,
+      "title": "Pol | 28 March | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67e7899aa9103_polity_28_march.pdf",
+      "date": "29-Mar-2025"
+    },
+    {
+      "id": 507884,
+      "title": "Eco | 26 March | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67e4d5fb1eb2f_eco_class_26_march_upps_ro_aro_epfo.pdf",
+      "date": "27-Mar-2025"
+    },
+    {
+      "id": 507753,
+      "title": "Geo | 26 March | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67e3c8e5b2d31_indian_Geography_class_4compressed.pdf",
+      "date": "26-Mar-2025"
+    },
+    {
+      "id": 507536,
+      "title": "Pol | 25 March | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67e29b97832ee_bonus_11mergedcompressed.pdf",
+      "date": "25-Mar-2025"
+    },
+    {
+      "id": 507534,
+      "title": "Pol | 24 March | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67e29b3c379ac_polity_24_march.pdf",
+      "date": "25-Mar-2025"
+    },
+    {
+      "id": 507533,
+      "title": "IR | 24 March | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67e29b0c4ed73_industrial_relation_24._march.pdf",
+      "date": "25-Mar-2025"
+    },
+    {
+      "id": 507531,
+      "title": "Reas | 25 March | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67e29ae4be06b_syllogism_class_2.pdf",
+      "date": "25-Mar-2025"
+    },
+    {
+      "id": 506610,
+      "title": "Geo | 25 March | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67e24a9293cf7_indian_Geographyclass_2_uppsc_ro_aro_and_epfocompressed.pdf",
+      "date": "25-Mar-2025"
+    },
+    {
+      "id": 506278,
+      "title": "Reas | 24 March | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67e12d5269596_syllogism_class_1.pdf",
+      "date": "24-Mar-2025"
+    },
+    {
+      "id": 506276,
+      "title": "Geo | 24 March | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67e12d1c2ba17_Indian_Geography_class_1compressed.pdf",
+      "date": "24-Mar-2025"
+    },
+    {
+      "id": 504215,
+      "title": "Reas | 21 March | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67dd10d7ab779_calender_.pdf",
+      "date": "21-Mar-2025"
+    },
+    {
+      "id": 504213,
+      "title": "World Geo | 21 March | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67dd10b09b2e6_Asia_..compressed.pdf",
+      "date": "21-Mar-2025"
+    },
+    {
+      "id": 502710,
+      "title": "World Geo | 18 March | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67d93e918f9c8_EUROPEcompressed.pdf",
+      "date": "18-Mar-2025"
+    },
+    {
+      "id": 502709,
+      "title": "IR | 18 March | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67d93c64d6778_sudhanshu_ir_class_PDF_11.pdf",
+      "date": "18-Mar-2025"
+    },
+    {
+      "id": 502707,
+      "title": "Pol | 18 March | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67d93c329d690_ilovepdfmerged_20250318T145402.384compressed.pdf",
+      "date": "18-Mar-2025"
+    },
+    {
+      "id": 501209,
+      "title": "IR | 12 March | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67d15141cb5bc_industrial_relations_11_march.pdf",
+      "date": "12-Mar-2025"
+    },
+    {
+      "id": 501207,
+      "title": "Pol | 12 March | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67d1510990125_polity_11march.pdf",
+      "date": "12-Mar-2025"
+    },
+    {
+      "id": 500723,
+      "title": "IR | 11 March | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67cff35d6f303_industrial_relation_10_march.pdf",
+      "date": "11-Mar-2025"
+    },
+    {
+      "id": 500721,
+      "title": "Pol | 11 March | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67cff32603d1b_polity_5_to_6_10_march.pdf",
+      "date": "11-Mar-2025"
+    },
+    {
+      "id": 498709,
+      "title": "World Geo | 10 March | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67ce7d89e2ae8_Europe_9_March_uppsc_and_epfocompressed.pdf",
+      "date": "10-Mar-2025"
+    },
+    {
+      "id": 498046,
+      "title": "World Geo | 5-6 March | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67c94d6942577_ilovepdfmerged_20250306T125121.509compressed.pdf",
+      "date": "06-Mar-2025"
+    },
+    {
+      "id": 496377,
+      "title": "World Geo | 4 March | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67c6999c99f38_North_America_10_to_11_30_am_uppsc_and_epfocompressed.pdf",
+      "date": "04-Mar-2025"
+    },
+    {
+      "id": 495944,
+      "title": "World Geo | 3 March | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67c555453ab38_North_America_10_t0_11_30_am_uppsc_and_epfocompressed.pdf",
+      "date": "03-Mar-2025"
+    },
+    {
+      "id": 494897,
+      "title": "Pol | 21-27 Feb | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67c1985411540_ilovepdfmerged_20250228T163400.537.pdf",
+      "date": "28-Feb-2025"
+    },
+    {
+      "id": 494896,
+      "title": "IR | 21-27 Feb | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67c197f0e1135_ilovepdfmerged_20250228T163134.066.pdf",
+      "date": "28-Feb-2025"
+    },
+    {
+      "id": 494803,
+      "title": "World Geo | 28 Feb | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67c188c51e836_south_america_class_5.pdf",
+      "date": "28-Feb-2025"
+    },
+    {
+      "id": 493918,
+      "title": "World Geo | 25 Feb | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67c0137ad6470_south_America_10_to_1130_am_uppsc_and_epfocompressed.pdf",
+      "date": "27-Feb-2025"
+    },
+    {
+      "id": 492291,
+      "title": "World Geo | 24 Feb | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67bc0ad502900_south_America_10_to_11_30_am_uppsc_and_epfocompressed.pdf",
+      "date": "24-Feb-2025"
+    },
+    {
+      "id": 491125,
+      "title": "World Geo | 20 Feb | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67b6d1459fd37_africa_10_to_11_30_am_uppsc_and_epfocompressed.pdf",
+      "date": "20-Feb-2025"
+    },
+    {
+      "id": 490354,
+      "title": "IR | 19 Feb | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67b6c17c2f46e_industrial_relations_epfo_19_feb.pdf",
+      "date": "20-Feb-2025"
+    },
+    {
+      "id": 490352,
+      "title": "Pol | 19 Feb | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67b6c14a5f418_polity_epfo_and_uppsc_19_feb.pdf",
+      "date": "20-Feb-2025"
+    },
+    {
+      "id": 490066,
+      "title": "World Geo | 19 Feb | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67b5746a909e2_Geography_Africa_uppsc_and_epfocompressed.pdf",
+      "date": "19-Feb-2025"
+    },
+    {
+      "id": 490016,
+      "title": "Pol | 18 Feb | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67b56ccf03e62_polity_5_to_6_epfo_and_uppsc_18_feb.pdf",
+      "date": "19-Feb-2025"
+    },
+    {
+      "id": 490015,
+      "title": "IR | 17-18 Feb | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67b56ca05088e_ilovepdfmerged_75compressed.pdf",
+      "date": "19-Feb-2025"
+    },
+    {
+      "id": 489780,
+      "title": "World Geo | 18 Feb | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67b424903576a_Career_will_Geogrophy_Aus.pdf",
+      "date": "18-Feb-2025"
+    },
+    {
+      "id": 489712,
+      "title": "Sci | 14 Feb | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67b3cfd38d84c_science_clas_intro_topic_measurment_7_to_8_30_pm_epfo_and_uppsccompressed.pdf",
+      "date": "18-Feb-2025"
+    },
+    {
+      "id": 489710,
+      "title": "World Geo | 17 Feb | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67b3ced62ce85_class_4_and_5_10_to_11_30_am_uppsc_and_epfocompressed.pdf",
+      "date": "18-Feb-2025"
+    },
+    {
+      "id": 484324,
+      "title": "Pol | 14 Feb | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67af0c9f38195_polity_5_to_6_epfo_and_uppsc_.pdf",
+      "date": "14-Feb-2025"
+    },
+    {
+      "id": 484323,
+      "title": "IR | 14 Feb | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67af0c7c1e95e_industrial_relations_6_to_7_upsc_epfo.pdf",
+      "date": "14-Feb-2025"
+    },
+    {
+      "id": 483662,
+      "title": "Pol | 12 Feb | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67ad64a331d74_polity_5_to_6_class_one_epfo_and_uppsc.pdf",
+      "date": "13-Feb-2025"
+    },
+    {
+      "id": 483661,
+      "title": "IR | 12 Feb | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67ad648b31e43_industrial_relation_6_to_7_upsc_epfo_class_1.pdf",
+      "date": "13-Feb-2025"
+    }
+  ]
+}
