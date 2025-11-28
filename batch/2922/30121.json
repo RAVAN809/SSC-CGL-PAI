@@ -1,0 +1,1360 @@
+{
+  "batchid": 2922,
+  "topicid": 30121,
+  "classes_total": 67,
+  "classes": [
+    {
+      "title": "Class-81 | Hindi | छंद के भेद",
+      "id": "4547337",
+      "date": "12-Sep-2025 08:00",
+      "video_url": "4547337_0_4759458758702104"
+    },
+    {
+      "title": "Class-80 | Hindi | छंद के भेद",
+      "id": "4546357",
+      "date": "11-Sep-2025 08:00",
+      "video_url": "4546357_0_3226501136987062"
+    },
+    {
+      "title": "Class-79 | Hindi | अर्थालंकार के भेद",
+      "id": "4545413",
+      "date": "10-Sep-2025 08:00",
+      "video_url": "4545413_0_2643716892216991"
+    },
+    {
+      "title": "Class-78 | Hindi | भाषा बोली और उपबोली",
+      "id": "4544419",
+      "date": "09-Sep-2025 08:00",
+      "video_url": "4544419_0_3816144777752303"
+    },
+    {
+      "title": "Class-77 | Hindi | हिंदी व अन्य भारतीय भाषाएँ",
+      "id": "4543498",
+      "date": "08-Sep-2025 08:00",
+      "video_url": "4543498_0_2914733163020588"
+    },
+    {
+      "title": "Class-76 | Hindi | श्रुति भिन्नार्थक शब्द, मुहावरे और लोकोक्ति",
+      "id": "4541860",
+      "date": "05-Sep-2025 08:00",
+      "video_url": "4541860_0_3781886051256660"
+    },
+    {
+      "title": "Class-75 | Hindi | अनेकार्थी शब्द, वाक्यांश के लिए एक शब्द",
+      "id": "4539884",
+      "date": "04-Sep-2025 08:00",
+      "video_url": "4539884_0_2062994190948022"
+    },
+    {
+      "title": "Class-74 | Hindi | विशेषण के भेद",
+      "id": "4536020",
+      "date": "01-Sep-2025 08:00",
+      "video_url": "4536020_0_7458678342553638"
+    },
+    {
+      "title": "Class-73 | Hindi | विशेषण के भेद",
+      "id": "4534030",
+      "date": "29-Aug-2025 08:00",
+      "video_url": "4534030_0_4801793190988435"
+    },
+    {
+      "title": "Class-72 | Hindi | विशेषण के भेद",
+      "id": "4532841",
+      "date": "28-Aug-2025 08:00",
+      "video_url": "4532841_0_4663379080544115"
+    },
+    {
+      "title": "Class-71 | Hindi | क्रिया के भेद",
+      "id": "4531587",
+      "date": "27-Aug-2025 08:00",
+      "video_url": "4531587_0_5076985586970912"
+    },
+    {
+      "title": "Class-70 | Hindi | विशेषण के भेद",
+      "id": "4530220",
+      "date": "26-Aug-2025 08:00",
+      "video_url": "4530220_0_9882980519292047"
+    },
+    {
+      "title": "Class-69 | Hindi | विशेषण के भेद",
+      "id": "4529060",
+      "date": "25-Aug-2025 08:00",
+      "video_url": "4529060_0_5495282099154691"
+    },
+    {
+      "title": "Class-68 | Hindi | विशेषण  के भेद",
+      "id": "4526924",
+      "date": "22-Aug-2025 08:00",
+      "video_url": "4526924_0_5265130137236604"
+    },
+    {
+      "title": "Class-67 | Hindi | सर्वनाम  के भेद",
+      "id": "4525803",
+      "date": "21-Aug-2025 08:00",
+      "video_url": "4525803_0_7560197681725003"
+    },
+    {
+      "title": "Class-66 | Hindi | सर्वनाम  के भेद",
+      "id": "4523499",
+      "date": "19-Aug-2025 08:00",
+      "video_url": "4523499_0_1230492305669620"
+    },
+    {
+      "title": "Class-65 | Hindi | संज्ञा के भेद",
+      "id": "4522527",
+      "date": "18-Aug-2025 08:00",
+      "video_url": "4522527_0_3137503398776322"
+    },
+    {
+      "title": "Class-64 | Hindi | संज्ञा के भेद",
+      "id": "4520263",
+      "date": "14-Aug-2025 08:00",
+      "video_url": "4520263_0_9888280037916662"
+    },
+    {
+      "title": "Class-63 | Hindi | तत्सम और तद्भव शब्द",
+      "id": "4518945",
+      "date": "13-Aug-2025 08:00",
+      "video_url": "4518945_0_6180278009518361"
+    },
+    {
+      "title": "Class-62 | Hindi | तत्सम और तद्भव शब्द",
+      "id": "4517584",
+      "date": "12-Aug-2025 08:00",
+      "video_url": "4517584_0_8830298448287231"
+    },
+    {
+      "title": "Class-61 | Hindi | तत्सम शब्द",
+      "id": "4516405",
+      "date": "11-Aug-2025 08:00",
+      "video_url": "4516405_0_6464665455844983"
+    },
+    {
+      "title": "Class-59 | Hindi | हिंदी शब्दावली",
+      "id": "4514545",
+      "date": "07-Aug-2025 08:00",
+      "video_url": "4514545_0_6140629737765445"
+    },
+    {
+      "title": "Class-58 | Hindi | शब्द शक्ति",
+      "id": "4512491",
+      "date": "05-Aug-2025 08:00",
+      "video_url": "4512491_0_4916514170055806"
+    },
+    {
+      "title": "Class-57 | Hindi | भक्तिकाल",
+      "id": "4511568",
+      "date": "04-Aug-2025 08:00",
+      "video_url": "4511568_0_9672002262425883"
+    },
+    {
+      "title": "Class-56 | Hindi | भक्तिकाल",
+      "id": "4505894",
+      "date": "01-Aug-2025 08:00",
+      "video_url": "4505894_0_4177693975063858"
+    },
+    {
+      "title": "Class-55 | Hindi | आदिकाल और भक्तिकाल",
+      "id": "4504701",
+      "date": "31-Jul-2025 08:00",
+      "video_url": "4504701_0_8736189154934168"
+    },
+    {
+      "title": "Class-54 | Hindi | हिंदी साहित्य",
+      "id": "4503459",
+      "date": "30-Jul-2025 08:00",
+      "video_url": "4503459_0_9341451224595023"
+    },
+    {
+      "title": "Class-53 | Hindi | हिंदी साहित्य",
+      "id": "4501903",
+      "date": "29-Jul-2025 08:00",
+      "video_url": "4501903_0_2003845886366635"
+    },
+    {
+      "title": "Class-52 | Hindi | लेखक की प्रसिद्ध पंक्तियाँ",
+      "id": "4495471",
+      "date": "28-Jul-2025 08:00",
+      "video_url": "4495471_0_4092639301358975"
+    },
+    {
+      "title": "Class-51 | Hindi | हिंदी साहित्य में प्रसिद्ध कवि और लेखक",
+      "id": "4493028",
+      "date": "25-Jul-2025 08:00",
+      "video_url": "4493028_0_5835079756940859"
+    },
+    {
+      "title": "Class-50 | Hindi | पत्र-पत्रिकाएँ और हिंदी सम्मेलन",
+      "id": "4491796",
+      "date": "24-Jul-2025 08:00",
+      "video_url": "4491796_0_8393163862440848"
+    },
+    {
+      "title": "Class-49 | Hindi | हिन्दी के कवि और उनके उपनाम",
+      "id": "4490021",
+      "date": "23-Jul-2025 08:00",
+      "video_url": "4490021_0_1810394923093425"
+    },
+    {
+      "title": "Class-48 | Hindi | काल के भेद",
+      "id": "4488229",
+      "date": "22-Jul-2025 08:00",
+      "video_url": "4488229_0_3544313214651894"
+    },
+    {
+      "title": "Class-47 | Hindi | काल के भेद",
+      "id": "4487187",
+      "date": "21-Jul-2025 08:00",
+      "video_url": "4487187_0_4861030438261016"
+    },
+    {
+      "title": "Class-46 | Hindi | काल के भेद",
+      "id": "4485280",
+      "date": "18-Jul-2025 08:00",
+      "video_url": "4485280_0_8199948089177690"
+    },
+    {
+      "title": "Class-45 | Hindi | काल के भेद",
+      "id": "4484244",
+      "date": "17-Jul-2025 08:00",
+      "video_url": "4484244_0_6552008039100657"
+    },
+    {
+      "title": "Class-44 | Hindi | काल के भेद",
+      "id": "4483198",
+      "date": "16-Jul-2025 08:00",
+      "video_url": "4483198_0_9859221694294363"
+    },
+    {
+      "title": "Class-43 | Hindi | वाच्य",
+      "id": "4482147",
+      "date": "15-Jul-2025 08:00",
+      "video_url": "4482147_0_3583425807927912"
+    },
+    {
+      "title": "Class-42 | Hindi | वचन",
+      "id": "4481130",
+      "date": "14-Jul-2025 08:00",
+      "video_url": "4481130_0_4061442749728935"
+    },
+    {
+      "title": "Class-41 | Hindi | लिंग",
+      "id": "4479338",
+      "date": "11-Jul-2025 08:00",
+      "video_url": "4479338_0_5634770229848452"
+    },
+    {
+      "title": "Class-40 | Hindi | तत्पुरुष समास और लिंग",
+      "id": "4478277",
+      "date": "10-Jul-2025 08:00",
+      "video_url": "4478277_0_4506065959748013"
+    },
+    {
+      "title": "Class-39 | Hindi | समास के भेद",
+      "id": "4477077",
+      "date": "09-Jul-2025 08:00",
+      "video_url": "4477077_0_1746288262906755"
+    },
+    {
+      "title": "Class-38 | Hindi | समास के भेद",
+      "id": "4476126",
+      "date": "08-Jul-2025 08:00",
+      "video_url": "4476126_0_7142849704942226"
+    },
+    {
+      "title": "Class-29 | Hindi | संज्ञा",
+      "id": "4455203",
+      "date": "20-Jun-2025 11:00",
+      "video_url": "4455203_0_6097691999957411"
+    },
+    {
+      "title": "Class-28 | Hindi | प्रत्यय",
+      "id": "4455199",
+      "date": "16-Jun-2025 08:00",
+      "video_url": "4455199_0_8375627469650092"
+    },
+    {
+      "title": "Class-27 | Hindi | उपसर्ग",
+      "id": "4455198",
+      "date": "15-Jun-2025 08:00",
+      "video_url": "4455198_0_5786431793928030"
+    },
+    {
+      "title": "Class-23 | Hindi | स्वर संधि के भेद",
+      "id": "4455195",
+      "date": "11-Jun-2025 08:00",
+      "video_url": "4455195_0_1555704592589508"
+    },
+    {
+      "title": "Class-21 | Hindi | संधि के भेद",
+      "id": "4455193",
+      "date": "09-Jun-2025 08:00",
+      "video_url": "4455193_0_8619920228277318"
+    },
+    {
+      "title": "Class-20 | Hindi | प्रयत्न के आधार पर वर्णों का वर्गीकरण",
+      "id": "4455191",
+      "date": "06-Jun-2025 08:00",
+      "video_url": "4455191_0_5220673937051635"
+    },
+    {
+      "title": "Class-19 | Hindi | हिंदी शब्दकोश में वर्णों व शब्दों का स्थान",
+      "id": "4455189",
+      "date": "05-Jun-2025 19:00",
+      "video_url": "4455189_0_3778998627252046"
+    },
+    {
+      "title": "Class-18 | Hindi | वर्णों के उच्चारण स्थान",
+      "id": "4455187",
+      "date": "04-Jun-2025 08:00",
+      "video_url": "4455187_0_3054369657832062"
+    },
+    {
+      "title": "Class-17 | Hindi | वर्णों के उच्चारण स्थान",
+      "id": "4455185",
+      "date": "03-Jun-2025 17:00",
+      "video_url": "4455185_0_4470639285679605"
+    },
+    {
+      "title": "Class-16 | Hindi | व्यंजन के भेद",
+      "id": "4455182",
+      "date": "30-May-2025 08:00",
+      "video_url": "4455182_0_3162338448181643"
+    },
+    {
+      "title": "Class-15 | Hindi | स्वर के भेद",
+      "id": "4455180",
+      "date": "29-May-2025 08:00",
+      "video_url": "4455180_0_1839128867955362"
+    },
+    {
+      "title": "Class-14 | Hindi | वर्णमाला",
+      "id": "4455178",
+      "date": "28-May-2025 08:00",
+      "video_url": "4455178_0_4667493979673526"
+    },
+    {
+      "title": "Class-13 | Hindi | गद्यांश और पद्यांश",
+      "id": "4452289",
+      "date": "22-May-2025 08:00",
+      "video_url": "4452289_0_6006275981924667"
+    },
+    {
+      "title": "Class-12 | Hindi | अर्थबोध, गद्यांश और अनुच्छेद",
+      "id": "4452286",
+      "date": "21-May-2025 08:00",
+      "video_url": "4452286_0_2780254809665723"
+    },
+    {
+      "title": "Class-11 | Hindi | वर्तनी",
+      "id": "4452284",
+      "date": "20-May-2025 08:00",
+      "video_url": "4452284_0_6942047682642528"
+    },
+    {
+      "title": "Class-10 | Hindi | वर्तनी",
+      "id": "4452282",
+      "date": "19-May-2025 08:00",
+      "video_url": "4452282_0_3250494348337519"
+    },
+    {
+      "title": "Class-09 | Hindi | श्रुतिसम भिन्नार्थक शब्द",
+      "id": "4452280",
+      "date": "16-May-2025 08:00",
+      "video_url": "4452280_0_5484212122193192"
+    },
+    {
+      "title": "Class-07 | Hindi | अनेकार्थी शब्द",
+      "id": "4452275",
+      "date": "14-May-2025 08:00",
+      "video_url": "4452275_0_6093043873979446"
+    },
+    {
+      "title": "Class-06 | Hindi | गद्यांश",
+      "id": "4452272",
+      "date": "13-May-2025 08:00",
+      "video_url": "4452272_0_7795203278666596"
+    },
+    {
+      "title": "Class-05 | Hindi | मुहावरे, लोकोक्तियां और कहावतें",
+      "id": "4452270",
+      "date": "12-May-2025 08:00",
+      "video_url": "4452270_0_7248994899079988"
+    },
+    {
+      "title": "Class-04 | Hindi | मुहावरे",
+      "id": "4452267",
+      "date": "08-May-2025 08:00",
+      "video_url": "4452267_0_4772406099631669"
+    },
+    {
+      "title": "Class-03 | Hindi | शब्द शक्ति के भेद",
+      "id": "4452265",
+      "date": "07-May-2025 08:00",
+      "video_url": "4452265_0_3735457208833013"
+    },
+    {
+      "title": "Class-02 | Hindi | रस के भेद",
+      "id": "4452263",
+      "date": "06-May-2025 08:00",
+      "video_url": "4452263_0_3105131799655490"
+    },
+    {
+      "title": "Class-01 | Hindi | रस के भेद",
+      "id": "4452261",
+      "date": "05-May-2025 08:00",
+      "video_url": "4452261_0_1951838592005751"
+    }
+  ],
+  "notes_total": 158,
+  "notes": [
+    {
+      "id": 531818,
+      "title": "E-Book MCQ Part-1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/661531f26f1f6_65116d096d907_SELECTION मंत्र_removed (1)_compressed_removed (1).pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531817,
+      "title": "E-Book MCQ Part-2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/661531e8e114c_65116d2a6ff74_SELECTION मंत्र_removed (1)_compressed_removed (1) (1).pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531816,
+      "title": "Updated Class Notes ",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64ccc2973aebf_हिंदी_व्याकरण_नोट्स.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531815,
+      "title": "रीतिकाल",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64dcbe500f3f6_रीतिकाल digital board.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531814,
+      "title": "भक्तिकाल",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64dcbe304cf7a_Hindi lehkhak File  70 Question_compressed.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531813,
+      "title": "आदिकाल",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64dcbe0fe2ef3_प्रमुख लेखन एवं उनकी रचनाएँ (1)_compressed_compressed.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531812,
+      "title": "लेखक एवं उनकी रचनाएं  Full Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64dc6c3e898bf_लेखक एवं उनकी रचनाएं (1).pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531811,
+      "title": "छंद",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64cccb48ea35e_छंद Digital board_compressed.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531810,
+      "title": "रस  ",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64cccad880838_रस Digital board_compressed.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531809,
+      "title": "प्रमुख लेखक एवं उनके रचनाएँ Practice",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64ccca6051f29_प्रमुख लेखक एवं उनके रचनाएँ Digital Board_compressed.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531808,
+      "title": "वाक्यांश के लिए एक शब्द ",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64ccc93334a0b_वाक्यांश के लिए एक शब्द Digital Board_compressed.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531807,
+      "title": "प्रमुख लेखक एवं उनकी रचनाऐ   ",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64ccc8e34ae6e_प्रमुख लेखक एवं उनकी रचनाऐ  Digital board_compressed.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531806,
+      "title": "क्रिया  ",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64ccc8a872588_क्रिया Digital Board_compressed.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531805,
+      "title": "विशेषण Part-2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64ccc83c7c735_विशेषण Digital Board_compressed.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531804,
+      "title": "सर्वनाम  ",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64ccc7dce9924_सर्वनाम Digital board_compressed.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531803,
+      "title": "संज्ञा  ",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64ccc77b505e9_संज्ञा Digital board_compressed.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531802,
+      "title": "विशेषण Part-1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64ccc736e78ee_विशेषण set-2 digital board.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531801,
+      "title": "समास ",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64ccc7121efde_समास digital board.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531800,
+      "title": "गद्यांश या पद्यांश ",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64ccc6e6e21af_गद्यांश या पद्यांश digital board_compressed.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531799,
+      "title": "रिक्त स्थान की पूर्ति",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64ccc5db63908_रिक्त स्थान की पूर्ति_compressed.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531798,
+      "title": "विराम चिन्ह ",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64ccc5984e1d2_विराम चिन्ह digital borad.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531797,
+      "title": "हिंदी के लेखक एवं रचनाएं ",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64ccc584e1967_हिंदी के लेखक एवं रचनाएं  digital borad.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531796,
+      "title": "अलंकार ",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64ccc564a1995_अलंकार digital borad.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531795,
+      "title": "वृति एवं पक्ष ",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64ccc53d64e20_वृति एवं पक्ष digital board.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531794,
+      "title": "भाषा एवं बोली  ",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64ccc51634fc3_भाषा एवं बोली Digital board.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531793,
+      "title": "संधि ",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64ccc4ee3eb78_संधि Digital borad.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531792,
+      "title": "हिंदी के प्रसिद्ध कवि और उनकी रचनाएं ",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64ccc45e27734_हिंदी के प्रसिद्ध कवि और उनकी रचनाएं digital board_compressed.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531791,
+      "title": "हिंदी वर्णमाला",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64ccc3f06f721_हिंदी वर्णमाला.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531790,
+      "title": "भारतीय काव्यशास्त्र",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64ccc3e5543a7_bhartiya kayvashastr.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531789,
+      "title": "मुहावरे",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64ccc3709c9ac_Muhavare_compressed.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531788,
+      "title": "प्रमुख लेखक ",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64ccc2f1eeae4_प्रमुख लेखक digital board2.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531787,
+      "title": "हिंदी विविध प्रश्न ",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64ccc2ae2b8ca_हिंदी विविध प्रश्न Digital board 02-08-23.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531786,
+      "title": "Hindi | 8 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67c0233f4e532_UPSI_class08compressed.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531785,
+      "title": "Hindi | 7 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67bcc1334382c_UPSI_Class_07compressed.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531784,
+      "title": "Hindi | 5-6 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67b96ff80c732_ilovepdfmerged_96.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531783,
+      "title": "Hindi | 1-4 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67b598dbe41d2_upsi_class_14_done.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531701,
+      "title": "सामान्य हिंदी",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65423e8dbdf2a_Samanya Hindi 24-11-2022.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531700,
+      "title": "अपठित गद्यांश",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65423e1d76e35_Aapthit Gadyansh Digital Board.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531699,
+      "title": "विलोम शब्द",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65423d074dcbd_(Digital) Vilom shabdh.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531698,
+      "title": "पर्यायवाची शब्द",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65423c840e037_Paryayvachi Shabd (1).pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531697,
+      "title": "मुहावरे एवं लोकोक्ति",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65423bbb931e0_मुहावरे एवं लोकोक्ति_compressed.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531696,
+      "title": "वर्तनी",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6542398206854_(Digital) Vartani.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531695,
+      "title": "हिंदी पर्यायवाची शब्द",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6542392f76719_हिंदी पर्यायवाची शब्द.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531694,
+      "title": "अनेकार्थी शब्द",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65423831544a1_अनेकार्थी शब्द.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531693,
+      "title": "मुहावरे एवं लोकोक्ति",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/645c8726a10d6_मुहावरे एवं लोकोक्ति_compressed.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531692,
+      "title": "Aapthit Kavyansh",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/645c86e34be23_Aapthit Kavyansh Digital Board_compressed.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531691,
+      "title": "(Digital) वर्तनी",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/645c86010b3cd_(Digital) वर्तनी.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531690,
+      "title": "(Digital) Vilom shabdh",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/645c84efdd7d9_(Digital) Vilom shabdh.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531689,
+      "title": "Deshi, Vedshi, Aur Sankar Shabd Digital",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/645c84b10db5a_Deshi, Vedshi, Aur Sankar Shabd Digital.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531688,
+      "title": "1 to 100 Sankhyavachak Shabd Digital",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/645c848a24cbf_1 to 100 Sankhyavachak Shabd Digital.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531687,
+      "title": "Hindi Bhasha Aur Uska Vikas Digital",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/645c845f3825d_Hindi Bhasha Aur Uska Vikas Digital.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531686,
+      "title": "Kavyansh",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/645c838295807_Kavyansh.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531685,
+      "title": "Aapthit Gadyansh Digital Board",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/645c8303e06a3_Aapthit Gadyansh Digital Board.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531684,
+      "title": "Tatsam and Tadbhav",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/645c82ccf4219_Tatsam and Tadbhav -1.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531683,
+      "title": "Viram Chinah",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/645c829e18f15_Viram Chinah.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531682,
+      "title": "(Digital) Vartani",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/645c7b4a45bc1_(Digital) Vartani.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531681,
+      "title": "वर्तनी",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/645c7acf85dc9_वर्तनी digital board.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531680,
+      "title": "Abhivyakati and Patrakarita",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1677494660.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531679,
+      "title": "पत्रकारिता और पत्रलेखन",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1677494630.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531678,
+      "title": "Kavya Shastra (Hindi) Digital",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1677494587.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531677,
+      "title": "हिंदी शिक्षण एवं शिक्षाशास्त्र Digital",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1677494559.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531676,
+      "title": "हिन्दी साहित्य एवं पुरस्कार",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1669030908-हिन्दी_साहित्य_एवं_पुरस्कार.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531675,
+      "title": "हिंदी शिक्षण एवं शिक्षाशास्त्र ",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1669030908-हिंदी_शिक्षण_एवं_शिक्षाशास्त्र_Digital.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531674,
+      "title": "हिंदी साहित्य ",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1669030908-हिंदी_साहित्य_Digital.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531673,
+      "title": "हिंदी पर्यायवाची शब्द",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1668683457-हिंदी_पर्यायवाची_शब्द_compressed.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531672,
+      "title": "Paryayvachi Shabd",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1668576085-Paryayvachi_Shabd.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531671,
+      "title": "अनेकार्थी शब्द",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1668576085-अनेकार्थी_शब्द_(Digital.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531670,
+      "title": "Vilom Shabdh",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1668576085-(Digital)_Vilom_shabdh.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531669,
+      "title": "हिन्दी साहित्य भाग-1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1668576085-हिन्दी_साहित्य_भाग-1_(Digital.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531668,
+      "title": "Vartani",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1668576085-(Digital)_Vartani.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531667,
+      "title": "हिंदी (रस)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1668576085-हिंदी_(रस).pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531666,
+      "title": "पत्र-पत्रिका एवं पुरस्कार ",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1668576085-पत्र-पत्रिका_एवं_पुरस्कार_(HINDI)_(Digital.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531665,
+      "title": "वर्तनी, वाक्य एवं वाक्य-शुद्धीकरण ",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1668576085-वर्तनी,_वाक्य_एवं_वाक्य-शुद्धीकरण_(HINDI)_(Digital_pdf.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531664,
+      "title": "Kavya Shastra",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1668576085-Kavya_Shastra_(HINDI)_(Digital.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531663,
+      "title": "Syllabus",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65116113cde4e_HINDI SPECIAL SYLLABUS....pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531702,
+      "title": "वृत्ति (Digital)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1654512794-वृत्ति_(Digital).pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531703,
+      "title": "संक्षेपण",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1654245785-1__SANCHEPAR_BHAG-3_Student_File.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531704,
+      "title": "पत्र लेखन,  प्राथना पत्र  (हिन्दी मुख्य परीक्षा) ",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1654245785-1__HINDI_Student_File.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531819,
+      "title": "सम्पूर्ण नोट्स ",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1613492894.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531820,
+      "title": "Class Notes ",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1609254799-FullClassNotes.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531705,
+      "title": "समानार्थक शब्द (Digital)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1649760567-समानार्थक_शब्द_(Digital)_compressed.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531706,
+      "title": " मुहावरा ",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1649760099-मुहावरा_(2)_compressed.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531707,
+      "title": "लोकोक्ति ",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1649760099-लोकोक्ति_UPSI_Digital_compressed.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531708,
+      "title": "श्रुत - सम भिन्नार्थक शब्द आदि  ",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1649760099-शब्द_के_भेद_compressed.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531709,
+      "title": " कारक और रस ",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1649759810-KARAK_(new_formet)_compressed.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531710,
+      "title": "अलंकार  ",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1649759810-1-10_que__(3)_compressed.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531711,
+      "title": " अव्यय और निपात ",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1649759810-1-10_que__(2)_compressed.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531712,
+      "title": "Practice - (1-35)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1649759810-1-35_que__compressed.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531713,
+      "title": "Hindi Notes PDF",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1625658808-1608049519-HINDI_NOTES_PDF.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531714,
+      "title": "Practice - (21-30)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1649759810-21-30_que__compressed.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531715,
+      "title": "भाषा बोली और उपबोली",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1649759810-Bhasha_Boli_Aur_Upboli_compressed.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531716,
+      "title": "लिंग और वचन",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1649757777-HINDI_(new_formet)_pdf_compressed.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531717,
+      "title": "अशुद्धियां",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1649757777-अशुद्धियां_compressed.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531718,
+      "title": "अनेक शब्द के लिए एक शब्द",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1649757777-अनेक_शब्द_के_लिए_एक_शब्द_compressed.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531719,
+      "title": "रिक्त स्थानों की पूर्ति (100 Question)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1649757777-रिक्त_स्थानों_की_पूर्ति_(100_Question)_compressed.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531720,
+      "title": "रस (100 Question)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1649757777-रस_(100_Question)_compressed.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531721,
+      "title": "रचना व रचनाकार (100 Question)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1649757777-रचना_व_रचनाकार_(100_Question)_compressed.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531722,
+      "title": "Previous Year Question Papers -  3",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1626692339-Previous_Year_Question_Papers_-_3.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531723,
+      "title": "Previous Year Question Papers -  2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1626692339-Previous_Year_Question_Papers_-_2.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531724,
+      "title": "गद्यांश और पद्यांश - 2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1626692251-गद्यांश_और_पद्यांश_-_2.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531725,
+      "title": "गद्यांश और पद्यांश - 3",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1626692251-गद्यांश_और_पद्यांश_-_3.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531726,
+      "title": "गद्यांश और पद्यांश - 1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1626692251-गद्यांश_और_पद्यांश_-_1.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531727,
+      "title": "Previous Year Question Papers -  1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1626692339-Previous_Year_Question_Papers_-_1.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531728,
+      "title": "Hindi Pedagogy - शिक्षाशास्त्र - 2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1626692339-Hindi_Pedagogy_-_शिक्षाशास्त्र_-_2.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531729,
+      "title": "हिंदी गद्य का विकास - 5",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1626692251-हिंदी_गद्य_का_विकास_-_5.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531730,
+      "title": "हिंदी गद्य का विकास - 4",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1626692251-हिंदी_गद्य_का_विकास_-_4.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531731,
+      "title": "हिंदी गद्य का विकास - 3",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1626692251-हिंदी_गद्य_का_विकास_-_3.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531732,
+      "title": "हिंदी गद्य का विकास - 2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1626692251-हिंदी_गद्य_का_विकास_-_2.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531733,
+      "title": "हिंदी गद्य का विकास - 1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1626692251-हिंदी_गद्य_का_विकास_-_1.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531734,
+      "title": "हिंदी शिक्षण शास्त्र उत्तर कुन्जी ",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1609253854-17_1.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531735,
+      "title": "समास ",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1609254266-1598246397_-Mock.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531736,
+      "title": "सर्वनाम (हिंदी) - 100 ",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1619510672.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531737,
+      "title": "संज्ञा - 100 ",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1619510625.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531738,
+      "title": "रिक्त स्थानों की पूर्ति",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1619510529.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531739,
+      "title": "हिन्दी साहित्य (कवि / लेखक तथा उनकी रचनाएँ)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1613548467.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531740,
+      "title": "वाक्य शुद्धिया तथा मुहावरे",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1613492961.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531741,
+      "title": "द्विवेदी युग कवि एवं काव्य",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1608048550-2-Divedi_kal.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531742,
+      "title": "आदिकाल अति महत्त्वपूर्ण तथ्य",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1608048256-1-Adikal.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531743,
+      "title": "महत्त्वपूर्ण लेखकों का जन्म एवं मृत्यु",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1608048160-10-_Hindi_Sahitya.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531744,
+      "title": "हिंदी साहित्य में प्रथम स्थान",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1608048009-11-_Hindi_Sahitya.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531745,
+      "title": "हिंदी भाषा का विकास",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1608047653-HINDI_BHASHA_KA_VIKAS.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531746,
+      "title": "छंद",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1614592975-CHHAND_(new_formet).pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531747,
+      "title": "हिन्दी प्रचारक संस्थाएँ 1 Ques .",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1614327400-Arun_Sir_(Hindi)_pracharak_sansthanthy.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531748,
+      "title": "  भारत भारती पुरूस्कार",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1614327380-Arun_Sir_(Hindi)_Hindi_ke_prasidh_puraskar.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531749,
+      "title": "भाषा परिवार बोली तथा उपबोली",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1608048643-2-Hindi_Sahitya.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531750,
+      "title": " हिंदी साहित्य अकादमी पुरस्कार",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1608048741-6-_Hindi_Sahitya.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531751,
+      "title": "प्रशासनिक शब्दावली",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1608049441-PRASASNIK_SABDAWALI_student_copy.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531752,
+      "title": " ज्ञानपीठ पुरस्कार व व्यास सम्मान ",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1608048806-5-Hindi_Sahitya.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531753,
+      "title": "हिंदी भाषा में प्रतिष्ठिता सम्मान और पुरस्कार",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1608049251-Hindi_Bhasha_me_Pratishthit_Samman_or_Puraskar_Student.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531754,
+      "title": "प्रसिद्ध कवि लेखक एवं उनकी प्रसिद्ध रचनाएं",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1608049114-Prashidh,_Kavi_Lekhak_Awam_Unaki_Prashidh_Rachanaye_Student_copy.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531755,
+      "title": "हिंदी व अन्य भारतीय भाषायें",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1608048954-Hindi_wa_Anya_Bharatiya_Bhashaye_Class_Copy.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531756,
+      "title": "कारक और रस ",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1609253762-15___KARAKNEWFORMET1.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531757,
+      "title": "रस अलंकार छंद ",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1609254835-28_ras_channd.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531758,
+      "title": "मुहावरे",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1613548545.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531759,
+      "title": "लिंग वचन ",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1609253881-18__HINDIPDF.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531760,
+      "title": "हिंदी पेडागोजी, गद्यांश और पद्यांश।",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1609253854-16__CTETQUESTION.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531761,
+      "title": "विराम चिन्ह",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1609254033-25__GADYANSHAURPADYANSHNEWFORMET.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531762,
+      "title": "वाच्य ",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1609254004-21___HINDIBYARUNSIRPDF.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531763,
+      "title": "वाक्य के भेद ",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1609254337-1597122501_VakyaPDF.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531764,
+      "title": "श्रुति सम भिन्नार्थक एवं वाक्यांश के लिए एक शब्द",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1619062751.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531765,
+      "title": "अनेकार्थी",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1619062670.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531766,
+      "title": "समानार्थक_शब्द_",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1624456682-समानार्थक_शब्द_.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531767,
+      "title": "पर्यायवाची 100 Questions",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1619062699.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531768,
+      "title": "पर्यायवाची शब्द",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1608047681-Hindi-Mock-Tests_OK.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531769,
+      "title": "विलोम शब्द 100 Questions",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1619062734.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531770,
+      "title": "विलोम शब्द",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1608047741-Hindi-Mock-Tests_(2).pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531771,
+      "title": "निपात ,अव्यय ( अविकारी शब्द ) ",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1609253712-14____avayeornipatnew.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531772,
+      "title": "अव्यय ",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1609253567-7__AvyayaPDFNEWFORMET.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531773,
+      "title": "क्रिया विशेषण ",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1609253628-13___KriyaAurVisheshan.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531774,
+      "title": "क्रियाएं",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1619510779.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531775,
+      "title": "विशेषण और विशेष्य",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1619510724.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531776,
+      "title": "संज्ञा और सर्वनाम ",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1609253514-4_SangyaAurSarvnam.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531777,
+      "title": "विदेशी शब्द",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1608050001-3-Hindi_Sahitya.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531778,
+      "title": "तत्सम एवं तद्भव, देशज, विदेशज",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1608049743-Student_copy_Tatsam_by_Arun_Sir_Hindi.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531779,
+      "title": "उपसर्ग , प्रत्यय और काल ",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1609254183-1597142886_UpsargAurPratyayAurKaalPDF.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531780,
+      "title": "उपसर्ग और प्रत्यय ",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1609254223-1594474987_UpsargAurPratyayPDF.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531781,
+      "title": "संधि विच्छेद",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1624456127-सन्धि_.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 531782,
+      "title": "वर्णमाला",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1609254514-27_varnmala.pdf",
+      "date": "05-May-2025"
+    }
+  ]
+}
