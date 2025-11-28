@@ -1,0 +1,53 @@
+{
+  "batch_id": 2656,
+  "topics": [
+    {
+      "id": 27060,
+      "topicName": "Notes"
+    },
+    {
+      "id": 27423,
+      "topicName": "Heat & Temp (Live)"
+    },
+    {
+      "id": 26958,
+      "topicName": "Electricity "
+    },
+    {
+      "id": 26959,
+      "topicName": "Safety & Health "
+    },
+    {
+      "id": 26960,
+      "topicName": "Speed & Velocity"
+    },
+    {
+      "id": 26961,
+      "topicName": "Mass, Weight & Density"
+    },
+    {
+      "id": 26962,
+      "topicName": "Work & Power "
+    },
+    {
+      "id": 26964,
+      "topicName": "Unit & Measurement"
+    },
+    {
+      "id": 26965,
+      "topicName": "Lever & Machine"
+    },
+    {
+      "id": 26966,
+      "topicName": "Enviro & Ecology"
+    },
+    {
+      "id": 26963,
+      "topicName": "Engg Drawing"
+    },
+    {
+      "id": 26967,
+      "topicName": "Comp VOD"
+    }
+  ]
+}
