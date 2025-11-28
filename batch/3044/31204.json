@@ -1,0 +1,442 @@
+{
+  "batchid": 3044,
+  "topicid": 31204,
+  "classes_total": 50,
+  "classes": [
+    {
+      "title": "Class - 60 | NUMBER SYSTEM",
+      "id": "4573015",
+      "date": "09-Oct-2025 14:00",
+      "video_url": "4573015_0_4468557079733773"
+    },
+    {
+      "title": "Class - 59 | Database",
+      "id": "4571721",
+      "date": "08-Oct-2025 14:00",
+      "video_url": "4571721_0_5827877449327332"
+    },
+    {
+      "title": "Class - 58 | Database",
+      "id": "4566102",
+      "date": "03-Oct-2025 14:00",
+      "video_url": "4566102_0_5288142293967708"
+    },
+    {
+      "title": "Class - 57 | Database",
+      "id": "4564432",
+      "date": "01-Oct-2025 14:00",
+      "video_url": "4564432_0_8970784022132365"
+    },
+    {
+      "title": "Class - 56 | Computer Security",
+      "id": "4563291",
+      "date": "30-Sep-2025 14:00",
+      "video_url": "4563291_0_1116924027631077"
+    },
+    {
+      "title": "Class - 55 | Computer Security",
+      "id": "4562306",
+      "date": "29-Sep-2025 14:00",
+      "video_url": "4562306_0_2421962449515913"
+    },
+    {
+      "title": "Class - 54 | Networking",
+      "id": "4560282",
+      "date": "26-Sep-2025 14:00",
+      "video_url": "4560282_0_2834245735698858"
+    },
+    {
+      "title": "Class - 53 | Networking",
+      "id": "4559145",
+      "date": "25-Sep-2025 14:00",
+      "video_url": "4559145_0_2628542276990291"
+    },
+    {
+      "title": "Class - 52 | Networking",
+      "id": "4557677",
+      "date": "24-Sep-2025 14:00",
+      "video_url": "4557677_0_2659904804523569"
+    },
+    {
+      "title": "Class - 51 | Networking",
+      "id": "4556591",
+      "date": "23-Sep-2025 14:00",
+      "video_url": "4556591_0_7176488108980975"
+    },
+    {
+      "title": "Class - 50 | Internet",
+      "id": "4555516",
+      "date": "22-Sep-2025 14:00",
+      "video_url": "4555516_0_6236385878408408"
+    },
+    {
+      "title": "Class - 49 | Internet",
+      "id": "4553509",
+      "date": "19-Sep-2025 14:00",
+      "video_url": "4553509_0_2175779024192907"
+    },
+    {
+      "title": "Class - 48 | Internet",
+      "id": "4552664",
+      "date": "18-Sep-2025 14:00",
+      "video_url": "4552664_0_3413088230100817"
+    },
+    {
+      "title": "Class - 47 | Internet",
+      "id": "4551634",
+      "date": "17-Sep-2025 14:00",
+      "video_url": "4551634_0_9842239116171666"
+    },
+    {
+      "title": "Class - 46 | Internet",
+      "id": "4550560",
+      "date": "16-Sep-2025 14:00",
+      "video_url": "4550560_0_5132472248189042"
+    },
+    {
+      "title": "Class - 45 | MS-OFFICE (MS-Excel)",
+      "id": "4549497",
+      "date": "15-Sep-2025 14:00",
+      "video_url": "4549497_0_8615698968247298"
+    },
+    {
+      "title": "Class - 43 | MS-OFFICE (MS-Excel)",
+      "id": "4546784",
+      "date": "11-Sep-2025 14:00",
+      "video_url": "4546784_0_7775042885951760"
+    },
+    {
+      "title": "Class - 42 | MS-OFFICE (MS-Excel)",
+      "id": "4544884",
+      "date": "09-Sep-2025 14:00",
+      "video_url": "4544884_0_4813198352246454"
+    },
+    {
+      "title": "Class - 41 | MS-OFFICE (MS-Excel)",
+      "id": "4543886",
+      "date": "08-Sep-2025 14:00",
+      "video_url": "4543886_0_5828290821061192"
+    },
+    {
+      "title": "Class-40 | MS-OFFICE (MS-Excel)",
+      "id": "4540924",
+      "date": "04-Sep-2025 14:00",
+      "video_url": "4540924_0_3988590732982495"
+    },
+    {
+      "title": "Class-39 | MS-OFFICE (MS-Excel)",
+      "id": "4538912",
+      "date": "03-Sep-2025 14:00",
+      "video_url": "4538912_0_7947686535388696"
+    },
+    {
+      "title": "Class-38 | MS-OFFICE (MS-Excel)",
+      "id": "4537606",
+      "date": "02-Sep-2025 14:00",
+      "video_url": "4537606_0_2851314458033147"
+    },
+    {
+      "title": "Class-37 | MS-OFFICE (MS-Excel)",
+      "id": "4536535",
+      "date": "01-Sep-2025 14:00",
+      "video_url": "4536535_0_1087010698954994"
+    },
+    {
+      "title": "Class-36 | MS-OFFICE (MS-WORD)",
+      "id": "4534453",
+      "date": "29-Aug-2025 14:00",
+      "video_url": "4534453_0_7879979266032406"
+    },
+    {
+      "title": "Class-36 | MS-OFFICE (MS-WORD)",
+      "id": "4533306",
+      "date": "28-Aug-2025 14:00",
+      "video_url": "4533306_0_7054596513017627"
+    },
+    {
+      "title": "Class-35 | MS-OFFICE (MS-WORD)",
+      "id": "4532077",
+      "date": "27-Aug-2025 14:00",
+      "video_url": "4532077_0_7685301406573171"
+    },
+    {
+      "title": "Class-34 | MS-OFFICE (MS-WORD)",
+      "id": "4530786",
+      "date": "26-Aug-2025 13:30",
+      "video_url": "4530786_0_4401585232618713"
+    },
+    {
+      "title": "Class-33 | MS-OFFICE (MS-WORD)",
+      "id": "4529650",
+      "date": "25-Aug-2025 14:00",
+      "video_url": "4529650_0_3518162717183321"
+    },
+    {
+      "title": "Class-32 | MS-OFFICE (MS-WORD)",
+      "id": "4527366",
+      "date": "22-Aug-2025 14:00",
+      "video_url": "4527366_0_4371333893608305"
+    },
+    {
+      "title": "Class-31 | MS-OFFICE (MS-WORD)",
+      "id": "4526331",
+      "date": "21-Aug-2025 14:00",
+      "video_url": "4526331_0_9940161270459929"
+    },
+    {
+      "title": "Class-30 | MS-OFFICE (MS-WORD)",
+      "id": "4525132",
+      "date": "20-Aug-2025 14:00",
+      "video_url": "4525132_0_3586937572406559"
+    },
+    {
+      "title": "Class-29 | MS-OFFICE (MS-WORD)",
+      "id": "4524047",
+      "date": "19-Aug-2025 14:00",
+      "video_url": "4524047_0_4283718680971076"
+    },
+    {
+      "title": "Class-28 | FILE EXT, FULL FORMS & SHORTCUT KEYS",
+      "id": "4522919",
+      "date": "18-Aug-2025 14:00",
+      "video_url": "4522919_0_7616561275615322"
+    },
+    {
+      "title": "Class-27 | Microsoft Windows",
+      "id": "4519070",
+      "date": "13-Aug-2025 10:00",
+      "video_url": "4519070_0_9856488914919642"
+    },
+    {
+      "title": "Class-26 | Microsoft Windows",
+      "id": "4517695",
+      "date": "12-Aug-2025 10:00",
+      "video_url": "4517695_0_1891307174623898"
+    },
+    {
+      "title": "Class-25 | Computer Software",
+      "id": "4512012",
+      "date": "04-Aug-2025 14:00",
+      "video_url": "4512012_0_6008053649973899"
+    },
+    {
+      "title": "Class-24 | Computer Software",
+      "id": "4506593",
+      "date": "01-Aug-2025 14:00",
+      "video_url": "4506593_0_3752186609425350"
+    },
+    {
+      "title": "Class-23 | Computer Software",
+      "id": "4505218",
+      "date": "31-Jul-2025 14:00",
+      "video_url": "4505218_0_2821632001812476"
+    },
+    {
+      "title": "Class-22 | Computer Software",
+      "id": "4503925",
+      "date": "30-Jul-2025 14:00",
+      "video_url": "4503925_0_7683903432098797"
+    },
+    {
+      "title": "Class-21 | Computer Hardware",
+      "id": "4493545",
+      "date": "25-Jul-2025 14:00",
+      "video_url": "4493545_0_6119619221846870"
+    },
+    {
+      "title": "Class-20 | Computer Hardware",
+      "id": "4492301",
+      "date": "24-Jul-2025 14:00",
+      "video_url": "4492301_0_7727793672593048"
+    },
+    {
+      "title": "Class-19 | Computer Hardware",
+      "id": "4487681",
+      "date": "21-Jul-2025 14:00",
+      "video_url": "4487681_0_2437010754902248"
+    },
+    {
+      "title": "Class-18 | Computer Hardware",
+      "id": "4485694",
+      "date": "18-Jul-2025 14:00",
+      "video_url": "4485694_0_8173851813561102"
+    },
+    {
+      "title": "Class-17 | Computer Hardware",
+      "id": "4484668",
+      "date": "17-Jul-2025 14:00",
+      "video_url": "4484668_0_9890831908001659"
+    },
+    {
+      "title": "Class-16 | Computer Hardware",
+      "id": "4483697",
+      "date": "16-Jul-2025 14:00",
+      "video_url": "4483697_0_9349892547893258"
+    },
+    {
+      "title": "Class-15 | Computer Hardware",
+      "id": "4482614",
+      "date": "15-Jul-2025 14:00",
+      "video_url": "4482614_0_9482464966990695"
+    },
+    {
+      "title": "Class-14 | His & Gen of Computer",
+      "id": "4481547",
+      "date": "14-Jul-2025 14:00",
+      "video_url": "4481547_0_2812670646786556"
+    },
+    {
+      "title": "Class-13 | His & Gen of Computer",
+      "id": "4479790",
+      "date": "11-Jul-2025 14:00",
+      "video_url": "4479790_0_7600221250146984"
+    },
+    {
+      "title": "Class-12 | His & Gen of Computer",
+      "id": "4478768",
+      "date": "10-Jul-2025 14:00",
+      "video_url": "4478768_0_6914042970304813"
+    },
+    {
+      "title": "Class-10 | Memory Units",
+      "id": "4475681",
+      "date": "07-Jul-2025 14:00",
+      "video_url": "4475681_0_1445544162440896"
+    }
+  ],
+  "notes_total": 22,
+  "notes": [
+    {
+      "id": 585450,
+      "title": "MS-EXCEL MCQs (English + Hindi)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1657712754-MS-EXCEL_MCQs_(ENGLISH_+_HINDI).pdf",
+      "date": "04-Jul-2025"
+    },
+    {
+      "id": 585449,
+      "title": "MS-WORD MCQs (English + Hindi)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1657712754-MS-WORD_MCQs_(ENGLISH_+_HINDI).pdf",
+      "date": "04-Jul-2025"
+    },
+    {
+      "id": 585448,
+      "title": "File Extensions",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1657712754-FILE_EXTENSIONS.pdf",
+      "date": "04-Jul-2025"
+    },
+    {
+      "id": 585447,
+      "title": "Google Chrome Shortcut Keys",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1657712754-GOOGLE_CHROME_SHORTCUT_KEYS.pdf",
+      "date": "04-Jul-2025"
+    },
+    {
+      "id": 585446,
+      "title": "MS-PPT Shortcut Keys",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1657712513-MS-PPT_SHORTCUT_KEYS.pdf",
+      "date": "04-Jul-2025"
+    },
+    {
+      "id": 585445,
+      "title": "MS-Excel Shortcut Keys ",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1657712513-MS-EXCEL_SHORTCUT_KEYS.pdf",
+      "date": "04-Jul-2025"
+    },
+    {
+      "id": 585444,
+      "title": "MS-Word Shortcut Keys",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1657712513-MS-WORD_SHORTCUT_KEYS.pdf",
+      "date": "04-Jul-2025"
+    },
+    {
+      "id": 585443,
+      "title": "Windows Shortcut Keys",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1657712513-WINDOWS_SHORTCUT_KEYS.pdf",
+      "date": "04-Jul-2025"
+    },
+    {
+      "id": 585442,
+      "title": "Full Forms",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1657712513-FULL_FORMS.pdf",
+      "date": "04-Jul-2025"
+    },
+    {
+      "id": 585441,
+      "title": "History & Generation of Computer (English + Hindi)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1657712513-History_Generation_of_Computer_(ENGLISH_+_HINDI).pdf",
+      "date": "04-Jul-2025"
+    },
+    {
+      "id": 585440,
+      "title": "2000 MCQs (English)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1657712313-2000_MCQs_(ENGLISH)_compressed.pdf",
+      "date": "04-Jul-2025"
+    },
+    {
+      "id": 585439,
+      "title": "1000 MCQs (Hindi)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1657712196-1000_MCQs_(HINDI).pdf",
+      "date": "04-Jul-2025"
+    },
+    {
+      "id": 585438,
+      "title": "1000 MCQs (English)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1657712196-1000_MCQs_(ENGLISH).pdf",
+      "date": "04-Jul-2025"
+    },
+    {
+      "id": 585437,
+      "title": "MCQs Set - 9 (Hindi + English)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1657712147-MCQs_SET-9_(HINDI_+_ENGLISH).pdf",
+      "date": "04-Jul-2025"
+    },
+    {
+      "id": 585436,
+      "title": "MCQs Set - 8 (Hindi + English)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1657712121-MCQs_SET-8_(HINDI_+_ENGLISH).pdf",
+      "date": "04-Jul-2025"
+    },
+    {
+      "id": 585435,
+      "title": "MCQs Set - 7 (Hindi + English)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1657712121-MCQs_SET-7_(HINDI_+_ENGLISH).pdf",
+      "date": "04-Jul-2025"
+    },
+    {
+      "id": 585434,
+      "title": "MCQs Set - 6 (Hindi + English)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1657712121-MCQs_SET-6_(HINDI_+_ENGLISH).pdf",
+      "date": "04-Jul-2025"
+    },
+    {
+      "id": 585433,
+      "title": "MCQs Set - 5 (Hindi + English)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1657712084-MCQs_SET-5_(HINDI_+_ENGLISH).pdf",
+      "date": "04-Jul-2025"
+    },
+    {
+      "id": 585432,
+      "title": "MCQs Set - 4 (Hindi + English)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1657712084-MCQs_SET-4_(HINDI_+_ENGLISH).pdf",
+      "date": "04-Jul-2025"
+    },
+    {
+      "id": 585431,
+      "title": "MCQs Set - 3 (Hindi + English)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1657712084-MCQs_SET-3_(HINDI_+_ENGLISH).pdf",
+      "date": "04-Jul-2025"
+    },
+    {
+      "id": 585430,
+      "title": "MCQs Set - 2 (Hindi + English)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1657712084-MCQs_SET-2_(HINDI_+_ENGLISH).pdf",
+      "date": "04-Jul-2025"
+    },
+    {
+      "id": 585429,
+      "title": "MCQs Set - 1 (Hindi + English)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1657712084-MCQs_SET-1_(HINDI_+_ENGLISH).pdf",
+      "date": "04-Jul-2025"
+    }
+  ]
+}
