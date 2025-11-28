@@ -1,0 +1,37 @@
+{
+  "batch_id": 2613,
+  "topics": [
+    {
+      "id": 26591,
+      "topicName": "History"
+    },
+    {
+      "id": 26853,
+      "topicName": "Economy"
+    },
+    {
+      "id": 27469,
+      "topicName": "Static GK"
+    },
+    {
+      "id": 28603,
+      "topicName": "Geography"
+    },
+    {
+      "id": 28661,
+      "topicName": "Polity"
+    },
+    {
+      "id": 29379,
+      "topicName": "Physics"
+    },
+    {
+      "id": 29380,
+      "topicName": "Chemistry"
+    },
+    {
+      "id": 29381,
+      "topicName": "Biology"
+    }
+  ]
+}
