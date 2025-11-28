@@ -1,0 +1,1672 @@
+{
+  "batchid": 2707,
+  "topicid": 27565,
+  "classes_total": 85,
+  "classes": [
+    {
+      "title": "Class-91 | Inflation",
+      "id": "4451160",
+      "date": "26-May-2025 10:00",
+      "video_url": "4451160_0_8594946329076952"
+    },
+    {
+      "title": "Class-90 | Inflation",
+      "id": "4451159",
+      "date": "24-May-2025 09:00",
+      "video_url": "4451159_0_9752091767074559"
+    },
+    {
+      "title": "Class-89 | Inflation",
+      "id": "4451158",
+      "date": "23-May-2025 10:00",
+      "video_url": "4451158_0_6328236207118408"
+    },
+    {
+      "title": "Class-87 | Inflation",
+      "id": "4451156",
+      "date": "21-May-2025 09:00",
+      "video_url": "4451156_0_1499745261270954"
+    },
+    {
+      "title": "Class-86 | Inflation",
+      "id": "4451155",
+      "date": "20-May-2025 17:43",
+      "video_url": "4451155_0_9317970910914606"
+    },
+    {
+      "title": "Class-85 | Inflation",
+      "id": "4451154",
+      "date": "20-May-2025 17:42",
+      "video_url": "4451154_0_2290282968829666"
+    },
+    {
+      "title": "Class-84 | Monetary Policy",
+      "id": "4451153",
+      "date": "20-May-2025 10:00",
+      "video_url": "4451153_0_5502111533431327"
+    },
+    {
+      "title": "Class-83 | Monetary Policy",
+      "id": "4451152",
+      "date": "16-May-2025 10:00",
+      "video_url": "4451152_0_7850849743629389"
+    },
+    {
+      "title": "Class-82 | Financial Market",
+      "id": "4451151",
+      "date": "15-May-2025 10:00",
+      "video_url": "4451151_0_7234948047455205"
+    },
+    {
+      "title": "Class-81 | Financial Market",
+      "id": "4451150",
+      "date": "14-May-2025 10:00",
+      "video_url": "4451150_0_3026537018187796"
+    },
+    {
+      "title": "Class-80 | Financial Market",
+      "id": "4451149",
+      "date": "13-May-2025 10:00",
+      "video_url": "4451149_0_2611223749484839"
+    },
+    {
+      "title": "Class-79 | Financial Market",
+      "id": "4451148",
+      "date": "12-May-2025 10:00",
+      "video_url": "4451148_0_8849768324483343"
+    },
+    {
+      "title": "Class-78 | Banking System",
+      "id": "4451147",
+      "date": "09-May-2025 10:00",
+      "video_url": "4451147_0_5218768349648735"
+    },
+    {
+      "title": "Class-77 | Banking System",
+      "id": "4451146",
+      "date": "08-May-2025 10:00",
+      "video_url": "4451146_0_6764945656704587"
+    },
+    {
+      "title": "Class-76 | Banking System",
+      "id": "4451145",
+      "date": "07-May-2025 10:00",
+      "video_url": "4451145_0_8806127751597889"
+    },
+    {
+      "title": "Class-75 | Banking System",
+      "id": "4451144",
+      "date": "06-May-2025 09:30",
+      "video_url": "4451144_0_5890421268217192"
+    },
+    {
+      "title": "Class-74 | Banking System",
+      "id": "4451143",
+      "date": "05-May-2025 09:30",
+      "video_url": "4451143_0_7816054716259213"
+    },
+    {
+      "title": "Class-73 | Priority Sector Lending",
+      "id": "4451142",
+      "date": "02-May-2025 10:00",
+      "video_url": "4451142_0_6054034415097159"
+    },
+    {
+      "title": "Class-72 | Cheque & Demand Draft",
+      "id": "4451141",
+      "date": "01-May-2025 10:00",
+      "video_url": "4451141_0_6972755201351497"
+    },
+    {
+      "title": "Class-71 | Money Supply",
+      "id": "4451140",
+      "date": "30-Apr-2025 10:00",
+      "video_url": "4451140_0_2069009259020667"
+    },
+    {
+      "title": "Class-70 | Money",
+      "id": "4451139",
+      "date": "29-Apr-2025 10:00",
+      "video_url": "4451139_0_2360526648603112"
+    },
+    {
+      "title": "Class-69 | RBI",
+      "id": "4451138",
+      "date": "28-Apr-2025 10:00",
+      "video_url": "4451138_0_7661857903867361"
+    },
+    {
+      "title": "Class-68 | Taxation",
+      "id": "4451137",
+      "date": "25-Apr-2025 10:00",
+      "video_url": "4451137_0_2331512384265546"
+    },
+    {
+      "title": "Class-66 | Taxation",
+      "id": "4451136",
+      "date": "21-Apr-2025 10:00",
+      "video_url": "4451136_0_4926561588035548"
+    },
+    {
+      "title": "Class-65 | Taxation",
+      "id": "4451135",
+      "date": "18-Apr-2025 10:00",
+      "video_url": "4451135_0_2456352739969036"
+    },
+    {
+      "title": "Class-64 | Taxation",
+      "id": "4451134",
+      "date": "17-Apr-2025 10:00",
+      "video_url": "4451134_0_6914697454061695"
+    },
+    {
+      "title": "Class-63 | Finance Commission",
+      "id": "4451133",
+      "date": "16-Apr-2025 10:00",
+      "video_url": "4451133_0_8981830777662212"
+    },
+    {
+      "title": "Class-62 | Budget",
+      "id": "4451132",
+      "date": "15-Apr-2025 09:30",
+      "video_url": "4451132_0_7638389999054739"
+    },
+    {
+      "title": "Class-61 | Budget",
+      "id": "4451131",
+      "date": "14-Apr-2025 11:00",
+      "video_url": "4451131_0_2173627802333208"
+    },
+    {
+      "title": "Class-60 | Budget",
+      "id": "4451130",
+      "date": "11-Apr-2025 10:00",
+      "video_url": "4451130_0_2541972522268032"
+    },
+    {
+      "title": "Class-59 | Budget",
+      "id": "4451129",
+      "date": "10-Apr-2025 10:00",
+      "video_url": "4451129_0_3167184323904376"
+    },
+    {
+      "title": "Class-58 | Statistics",
+      "id": "4448163",
+      "date": "04-Apr-2025 10:00",
+      "video_url": "4448163_0_7981910522014800"
+    },
+    {
+      "title": "Class-57 | Statistics",
+      "id": "4448162",
+      "date": "03-Apr-2025 10:00",
+      "video_url": "4448162_0_2870095057986001"
+    },
+    {
+      "title": "Class-56 | Statistics",
+      "id": "4448161",
+      "date": "02-Apr-2025 10:00",
+      "video_url": "4448161_0_3113344858695144"
+    },
+    {
+      "title": "Class-55 | Cobb Douglas & Monetary Institution",
+      "id": "4448160",
+      "date": "01-Apr-2025 10:00",
+      "video_url": "4448160_0_5505515161150296"
+    },
+    {
+      "title": "Class-54 | Production",
+      "id": "4448159",
+      "date": "30-Mar-2025 09:00",
+      "video_url": "4448159_0_2554928835726170"
+    },
+    {
+      "title": "Class-53 | Cost",
+      "id": "4448158",
+      "date": "29-Mar-2025 10:00",
+      "video_url": "4448158_0_3175386310489500"
+    },
+    {
+      "title": "Class-52 | Revenue",
+      "id": "4448157",
+      "date": "26-Mar-2025 10:00",
+      "video_url": "4448157_0_1328835732241507"
+    },
+    {
+      "title": "Class-51 | Market",
+      "id": "4448156",
+      "date": "25-Mar-2025 10:00",
+      "video_url": "4448156_0_5139735092428002"
+    },
+    {
+      "title": "Class-50 | Market",
+      "id": "4448155",
+      "date": "24-Mar-2025 10:00",
+      "video_url": "4448155_0_6950811496796910"
+    },
+    {
+      "title": "Class-49 | Elasticity of Demand & Supply",
+      "id": "4448154",
+      "date": "21-Mar-2025 10:00",
+      "video_url": "4448154_0_2919056042969457"
+    },
+    {
+      "title": "Class-48 | Elasticity of Demand & Supply",
+      "id": "4448153",
+      "date": "20-Mar-2025 10:00",
+      "video_url": "4448153_0_3434457055265778"
+    },
+    {
+      "title": "Class-47 | Elasticity of Demand & Supply",
+      "id": "4448152",
+      "date": "19-Mar-2025 10:00",
+      "video_url": "4448152_0_6501408645704101"
+    },
+    {
+      "title": "Class-46 | Demand & Supply",
+      "id": "4448151",
+      "date": "18-Mar-2025 10:00",
+      "video_url": "4448151_0_7372361427977686"
+    },
+    {
+      "title": "Class-45 | Demand & Supply",
+      "id": "4448150",
+      "date": "17-Mar-2025 10:00",
+      "video_url": "4448150_0_4081755221147205"
+    },
+    {
+      "title": "Class-44 | Public, Private & Merit Goods",
+      "id": "4448149",
+      "date": "13-Mar-2025 10:00",
+      "video_url": "4448149_0_7220156247274998"
+    },
+    {
+      "title": "Class-43 | Wisemen Peacock/Rostow Growth/Trade Cycle",
+      "id": "4448148",
+      "date": "11-Mar-2025 10:00",
+      "video_url": "4448148_0_9008213104981096"
+    },
+    {
+      "title": "Class-42 | Price, Income & Substitution Effect",
+      "id": "4448147",
+      "date": "10-Mar-2025 13:00",
+      "video_url": "4448147_0_4379159852133342"
+    },
+    {
+      "title": "Class-41 | PPC & Isoquant Curve",
+      "id": "4448146",
+      "date": "07-Mar-2025 10:00",
+      "video_url": "4448146_0_1304585731207303"
+    },
+    {
+      "title": "Class-40 |  Indifference Curve",
+      "id": "4448145",
+      "date": "06-Mar-2025 11:15",
+      "video_url": "4448145_0_1226952309263879"
+    },
+    {
+      "title": "Class-39 | Gini/Lorenz/Say Law",
+      "id": "4448144",
+      "date": "05-Mar-2025 11:15",
+      "video_url": "4448144_0_7608942823875296"
+    },
+    {
+      "title": "Class-37 | Okun/Engel/Wagner/Gresham Law",
+      "id": "4448143",
+      "date": "03-Mar-2025 11:15",
+      "video_url": "4448143_0_7387224462159011"
+    },
+    {
+      "title": "Class-36 | Utility Theory",
+      "id": "4448142",
+      "date": "28-Feb-2025 11:15",
+      "video_url": "4448142_0_6148806852170580"
+    },
+    {
+      "title": "Class-34 | Interest Theory",
+      "id": "4448141",
+      "date": "26-Feb-2025 11:13",
+      "video_url": "4448141_0_7993480559351649"
+    },
+    {
+      "title": "Class-33 | Wage Theory",
+      "id": "4448140",
+      "date": "25-Feb-2025 11:00",
+      "video_url": "4448140_0_1083134444599849"
+    },
+    {
+      "title": "Class-32 | Theory of Profit",
+      "id": "4448139",
+      "date": "24-Feb-2025 11:00",
+      "video_url": "4448139_0_1354468864531558"
+    },
+    {
+      "title": "Class-31 | Demography of India",
+      "id": "4448138",
+      "date": "21-Feb-2025 11:00",
+      "video_url": "4448138_0_5228753435749826"
+    },
+    {
+      "title": "Class-29 | Poverty & Unemployment MCQ",
+      "id": "4448137",
+      "date": "19-Feb-2025 11:00",
+      "video_url": "4448137_0_7644661453009826"
+    },
+    {
+      "title": "Class-28 | Unemployment",
+      "id": "4448136",
+      "date": "18-Feb-2025 16:30",
+      "video_url": "4448136_0_1494317758605422"
+    },
+    {
+      "title": "Class-27 | Poverty",
+      "id": "4448135",
+      "date": "17-Feb-2025 18:30",
+      "video_url": "4448135_0_5356284147453599"
+    },
+    {
+      "title": "Class-26 | Balance of Payment",
+      "id": "4448134",
+      "date": "14-Feb-2025 11:00",
+      "video_url": "4448134_0_5408159424443446"
+    },
+    {
+      "title": "Class-25 | Balance of Payment",
+      "id": "4448133",
+      "date": "13-Feb-2025 11:00",
+      "video_url": "4448133_0_2194092289909998"
+    },
+    {
+      "title": "Class-24 | Balance of Payment",
+      "id": "4448132",
+      "date": "12-Feb-2025 11:00",
+      "video_url": "4448132_0_8971280914553127"
+    },
+    {
+      "title": "Class-23 | Maharatna & Navratna",
+      "id": "4448131",
+      "date": "10-Feb-2025 11:00",
+      "video_url": "4448131_0_5390613613007837"
+    },
+    {
+      "title": "Class-22 | SEZ/PDS/KCC/RIDF",
+      "id": "4448130",
+      "date": "08-Feb-2025 11:00",
+      "video_url": "4448130_0_3503480070536291"
+    },
+    {
+      "title": "Class-21 | CSR/MSP/MSME",
+      "id": "4448129",
+      "date": "07-Feb-2025 11:00",
+      "video_url": "4448129_0_7755302247264696"
+    },
+    {
+      "title": "Class-19 | Economic Planning",
+      "id": "4448128",
+      "date": "03-Feb-2025 11:00",
+      "video_url": "4448128_0_1335917932995205"
+    },
+    {
+      "title": "Class-18 | Economic Planning",
+      "id": "4448127",
+      "date": "31-Jan-2025 11:00",
+      "video_url": "4448127_0_7655266022431558"
+    },
+    {
+      "title": "Class-17 | Economic Planning",
+      "id": "4445437",
+      "date": "30-Jan-2025 11:00",
+      "video_url": "4445437_0_6920382371970088"
+    },
+    {
+      "title": "Class-16 | National Income",
+      "id": "4445435",
+      "date": "28-Jan-2025 11:00",
+      "video_url": "4445435_0_4214632068341527"
+    },
+    {
+      "title": "Class-15 | National Income",
+      "id": "4445433",
+      "date": "27-Jan-2025 11:00",
+      "video_url": "4445433_0_8501018843094338"
+    },
+    {
+      "title": "Class-14 | National Income",
+      "id": "4445430",
+      "date": "24-Jan-2025 11:00",
+      "video_url": "4445430_0_2972607974201571"
+    },
+    {
+      "title": "Class-13 | Branches of Economics",
+      "id": "4451128",
+      "date": "23-Jan-2025 12:30",
+      "video_url": "4451128_0_3480262567257342"
+    },
+    {
+      "title": "Class-12 | Branches of Economics",
+      "id": "4451127",
+      "date": "22-Jan-2025 12:30",
+      "video_url": "4451127_0_7286373372323052"
+    },
+    {
+      "title": "Class-11 | Types of Sectors",
+      "id": "4444900",
+      "date": "21-Jan-2025 11:00",
+      "video_url": "4444900_0_5168746634367198"
+    },
+    {
+      "title": "Class-10 | Types of Economy",
+      "id": "4444899",
+      "date": "20-Jan-2025 11:30",
+      "video_url": "4444899_0_8203105435074062"
+    },
+    {
+      "title": "Class-09 | Eco | Types of Economy",
+      "id": "4444898",
+      "date": "17-Jan-2025 11:30",
+      "video_url": "4444898_0_4988563478225232"
+    },
+    {
+      "title": "Class-08 | Eco | Stock & Flow",
+      "id": "4451126",
+      "date": "16-Jan-2025 11:00",
+      "video_url": "4451126_0_4097978740283463"
+    },
+    {
+      "title": "Class-07 | Eco | Development Index",
+      "id": "4451125",
+      "date": "15-Jan-2025 11:00",
+      "video_url": "4451125_0_4723832208875368"
+    },
+    {
+      "title": "Class-06 | Eco | Economic Growth & Development",
+      "id": "4451124",
+      "date": "14-Jan-2025 11:00",
+      "video_url": "4451124_0_7200509432198719"
+    },
+    {
+      "title": "Class-05 | Eco | Inject & Leakage of Economy",
+      "id": "4451123",
+      "date": "13-Jan-2025 11:00",
+      "video_url": "4451123_0_9384923208430200"
+    },
+    {
+      "title": "Class-04 | Eco | Circular Flow of Economy",
+      "id": "4451122",
+      "date": "10-Jan-2025 11:00",
+      "video_url": "4451122_0_7507500735672861"
+    },
+    {
+      "title": "Class-03 | Eco | Basic of Economics",
+      "id": "4451121",
+      "date": "09-Jan-2025 12:15",
+      "video_url": "4451121_0_9670455671193335"
+    },
+    {
+      "title": "Class-02 | Eco |  Basic of Economics",
+      "id": "4451120",
+      "date": "08-Jan-2025 11:00",
+      "video_url": "4451120_0_4299448286597056"
+    },
+    {
+      "title": "Class-01 | Eco | Syllabus & Strategy",
+      "id": "4451119",
+      "date": "07-Jan-2025 11:00",
+      "video_url": "4451119_0_1459344041187943"
+    }
+  ],
+  "notes_total": 192,
+  "notes": [
+    {
+      "id": 643061,
+      "title": "Unit 13 Practice Sheet English",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b174af29c53_Taxation.pdf",
+      "date": "29-Aug-2025"
+    },
+    {
+      "id": 643056,
+      "title": "Unit 13 Practice Sheet Hindi",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b17479ad04d_Unit13_Taxation.pdf",
+      "date": "29-Aug-2025"
+    },
+    {
+      "id": 639776,
+      "title": "Unit 12 Practice Sheet English",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68ad7560569eb_Monetary_Policy.pdf",
+      "date": "26-Aug-2025"
+    },
+    {
+      "id": 639769,
+      "title": "Unit 12 Practice Sheet Hindi",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68ad7528deafc_Unit12_Monetary_policy.pdf",
+      "date": "26-Aug-2025"
+    },
+    {
+      "id": 636991,
+      "title": "Economy Hindi Full Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67a08f24e4401_Economics_Important_facts_Hindi_done.pdf",
+      "date": "21-Aug-2025"
+    },
+    {
+      "id": 636990,
+      "title": "Economy Full Notes English",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/679d74fb0a965_Economics_Important_facts_final_Englishcompressed.pdf",
+      "date": "21-Aug-2025"
+    },
+    {
+      "id": 635059,
+      "title": "Unit 11 Practice Sheet Hindi",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a56c0e3a903_Unit11_Budget.pdf",
+      "date": "20-Aug-2025"
+    },
+    {
+      "id": 635057,
+      "title": "Unit 11 Practice Sheet English",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a56bd11eabd_Budget.pdf",
+      "date": "20-Aug-2025"
+    },
+    {
+      "id": 621376,
+      "title": "Unit 10 Practice Sheet English",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/689ad6c30865d_Poverty_Unemployment.pdf",
+      "date": "12-Aug-2025"
+    },
+    {
+      "id": 621374,
+      "title": "Unit 10 Practice Sheet Hindi",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/689ad67d52e6e_Unit2_Poverty_Unemployment2.pdf",
+      "date": "12-Aug-2025"
+    },
+    {
+      "id": 619306,
+      "title": "Unit 9 Practice Sheet Hindi",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/689594a20d93d_Unit3_Economic_Planning.pdf",
+      "date": "08-Aug-2025"
+    },
+    {
+      "id": 619301,
+      "title": "Unit 9 Practice Sheet English",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6895942e2e82e_Unit3_Economics_Planning.pdf",
+      "date": "08-Aug-2025"
+    },
+    {
+      "id": 619283,
+      "title": "Unit 7 Practice Sheet hindi",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/689591ecf02c6_Unit7_Economic_Theory_Part1.pdf",
+      "date": "08-Aug-2025"
+    },
+    {
+      "id": 619278,
+      "title": "Unit 7 Practice Sheet English",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/689591baeab7a_Unit7_Economic_Theory_Part1_Student_Copy.pdf",
+      "date": "08-Aug-2025"
+    },
+    {
+      "id": 593155,
+      "title": "Unit 6 Practice Sheet English",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/687236d78883e_Unit_6_Economic_Law_Curve_Ebook.pdf",
+      "date": "12-Jul-2025"
+    },
+    {
+      "id": 593151,
+      "title": "Unit 5 Practice Sheet English",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/687236a310f44_Unit5Market_Structure_Ebook.pdf",
+      "date": "12-Jul-2025"
+    },
+    {
+      "id": 586762,
+      "title": "Unit-5&6 (Market Structure Practice Sheet, Economic Law & Curve Practice Sheet)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6868c0b9121ed_ilovepdfmerged_39.pdf",
+      "date": "05-Jul-2025"
+    },
+    {
+      "id": 570684,
+      "title": "Unit 3 Production Practice Sheet English",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6850fc21d39af_Production_Theory_S.pdf",
+      "date": "17-Jun-2025"
+    },
+    {
+      "id": 570090,
+      "title": "Unit 4 Cost & Revenue Practice Sheet Hindi",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/684fa8526603f_Unit4Cost_Revenue_Theory.pdf",
+      "date": "16-Jun-2025"
+    },
+    {
+      "id": 570084,
+      "title": "Unit 3 Production Practice Sheet Hindi",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/684fa8097fb37_Unit3Production_Theory.pdf",
+      "date": "16-Jun-2025"
+    },
+    {
+      "id": 561554,
+      "title": "Unit 1 Practice Sheet English",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/683e8838e2ce5_Unit_1_Practice_Sheet_English.pdf",
+      "date": "03-Jun-2025"
+    },
+    {
+      "id": 561549,
+      "title": "Unit 1 Practice Sheet Hindi",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/683e87e27dd74_Unit_1_Practice_Sheet_Hindi.pdf",
+      "date": "03-Jun-2025"
+    },
+    {
+      "id": 553557,
+      "title": "Eco | 26 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68357b039a6aa_26may_10amcompressed.pdf",
+      "date": "27-May-2025"
+    },
+    {
+      "id": 552141,
+      "title": "Eco | 24 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6834107aacc41_24may_9amcompressed.pdf",
+      "date": "26-May-2025"
+    },
+    {
+      "id": 550262,
+      "title": "Eco | 22 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68302199147d2_22may_12pmcompressed.pdf",
+      "date": "23-May-2025"
+    },
+    {
+      "id": 549598,
+      "title": "Eco | 21 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/682eeace6d96e_21may_9amcompressed.pdf",
+      "date": "22-May-2025"
+    },
+    {
+      "id": 548736,
+      "title": "Eco | 20 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/682d70a3d9389_ilovepdfmerged_25.pdf",
+      "date": "21-May-2025"
+    },
+    {
+      "id": 548733,
+      "title": "Eco | 20 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/682d702beada5_20may_10amcompressed.pdf",
+      "date": "21-May-2025"
+    },
+    {
+      "id": 543740,
+      "title": "Eco | 8,16 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6826e74a3d5a3_R1016may_10ammergedcompressed.pdf",
+      "date": "16-May-2025"
+    },
+    {
+      "id": 541857,
+      "title": "Eco | 15 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6825ac77d41a8_15may_10am_rashid_sir.pdf",
+      "date": "15-May-2025"
+    },
+    {
+      "id": 541577,
+      "title": "Eco | 14 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/682570bcd2dd1_14may_10amcompressed.pdf",
+      "date": "15-May-2025"
+    },
+    {
+      "id": 541572,
+      "title": "Eco | 13 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/682570360061a_13may_10amcompressed.pdf",
+      "date": "15-May-2025"
+    },
+    {
+      "id": 538423,
+      "title": "Eco | 9-12 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6821993cbf2cf_9may_10ammergedcompressed.pdf",
+      "date": "12-May-2025"
+    },
+    {
+      "id": 534923,
+      "title": "Economics Famous Books",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/681d8b65b0870_Economics_Famous_Books_ss.pdf",
+      "date": "09-May-2025"
+    },
+    {
+      "id": 534920,
+      "title": "Eco | 7 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/681d8b1ff2c8e_7may_10am.pdf",
+      "date": "09-May-2025"
+    },
+    {
+      "id": 532774,
+      "title": "Eco | 6 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6819f2aea9b40_6may_10am.pdf",
+      "date": "06-May-2025"
+    },
+    {
+      "id": 532768,
+      "title": "Eco | 5 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6819f240916cf_Rashid_Sir_09.30_AM_05Maycompressed.pdf",
+      "date": "06-May-2025"
+    },
+    {
+      "id": 532760,
+      "title": "Priority Sector Lending Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6819f1fb9a110_Priority_Sector_Lending_recordingcompressed.pdf",
+      "date": "06-May-2025"
+    },
+    {
+      "id": 532739,
+      "title": "Cheque & DD Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6819f175aa954_Cheque_DD_Recording.pdf",
+      "date": "06-May-2025"
+    },
+    {
+      "id": 532218,
+      "title": "Money Supply Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6818a9c416088_30_april_10amcompressed.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 532216,
+      "title": "Money Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6818a944ba8c6_Rashid_Sir_10.00_AM_29April.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 532214,
+      "title": "RBI Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6818a9143e50c_RBI_Recording_23marchcompressed.pdf",
+      "date": "05-May-2025"
+    },
+    {
+      "id": 526434,
+      "title": "Eco | 25 April | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/680b47495f220_Rashid_Sir_10.00_AM_25April.pdf",
+      "date": "25-Apr-2025"
+    },
+    {
+      "id": 523105,
+      "title": "Eco | 22 April | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68078120b0282_22april_10am.pdf",
+      "date": "22-Apr-2025"
+    },
+    {
+      "id": 522649,
+      "title": "Eco | 21 April | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6807430a4ef93_21april_10am.pdf",
+      "date": "22-Apr-2025"
+    },
+    {
+      "id": 522642,
+      "title": "Eco | 18 April | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6807427cf2a13_18april_10am.pdf",
+      "date": "22-Apr-2025"
+    },
+    {
+      "id": 521022,
+      "title": "17 April 2025 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6801e851624e0_17april_10amcompressed.pdf",
+      "date": "18-Apr-2025"
+    },
+    {
+      "id": 520998,
+      "title": "16 April 2025 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6801e1cf3f301_16april_10amcompressed.pdf",
+      "date": "18-Apr-2025"
+    },
+    {
+      "id": 520994,
+      "title": "15 April 2025 Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6801e0e846902_Rashid_Sir_09.30_AM_15April.pdf",
+      "date": "18-Apr-2025"
+    },
+    {
+      "id": 519661,
+      "title": "Eco | 14 April | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67fcf9e14cda7_Rashid_Sir_11.00_AM_14April.pdf",
+      "date": "14-Apr-2025"
+    },
+    {
+      "id": 518310,
+      "title": "Eco | 11 April | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67f8bf9f28215_11april_10amcompressed.pdf",
+      "date": "11-Apr-2025"
+    },
+    {
+      "id": 517609,
+      "title": "Eco | 10 April | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67f7863cc7336_10april_10amcompressed.pdf",
+      "date": "10-Apr-2025"
+    },
+    {
+      "id": 514430,
+      "title": "Eco | 4 April | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67efa28ed3f2f_4april_10am.pdf",
+      "date": "04-Apr-2025"
+    },
+    {
+      "id": 514036,
+      "title": "Eco | 2 April | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67ee5c3ddca2b_3april_10amcompressed.pdf",
+      "date": "03-Apr-2025"
+    },
+    {
+      "id": 512730,
+      "title": "Eco | 2 April | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67ee164176786_Rashid_Sir_10.00_AM_02Aprilcompressed.pdf",
+      "date": "03-Apr-2025"
+    },
+    {
+      "id": 511009,
+      "title": "Eco | 1 April | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67eb84cadabb6_1april_10amcompressed.pdf",
+      "date": "01-Apr-2025"
+    },
+    {
+      "id": 506704,
+      "title": "Eco | 25 March | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67e25213b35a9_25march_10ammcompressed.pdf",
+      "date": "25-Mar-2025"
+    },
+    {
+      "id": 506244,
+      "title": "Eco | 24 March | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67e124f26e387_24march_10amcompressed.pdf",
+      "date": "24-Mar-2025"
+    },
+    {
+      "id": 504210,
+      "title": "Eco | 21 March | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67dd0ae0c1d68_21march_10am.pdf",
+      "date": "21-Mar-2025"
+    },
+    {
+      "id": 503822,
+      "title": "Eco | 20 March | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67dbc23033687_eco_09_10_Rsahid_sir_20_march_10.00_AMcompressed.pdf",
+      "date": "20-Mar-2025"
+    },
+    {
+      "id": 503658,
+      "title": "Eco | 19 March | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67dab362f2001_Eco_09_10_Rashid_Sir_19_march_10.00_AM_1.pdf",
+      "date": "19-Mar-2025"
+    },
+    {
+      "id": 503155,
+      "title": "Eco | 17 March | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67da6bf000576_Eco_17_Mar_Class_PNG_Economy_Spl09_10_Rashid_Sir_10.00_AM_1.pdf",
+      "date": "19-Mar-2025"
+    },
+    {
+      "id": 503092,
+      "title": "Eco | 19 March | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67da5ca7b3851_Eco_09_10_Rashid_Sir_19_march_10.00_AM.pdf",
+      "date": "19-Mar-2025"
+    },
+    {
+      "id": 503088,
+      "title": "Eco | 18 March | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67da5b78d0b6b_Rashid_Sir_10.00_AM_18March.pdf",
+      "date": "19-Mar-2025"
+    },
+    {
+      "id": 501890,
+      "title": "Eco | 10 March | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67d7e975ad95c_10march_1pmm_2compressed.pdf",
+      "date": "17-Mar-2025"
+    },
+    {
+      "id": 501837,
+      "title": "Eco | 21 Feb | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67d7c81bb6a34_21feb_11ammcompressed.pdf",
+      "date": "17-Mar-2025"
+    },
+    {
+      "id": 501835,
+      "title": "Eco | 28 Feb | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67d7c7ea78560_28feb_11amm_1compressed.pdf",
+      "date": "17-Mar-2025"
+    },
+    {
+      "id": 501832,
+      "title": "Eco | 13 March | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67d7c79288728_13march_10ammcompressed.pdf",
+      "date": "17-Mar-2025"
+    },
+    {
+      "id": 500889,
+      "title": "Eco | 11 March | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67d003bf202ba_11march_10ammcompressed.pdf",
+      "date": "11-Mar-2025"
+    },
+    {
+      "id": 498625,
+      "title": "Eco | 7 March | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67ce6ad4785ab_7marchh_10ammcompressed.pdf",
+      "date": "10-Mar-2025"
+    },
+    {
+      "id": 498133,
+      "title": "Eco | 6 March | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67c97bd4460ae_Rashid_Sir_11.15_AM_06Marchcompressed.pdf",
+      "date": "06-Mar-2025"
+    },
+    {
+      "id": 497955,
+      "title": "Eco | 5 March | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67c9451666422_5march_11ammcompressed.pdf",
+      "date": "06-Mar-2025"
+    },
+    {
+      "id": 497947,
+      "title": "Eco | 4 March | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67c943c891c97_4march_11ammcompressed.pdf",
+      "date": "06-Mar-2025"
+    },
+    {
+      "id": 497945,
+      "title": "Eco | 19 Feb | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67c9439d95387_19feb_11ammcompressed.pdf",
+      "date": "06-Mar-2025"
+    },
+    {
+      "id": 496603,
+      "title": "Eco | 3 March | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67c69adfb8978_3march_11amcompressed.pdf",
+      "date": "04-Mar-2025"
+    },
+    {
+      "id": 494657,
+      "title": "Eco | 27 Feb | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67c151429dea7_27feb_7pmmcompressed.pdf",
+      "date": "28-Feb-2025"
+    },
+    {
+      "id": 493871,
+      "title": "Eco | 26 Feb | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67c00cdc4ad23_26feb_11ammcompressed.pdf",
+      "date": "27-Feb-2025"
+    },
+    {
+      "id": 493870,
+      "title": "Eco | 26 Feb | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67c00cdc4ad23_26feb_11ammcompressed.pdf",
+      "date": "27-Feb-2025"
+    },
+    {
+      "id": 493866,
+      "title": "Eco | 25 Feb | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67c00aedbe44a_25feb_11ammcompressed.pdf",
+      "date": "27-Feb-2025"
+    },
+    {
+      "id": 492317,
+      "title": "Eco | 24 Feb | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67bc13c93c15a_Eco_24_Feb_Class_PNGEconomy_Spl09_10_by_Rashid_Sir_11.00amcompressed.pdf",
+      "date": "24-Feb-2025"
+    },
+    {
+      "id": 491556,
+      "title": "Eco | 20 Feb | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67b8295fe306a_Rashid_Sir_11.15_AM_20Feb.pdf",
+      "date": "21-Feb-2025"
+    },
+    {
+      "id": 490140,
+      "title": "Eco | 18 Feb | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67b597e39f4cb_Eco_By_Rashid_Sir_430_PM_18_Febcompressed.pdf",
+      "date": "19-Feb-2025"
+    },
+    {
+      "id": 490139,
+      "title": "Eco | 18 Feb | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67b597e39f4cb_Eco_By_Rashid_Sir_430_PM_18_Febcompressed.pdf",
+      "date": "19-Feb-2025"
+    },
+    {
+      "id": 489783,
+      "title": "Eco | 17 Feb | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67b425f16dca4_Rashid_Sir_17_Febcompressed.pdf",
+      "date": "18-Feb-2025"
+    },
+    {
+      "id": 484646,
+      "title": "Eco | 14 Feb | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67b031f8cedb6_14feb_11ammcompressed.pdf",
+      "date": "15-Feb-2025"
+    },
+    {
+      "id": 484640,
+      "title": "Eco | 13 Feb | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67b0316159da5_13feb_11ammcompressed.pdf",
+      "date": "15-Feb-2025"
+    },
+    {
+      "id": 483526,
+      "title": "Eco | 12 Feb | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67ac8b894d6a4_12feb_11amm.pdf",
+      "date": "12-Feb-2025"
+    },
+    {
+      "id": 482159,
+      "title": "Eco | 10 Feb | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67aa14aa32b60_rashid_sir_11.00_AM_10Feb_2025.pdf",
+      "date": "10-Feb-2025"
+    },
+    {
+      "id": 482157,
+      "title": "Eco | 3 Feb | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67aa14807e605_3feb_11ammcompressed.pdf",
+      "date": "10-Feb-2025"
+    },
+    {
+      "id": 480586,
+      "title": "Eco | 8 Feb | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67a878bd1911f_8feb_11ammcompressed.pdf",
+      "date": "09-Feb-2025"
+    },
+    {
+      "id": 480541,
+      "title": "Eco | 7 Feb | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67a8753946fbd_7feb_11ammcompressed.pdf",
+      "date": "09-Feb-2025"
+    },
+    {
+      "id": 478171,
+      "title": "Eco | 4 Feb | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67a47a9618c72_Eco_4th.jan_Class.pngSpl09_10_LiveVOD1100am.pdf",
+      "date": "06-Feb-2025"
+    },
+    {
+      "id": 475594,
+      "title": "Eco | 31 Jan | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/679c8a0c94e53_31jan_11amcompressed.pdf",
+      "date": "31-Jan-2025"
+    },
+    {
+      "id": 474966,
+      "title": "Eco | 30 Jan | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/679b24ca58993_30jan_11amcompressed.pdf",
+      "date": "30-Jan-2025"
+    },
+    {
+      "id": 474813,
+      "title": "Eco | 28 Jan | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/679af23d404d4_Rashid_Sir_11.00_AM_28Jan.pdf",
+      "date": "30-Jan-2025"
+    },
+    {
+      "id": 473350,
+      "title": "Eco | 27 Jan | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/679881eec79f6_27jan_11am.pdf",
+      "date": "28-Jan-2025"
+    },
+    {
+      "id": 472818,
+      "title": "Eco | 23 Jan | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6794758941067_Rashid_Sir_12.30_PM_23Jancompressed.pdf",
+      "date": "25-Jan-2025"
+    },
+    {
+      "id": 472817,
+      "title": "Eco | 24 Jan | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6794753f82fcd_24jan_11am.pdf",
+      "date": "25-Jan-2025"
+    },
+    {
+      "id": 472546,
+      "title": "Eco | 22 Jan | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6793039b67e23_Rashid_Sir_Reas_12.30_PM_22Jan_2025compressed.pdf",
+      "date": "24-Jan-2025"
+    },
+    {
+      "id": 471852,
+      "title": "Eco | 21 Jan | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/678f5abd5c450_21jan_11amcompressed.pdf",
+      "date": "21-Jan-2025"
+    },
+    {
+      "id": 471717,
+      "title": "Eco | 20 Jan | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/678f36c261fec_Eco_20_Jan_Class_PNG_Economy_Spl08_10_App_Youtube_Rashid_Sir_11.30_AM_3compressed.pdf",
+      "date": "21-Jan-2025"
+    },
+    {
+      "id": 471480,
+      "title": "Eco | 20 Jan | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/678e1c8224f10_Eco_20_Jan_Class_PNG_Economy_Spl08_10_App_Youtube_Rashid_Sir_11.30_AM_2compressed.pdf",
+      "date": "20-Jan-2025"
+    },
+    {
+      "id": 470205,
+      "title": "Eco | 17 Jan | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/678a2a0f7b78a_ECO_spl_0810_by_Rashid_Sir_17_jan_1130amcompressed.pdf",
+      "date": "17-Jan-2025"
+    },
+    {
+      "id": 469705,
+      "title": "Eco | 16 Jan | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6788cb33e0ab3_16jan_11amm.pdf",
+      "date": "16-Jan-2025"
+    },
+    {
+      "id": 469702,
+      "title": "Eco | 15 Jan | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6788cace6e887_15jan_11ammcompressed.pdf",
+      "date": "16-Jan-2025"
+    },
+    {
+      "id": 468402,
+      "title": "Eco | 08 Jan | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/678751a3ce0b2_yt_class_Rashid_Sir_8_jancompressed.pdf",
+      "date": "15-Jan-2025"
+    },
+    {
+      "id": 468401,
+      "title": "Eco | 10 Jan | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/678750ef19fc7_10jan_11ammcompressed.pdf",
+      "date": "15-Jan-2025"
+    },
+    {
+      "id": 468393,
+      "title": "Eco | 14 Jan | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67874ff7a3fc1_rashid_sir_11.00_AM_14Jan_2025compressed.pdf",
+      "date": "15-Jan-2025"
+    },
+    {
+      "id": 468385,
+      "title": "Eco | 13 Jan | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67874f5478c4f_13jan_11amm.pdf",
+      "date": "15-Jan-2025"
+    },
+    {
+      "id": 466746,
+      "title": "Eco | 7,8,9 Jan | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67820e4b1f107_ilovepdfmerged_28compressed.pdf",
+      "date": "11-Jan-2025"
+    },
+    {
+      "id": 462364,
+      "title": "Monetary Institutions",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/664ae220a3052_16may 12am_compressed.pdf",
+      "date": "04-Jan-2025"
+    },
+    {
+      "id": 462363,
+      "title": "Finance Commission",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6645e6d430244_15may 7pm_compressed.pdf",
+      "date": "04-Jan-2025"
+    },
+    {
+      "id": 462362,
+      "title": "PSU & PDS",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6641ade04452b_10 may 7pm_compressed.pdf",
+      "date": "04-Jan-2025"
+    },
+    {
+      "id": 462361,
+      "title": "Agriculture & Industrial Finance-2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/663c8e20d0adc_9may 12pm_compressed.pdf",
+      "date": "04-Jan-2025"
+    },
+    {
+      "id": 462360,
+      "title": "Agricultural & Industrial Finance-1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/663b3cd772fdc_8may 12-30pm.pdf",
+      "date": "04-Jan-2025"
+    },
+    {
+      "id": 462359,
+      "title": "Labour Supply Curve & Stage of Growth",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6638c0eea2b94_Rashid Sir Eco spl 4,5 09.00AM 4 May_compressed.pdf",
+      "date": "04-Jan-2025"
+    },
+    {
+      "id": 462358,
+      "title": "IS LM Model",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6638bee57bedc_10.30_compressed.pdf",
+      "date": "04-Jan-2025"
+    },
+    {
+      "id": 462357,
+      "title": "Profit Theory",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6634b5675e2cc_2may 11am_compressed.pdf",
+      "date": "04-Jan-2025"
+    },
+    {
+      "id": 462356,
+      "title": "Rent Theory",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6634b4e988c08_3may 11am_compressed.pdf",
+      "date": "04-Jan-2025"
+    },
+    {
+      "id": 462355,
+      "title": "Trade Cycle",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6630995c76e3b_30april 11am_compressed.pdf",
+      "date": "04-Jan-2025"
+    },
+    {
+      "id": 462354,
+      "title": "Interest Theory",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/663082b4e5e53_29april 11am_compressed.pdf",
+      "date": "04-Jan-2025"
+    },
+    {
+      "id": 462353,
+      "title": "Financial Market-4",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/662b4a965dc58_25april 11am (1)_compressed.pdf",
+      "date": "04-Jan-2025"
+    },
+    {
+      "id": 462352,
+      "title": "Financial Market-3",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/662b4a5dd72ee_14april 10am (1)_compressed.pdf",
+      "date": "04-Jan-2025"
+    },
+    {
+      "id": 462351,
+      "title": "Banking System-10",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/662744fd19575_Rashid Sir 07.30 AM 18th April_compressed.pdf",
+      "date": "04-Jan-2025"
+    },
+    {
+      "id": 462350,
+      "title": "Financial Market-1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6627432392bd9_22april 11am_compressed.pdf",
+      "date": "04-Jan-2025"
+    },
+    {
+      "id": 462349,
+      "title": "Banking System-8",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/661e3f8ff3116_16april 11am_compressed.pdf",
+      "date": "04-Jan-2025"
+    },
+    {
+      "id": 462348,
+      "title": "Banking System-7",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/661cd5581656f_15april 11am_compressed.pdf",
+      "date": "04-Jan-2025"
+    },
+    {
+      "id": 462347,
+      "title": "Banking System-6",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/661ccd0c8fc0f_13april 9am_compressed.pdf",
+      "date": "04-Jan-2025"
+    },
+    {
+      "id": 462346,
+      "title": "Banking-5",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/661ccc186cabe_12april 11am_compressed.pdf",
+      "date": "04-Jan-2025"
+    },
+    {
+      "id": 462345,
+      "title": "Banking-4",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/661cca859f76b_Rashid Sir 7.00 AM 9 Apr.pdf",
+      "date": "04-Jan-2025"
+    },
+    {
+      "id": 462344,
+      "title": "Banking-3",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/661cca6628d29_8april 11am_compressed.pdf",
+      "date": "04-Jan-2025"
+    },
+    {
+      "id": 462343,
+      "title": "Banking-2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66138a893aa45_5april 11am_compressed.pdf",
+      "date": "04-Jan-2025"
+    },
+    {
+      "id": 462342,
+      "title": "Banking-1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66138a5a7d346_rashid sir 10.00 am 4th april_compressed.pdf",
+      "date": "04-Jan-2025"
+    },
+    {
+      "id": 462341,
+      "title": "Monetary Policy-3",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/660f37677525a_3april 11am_compressed.pdf",
+      "date": "04-Jan-2025"
+    },
+    {
+      "id": 462340,
+      "title": "Monetary Policy-2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/660f36c600b80_2april 11am_compressed.pdf",
+      "date": "04-Jan-2025"
+    },
+    {
+      "id": 462339,
+      "title": "Monetary Policy-1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/660b8d9da4a0e_1april 5pm_compressed.pdf",
+      "date": "04-Jan-2025"
+    },
+    {
+      "id": 462338,
+      "title": "RBI",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/660b8b509f631_29march 11am_compressed.pdf",
+      "date": "04-Jan-2025"
+    },
+    {
+      "id": 462337,
+      "title": "Money-2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/660b8b0ba1ae3_28march 11am_compressed.pdf",
+      "date": "04-Jan-2025"
+    },
+    {
+      "id": 462336,
+      "title": "Money-1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6605093e849ef_27march 11am_compressed.pdf",
+      "date": "04-Jan-2025"
+    },
+    {
+      "id": 462335,
+      "title": "Inflation-3",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6604f9cc887ae_21march 11am_compressed.pdf",
+      "date": "04-Jan-2025"
+    },
+    {
+      "id": 462334,
+      "title": "Money Supply",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6604f80eeba69_22march 8am_compressed.pdf",
+      "date": "04-Jan-2025"
+    },
+    {
+      "id": 462165,
+      "title": "Syllabus",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6778c9b668e90_All_State_PGT_Exams_Economics_Syllabus_s.pdf",
+      "date": "04-Jan-2025"
+    },
+    {
+      "id": 462365,
+      "title": "Inflation-2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65fabc03e74c2_20march 11am_compressed.pdf",
+      "date": "04-Jan-2025"
+    },
+    {
+      "id": 462366,
+      "title": "Inflation-1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65fabc8281fc8_19march 11am_compressed.pdf",
+      "date": "04-Jan-2025"
+    },
+    {
+      "id": 462367,
+      "title": "Taxation-4",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65f93b7ab0ec9_15march 11am (1)_compressed.pdf",
+      "date": "04-Jan-2025"
+    },
+    {
+      "id": 462368,
+      "title": "Taxation-1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65f93b31b8bf6_11march 11am (1)_compressed.pdf",
+      "date": "04-Jan-2025"
+    },
+    {
+      "id": 462369,
+      "title": "Taxation-5",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65f93a0916872_16march 11am_compressed.pdf",
+      "date": "04-Jan-2025"
+    },
+    {
+      "id": 462370,
+      "title": "Taxation-4",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65f53c7b9357a_15march 11am_compressed.pdf",
+      "date": "04-Jan-2025"
+    },
+    {
+      "id": 462371,
+      "title": "Taxation-3",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65f169d449bf5_13march 11am_compressed.pdf",
+      "date": "04-Jan-2025"
+    },
+    {
+      "id": 462372,
+      "title": "Taxation-2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65f1698c7bea2_12march 11am_compressed.pdf",
+      "date": "04-Jan-2025"
+    },
+    {
+      "id": 462373,
+      "title": "Taxation-1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65efe04053e28_11march 11am_compressed.pdf",
+      "date": "04-Jan-2025"
+    },
+    {
+      "id": 462374,
+      "title": "National Income-3",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65efdc146baae_9march 9am_compressed.pdf",
+      "date": "04-Jan-2025"
+    },
+    {
+      "id": 462375,
+      "title": "National Income-2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65efdb314576d_8march 6pm.pdf",
+      "date": "04-Jan-2025"
+    },
+    {
+      "id": 462376,
+      "title": "National Income-1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65ea016bb0234_rashid.sir[YouTube]1;00pm 7th.march.pdf",
+      "date": "04-Jan-2025"
+    },
+    {
+      "id": 462377,
+      "title": "Types of Sectors-2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65e791c6a9468_5mar 11am.pdf",
+      "date": "04-Jan-2025"
+    },
+    {
+      "id": 462378,
+      "title": "Types of Sectors-1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65e792350d086_11.15 AM Class By rashid sir 4 march.pdf",
+      "date": "04-Jan-2025"
+    },
+    {
+      "id": 462379,
+      "title": "Types of Economy-2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65e7919c91006_2march 7am.pdf",
+      "date": "04-Jan-2025"
+    },
+    {
+      "id": 462380,
+      "title": "Basic of Economics",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65e7916b66837_29feb 11am_compressed.pdf",
+      "date": "04-Jan-2025"
+    },
+    {
+      "id": 462381,
+      "title": "Basic of Economics",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65e790e95df82_1mar 8am.pdf",
+      "date": "04-Jan-2025"
+    },
+    {
+      "id": 462382,
+      "title": "Economic Growth & Development-2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65df78025be71_28feb 11am_compressed.pdf",
+      "date": "04-Jan-2025"
+    },
+    {
+      "id": 462383,
+      "title": "Economic Growth & Development-1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65df74142619d_27feb 11am.pdf",
+      "date": "04-Jan-2025"
+    },
+    {
+      "id": 462384,
+      "title": "Industrial Policy",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65df739907a93_26feb 11am.pdf",
+      "date": "04-Jan-2025"
+    },
+    {
+      "id": 462385,
+      "title": "Demography Class PNG-2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65dcdf80556e0_24feb 11ammm.pdf",
+      "date": "04-Jan-2025"
+    },
+    {
+      "id": 462386,
+      "title": "Law & Curve-2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65d81126cca4e_21feb 11am_compressed.pdf",
+      "date": "04-Jan-2025"
+    },
+    {
+      "id": 462387,
+      "title": "Law & Curve-1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65d81035735d7_20feb 11am.pdf",
+      "date": "04-Jan-2025"
+    },
+    {
+      "id": 462388,
+      "title": "Demography-1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65d80ecb2250f_22feb 11am_compressed.pdf",
+      "date": "04-Jan-2025"
+    },
+    {
+      "id": 462389,
+      "title": "Demand & Supply-5",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65d37c6c0eb88_16feb 11am_compressed.pdf",
+      "date": "04-Jan-2025"
+    },
+    {
+      "id": 462390,
+      "title": "Demand & Supply-3,4",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65ce94b42a732_15feb 11am_merged_compressed.pdf",
+      "date": "04-Jan-2025"
+    },
+    {
+      "id": 462391,
+      "title": "Demand & Supply-2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65ce93a9012d8_13feb 11am_compressed.pdf",
+      "date": "04-Jan-2025"
+    },
+    {
+      "id": 462392,
+      "title": "Demand & Supply-1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65cc24979df71_12feb 11am.pdf",
+      "date": "04-Jan-2025"
+    },
+    {
+      "id": 462393,
+      "title": "Cost-2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65c8cc0fd8943_10feb 9am_compressed.pdf",
+      "date": "04-Jan-2025"
+    },
+    {
+      "id": 462394,
+      "title": "Cost-1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65c8c92ea7721_9feb 4pm.pdf",
+      "date": "04-Jan-2025"
+    },
+    {
+      "id": 462395,
+      "title": "Utility & Revenue",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65c5b3cda27bd_8feb 11am.pdf",
+      "date": "04-Jan-2025"
+    },
+    {
+      "id": 462396,
+      "title": "Production Theory",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65c5b3972ebe4_7feb 11am.pdf",
+      "date": "04-Jan-2025"
+    },
+    {
+      "id": 462397,
+      "title": "Market-2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65c2db3d7a8d7_6feb 11am_compressed.pdf",
+      "date": "04-Jan-2025"
+    },
+    {
+      "id": 462398,
+      "title": "Market-1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65c2da5b5f411_5feb 11am_compressed.pdf",
+      "date": "04-Jan-2025"
+    },
+    {
+      "id": 462399,
+      "title": "Budget 2024-25",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65c28dbcda80f_Budget 2024-25.pdf",
+      "date": "04-Jan-2025"
+    },
+    {
+      "id": 462400,
+      "title": "Economic Planning-3",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65c136f209086_31jan 11am.pdf",
+      "date": "04-Jan-2025"
+    },
+    {
+      "id": 462401,
+      "title": "Economic Planning Class PNG-2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65b8b87882260_30jan 11am.pdf",
+      "date": "04-Jan-2025"
+    },
+    {
+      "id": 462402,
+      "title": "Economic Planning Class PNG-1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65b8b73f81347_29jan 11am.pdf",
+      "date": "04-Jan-2025"
+    },
+    {
+      "id": 462403,
+      "title": "Poverty & Unemployment Class PNG-2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65b8b60854f87_27jan 11am.pdf",
+      "date": "04-Jan-2025"
+    },
+    {
+      "id": 462404,
+      "title": "Poverty & Unemployment Class PNG-2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65b16131a7256_24jan 11am_compressed.pdf",
+      "date": "04-Jan-2025"
+    },
+    {
+      "id": 462405,
+      "title": "Poverty & Unemployment Class PNG-1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65b1605fb80d3_23jan 11am.pdf",
+      "date": "04-Jan-2025"
+    },
+    {
+      "id": 462406,
+      "title": "BOP Class PNG-4",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65b0a41e77711_22jan 11am_compressed.pdf",
+      "date": "04-Jan-2025"
+    },
+    {
+      "id": 462407,
+      "title": "BOP Class PNG-3",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65b0a37b974c0_18jan 11am_compressed.pdf",
+      "date": "04-Jan-2025"
+    },
+    {
+      "id": 462408,
+      "title": "BOP Class PNG-2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65acc5ed81f15_17jan 11am_compressed.pdf",
+      "date": "04-Jan-2025"
+    },
+    {
+      "id": 462409,
+      "title": "BOP Class PNG-1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65acbb5d9614b_16june 11am_compressed.pdf",
+      "date": "04-Jan-2025"
+    },
+    {
+      "id": 462410,
+      "title": "Budget Class PNG-3",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65a56b337b2eb_Taxation Class-3 (s).pdf",
+      "date": "04-Jan-2025"
+    },
+    {
+      "id": 462411,
+      "title": "Budget Class PNG-5",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65a56af9636ea_15jan 11am_compressed.pdf",
+      "date": "04-Jan-2025"
+    },
+    {
+      "id": 462412,
+      "title": "Budget Class PNG-4",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65a546f114913_12jan 11am_compressed.pdf",
+      "date": "04-Jan-2025"
+    },
+    {
+      "id": 462413,
+      "title": "Budget Class PNG-2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65a009a6efe9f_10jan 11am.pdf",
+      "date": "04-Jan-2025"
+    },
+    {
+      "id": 462414,
+      "title": "Budget Class PNG-1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/659f7c7623be9_9jan 11am (1).pdf",
+      "date": "04-Jan-2025"
+    }
+  ]
+}
