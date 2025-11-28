@@ -1,5 +1,5 @@
 {
-  "batch_id": 2473,
+  "batch_id": "2473",
   "topics": [
     {
       "id": 24459,
@@ -141,5 +141,6 @@
       "id": 33423,
       "topicName": "GS Revision"
     }
-  ]
+  ],
+  "batch_name": "UP-SI 2024 (VOD Batch) Target Batch"
 }
