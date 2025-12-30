@@ -2,14 +2,61 @@
   "version": 2,
   "builds": [
     {
-      "src": "server.js",
+      "src": "api/index.js",
       "use": "@vercel/node"
     }
   ],
   "routes": [
     {
-      "src": "/(.*)",
-      "dest": "server.js"
+      "src": "/selectionway/(.*)",
+      "dest": "/api/index.js",
+      "headers": {
+        "Cache-Control": "s-maxage=300"
+      }
+    },
+    {
+      "src": "/rwawebfree/(.*)",
+      "dest": "/api/index.js"
+    },
+    {
+      "src": "/spidyrwa/(.*)",
+      "dest": "/api/index.js"
+    },
+    {
+      "src": "/kgs/(.*)",
+      "dest": "/api/index.js"
+    },
+    {
+      "src": "/Utkarsh/(.*)",
+      "dest": "/api/index.js"
+    },
+    {
+      "src": "/khansir/(.*)",
+      "dest": "/api/index.js"
+    },
+    {
+      "src": "/careerwill/(.*)",
+      "dest": "/api/index.js"
+    },
+    {
+      "src": "/CwVideo/(.*)",
+      "dest": "/api/index.js"
+    },
+    {
+      "src": "/auth/(.*)",
+      "dest": "/api/index.js"
+    },
+    {
+      "src": "/owner/(.*)",
+      "dest": "/api/index.js"
+    },
+    {
+      "src": "/admin/(.*)",
+      "dest": "/api/index.js"
+    },
+    {
+      "src": "/",
+      "dest": "/api/index.js"
     }
   ]
 }
